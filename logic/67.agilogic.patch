@@ -1,0 +1,20 @@
+--- project/tmp/src/logic/67.agilogic	2025-12-07 00:05:53.961529003 +0000
++++ translations/sq1/logic/67.agilogic	2025-12-07 02:31:34.992106007 +0000
+@@ -21,7 +21,7 @@
+   set.view(o2, 201);
+   set.loop(o2, 0);
+   set.cel(o2, 0);
+-  position(o2, 45, 146);
++  position(o2, 72, 161);
+   set.priority(o2, 15);
+   animate.obj(o3);
+   animate.obj(o4);
+@@ -71,7 +71,7 @@
+   v33 = 1;
+   set.loop(o2, 0);
+   set.cel(o2, 0);
+-  position(o2, 45, 146);
++  position(o2, 72, 161);
+   position(o1, 23, 23);
+   draw.pic(v0);
+   show.pic();
