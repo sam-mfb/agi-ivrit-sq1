@@ -1,0 +1,12 @@
+--- project/tmp/src/logic/63.agilogic	2025-12-07 00:05:53.958529003 +0000
++++ translations/sq1/logic/63.agilogic	2025-12-07 00:21:06.697395009 +0000
+@@ -103,9 +103,6 @@
+ 
+ if (v34 == 1) {
+   shake.screen(1);
+-
+-  if ((v31 == 1) || (v31 == 2)) {
+-  }
+ }
+ 
+ Address283:
