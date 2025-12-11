@@ -5,7 +5,7 @@
    set.loop(o2, 0);
    set.cel(o2, 0);
 -  position(o2, 45, 146);
-+  position(o2, 72, 161);
++  position(o2, 47, 161);
    set.priority(o2, 15);
    animate.obj(o3);
    animate.obj(o4);
@@ -14,7 +14,7 @@
    set.loop(o2, 0);
    set.cel(o2, 0);
 -  position(o2, 45, 146);
-+  position(o2, 72, 161);
++  position(o2, 47, 161);
    position(o1, 23, 23);
    draw.pic(v0);
    show.pic();
