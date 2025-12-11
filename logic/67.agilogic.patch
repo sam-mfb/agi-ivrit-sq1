@@ -1,5 +1,5 @@
 --- project/tmp/src/logic/67.agilogic	2025-12-07 00:05:53.961529003 +0000
-+++ translations/sq1/logic/67.agilogic	2025-12-07 02:31:34.992106007 +0000
++++ translations/sq1/logic/67.agilogic	2025-12-11 01:55:48.838831014 +0000
 @@ -21,7 +21,7 @@
    set.view(o2, 201);
    set.loop(o2, 0);
@@ -18,3 +18,21 @@
    position(o1, 23, 23);
    draw.pic(v0);
    show.pic();
+@@ -108,7 +108,7 @@
+       set.cel(o2, 0);
+       stop.cycling(o2);
+       draw(o1);
+-      move.obj(o1, 23, 137, 6, f30);
++      move.obj(o1, 23, 152, 6, f30);
+     }
+   
+     if (f30) {
+@@ -131,7 +131,7 @@
+       reset(f32);
+     
+       if (v32 > 0) {
+-        position(o1, 23, 137);
++        position(o1, 23, 152);
+         draw(o1);
+         move.obj(o1, 23, 23, 6, f30);
+       }
