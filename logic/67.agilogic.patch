@@ -1,5 +1,5 @@
 --- /home/devuser/agivrit/project/tmp/src/logic/67.agilogic	2025-12-07 00:05:53.961529003 +0000
-+++ /tmp/67.agilogic.modified	2025-12-12 21:10:44.958848004 +0000
++++ /tmp/67.agilogic.modified	2025-12-12 21:17:12.214677002 +0000
 @@ -12,6 +12,7 @@
    load.view(204);
    load.view(205);
@@ -152,7 +152,7 @@
        set.loop(o7, 2);
        set.cel(o7, 0);
 -      position(o7, 45, 95);
-+      position(o7, 58, 110);
++      position(o7, 58, 109);
        set.view(o8, 204);
        set.loop(o8, 2);
        set.cel(o8, 0);
