@@ -452,7 +452,6 @@
       ],
       "translatedSynonyms": [
         "בניין",
-        "בית",
         "צריף",
         "בקתה",
         "חנות"
@@ -494,7 +493,6 @@
         "windows"
       ],
       "translatedSynonyms": [
-        "צוהר",
         "צוהר תצפית",
         "חלון",
         "חלונות"
@@ -926,7 +924,6 @@
       ],
       "translatedSynonyms": [
         "גייזר",
-        "קיטור",
         "גייזר קיטור"
       ],
       "wordType": "noun",
@@ -1224,9 +1221,7 @@
         "throttle"
       ],
       "translatedSynonyms": [
-        "מנוף",
-        "ידית",
-        "לוח"
+        "מנוף"
       ],
       "wordType": "noun",
       "notes": "NEEDS REVIEW: Synced from sq2 (partial match, 67%)"
@@ -1236,10 +1231,10 @@
       "word": "unlock",
       "originalSynonyms": [],
       "translatedSynonyms": [
-        "פתח",
-        "לפתוח",
-        "תפתח",
-        "לפתוח נעילה"
+        "לפתוח נעילה",
+        "שחרר",
+        "לשחרר",
+        "תשחרר"
       ],
       "wordType": "verb",
       "notes": "Synced from sq2 (exact match, 100%)"
@@ -1310,10 +1305,7 @@
         "robot",
         "robots"
       ],
-      "translatedSynonyms": [
-        "דלפק",
-        "בר"
-      ],
+      "translatedSynonyms": [],
       "wordType": "noun",
       "notes": ""
     },
@@ -1364,9 +1356,10 @@
         "stars"
       ],
       "translatedSynonyms": [
-        "חללית",
-        "ספינה",
-        "חלליות"
+        "כוכב",
+        "כוכבים",
+        "כוכב לכת",
+        "כוכבי לכת"
       ],
       "wordType": "noun",
       "notes": ""
@@ -1482,9 +1475,7 @@
       ],
       "translatedSynonyms": [
         "באקזואיד",
-        "באקזואידים",
-        "מטבע",
-        "כסף"
+        "באקזואידים"
       ],
       "wordType": "noun",
       "notes": ""
@@ -1494,10 +1485,8 @@
       "word": "done",
       "originalSynonyms": [],
       "translatedSynonyms": [
-        "סיים",
         "גמר",
-        "גמור",
-        "סיים"
+        "גמור"
       ],
       "wordType": "verb",
       "notes": "Synced from sq2 (exact match, 100%)"
@@ -1507,7 +1496,6 @@
       "word": "cabinet",
       "originalSynonyms": [],
       "translatedSynonyms": [
-        "ארון",
         "ארונית"
       ],
       "wordType": "noun",
@@ -1547,8 +1535,6 @@
         "wrote"
       ],
       "translatedSynonyms": [
-        "ארון",
-        "ארונית",
         "לוקר"
       ],
       "wordType": "noun",
@@ -1669,7 +1655,6 @@
       "word": "reset",
       "originalSynonyms": [],
       "translatedSynonyms": [
-        "גלגל",
         "הגה"
       ],
       "wordType": "noun",
@@ -1711,8 +1696,7 @@
       "translatedSynonyms": [
         "להכות",
         "הכה",
-        "תכה",
-        "לדפוק"
+        "תכה"
       ],
       "wordType": "verb",
       "notes": ""
@@ -1750,9 +1734,7 @@
         "tap",
         "touch"
       ],
-      "translatedSynonyms": [
-        "מדבר"
-      ],
+      "translatedSynonyms": [],
       "wordType": "noun",
       "notes": ""
     },
@@ -1900,9 +1882,7 @@
         "buckazoids",
         "bucks"
       ],
-      "translatedSynonyms": [
-        "אורט"
-      ],
+      "translatedSynonyms": [],
       "wordType": "noun",
       "notes": "Synced from sq2 (exact match, 100%)"
     },
@@ -1974,7 +1954,6 @@
         "slots"
       ],
       "translatedSynonyms": [
-        "לקוח",
         "אורח"
       ],
       "wordType": "noun",
@@ -2066,7 +2045,6 @@
       "word": "ken",
       "originalSynonyms": [],
       "translatedSynonyms": [
-        "לקשור",
         "קשור",
         "תקשור"
       ],
@@ -2279,8 +2257,7 @@
       "translatedSynonyms": [
         "דפוק",
         "לדפוק",
-        "תדפוק",
-        "להקיש"
+        "תדפוק"
       ],
       "wordType": "verb",
       "notes": "Synced from sq2 (exact match, 100%)"
@@ -2305,9 +2282,7 @@
         "chest",
         "trunk"
       ],
-      "translatedSynonyms": [
-        "חומצה"
-      ],
+      "translatedSynonyms": [],
       "wordType": "noun",
       "notes": ""
     },
@@ -2381,10 +2356,7 @@
         "get out",
         "leave"
       ],
-      "translatedSynonyms": [
-        "שדה כוח",
-        "מחסום"
-      ],
+      "translatedSynonyms": [],
       "wordType": "noun",
       "notes": ""
     },
@@ -2546,10 +2518,7 @@
       "wordNumber": 174,
       "word": "sesame",
       "originalSynonyms": [],
-      "translatedSynonyms": [
-        "חריץ",
-        "שקע"
-      ],
+      "translatedSynonyms": [],
       "wordType": "noun",
       "notes": "Synced from sq2 (exact match, 100%)"
     },
@@ -2557,10 +2526,7 @@
       "wordNumber": 175,
       "word": "look under",
       "originalSynonyms": [],
-      "translatedSynonyms": [
-        "מנעול",
-        "נעילה"
-      ],
+      "translatedSynonyms": [],
       "wordType": "noun",
       "notes": "Synced from sq2 (exact match, 100%)"
     },
@@ -2637,11 +2603,17 @@
         "unfasten"
       ],
       "translatedSynonyms": [
-        "שלט",
-        "שלטים",
-        "תמרור"
+        "רד",
+        "לרדת",
+        "תרד",
+        "הסר",
+        "להסיר",
+        "תסיר",
+        "הורד",
+        "להוריד",
+        "תוריד"
       ],
-      "wordType": "noun",
+      "wordType": "verb",
       "notes": ""
     },
     {
@@ -2699,10 +2671,7 @@
       "wordNumber": 190,
       "word": "lid",
       "originalSynonyms": [],
-      "translatedSynonyms": [
-        "גנרטור",
-        "מחולל"
-      ],
+      "translatedSynonyms": [],
       "wordType": "noun",
       "notes": "Synced from sq2 (exact match, 100%)"
     },
@@ -2737,8 +2706,7 @@
       "originalSynonyms": [],
       "translatedSynonyms": [
         "אחורה",
-        "גב",
-        "חזרה"
+        "גב"
       ],
       "wordType": "other",
       "notes": "NEEDS REVIEW: Synced from sq2 (partial match, 50%)"
@@ -2766,7 +2734,9 @@
         "washing machine"
       ],
       "translatedSynonyms": [
-        "דלת"
+        "כביסה",
+        "מכבסה",
+        "מכונת כביסה"
       ],
       "wordType": "noun",
       "notes": ""
@@ -2939,11 +2909,10 @@
         "עמוד",
         "לעמוד",
         "תעמוד",
-        "לוח",
         "רכב על",
         "טפס על"
       ],
-      "wordType": "noun",
+      "wordType": "verb",
       "notes": "Synced from sq2 (near match, 80%)"
     },
     {
@@ -2954,10 +2923,11 @@
         "initialize"
       ],
       "translatedSynonyms": [
-        "חללית",
-        "ספינה"
+        "פרמט",
+        "לפרמט",
+        "תפרמט"
       ],
-      "wordType": "noun",
+      "wordType": "verb",
       "notes": ""
     },
     {
@@ -3153,8 +3123,7 @@
       "originalSynonyms": [],
       "translatedSynonyms": [
         "לרוחב",
-        "על פני",
-        "מעבר"
+        "על פני"
       ],
       "wordType": "other",
       "notes": "Synced from sq2 (exact match, 100%)"
@@ -3448,11 +3417,7 @@
       "wordNumber": 250,
       "word": "kick",
       "originalSynonyms": [],
-      "translatedSynonyms": [
-        "למשוך",
-        "משוך",
-        "תמשוך"
-      ],
+      "translatedSynonyms": [],
       "wordType": "verb",
       "notes": ""
     },
@@ -3735,8 +3700,7 @@
       ],
       "translatedSynonyms": [
         "פחית",
-        "מיכל",
-        "גליל"
+        "מיכל"
       ],
       "wordType": "noun",
       "notes": ""
@@ -3908,8 +3872,7 @@
       ],
       "translatedSynonyms": [
         "גשר הליכה",
-        "מעבר",
-        "גשר"
+        "מעבר"
       ],
       "wordType": "noun",
       "notes": "Synced from sq2 (exact match, 100%)"
@@ -3918,10 +3881,7 @@
       "wordNumber": 282,
       "word": "post",
       "originalSynonyms": [],
-      "translatedSynonyms": [
-        "עמוד",
-        "מוט"
-      ],
+      "translatedSynonyms": [],
       "wordType": "noun",
       "notes": ""
     },
@@ -4044,11 +4004,7 @@
         "musician",
         "musicians"
       ],
-      "translatedSynonyms": [
-        "לפוצץ",
-        "פוצץ",
-        "תפוצץ"
-      ],
+      "translatedSynonyms": [],
       "wordType": "verb",
       "notes": ""
     },
@@ -4265,10 +4221,8 @@
       "word": "place",
       "originalSynonyms": [],
       "translatedSynonyms": [
-        "לשים",
         "שים",
-        "תשים",
-        "מקום"
+        "תשים"
       ],
       "wordType": "verb",
       "notes": ""
@@ -4682,7 +4636,6 @@
         "reflective"
       ],
       "translatedSynonyms": [
-        "מראה",
         "מחזיר אור",
         "רפלקטיבי"
       ],
