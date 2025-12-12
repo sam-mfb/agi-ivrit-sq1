@@ -999,7 +999,7 @@
       "logicFile": "0.agilogic",
       "messageNumber": 154,
       "original": "Save     <F5>",
-      "translation": "שמירה     <F5>",
+      "translation": "שמור      <F5>",
       "notes": "Match: fuzzy (100%)",
       "placeholders": []
     },
@@ -1007,7 +1007,7 @@
       "logicFile": "0.agilogic",
       "messageNumber": 155,
       "original": "Restore  <F7>",
-      "translation": "טעינה  <F7>",
+      "translation": "טען       <F7>",
       "notes": "Match: fuzzy (100%)",
       "placeholders": []
     },
@@ -1023,7 +1023,7 @@
       "logicFile": "0.agilogic",
       "messageNumber": 157,
       "original": "Restart  <F9>",
-      "translation": "אתחל  <F9>",
+      "translation": "התחל מחדש <F9>",
       "notes": "Match: fuzzy (100%)",
       "placeholders": []
     },
@@ -1031,7 +1031,7 @@
       "logicFile": "0.agilogic",
       "messageNumber": 158,
       "original": "Quit  <Alt-Z>",
-      "translation": "צא  <Alt-Z>",
+      "translation": "צא     <Alt-Z>",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -1047,7 +1047,7 @@
       "logicFile": "0.agilogic",
       "messageNumber": 161,
       "original": "See Object  <F4>",
-      "translation": "צפה בחפץ  <F4>",
+      "translation": "בחן חפץ <F4>",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -1055,7 +1055,7 @@
       "logicFile": "0.agilogic",
       "messageNumber": 162,
       "original": "Inventory  <Tab>",
-      "translation": "מלאי  <Tab>",
+      "translation": "מלאי   <Tab>",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -1071,7 +1071,7 @@
       "logicFile": "0.agilogic",
       "messageNumber": 164,
       "original": "Sound On/Off      <F2>",
-      "translation": "קול דולק/כבוי      <F2>",
+      "translation": "קול דלוק/כבוי <F2>",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -1087,7 +1087,7 @@
       "logicFile": "0.agilogic",
       "messageNumber": 166,
       "original": "Joystick      <Ctrl J>",
-      "translation": "ג'ויסטיק      <Ctrl J>",
+      "translation": "ג'ויסטיק  <Ctrl J>",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -5215,7 +5215,7 @@
       "logicFile": "31.agilogic",
       "messageNumber": 12,
       "original": " is Dr. Slash Vohaul. I am a scientist",
-      "translation": " הוא ד\\\"ר סלאש וואהול. אני מדען",
+      "translation": " הוא ד\\\"ר סלאש וואהל. אני מדען",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -9111,7 +9111,7 @@
       "logicFile": "67.agilogic",
       "messageNumber": 1,
       "original": "By Two Guys From Andromeda",
-      "translation": "שני בחורים",
+      "translation": "      על ידי שני בחורים מאנדרומדה      ",
       "notes": "REVIEW Match: partial",
       "placeholders": []
     },
@@ -9119,7 +9119,7 @@
       "logicFile": "67.agilogic",
       "messageNumber": 2,
       "original": "(C) 1987  Sierra On-Line, Inc.",
-      "translation": "\u0003 1991 סיירה און-ליין, בעמ",
+      "translation": "        סיירה אונליין (C) 1987        ",
       "notes": "Match: fuzzy",
       "placeholders": []
     },
@@ -9127,7 +9127,7 @@
       "logicFile": "67.agilogic",
       "messageNumber": 3,
       "original": "Version 2.2",
-      "translation": "גרסה",
+      "translation": " גירסה 2.2",
       "notes": "Match: fuzzy",
       "placeholders": []
     },
@@ -9135,7 +9135,7 @@
       "logicFile": "68.agilogic",
       "messageNumber": 1,
       "original": "    Light-years from Earth's solar",
-      "translation": "    שנות-אור ממערכת השמש של כדור הארץ",
+      "translation": "שנות-אור ממערכת השמש",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -9143,7 +9143,7 @@
       "logicFile": "68.agilogic",
       "messageNumber": 2,
       "original": "    system the people of the galaxy",
-      "translation": "    עמי הגלקסיה",
+      "translation": " של כדור הארץ",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -9151,7 +9151,7 @@
       "logicFile": "68.agilogic",
       "messageNumber": 3,
       "original": "    Earnon have been struggling to",
-      "translation": "    ארנון נאבקו כדי",
+      "translation": " עמי הגלקסיה ארנון נאבקים",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -9159,7 +9159,7 @@
       "logicFile": "68.agilogic",
       "messageNumber": 4,
       "original": "     maintain the precious balance",
-      "translation": "     לשמר את האיזון היקר",
+      "translation": "כדי לשמר את האיזון היקר",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -9167,7 +9167,7 @@
       "logicFile": "68.agilogic",
       "messageNumber": 5,
       "original": "               of life.",
-      "translation": "               של החיים.",
+      "translation": "של החיים.",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -9183,7 +9183,7 @@
       "logicFile": "68.agilogic",
       "messageNumber": 7,
       "original": "   The Sun of Earnon is slowly dying.",
-      "translation": "   השמש של ארנון גוועת לאיטה.",
+      "translation": "השמש של ארנון גוועת לאיטה.",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -9191,7 +9191,7 @@
       "logicFile": "68.agilogic",
       "messageNumber": 8,
       "original": "    The planets grow cold.  Food is",
-      "translation": "    הכוכבים מתקררים. המזון הולך",
+      "translation": "הכוכבים מתקררים. המזון",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -9199,7 +9199,7 @@
       "logicFile": "68.agilogic",
       "messageNumber": 9,
       "original": "    no longer plentiful.  Life will",
-      "translation": "    ופוחת. החיים בקרוב",
+      "translation": "הולך ופוחת. החיים בקרוב",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -9207,7 +9207,7 @@
       "logicFile": "68.agilogic",
       "messageNumber": 10,
       "original": "   soon become impossible to sustain.",
-      "translation": "   יהיו בלתי אפשריים לקיום.",
+      "translation": "יהיו בלתי אפשריים לקיום.",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -9223,7 +9223,7 @@
       "logicFile": "68.agilogic",
       "messageNumber": 12,
       "original": "      The scientific community of",
-      "translation": "      הקהילה המדעית של",
+      "translation": "הקהילה המדעית של",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -9231,7 +9231,7 @@
       "logicFile": "68.agilogic",
       "messageNumber": 13,
       "original": "    Xenon devised a plan to convert",
-      "translation": "    קסנון תכננה להמיר",
+      "translation": "קסנון תכננה להמיר",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -9239,7 +9239,7 @@
       "logicFile": "68.agilogic",
       "messageNumber": 14,
       "original": "       one of Earnon's lifeless",
-      "translation": "       אחד מכוכבי ארנון חסרי החיים",
+      "translation": "אחד מכוכבי ארנון חסרי החיים",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -9247,7 +9247,7 @@
       "logicFile": "68.agilogic",
       "messageNumber": 15,
       "original": "       planets into a new Sun.",
-      "translation": "       לשמש חדשה.",
+      "translation": "לשמש חדשה.",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -9263,7 +9263,7 @@
       "logicFile": "68.agilogic",
       "messageNumber": 17,
       "original": "    The effort was centered around",
-      "translation": "    המאמץ התרכז סביב",
+      "translation": "המאמץ התרכז סביב",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -9271,7 +9271,7 @@
       "logicFile": "68.agilogic",
       "messageNumber": 18,
       "original": "     the development of a device",
-      "translation": "     פיתוח מכשיר",
+      "translation": "פיתוח מכשיר",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -9279,7 +9279,7 @@
       "logicFile": "68.agilogic",
       "messageNumber": 19,
       "original": "   called the Star Generator.  The",
-      "translation": "   בשם מחולל הכוכבים.",
+      "translation": "בשם מחולל הכוכבים.",
       "notes": "REVIEW Match: partial (50%)",
       "placeholders": []
     },
@@ -9287,7 +9287,7 @@
       "logicFile": "68.agilogic",
       "messageNumber": 20,
       "original": " Star Generator would be capable of",
-      "translation": " מחולל הכוכבים יהיה מסוגל",
+      "translation": "מחולל הכוכבים יהיה מסוגל",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -9295,7 +9295,7 @@
       "logicFile": "68.agilogic",
       "messageNumber": 21,
       "original": "   igniting an otherwise useless",
-      "translation": "   להצית כוכב חסר תועלת",
+      "translation": "להצית כוכב חסר תועלת",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -9303,7 +9303,7 @@
       "logicFile": "68.agilogic",
       "messageNumber": 22,
       "original": " planet into a raging ball of flame.",
-      "translation": " לכדור אש משתולל.",
+      "translation": "לכדור אש משתולל.",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -9319,7 +9319,7 @@
       "logicFile": "68.agilogic",
       "messageNumber": 24,
       "original": "   An expedition set out aboard the",
-      "translation": "   משלחת יצאה על סיפון",
+      "translation": "משלחת יצאה על סיפון",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -9327,7 +9327,7 @@
       "logicFile": "68.agilogic",
       "messageNumber": 25,
       "original": "   starship Arcada to successfully",
-      "translation": "   ספינת הכוכבים ארקדה כדי להשלים",
+      "translation": "ספינת הכוכבים ארקדה כדי להשלים",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -9335,7 +9335,7 @@
       "logicFile": "68.agilogic",
       "messageNumber": 26,
       "original": "      complete development and",
-      "translation": "      בהצלחה את הפיתוח",
+      "translation": "בהצלחה את הפיתוח",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -9343,7 +9343,7 @@
       "logicFile": "68.agilogic",
       "messageNumber": 27,
       "original": "    testing of the Star Generator.",
-      "translation": "    והבדיקה של מחולל הכוכבים.",
+      "translation": "והבדיקה של מחולל הכוכבים.",
       "notes": "REVIEW Match: partial (50%)",
       "placeholders": []
     },
@@ -9359,7 +9359,7 @@
       "logicFile": "68.agilogic",
       "messageNumber": 29,
       "original": "      The Arcada is now returning",
-      "translation": "      הארקדה כעת חוזרת",
+      "translation": "הארקדה כעת חוזרת",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -9367,7 +9367,7 @@
       "logicFile": "68.agilogic",
       "messageNumber": 30,
       "original": "    triumphantly to Xenon with the",
-      "translation": "    בניצחון לקסנון עם",
+      "translation": "בניצחון לקסנון עם",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -9375,7 +9375,7 @@
       "logicFile": "68.agilogic",
       "messageNumber": 31,
       "original": "   fully operational Star Generator.",
-      "translation": "   מחולל הכוכבים הפעיל במלואו.",
+      "translation": "מחולל הכוכבים הפעיל במלואו.",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -9391,7 +9391,7 @@
       "logicFile": "68.agilogic",
       "messageNumber": 33,
       "original": "You serve as a member of the crew of",
-      "translation": "אתה משרת כחבר צוות",
+      "translation": "אתה חבר בצוות",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -9399,7 +9399,7 @@
       "logicFile": "68.agilogic",
       "messageNumber": 34,
       "original": "     the Arcada as a janitor.",
-      "translation": "     של הארקדה כמנקה.",
+      "translation": "של הארקדה כשרת.",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -9407,7 +9407,7 @@
       "logicFile": "68.agilogic",
       "messageNumber": 35,
       "original": "     That's right, a janitor.",
-      "translation": "     נכון, מנקה.",
+      "translation": "נכון, שרת.",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -9423,7 +9423,7 @@
       "logicFile": "68.agilogic",
       "messageNumber": 37,
       "original": "     And not a very good one.  You",
-      "translation": "     ולא מנקה טוב במיוחד. אתה",
+      "translation": "ולא שרת טוב במיוחד. אתה",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -9431,7 +9431,7 @@
       "logicFile": "68.agilogic",
       "messageNumber": 38,
       "original": "    would probably have been sacked",
-      "translation": "    כנראה היית מפוטר",
+      "translation": "כנראה היית מפוטר",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -9439,7 +9439,7 @@
       "logicFile": "68.agilogic",
       "messageNumber": 39,
       "original": "     and replaced were the Arcada",
-      "translation": "     ומוחלף אילו הארקדה",
+      "translation": "ומוחלף אילו הארקדה",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -9447,7 +9447,7 @@
       "logicFile": "68.agilogic",
       "messageNumber": 40,
       "original": "     not millions of kilometers",
-      "translation": "     לא היתה מרוחקת מיליוני קילומטרים",
+      "translation": "לא היתה מרוחקת מיליוני קילומטרים",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -9455,7 +9455,7 @@
       "logicFile": "68.agilogic",
       "messageNumber": 41,
       "original": "             from Xenon.",
-      "translation": "             מקסנון.",
+      "translation": "מקסנון.",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -9471,7 +9471,7 @@
       "logicFile": "68.agilogic",
       "messageNumber": 43,
       "original": "    As we join our story, you have",
-      "translation": "    כשאנו מצטרפים לסיפור, הרגע",
+      "translation": "כשאנו מצטרפים לסיפור, הרגע",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -9479,7 +9479,7 @@
       "logicFile": "68.agilogic",
       "messageNumber": 44,
       "original": "   just completed one of your famous",
-      "translation": "   סיימת אחד מתנומות האמצע-משמרת",
+      "translation": "סיימת אחד מתנומות האמצע-משמרת",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -9487,7 +9487,7 @@
       "logicFile": "68.agilogic",
       "messageNumber": 45,
       "original": "      on-shift naps in one of the",
-      "translation": "      המפורסמות שלך באחד",
+      "translation": "המפורסמות שלך באחד",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -9495,7 +9495,7 @@
       "logicFile": "68.agilogic",
       "messageNumber": 46,
       "original": "      janitorial storage closets.",
-      "translation": "      ממחסני הניקיון.",
+      "translation": "ממחסני הניקיון.",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -10505,7 +10505,7 @@
       "logicFile": "92.agilogic",
       "messageNumber": 2,
       "original": "                 Help",
-      "translation": "זה חסר תועלת.",
+      "translation": "עזרה",
       "notes": "REVIEW Match: partial",
       "placeholders": []
     },
@@ -10513,7 +10513,7 @@
       "logicFile": "92.agilogic",
       "messageNumber": 3,
       "original": "    F1 displays this message.",
-      "translation": "    F1 מציג הודעה זו.",
+      "translation": "F1                  מציג הודעה זו",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -10521,7 +10521,7 @@
       "logicFile": "92.agilogic",
       "messageNumber": 4,
       "original": "    F2 turns the sound off and on.",
-      "translation": "    F2 מפעיל ומכבה את הקול.",
+      "translation": "F2            מכבה ומפעיל את הקול",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -10529,7 +10529,7 @@
       "logicFile": "92.agilogic",
       "messageNumber": 5,
       "original": "    F3 retypes the last line typed.",
-      "translation": "    F3 מקליד מחדש את השורה האחרונה.",
+      "translation": "F3         מקליד את השורה האחרונה",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -10537,7 +10537,7 @@
       "logicFile": "92.agilogic",
       "messageNumber": 7,
       "original": "    F5 saves your current game.",
-      "translation": "שומרת את המשחק הנוכחי שלך.",
+      "translation": "F5       שומר את המשחק הנוכחי שלך",
       "notes": "Match: fuzzy",
       "placeholders": []
     },
@@ -10545,7 +10545,7 @@
       "logicFile": "92.agilogic",
       "messageNumber": 9,
       "original": "    F7 restores a saved game.",
-      "translation": "טוענת משחק שנשמר.",
+      "translation": "F7                משחזר משחק שמור",
       "notes": "Match: fuzzy",
       "placeholders": []
     },
@@ -10553,7 +10553,7 @@
       "logicFile": "92.agilogic",
       "messageNumber": 11,
       "original": "    F9 restarts the game.",
-      "translation": "מאתחלת את המשחק.",
+      "translation": "F9            מפעיל מחדש את המשחק",
       "notes": "Match: fuzzy",
       "placeholders": []
     },
@@ -10561,7 +10561,7 @@
       "logicFile": "92.agilogic",
       "messageNumber": 13,
       "original": "   TAB shows the status screen.",
-      "translation": "   TAB מציג את מסך הסטטוס.",
+      "translation": "TAB              מציג את מסך המצב",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -10569,7 +10569,7 @@
       "logicFile": "92.agilogic",
       "messageNumber": 14,
       "original": "   ESC pops up menus.",
-      "translation": "   ESC מציג תפריטים.",
+      "translation": "ESC             מקפיץ תפריטים",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -10577,7 +10577,7 @@
       "logicFile": "92.agilogic",
       "messageNumber": 15,
       "original": "Ctrl-J sets up your joystick.",
-      "translation": "Ctrl-J מגדיר את הג'ויסטיק שלך.",
+      "translation": "Ctrl-J     מגדיר את הג'ויסטיק שלך",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -10585,7 +10585,7 @@
       "logicFile": "92.agilogic",
       "messageNumber": 16,
       "original": "Ctrl-R toggles RGB monitor modes.",
-      "translation": "Ctrl-R מחליף בין מצבי מסך RGB.",
+      "translation": "Ctrl-R מחליף בין מצבי מסך RGB",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -10593,7 +10593,7 @@
       "logicFile": "92.agilogic",
       "messageNumber": 17,
       "original": "    F1 or HELP displays this message.",
-      "translation": "    F1 או HELP מציג הודעה זו.",
+      "translation": "F1 או HELP          מציג הודעה זו",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -10633,7 +10633,7 @@
       "logicFile": "92.agilogic",
       "messageNumber": 22,
       "original": "    F6 to fire Pulseray.",
-      "translation": "    F6 לירות Pulseray.",
+      "translation": "    F6             לירות קרן פולס",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -12890,15 +12890,15 @@
       "logicFile": "104.agilogic",
       "messageNumber": 2,
       "original": "_",
-      "translation": "_",
-      "notes": "Match: exact",
+      "translation": "",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "104.agilogic",
       "messageNumber": 3,
       "original": "Welcome",
-      "translation": "ברוך הבא",
+      "translation": "ברוכים הבאים",
       "notes": "",
       "placeholders": []
     },
@@ -12906,7 +12906,7 @@
       "logicFile": "104.agilogic",
       "messageNumber": 12,
       "original": "SQ",
-      "translation": "SQ",
+      "translation": "מסע בחלל",
       "notes": "",
       "placeholders": []
     },
