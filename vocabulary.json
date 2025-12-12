@@ -376,7 +376,10 @@
       "translatedSynonyms": [
         "תצוגה",
         "מוניטור",
-        "תצוגות"
+        "תצוגות",
+        "מסך",
+        "מסכי מחשב",
+        "מסך מחשב"
       ],
       "wordType": "noun",
       "notes": ""
@@ -1474,8 +1477,8 @@
         "lite"
       ],
       "translatedSynonyms": [
-        "באקזואיד",
-        "באקזואידים"
+        "אור",
+        "אורות"
       ],
       "wordType": "noun",
       "notes": ""
@@ -1882,7 +1885,11 @@
         "buckazoids",
         "bucks"
       ],
-      "translatedSynonyms": [],
+      "translatedSynonyms": [
+        "באקזואיד",
+        "באקזואידים",
+        "באקס"
+      ],
       "wordType": "noun",
       "notes": "Synced from sq2 (exact match, 100%)"
     },
