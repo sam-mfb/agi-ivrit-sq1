@@ -61,7 +61,7 @@
       "logicFile": "0.agilogic",
       "messageNumber": 7,
       "original": "That does not ",
-      "translation": "REVIEW: זה לא ",
+      "translation": "זה לא ",
       "notes": "REVIEW Match: partial (50%)",
       "placeholders": []
     },
@@ -145,7 +145,7 @@
       "logicFile": "0.agilogic",
       "messageNumber": 16,
       "original": "Silly human! That would not be helpful.",
-      "translation": "REVIEW: אדם מטופש! זה לא יעזור.",
+      "translation": "אדם מטופש! זה לא יעזור.",
       "notes": "REVIEW Match: partial (50%)",
       "placeholders": []
     },
@@ -169,7 +169,7 @@
       "logicFile": "0.agilogic",
       "messageNumber": 19,
       "original": "You can't hear anything of note.",
-      "translation": "REVIEW: אתה לא שומע שום דבר מיוחד.",
+      "translation": "אתה לא שומע שום דבר מיוחד.",
       "notes": "REVIEW Match: partial (60%)",
       "placeholders": []
     },
@@ -226,7 +226,7 @@
       "logicFile": "0.agilogic",
       "messageNumber": 25,
       "original": "%m8you.",
-      "translation": "REVIEW: %m8אתה.",
+      "translation": "%m8אתה.",
       "notes": "REVIEW Match: partial (50%)",
       "placeholders": [
         "%m8"
@@ -286,7 +286,7 @@
       "logicFile": "0.agilogic",
       "messageNumber": 32,
       "original": "This knife wouldn't cut hot margarine.",
-      "translation": "REVIEW: הסכין הזאת לא תחתוך מרגרינה חמה.",
+      "translation": "הסכין הזאת לא תחתוך מרגרינה חמה.",
       "notes": "REVIEW Match: partial (56%)",
       "placeholders": []
     },
@@ -484,7 +484,7 @@
       "logicFile": "0.agilogic",
       "messageNumber": 55,
       "original": "There is no need to do that now.",
-      "translation": "REVIEW: אין צורך לעשות את זה עכשיו.",
+      "translation": "אין צורך לעשות את זה עכשיו.",
       "notes": "REVIEW Match: partial (60%)",
       "placeholders": []
     },
@@ -526,7 +526,7 @@
       "logicFile": "0.agilogic",
       "messageNumber": 60,
       "original": "You can't run.",
-      "translation": "REVIEW: אתה לא יכול לרוץ.",
+      "translation": "אתה לא יכול לרוץ.",
       "notes": "REVIEW Match: partial (67%)",
       "placeholders": []
     },
@@ -601,7 +601,7 @@
       "logicFile": "0.agilogic",
       "messageNumber": 69,
       "original": "You possess %v124 buckazoid(s).",
-      "translation": "REVIEW: יש ברשותך %v124 זוזואידים.",
+      "translation": "יש ברשותך %v124 זוזואידים.",
       "notes": "REVIEW Match: partial (50%)",
       "placeholders": [
         "%v"
@@ -631,7 +631,7 @@
       "logicFile": "0.agilogic",
       "messageNumber": 72,
       "original": "Are you sure you want to look at that?",
-      "translation": "REVIEW: אתה בטוח שאתה רוצה להסתכל על זה?",
+      "translation": "אתה בטוח שאתה רוצה להסתכל על זה?",
       "notes": "REVIEW Match: partial (57%)",
       "placeholders": []
     },
@@ -657,7 +657,7 @@
       "logicFile": "0.agilogic",
       "messageNumber": 75,
       "original": "You can't obtain that here.",
-      "translation": "REVIEW: אתה לא יכול להשיג את זה כאן.",
+      "translation": "אתה לא יכול להשיג את זה כאן.",
       "notes": "REVIEW Match: partial (67%)",
       "placeholders": []
     },
@@ -903,7 +903,7 @@
       "logicFile": "0.agilogic",
       "messageNumber": 111,
       "original": "In the pocket of this%m2 is an alien %m5card. The name on the card is Butston Freem. You wonder if this is a common%m3 name.",
-      "translation": "REVIEW: בכיס של ה%m2 הזה יש כרטיס %m5 זר. השם על הכרטיס הוא ישבנאבן פרים. אתה תוהה אם זה שם%m3 נפוץ.",
+      "translation": "בכיס של ה%m2 הזה יש כרטיס %m5 זר. השם על הכרטיס הוא ישבנאבן פרים. אתה תוהה אם זה שם%m3 נפוץ.",
       "notes": "REVIEW Match: partial (59%)",
       "placeholders": [
         "%m2",
@@ -983,7 +983,7 @@
       "logicFile": "0.agilogic",
       "messageNumber": 152,
       "original": "Help    ",
-      "translation": "REVIEW: עזרה    ",
+      "translation": "עזרה    ",
       "notes": "REVIEW Match: partial (50%)",
       "placeholders": []
     },
@@ -1799,7 +1799,7 @@
       "logicFile": "3.agilogic",
       "messageNumber": 3,
       "original": "You search the body of your crewmate and find. . .",
-      "translation": "REVIEW: אתה מחפש בגופת חבר הצוות שלך ומוצא. . .",
+      "translation": "אתה מחפש בגופת חבר הצוות שלך ומוצא. . .",
       "notes": "",
       "placeholders": []
     },
@@ -1815,7 +1815,7 @@
       "logicFile": "3.agilogic",
       "messageNumber": 5,
       "original": "You already have it.",
-      "translation": "REVIEW: כבר יש לך את זה.",
+      "translation": "כבר יש לך את זה.",
       "notes": "",
       "placeholders": []
     },
@@ -2007,7 +2007,7 @@
       "logicFile": "4.agilogic",
       "messageNumber": 16,
       "original": "Are you serious?",
-      "translation": "REVIEW: אתה רציני?",
+      "translation": "אתה רציני?",
       "notes": "REVIEW Match: partial",
       "placeholders": []
     },
@@ -2959,7 +2959,7 @@
       "logicFile": "10.agilogic",
       "messageNumber": 4,
       "original": "Escape Pod Systems Activated",
-      "translation": "REVIEW: מערכות חללית המילוט הופעלו",
+      "translation": "מערכות חללית המילוט הופעלו",
       "notes": "REVIEW Match: partial (50%)",
       "placeholders": []
     },
@@ -4123,7 +4123,7 @@
       "logicFile": "23.agilogic",
       "messageNumber": 10,
       "original": "That is unreachable from here.",
-      "translation": "REVIEW: אינך יכול להגיע לשם מכאן.",
+      "translation": "אינך יכול להגיע לשם מכאן.",
       "notes": "REVIEW Match: partial",
       "placeholders": []
     },
@@ -4131,7 +4131,7 @@
       "logicFile": "23.agilogic",
       "messageNumber": 11,
       "original": "You already have that.",
-      "translation": "REVIEW: כבר יש לך את זה.",
+      "translation": "כבר יש לך את זה.",
       "notes": "REVIEW Match: partial",
       "placeholders": []
     },
@@ -4139,7 +4139,7 @@
       "logicFile": "23.agilogic",
       "messageNumber": 12,
       "original": "You don't have that.",
-      "translation": "REVIEW: אין לך את זה.",
+      "translation": "אין לך את זה.",
       "notes": "REVIEW Match: partial",
       "placeholders": []
     },
@@ -4147,7 +4147,7 @@
       "logicFile": "23.agilogic",
       "messageNumber": 13,
       "original": "You are not near that.",
-      "translation": "REVIEW: אתה לא קרוב לזה.",
+      "translation": "אתה לא קרוב לזה.",
       "notes": "REVIEW Match: partial",
       "placeholders": []
     },
@@ -4229,7 +4229,7 @@
       "logicFile": "24.agilogic",
       "messageNumber": 9,
       "original": "The walls are solid rock. You notice a fine spray of glistening, metallic jelly.",
-      "translation": "REVIEW: הקירות הם סלע מוצק. אתה מבחין ברסס עדין של ג'לי מתכתי מנצנץ.",
+      "translation": "הקירות הם סלע מוצק. אתה מבחין ברסס עדין של ג'לי מתכתי מנצנץ.",
       "notes": "REVIEW Match: partial",
       "placeholders": []
     },
@@ -4359,7 +4359,7 @@
       "logicFile": "24.agilogic",
       "messageNumber": 25,
       "original": "It's too far away.",
-      "translation": "REVIEW: זה רחוק מדי.",
+      "translation": "זה רחוק מדי.",
       "notes": "REVIEW Match: partial",
       "placeholders": []
     },
@@ -4375,7 +4375,7 @@
       "logicFile": "24.agilogic",
       "messageNumber": 27,
       "original": "Orat is a guy of few words and none of them are for you.",
-      "translation": "REVIEW: אורט הוא בחור של מעט מילים ואף אחת מהן לא בשבילך.",
+      "translation": "אורט הוא בחור של מעט מילים ואף אחת מהן לא בשבילך.",
       "notes": "REVIEW Match: partial",
       "placeholders": []
     },
@@ -4471,7 +4471,7 @@
       "logicFile": "26.agilogic",
       "messageNumber": 3,
       "original": "You don't have that.",
-      "translation": "REVIEW: אין לך את זה.",
+      "translation": "אין לך את זה.",
       "notes": "REVIEW Match: partial",
       "placeholders": []
     },
@@ -4511,7 +4511,7 @@
       "logicFile": "26.agilogic",
       "messageNumber": 8,
       "original": "You are not close enough.",
-      "translation": "REVIEW: אתה לא מספיק קרוב.",
+      "translation": "אתה לא מספיק קרוב.",
       "notes": "REVIEW Match: partial",
       "placeholders": []
     },
@@ -4687,7 +4687,7 @@
       "logicFile": "28.agilogic",
       "messageNumber": 1,
       "original": "That can't be done from here.",
-      "translation": "REVIEW: זה לא יכול להיעשות מכאן.",
+      "translation": "זה לא יכול להיעשות מכאן.",
       "notes": "REVIEW Match: partial",
       "placeholders": []
     },
@@ -4695,7 +4695,7 @@
       "logicFile": "28.agilogic",
       "messageNumber": 2,
       "original": "You don't have the glass.",
-      "translation": "REVIEW: אין לך את הזכוכית.",
+      "translation": "אין לך את הזכוכית.",
       "notes": "REVIEW Match: partial",
       "placeholders": []
     },
@@ -4711,7 +4711,7 @@
       "logicFile": "28.agilogic",
       "messageNumber": 4,
       "original": "There is no need to do that now.",
-      "translation": "REVIEW: אין צורך לעשות את זה עכשיו.",
+      "translation": "אין צורך לעשות את זה עכשיו.",
       "notes": "REVIEW Match: partial",
       "placeholders": []
     },
@@ -5897,7 +5897,7 @@
       "logicFile": "34.agilogic",
       "messageNumber": 1,
       "original": "\\\"Howdy, Bucko! Can I interest you in one of the finest little used space ships in the galaxy? You look like a man of discerning taste.\\\"",
-      "translation": "REVIEW: \\\"אהלן, חבוב! אפשר לעניין אותך באחת מספינות החלל הקטנות המשומשות והמשובחות ביותר בגלקסיה? אתה נראה כמו אדם בעל טעם מתחשב.\\\"",
+      "translation": "\\\"אהלן, חבוב! אפשר לעניין אותך באחת מספינות החלל הקטנות המשומשות והמשובחות ביותר בגלקסיה? אתה נראה כמו אדם בעל טעם מתחשב.\\\"",
       "notes": "REVIEW Match: partial (69%)",
       "placeholders": []
     },
@@ -6107,7 +6107,7 @@
       "logicFile": "34.agilogic",
       "messageNumber": 28,
       "original": "You're not close enough.",
-      "translation": "REVIEW: אתה לא קרוב מספיק.",
+      "translation": "אתה לא קרוב מספיק.",
       "notes": "REVIEW Match: partial (57%)",
       "placeholders": []
     },
@@ -6657,7 +6657,7 @@
       "logicFile": "36.agilogic",
       "messageNumber": 11,
       "original": "It appears to be in Sarien. You're a little rusty in your Sarien but it appears to say \\\"Xenon Bites!\\\"",
-      "translation": "REVIEW: נראה שזה כתוב בסרייאנית. הסרייאנית שלך קצת חלודה, אבל נראה שכתוב \\\"זנון מוצצת!\\\"",
+      "translation": "נראה שזה כתוב בסרייאנית. הסרייאנית שלך קצת חלודה, אבל נראה שכתוב \\\"זנון מוצצת!\\\"",
       "notes": "",
       "placeholders": []
     },
@@ -7277,7 +7277,7 @@
       "logicFile": "39.agilogic",
       "messageNumber": 2,
       "original": "The sign says \\\"Droids-B-Us\\\". That's it.",
-      "translation": "REVIEW: על השלט כתוב \\\"רובוטים-אר-אס\\\". זהו.",
+      "translation": "על השלט כתוב \\\"רובוטים-אר-אס\\\". זהו.",
       "notes": "REVIEW Match: partial (50%)",
       "placeholders": []
     },
@@ -7333,7 +7333,7 @@
       "logicFile": "42.agilogic",
       "messageNumber": 2,
       "original": "That was mighty close!",
-      "translation": "REVIEW: זה היה קרוב מאוד!",
+      "translation": "זה היה קרוב מאוד!",
       "notes": "REVIEW Match: partial",
       "placeholders": []
     },
@@ -7407,7 +7407,7 @@
       "logicFile": "45.agilogic",
       "messageNumber": 5,
       "original": "It appears to be a standard airlock.  There is a handle in the center.",
-      "translation": "REVIEW: נראה כמו מנעל אוויר סטנדרטי. יש ידית במרכז.",
+      "translation": "נראה כמו מנעל אוויר סטנדרטי. יש ידית במרכז.",
       "notes": "REVIEW Match: partial",
       "placeholders": []
     },
@@ -7423,7 +7423,7 @@
       "logicFile": "45.agilogic",
       "messageNumber": 7,
       "original": "That's up to you!",
-      "translation": "REVIEW: זה תלוי בך!",
+      "translation": "זה תלוי בך!",
       "notes": "REVIEW Match: partial",
       "placeholders": []
     },
@@ -7883,7 +7883,7 @@
       "logicFile": "51.agilogic",
       "messageNumber": 3,
       "original": "There is no need for that at this time.",
-      "translation": "REVIEW: אין צורך בזה בשלב זה.",
+      "translation": "אין צורך בזה בשלב זה.",
       "notes": "REVIEW Match: partial",
       "placeholders": []
     },
@@ -7915,7 +7915,7 @@
       "logicFile": "51.agilogic",
       "messageNumber": 7,
       "original": "You don't have that to %w1.",
-      "translation": "REVIEW: אין לך את זה כדי ל%w1.",
+      "translation": "אין לך את זה כדי ל%w1.",
       "notes": "REVIEW Match: partial",
       "placeholders": [
         "%w1"
@@ -7933,7 +7933,7 @@
       "logicFile": "51.agilogic",
       "messageNumber": 10,
       "original": "You already have one.",
-      "translation": "REVIEW: כבר יש לך אחד.",
+      "translation": "כבר יש לך אחד.",
       "notes": "REVIEW Match: partial",
       "placeholders": []
     },
@@ -7941,7 +7941,7 @@
       "logicFile": "51.agilogic",
       "messageNumber": 11,
       "original": "There is nothing to get.",
-      "translation": "REVIEW: אין מה לקחת.",
+      "translation": "אין מה לקחת.",
       "notes": "REVIEW Match: partial",
       "placeholders": []
     },
@@ -8101,7 +8101,7 @@
       "logicFile": "51.agilogic",
       "messageNumber": 31,
       "original": "You already have the pulseray.",
-      "translation": "REVIEW: כבר יש לך את קרן הדופק.",
+      "translation": "כבר יש לך את קרן הדופק.",
       "notes": "REVIEW Match: partial",
       "placeholders": []
     },
@@ -8495,7 +8495,7 @@
       "logicFile": "57.agilogic",
       "messageNumber": 7,
       "original": "You have no need to do that.",
-      "translation": "REVIEW: אין לך צורך לעשות את זה.",
+      "translation": "אין לך צורך לעשות את זה.",
       "notes": "REVIEW Match: partial",
       "placeholders": []
     },
@@ -8599,7 +8599,7 @@
       "logicFile": "57.agilogic",
       "messageNumber": 20,
       "original": "You don't have that.",
-      "translation": "REVIEW: אין לך את זה.",
+      "translation": "אין לך את זה.",
       "notes": "REVIEW Match: partial",
       "placeholders": []
     },
@@ -8663,7 +8663,7 @@
       "logicFile": "57.agilogic",
       "messageNumber": 28,
       "original": "The door is tightly sealed.",
-      "translation": "REVIEW: הדלת אטומה ומהודקת.",
+      "translation": "הדלת אטומה ומהודקת.",
       "notes": "REVIEW Match: partial",
       "placeholders": []
     },
@@ -8711,7 +8711,7 @@
       "logicFile": "59.agilogic",
       "messageNumber": 1,
       "original": "You are in a hallway aboard the Deltaur.",
-      "translation": "REVIEW: אתה במסדרון על סיפון הדלטאור.",
+      "translation": "אתה במסדרון על סיפון הדלטאור.",
       "notes": "",
       "placeholders": []
     },
@@ -8939,7 +8939,7 @@
       "logicFile": "64.agilogic",
       "messageNumber": 4,
       "original": "Thank you for playing Space Quest",
-      "translation": "REVIEW: תודה ששיחקתם מסע בחלל",
+      "translation": "תודה ששיחקתם מסע בחלל",
       "notes": "",
       "placeholders": []
     },
@@ -8963,7 +8963,7 @@
       "logicFile": "64.agilogic",
       "messageNumber": 7,
       "original": "         Thank You",
-      "translation": "REVIEW: תודה",
+      "translation": "תודה",
       "notes": "",
       "placeholders": []
     },
@@ -9959,7 +9959,7 @@
       "logicFile": "71.agilogic",
       "messageNumber": 1,
       "original": "You are not close enough.",
-      "translation": "REVIEW: אתה לא מספיק קרוב.",
+      "translation": "אתה לא מספיק קרוב.",
       "notes": "",
       "placeholders": []
     },
@@ -9991,7 +9991,7 @@
       "logicFile": "71.agilogic",
       "messageNumber": 5,
       "original": "\\\"That model is ideal for flight systems operations. It will pilot any modern fighter or cruiser. And, it is one of the most experienced droids we carry. I ask only 45 buckazoids for it (36 with coupon).\\\"",
-      "translation": "REVIEW: \\\"הדגם ההוא אידיאלי לתפעול מערכות טיסה. הוא יכול להטיס כל חללית קרב או משחתת מודרנית. וזה אחד מהרובוטים המנוסים ביותר שברשותינו. אני מבקש רק 45 זוזואידים עבורו (36 עם קופון).\\\"",
+      "translation": "\\\"הדגם ההוא אידיאלי לתפעול מערכות טיסה. הוא יכול להטיס כל חללית קרב או משחתת מודרנית. וזה אחד מהרובוטים המנוסים ביותר שברשותינו. אני מבקש רק 45 זוזואידים עבורו (36 עם קופון).\\\"",
       "notes": "",
       "placeholders": []
     },
@@ -10135,7 +10135,7 @@
       "logicFile": "71.agilogic",
       "messageNumber": 26,
       "original": "Why?",
-      "translation": "REVIEW: למה?",
+      "translation": "למה?",
       "notes": "",
       "placeholders": []
     },
@@ -13414,7 +13414,7 @@
       "logicFile": "113.agilogic",
       "messageNumber": 3,
       "original": " You Have $%v124",
-      "translation": "REVIEW: יש לך $%v124",
+      "translation": "יש לך $%v124",
       "notes": "REVIEW Match: partial",
       "placeholders": [
         "%v"
@@ -13604,7 +13604,7 @@
       "logicFile": "119.agilogic",
       "messageNumber": 2,
       "original": "You can't do that now. Try later.",
-      "translation": "REVIEW: אינך יכול לעשות את זה עכשיו. נסה מאוחר יותר.",
+      "translation": "אינך יכול לעשות את זה עכשיו. נסה מאוחר יותר.",
       "notes": "REVIEW Match: partial",
       "placeholders": []
     },
@@ -13906,7 +13906,7 @@
       "logicFile": "121.agilogic",
       "messageNumber": 1,
       "original": "It`s already open.",
-      "translation": "REVIEW: תעלת האוורור כבר פתוחה ועומדת.",
+      "translation": "תעלת האוורור כבר פתוחה ועומדת.",
       "notes": "REVIEW Match: partial (50%)",
       "placeholders": []
     },
@@ -13954,7 +13954,7 @@
       "logicFile": "121.agilogic",
       "messageNumber": 7,
       "original": "You have no need to do that.",
-      "translation": "REVIEW: אינך צריך לעשות זאת שוב.",
+      "translation": "אינך צריך לעשות זאת שוב.",
       "notes": "REVIEW Match: partial (50%)",
       "placeholders": []
     },
@@ -14058,7 +14058,7 @@
       "logicFile": "121.agilogic",
       "messageNumber": 20,
       "original": "You don't have that.",
-      "translation": "REVIEW: אין לך את זה.",
+      "translation": "אין לך את זה.",
       "notes": "REVIEW Match: partial (50%)",
       "placeholders": []
     },
@@ -14090,7 +14090,7 @@
       "logicFile": "121.agilogic",
       "messageNumber": 24,
       "original": "That can't be done now.",
-      "translation": "REVIEW: אין אפשרות לעשות את זה כעת.",
+      "translation": "אין אפשרות לעשות את זה כעת.",
       "notes": "REVIEW Match: partial (50%)",
       "placeholders": []
     },
