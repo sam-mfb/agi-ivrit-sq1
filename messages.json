@@ -601,7 +601,7 @@
       "logicFile": "0.agilogic",
       "messageNumber": 69,
       "original": "You possess %v124 buckazoid(s).",
-      "translation": "יש ברשותך %v124 זוזואידים.",
+      "translation": "יש ברשותך %v124 באקזואידים.",
       "notes": "REVIEW Match: partial (50%)",
       "placeholders": [
         "%v"
@@ -951,7 +951,7 @@
       "logicFile": "0.agilogic",
       "messageNumber": 118,
       "original": "Just lost your buckazoid object.",
-      "translation": "בדיוק איבדת את חפץ הזוזואידים שלך.",
+      "translation": "בדיוק איבדת את חפץ הבאקזואידים שלך.",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -5905,7 +5905,7 @@
       "logicFile": "34.agilogic",
       "messageNumber": 2,
       "original": "\\\"Well, this is quite a unique little unit. Never been flown over Mach 3. It was owned by a little old lady from Glansadrom. You have to fly it to believe it. And she can be yours for only 99 buckazoids.\\\"",
-      "translation": "\\\"ובכן, זוהי יחידה קטנה ומיוחדת במינה. מעולם לא טסה מעל מאך 3. היא היתה שייכת לזקנה קטנה מגלנסדרום. צריך לטוס בה כדי להאמין. והיא יכולה להיות שלך תמורת 99 זוזואידים בלבד.\\\"",
+      "translation": "\\\"ובכן, זוהי יחידה קטנה ומיוחדת במינה. מעולם לא טסה מעל מאך 3. היא היתה שייכת לזקנה קטנה מגלנסדרום. צריך לטוס בה כדי להאמין. והיא יכולה להיות שלך תמורת 99 באקזואידים בלבד.\\\"",
       "notes": "Match: fuzzy (82%)",
       "placeholders": []
     },
@@ -5921,7 +5921,7 @@
       "logicFile": "34.agilogic",
       "messageNumber": 5,
       "original": "\\\"So whaddaya think? Is she a diamond in the rough, or what? And only 129 buckazoids.\\\"",
-      "translation": "\\\"אז מה דעתך? האם היא יהלום בגסות, או מה? ורק 129 זוזואידים.\\\"",
+      "translation": "\\\"אז מה דעתך? האם היא יהלום בגסות, או מה? ורק 129 באקזואידים.\\\"",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -5937,7 +5937,7 @@
       "logicFile": "34.agilogic",
       "messageNumber": 7,
       "original": "She's a beaut, isn't she? This little baby can do a spin around the planet in just under an hour. Look at the lines in that body work. They just don't make 'em like this any more, ya' know what I mean?  And she's a real bargain at 185 buckazoids.",
-      "translation": "היא יפהפייה, לא? המתוקה הקטנה הזו יכולה לעשות סיבוב סביב הכוכב בפחות משעה. תסתכל על הקווים בגוף הזה. פשוט לא עושים כאלה יותר, אתה מבין למה אני מתכוון? והיא מציאה אמיתית ב-185 זוזואידים.",
+      "translation": "היא יפהפייה, לא? המתוקה הקטנה הזו יכולה לעשות סיבוב סביב הכוכב בפחות משעה. תסתכל על הקווים בגוף הזה. פשוט לא עושים כאלה יותר, אתה מבין למה אני מתכוון? והיא מציאה אמיתית ב-185 באקזואידים.",
       "notes": "Match: normalized (95%)",
       "placeholders": []
     },
@@ -5945,7 +5945,7 @@
       "logicFile": "34.agilogic",
       "messageNumber": 8,
       "original": "Of course, minus your 70 buckazoid credit that would come to 115 buckazoids.",
-      "translation": "כמובן, פחות זיכוי של 70 זוזואידים שלך, זה יגיע ל-115 זוזואידים.",
+      "translation": "כמובן, פחות זיכוי של 70 באקזואידים שלך, זה יגיע ל-115 באקזואידים.",
       "notes": "Match: fuzzy (100%)",
       "placeholders": []
     },
@@ -5953,7 +5953,7 @@
       "logicFile": "34.agilogic",
       "messageNumber": 9,
       "original": "You shell out the buckazoids and hop in. Anxiously, you fire it up and lift off.",
-      "translation": "אתה מוציא את הזוזואידים וקופץ פנימה. בדאגה, אתה מניע אותה וממריא.",
+      "translation": "אתה מוציא את הבאקזואידים וקופץ פנימה. בדאגה, אתה מניע אותה וממריא.",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -6051,7 +6051,7 @@
       "logicFile": "34.agilogic",
       "messageNumber": 21,
       "original": "\\\"Much as I'd like to I can't refund your money. Company policy. It's out of my hands. However, I can give you seventy buckazoids credit on any other ship in our fine line of used spacecraft. Look around, see what you like.\\\"",
-      "translation": "\\\"עד כמה שהייתי רוצה, אני לא יכול להחזיר לך את הכסף. מדיניות החברה. זה לא בידיים שלי. עם זאת, אני יכול לתת לך זיכוי של שבעים זוזואידים על כל ספינה אחרת בליין המשובח שלנו של חלליות משומשות. הסתכל מסביב, תראה מה אתה אוהב.\\\"",
+      "translation": "\\\"עד כמה שהייתי רוצה, אני לא יכול להחזיר לך את הכסף. מדיניות החברה. זה לא בידיים שלי. עם זאת, אני יכול לתת לך זיכוי של שבעים באקזואידים על כל ספינה אחרת בליין המשובח שלנו של חלליות משומשות. הסתכל מסביב, תראה מה אתה אוהב.\\\"",
       "notes": "Match: fuzzy (100%)",
       "placeholders": []
     },
@@ -6221,7 +6221,7 @@
       "logicFile": "35.agilogic",
       "messageNumber": 6,
       "original": "\\\"Say, this is a genuine Falton sand skimmer. I've been looking for one just like it. I wonder if you would accept %v35 buckazoids?\\\"",
-      "translation": "\\\"תראה, זוהי רחפת חולות פולטון אותנטית. חיפשתי אחת כזאת כבר שנים. האם תסכים לקבל %v35 זוזואידים?\\\"",
+      "translation": "\\\"תראה, זוהי רחפת חולות פולטון אותנטית. חיפשתי אחת כזאת כבר שנים. האם תסכים לקבל %v35 באקזואידים?\\\"",
       "notes": "Translated by Claude",
       "placeholders": [
         "%v"
@@ -6231,7 +6231,7 @@
       "logicFile": "35.agilogic",
       "messageNumber": 7,
       "original": "\\\"Ok. This is my final offer and I'm only doin' it because you look like you need it pretty bad. I'll give you %v35 buckazoids and I'll throw in this swell jetpack. I only used it once. Works great in zero gravity. You'll love it. Is it a deal? Yes or no?\\\"",
-      "translation": "\\\"בסדר. זו ההצעה הסופית שלי ואני מציע זאת רק כי אתה נראה לי נואש. אתן לך %v35 זוזואידים ואזרוק לך גם את תרמיל הריחוף הנהדר הזה. השתמשתי בו רק פעם אחת. עובד מצוין באפס כבידה. תאהב אותו. אז מה, עסקה? כן או לא?\\\"",
+      "translation": "\\\"בסדר. זו ההצעה הסופית שלי ואני מציע זאת רק כי אתה נראה לי נואש. אתן לך %v35 באקזואידים ואזרוק לך גם את תרמיל הריחוף הנהדר הזה. השתמשתי בו רק פעם אחת. עובד מצוין באפס כבידה. תאהב אותו. אז מה, עסקה? כן או לא?\\\"",
       "notes": "Translated by Claude",
       "placeholders": [
         "%v"
@@ -6283,7 +6283,7 @@
       "logicFile": "35.agilogic",
       "messageNumber": 13,
       "original": "\\\"I really want a skimmer like this. Here's my offer and I'm only doin' it because you look like you need it pretty bad. I'll give you %v35 buckazoids and I'll throw in this swell jetpack. I've only used it once. Works great in zero gravity. Is it a deal or what? Yes or no?\\\"",
-      "translation": "\\\"אני ממש רוצה רחפת כזאת. הנה ההצעה שלי ואני עושה זאת רק כי אתה נראה נואש. אתן לך %v35 זוזואידים ואזרוק לך את תרמיל הריחוף המדהים הזה. השתמשתי בו רק פעם אחת. עובד נהדר באפס כבידה. אז מה, עסקה או מה? כן או לא?\\\"",
+      "translation": "\\\"אני ממש רוצה רחפת כזאת. הנה ההצעה שלי ואני עושה זאת רק כי אתה נראה נואש. אתן לך %v35 באקזואידים ואזרוק לך את תרמיל הריחוף המדהים הזה. השתמשתי בו רק פעם אחת. עובד נהדר באפס כבידה. אז מה, עסקה או מה? כן או לא?\\\"",
       "notes": "Translated by Claude",
       "placeholders": [
         "%v"
@@ -6623,7 +6623,7 @@
       "logicFile": "36.agilogic",
       "messageNumber": 4,
       "original": "\\\"%v124 buckazoids? I guess it's better than nothing. Here, keep five for yourself. I gotta admit you look like you need it. Well, gotta run. Later, pal.\\\"",
-      "translation": "\\\"%v124 זוזואידים? אני משער שזה עדיף מכלום. הנה, תשאיר לעצמך חמש. אני חייב להודות שאתה נראה אחד שזקוק לכל שקל. טוב, אני חייב לרוץ. להתראות, חבר.\\\"",
+      "translation": "\\\"%v124 באקזואידים? אני משער שזה עדיף מכלום. הנה, תשאיר לעצמך חמש. אני חייב להודות שאתה נראה אחד שזקוק לכל שקל. טוב, אני חייב לרוץ. להתראות, חבר.\\\"",
       "notes": "",
       "placeholders": [
         "%v"
@@ -6657,7 +6657,7 @@
       "logicFile": "36.agilogic",
       "messageNumber": 11,
       "original": "It appears to be in Sarien. You're a little rusty in your Sarien but it appears to say \\\"Xenon Bites!\\\"",
-      "translation": "נראה שזה כתוב בסרייאנית. הסרייאנית שלך קצת חלודה, אבל נראה שכתוב \\\"זנון מוצצת!\\\"",
+      "translation": "נראה שזה כתוב בסרייאנית. הסרייאנית שלך קצת חלודה, אבל נראה שכתוב \\\"קסנון מוצצת!\\\"",
       "notes": "",
       "placeholders": []
     },
@@ -6785,7 +6785,7 @@
       "logicFile": "36.agilogic",
       "messageNumber": 32,
       "original": "\\\"%v124 buckazoids? I guess it's better than nothing. Here, keep five for yourself. I gotta admit you look like you need it.\\\"",
-      "translation": "\\\"%v124 זוזואידים? אני משער שזה עדיף מכלום. הנה, תשאיר לעצמך חמש. אני חייב להודות שאתה נראה אחד שזקוק לכל שקל.\\\"",
+      "translation": "\\\"%v124 באקזואידים? אני משער שזה עדיף מכלום. הנה, תשאיר לעצמך חמש. אני חייב להודות שאתה נראה אחד שזקוק לכל שקל.\\\"",
       "notes": "",
       "placeholders": [
         "%v"
@@ -6843,7 +6843,7 @@
       "logicFile": "37.agilogic",
       "messageNumber": 3,
       "original": "\\\"And she's got all the thrust a guy could need. I tell ya, she's an outright steal at 214 buckazoids.\\\"",
-      "translation": "ויש לה את כל הדחף שבן אדם יכול לחלום. אני אומר'ך אחי, קבל אותה במחיר חד פעמי של 214 זוזואידים.",
+      "translation": "ויש לה את כל הדחף שבן אדם יכול לחלום. אני אומר'ך אחי, קבל אותה במחיר חד פעמי של 214 באקזואידים.",
       "notes": "Match: fuzzy",
       "placeholders": []
     },
@@ -6851,7 +6851,7 @@
       "logicFile": "37.agilogic",
       "messageNumber": 4,
       "original": "\\\"With your 70 buckazoid credit that would come to. . .let's see. . .uhm. . 144 buckazoids.\\\"",
-      "translation": "כמובן, אחרי זיכוי של 70 זוזואידים, הכל יעלה לך 115 זוזואידים טבין ותקילין.",
+      "translation": "כמובן, אחרי זיכוי של 70 באקזואידים, הכל יעלה לך 115 באקזואידים טבין ותקילין.",
       "notes": "REVIEW Match: partial",
       "placeholders": []
     },
@@ -7173,7 +7173,7 @@
       "logicFile": "38.agilogic",
       "messageNumber": 3,
       "original": "There are five buckazoids stuck in the sand behind the building.",
-      "translation": "יש חמישה זוזואידים תקועים בחול מאחורי המבנה.",
+      "translation": "יש חמישה באקזואידים תקועים בחול מאחורי המבנה.",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -7367,7 +7367,7 @@
       "logicFile": "43.agilogic",
       "messageNumber": 6,
       "original": "Before leaving the safety of your ship, you instruct the little droid to set a course for Xenon, where you will rendezvous later. Providing, of course, that you are successful in carrying out your mission. Once again, you are on your own.",
-      "translation": "לפני שאתה עוזב את בטחון הספינה שלך, אתה מורה לדרואיד הקטן לקבוע מסלול לזנון, שם תיפגש מאוחר יותר. בהנחה, כמובן, שתצליח בביצוע המשימה שלך. פעם נוספת, אתה לבד.",
+      "translation": "לפני שאתה עוזב את בטחון הספינה שלך, אתה מורה לדרואיד הקטן לקבוע מסלול לקסנון, שם תיפגש מאוחר יותר. בהנחה, כמובן, שתצליח בביצוע המשימה שלך. פעם נוספת, אתה לבד.",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -8921,7 +8921,7 @@
       "logicFile": "64.agilogic",
       "messageNumber": 2,
       "original": "As a token of appreciation, you are presented with a golden mop. \\\"Thank you, %s1 for cleaning up our galaxy\\\", says the Xenon leader.",
-      "translation": "כאות הוקרה, מוגשת לך סחבה זהובה. \\\"תודה לך, %s1 על שניקית את הגלקסיה שלנו\\\", אומר מנהיג זנון.",
+      "translation": "כאות הוקרה, מוגשת לך סחבה זהובה. \\\"תודה לך, %s1 על שניקית את הגלקסיה שלנו\\\", אומר מנהיג קסנון.",
       "notes": "",
       "placeholders": [
         "%s"
@@ -9231,7 +9231,7 @@
       "logicFile": "68.agilogic",
       "messageNumber": 13,
       "original": "    Xenon devised a plan to convert",
-      "translation": "    זנון תכננה להמיר",
+      "translation": "    קסנון תכננה להמיר",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -9367,7 +9367,7 @@
       "logicFile": "68.agilogic",
       "messageNumber": 30,
       "original": "    triumphantly to Xenon with the",
-      "translation": "    בניצחון לזנון עם",
+      "translation": "    בניצחון לקסנון עם",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -9455,7 +9455,7 @@
       "logicFile": "68.agilogic",
       "messageNumber": 41,
       "original": "             from Xenon.",
-      "translation": "             מזנון.",
+      "translation": "             מקסנון.",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -9559,7 +9559,7 @@
       "logicFile": "70.agilogic",
       "messageNumber": 1,
       "original": "\\\"What'll it be? I got beer and it's 2 buckazoids.\\\"",
-      "translation": "\\\"מה יהיה? יש לי בירה ב-2 זוזואידים.\\\"",
+      "translation": "\\\"מה יהיה? יש לי בירה ב-2 באקזואידים.\\\"",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -9935,7 +9935,7 @@
       "logicFile": "70.agilogic",
       "messageNumber": 49,
       "original": "\\\"You have one of those coupons, huh? Here's your 5 buckazoids and your free beer. Enjoy.\\\"",
-      "translation": "\\\"יש לך אחד מהקופונים האלה, הא? הנה 5 הזוזואידים שלך והבירה החינמית. תהנה.\\\"",
+      "translation": "\\\"יש לך אחד מהקופונים האלה, הא? הנה 5 הבאקזואידים שלך והבירה החינמית. תהנה.\\\"",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -9967,7 +9967,7 @@
       "logicFile": "71.agilogic",
       "messageNumber": 2,
       "original": "You don't have enough buckazoids.",
-      "translation": "אין לך מספיק זוזואידים.",
+      "translation": "אין לך מספיק באקזואידים.",
       "notes": "",
       "placeholders": []
     },
@@ -9991,7 +9991,7 @@
       "logicFile": "71.agilogic",
       "messageNumber": 5,
       "original": "\\\"That model is ideal for flight systems operations. It will pilot any modern fighter or cruiser. And, it is one of the most experienced droids we carry. I ask only 45 buckazoids for it (36 with coupon).\\\"",
-      "translation": "\\\"הדגם ההוא אידיאלי לתפעול מערכות טיסה. הוא יכול להטיס כל חללית קרב או משחתת מודרנית. וזה אחד מהרובוטים המנוסים ביותר שברשותינו. אני מבקש רק 45 זוזואידים עבורו (36 עם קופון).\\\"",
+      "translation": "\\\"הדגם ההוא אידיאלי לתפעול מערכות טיסה. הוא יכול להטיס כל חללית קרב או משחתת מודרנית. וזה אחד מהרובוטים המנוסים ביותר שברשותינו. אני מבקש רק 45 באקזואידים עבורו (36 עם קופון).\\\"",
       "notes": "",
       "placeholders": []
     },
@@ -10007,7 +10007,7 @@
       "logicFile": "71.agilogic",
       "messageNumber": 7,
       "original": "\\\"That unit is a good, all-around droid. Sure, it may seem a little dinged-up but it's not as bad as it looks. There is still quite a bit of life left in it. It is a great little companion. And for you, only 40 buckazoids (32 with coupon).\\\"",
-      "translation": "\\\"היחידה הזאת היא רובוט כדאי רב-תכליתי. אמנם, זה נראה קצת מפוצל, אבל זה לא נורא כמו שזה נראה. עדיין יש בו הרבה חיים. זה בן לוויה מצוין. ורק עבורך, רק 40 זוזואידים (32 עם קופון).\\\"",
+      "translation": "\\\"היחידה הזאת היא רובוט כדאי רב-תכליתי. אמנם, זה נראה קצת מפוצל, אבל זה לא נורא כמו שזה נראה. עדיין יש בו הרבה חיים. זה בן לוויה מצוין. ורק עבורך, רק 40 באקזואידים (32 עם קופון).\\\"",
       "notes": "",
       "placeholders": []
     },
@@ -10015,7 +10015,7 @@
       "logicFile": "71.agilogic",
       "messageNumber": 8,
       "original": "\\\"We call that one The Peacemaker. It's used primarily in security. In a crime situation it is capable of apprehending, trying, sentencing, and punishing the offender on the spot. Swift and effective. And only 368 buckazoids (294 with coupon).\\\"",
-      "translation": "\\\"אנחנו קוראים לזה משיב השלום. זה משמש בעיקר בביטחון. במצב פשע, הוא מסוגל לתפוס, לשפוט, לגזור דין ולהעניש את העבריין במקום. מהיר ויעיל. ורק 368 זוזואידים (294 עם קופון).\\\"",
+      "translation": "\\\"אנחנו קוראים לזה משיב השלום. זה משמש בעיקר בביטחון. במצב פשע, הוא מסוגל לתפוס, לשפוט, לגזור דין ולהעניש את העבריין במקום. מהיר ויעיל. ורק 368 באקזואידים (294 עם קופון).\\\"",
       "notes": "",
       "placeholders": []
     },
@@ -10023,7 +10023,7 @@
       "logicFile": "71.agilogic",
       "messageNumber": 9,
       "original": "\\\"That compact unit is often used for mining. It is short and stocky, and quite strong for its size. It is designed to work in areas which may be hazardous to non-mechanized beings. 325 buckazoids for years of service (294 with coupon).\\\"",
-      "translation": "\\\"היחידה הקומפקטית הזאת משמשת לעתים קרובות לכרייה. היא נמוכה וחסונה, וחזקה למדי עבור גודלה. היא מעוצבת לעבוד באזורים שעלולים להיות מסוכנים ליצורים לא ממוכנים. 325 זוזואידים עבור שנות שירות (294 עם קופון).\\\"",
+      "translation": "\\\"היחידה הקומפקטית הזאת משמשת לעתים קרובות לכרייה. היא נמוכה וחסונה, וחזקה למדי עבור גודלה. היא מעוצבת לעבוד באזורים שעלולים להיות מסוכנים ליצורים לא ממוכנים. 325 באקזואידים עבור שנות שירות (294 עם קופון).\\\"",
       "notes": "",
       "placeholders": []
     },
@@ -13458,7 +13458,7 @@
       "logicFile": "115.agilogic",
       "messageNumber": 5,
       "original": " You Have $%v124",
-      "translation": "יש לך %d זוזואידים",
+      "translation": "יש לך %d באקזואידים",
       "notes": "REVIEW Match: partial",
       "placeholders": [
         "%v"
@@ -13548,7 +13548,7 @@
       "logicFile": "116.agilogic",
       "messageNumber": 4,
       "original": "The droid you spent your hard-earned buckazoids on is lying in the sand in many pieces. You begin to suspect that the little fellow may have been defective. It is damaged beyond repair.",
-      "translation": "הרובוט שעליו הוצאת את הזוזואידים שהרווחת בעמל רובץ בחול לחתיכות רבות. אתה מתחיל לחשוד שהחבר הקטן אולי היה פגום. הוא פגוע מעבר לכל תיקון.",
+      "translation": "הרובוט שעליו הוצאת את הבאקזואידים שהרווחת בעמל רובץ בחול לחתיכות רבות. אתה מתחיל לחשוד שהחבר הקטן אולי היה פגום. הוא פגוע מעבר לכל תיקון.",
       "notes": "Translated by Claude",
       "placeholders": []
     },
@@ -14338,7 +14338,7 @@
       "logicFile": "122.agilogic",
       "messageNumber": 15,
       "original": "\\\"Yes\\\" responds the surprised Guard, \\\"I just bought it last week. It was on sale for 128,000 buckazoids at Tiny's Holodisk Shop. What a bargain!!!\\\"",
-      "translation": "\\\"כן\\\" עונה השומר המופתע, \\\"קניתי אותו רק בשבוע שעבר. היה במבצע ב-128,000 זוזואידים בחנות הולודיסק של טייני. איזה מציאה!!!\\\"",
+      "translation": "\\\"כן\\\" עונה השומר המופתע, \\\"קניתי אותו רק בשבוע שעבר. היה במבצע ב-128,000 באקזואידים בחנות הולודיסק של טייני. איזה מציאה!!!\\\"",
       "notes": "Translated by Claude",
       "placeholders": []
     },
