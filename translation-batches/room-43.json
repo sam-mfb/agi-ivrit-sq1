@@ -1,0 +1,657 @@
+{
+  "room": "43",
+  "totalMessages": 4,
+  "matchStats": {
+    "exact": 0,
+    "normalized": 0,
+    "fuzzy": 0,
+    "partial": 0,
+    "unmatched": 4
+  },
+  "csvContext": [
+    {
+      "original": "This is a seedy little place.  Galactic riff-raff are seated at the bar. %s.  There is a slot machine standing near the bar.  You notice a sweeper in the corner of the room.  It must get messy here.  No one seems to notice or care that you have entered the bar.",
+      "translated": "זהו מקום קטן ומוזנח. אספסוף גלקטי התאסף על יד הבר. %s.  לצידם ניצבת מכונת מזל. אתה מבחין במנקה בפינת החדר. בטח הלכלוך פה עולה על גדותיו. איש אינו מבחין או מתעניין בכניסתך לבר."
+    },
+    {
+      "original": "Sour beer and stale sweat.",
+      "translated": "בירה חמוצה וזיעה מעופשת."
+    },
+    {
+      "original": "Why don't you just buy two or three drinks instead.",
+      "translated": "למה שלא תקנה שניים או שלושה משקאות במקום."
+    },
+    {
+      "original": "You've had a couple of drinks now. What do you think.",
+      "translated": "היו לך כמה משקאות. מה אתה חושב."
+    },
+    {
+      "original": "Whoa!",
+      "translated": "וואו!"
+    },
+    {
+      "original": "You wisely (although somewhat belatedly) decide to heed the bartender's advice.",
+      "translated": "אתה מחליט בתבונה (אם כי באיחור רב) להישמע לעצתו של הברמן."
+    },
+    {
+      "original": "Do you want a beer? It costs 2 Buckazoids.",
+      "translated": "אתה רוצה בירה? זה עולה 2 זוזואידים."
+    },
+    {
+      "original": "Want another drink?",
+      "translated": "תרצה משקה נוסף?"
+    },
+    {
+      "original": "Listen, Mac, I shouldn't serve you any more. You're sledged! You'd better go sleep it off or something before you start making a public display of yourself.",
+      "translated": "תקשיב, חבוב, אני לא מגיש לך יותר. אתה גמור! כדאי שתלך לישון או משהו לפני שתעשה לעצמך בושות בפומבי."
+    },
+    {
+      "original": "The bartender doesn't exactly jump at your request.",
+      "translated": "המוזג לא בדיוק מזנק למוצא פיך."
+    },
+    {
+      "original": "I would like to redeem this coupon for 5 buckazoids and a free beer.",
+      "translated": "הייתי רוצה לממש את הקופון הזה תמורת 5 זוזואידים ובירה חינם."
+    },
+    {
+      "original": "Excuse me, my good man. I would like a drink.",
+      "translated": "סלח לי, אדוני היקר. אשמח לכוס משקה."
+    },
+    {
+      "original": "Yo! How about a refill?",
+      "translated": "יו! מה עם מילוי מחדש?"
+    },
+    {
+      "original": "Hmmm... It tastes better than it smells (thank goodness). Another one would be nice.",
+      "translated": "המממ... זה טעים פי כמה מהריח (תודה לאל). אשמח לעוד אחד."
+    },
+    {
+      "original": "Ah yes, that hits the spot.  Just one more should do it.",
+      "translated": "אה כן, קלעת למטרה. עוד אחד יעשה את העבודה."
+    },
+    {
+      "original": "As you sip another of the odd brews, you overhear someone at the bar speaking: There I was cruising through sector %s when I spot this blip on the scanner.",
+      "translated": "בעוד אתה נוטל לגימה נוספת מהשיכר הלא ברור, אתה שומע שיחה אקראית בבר: אני משייט לי ברחבי גזרה %s כשלפתע אני קולט הבהוב בסורק."
+    },
+    {
+      "original": "So, I head toward it, ya see, and right there in front of me sits the Deltaur. It's just sittin' there. My hearts start hyperwarping on me.",
+      "translated": "אז אני נוסע לשם, ת'מבין, ושם אל מול עיני יושבת הדלטאור. פשוט רובצת לה שם כמו פדלאה. הלב שלי מתחיל לדהור במהירות האור."
+    },
+    {
+      "original": "I figure my milliseconds are numbered. All I can think of doin' is getting my craft outta there. So, I'm reachin' for the throttle.",
+      "translated": "אני מבין שאלפיות שניותי ספורות. כל מה שעולה לי בראש זה לתפוס את החללית שלי ולהסתלק מהמקום. אז אני שולח יד למשנק."
+    },
+    {
+      "original": "All of a sudden there's this incredible flash of light, ya see. And just like that this little planetoid explodes into a ball of fire! I tell ya, I've never seen anything like it. I mauled the throttle and got outta there quick you bet.",
+      "translated": "ולפתע אני רואה הבזק אור מטורף, ת'מבין. וברגע אחד הכוכבון הקטן מתפוצץ לכדור של אש! אני אומר'ך, בחיים לא ראיתי דבר כזה. מחצתי את המשנק וברחתי משם הכי מהר שיכולתי."
+    },
+    {
+      "original": "You feel a strange tingling sensation. The taste of the beer doesn't seem to be bothering you so much now, hee, hee.",
+      "translated": "אתה מרגיש תחושת עקצוץ מוזרה. טעם הבירה כבר לא מטריד אותך בשלב זה, חי, חי."
+    },
+    {
+      "original": "Oh my, you're starting to feel a bit unstable.",
+      "translated": "אוי לא, אתה מתחיל להרגיש חוסר יציבות מסוימת."
+    },
+    {
+      "original": "You are supposed to walk out of the bar drunk, and pass out behind it. Waking up with an enormous headache and no earthly possessions. But for now you're normal.",
+      "translated": "אתה אמור לצאת מהבר שתוי, ולהתעלף מאחוריו. להתעורר עם כאב ראש נורא וללא רכוש חומרי. אולם נכון לעכשיו הכל בסדר."
+    },
+    {
+      "original": "Looks to be something playing it already.",
+      "translated": "נראה שמשהו משחק בו כבר."
+    },
+    {
+      "original": "Wow, I guess you over-heated the poor old thing.",
+      "translated": "וואו, נראה שבישלת את המסכנה יתר על המידה."
+    },
+    {
+      "original": "Widgets don't talk.",
+      "translated": "רכיבים לא מדברים."
+    },
+    {
+      "original": "It smells magnetic.",
+      "translated": "זה מריח מגנטי."
+    },
+    {
+      "original": "You now have a tongue-load of iron shavings. Congratulations.",
+      "translated": "כעת יש לך לשון טעונה בשבבי ברזל. ברכות."
+    },
+    {
+      "original": "You'll have to get closer.",
+      "translated": "תיאלץ לגשת קרוב יותר."
+    },
+    {
+      "original": "Hi. The name's Wilco. Roger Wilco. What's yours?",
+      "translated": "הי. קוראים לי ווילקו. רוג'ר ווילקו. ולך?"
+    },
+    {
+      "original": "I am sometimes called Speaker to Cartoons, and sometimes Flayer of Soft Pink Mammals.",
+      "translated": "לפעמים קוראים לי קריין בסרטים מצוירים, ולפעמים עלון פרסומות ליונקים ורדרדים ורכים."
+    },
+    {
+      "original": "Mind if I sit down?",
+      "translated": "אכפת לך אם אשב?"
+    },
+    {
+      "original": "Buzz off, monkey-boy!",
+      "translated": "'סתלק, קופיקו!"
+    },
+    {
+      "original": "The thought of your tongue laid out in four neat slices like luncheon meat puts this idea right out of your head.",
+      "translated": "המחשבה על לשונך פרוסה לארבעה חתיכות שוות כמו פסטרמה מרוקנת את המוח שלך מעצם הרעיון."
+    },
+    {
+      "original": "Could be Rid-O-Fleaz Shampoo, or just a really manly after- shave.",
+      "translated": "או שמפו עסה-וקטול, או סתם אפטרשייב גברי."
+    },
+    {
+      "original": "He might be insulted by an offer of money. You won't like him when he's insulted.",
+      "translated": "הוא עלול להיעלב אם תציע לו כסף. והוא לא נחמד כשהוא פגוע."
+    },
+    {
+      "original": "Showing him the cartridge won't make him one bit friendlier.",
+      "translated": "הצגת המחסנית בפניו לא תהפוך אותו ליותר ידידותי."
+    },
+    {
+      "original": "You can't see any reason to offer the widget to him.",
+      "translated": "אתה לא מוצא שום היגיון בלספק לו את הרכיב."
+    },
+    {
+      "original": "This guy makes himself pretty clear without translation.",
+      "translated": "הבחור הזה יודע להסביר את עצמו מצוין גם ללא מתורגמנים כלשהם."
+    },
+    {
+      "original": "Reality check! Does this seem like a good idea to you?",
+      "translated": "בדיקת שפיות! זה נראה לך כמו רעיון טוב?"
+    },
+    {
+      "original": "Cats are notorious for not liking water.",
+      "translated": "חתולים ידועים בחוסר חיבתם למים."
+    },
+    {
+      "original": "If he decided to keep it, you wouldn't live to get it back.",
+      "translated": "אם הוא יחליט לשמור את זה, לא תראה את זה לעולם בחזרה."
+    },
+    {
+      "original": "He'll more than likely slice it up for practice, and then where'll you be, huh?",
+      "translated": "סביר להניח שהוא ינתח את זה לצורכי תרגול, ואז איפה תהיה, אה?"
+    },
+    {
+      "original": "That would be my first clue not to bother this guy again.",
+      "translated": "זה הרמז הראשון שלי לא להציק לבחור הזה יותר."
+    },
+    {
+      "original": "He doesn't want to be bothered.",
+      "translated": "הוא לא רוצה שיפריעו לו."
+    },
+    {
+      "original": "Leave him alone.",
+      "translated": "עזוב אותו בשקט."
+    },
+    {
+      "original": "You'd rather not, really",
+      "translated": "לא כדאי לך, ברצינות."
+    },
+    {
+      "original": "You left your slug recipes in your other pair of pants.",
+      "translated": "שכחת את מתכוני החלזונות בזוג המכנסיים השני."
+    },
+    {
+      "original": "Forget it. This guy's not exactly a sparkling conversationalist.",
+      "translated": "שכח מזה. הבחור אינו נמנה על אנשי השיח המבריקים."
+    },
+    {
+      "original": "Ahh, the heady fragrance of Eau de Banana Slug.",
+      "translated": "אהה, הניחוח המשכר של שבלול או-דה-בננה."
+    },
+    {
+      "original": "What could you possibly be thinking of?",
+      "translated": "על מה יכול להיות שחשבת?"
+    },
+    {
+      "original": "You decide against getting slug secretions on the cartridge.",
+      "translated": "אתה מצביע נגד מריחת הפרשות חלזונות על המחסנית."
+    },
+    {
+      "original": "He's not at all interested in your widget.",
+      "translated": "הוא לא מתעניין כהוא זה ברכיב שלך."
+    },
+    {
+      "original": "Slugspeak is seldom improved by translation.",
+      "translated": "שפת חלזונות משתפרת לעיתים רחוקות על ידי תרגום."
+    },
+    {
+      "original": "Do you really want to get slime on your knife.",
+      "translated": "אתה באמת רוצה לצפות את הסכין שלך בריר?"
+    },
+    {
+      "original": "He seems supremely disinterested in your water.",
+      "translated": "הוא מביט בניכור עילאי במים שלך."
+    },
+    {
+      "original": "You show him your jet pack. He shrugs. It's sort of a slug shrug. Spooky!",
+      "translated": "אתה מראה לו את תרמיל הריחוף שלך. הוא מושך בכתפיו במעין משיכת כתפיים שבלולית. מפחיד!"
+    },
+    {
+      "original": "Do you really want to get slug slime all over these? I thought not.",
+      "translated": "אתה באמת רוצה למרוח ריר שבלולים על כל זה? תיארתי לעצמי שלא."
+    },
+    {
+      "original": "She'll make you SO sorry if you touch one of those.",
+      "translated": "היא תגרום לך להתחרט על היום שנולדת אם תיגע באחד מאלה."
+    },
+    {
+      "original": "Most extraterrestrials won't do that on the first date. Maybe you should just listen to them.",
+      "translated": "רוב החוצנים לא עושים את זה בדייט הראשון. אולי פשוט תקשיב להם."
+    },
+    {
+      "original": "So - you come here often?",
+      "translated": "אז - את מגיעה לפה הרבה?"
+    },
+    {
+      "original": "Get outta my face, Pinky.",
+      "translated": "עוף לי מהפרצוף, ורודי."
+    },
+    {
+      "original": "You've decided she's not your type. Heck, she's not even your species!",
+      "translated": "החלטת שהיא לא הסגנון שלך. לעזאזל, היא אפילו לא הגזע שלך!"
+    },
+    {
+      "original": "She smells as great as she looks, but maybe a little less green.",
+      "translated": "היא מריחה נהדר כמו שהיא נראית, אולי טיפה פחות ירוק."
+    },
+    {
+      "original": "You're certain she will misunderstand your generous gesture.",
+      "translated": "אתה בטוח שהיא לא תבין את מחוותך הנדיבה."
+    },
+    {
+      "original": "She ignores the cartridge, much as she ignores you.",
+      "translated": "היא מתעלמת מהמחסנית, בדיוק כפי שהיא מתעלמת ממך."
+    },
+    {
+      "original": "The thought of showing her your widget fills you with deep feelings of inadequacey.",
+      "translated": "עצם המחשבה על להראות לה את הרכיב שלך ממלאת אותך ברגשות עזים של אי כשירות."
+    },
+    {
+      "original": "She remains unimpressed.",
+      "translated": "היא נותרת אדישה."
+    },
+    {
+      "original": "You can't imagine she'd care about your genuine Xenon Army Knife.",
+      "translated": "אינך מעלה בדעתך כי יהיה לה אכפת מהסכין הצבאית הזנונית המקורית שבבעלותך."
+    },
+    {
+      "original": "Your dehydrated water couldn't possibly taste better than what she's drinking.",
+      "translated": "מימיך המיובשים לא יכולים להיות יותר טעימים ממה שהיא שותה."
+    },
+    {
+      "original": "She's pretty nearly as interested in your jet pack as she is in you, which is to say not much.",
+      "translated": "היא מתעניינת בתרמיל הריחוף בערך כמו שהיא מתעניינת בך, שזה אומר לא הרבה."
+    },
+    {
+      "original": "She's seen lots of coupons bigger and better than yours.",
+      "translated": "היא ראתה קופונים הרבה יותר גדולים ומוצלחים משלך."
+    },
+    {
+      "original": "His fur has the texture of a nylon bath rug that has been microwaved on HIGH.",
+      "translated": "לפרווה שלו יש מרקם של שטיח אמבטיה מפלסטיק שהתבשל במיקרוגל על החום הכי גבוה."
+    },
+    {
+      "original": "Can I offer you a Milk-Bone? you inquire in an attempt to be friendly.",
+      "translated": "אפשר להציע לך דוגלי? אתה מפיג את המתח בנסיון להיראות ידידותי."
+    },
+    {
+      "original": "Grrrrrrr!",
+      "translated": "גרררררר!"
+    },
+    {
+      "original": "You decide you just can't make friends with everybody.",
+      "translated": "אתה מחליט שלא תמיד אפשר להיות חבר של כולם."
+    },
+    {
+      "original": "Pretty much like wet dog.",
+      "translated": "די דומה לכלב רטוב."
+    },
+    {
+      "original": "This doesn't seem wise, even to you.",
+      "translated": "אפילו אתה מבין שזה לא חכם במיוחד."
+    },
+    {
+      "original": "He shows absolutely no interest in the cartridge.",
+      "translated": "הוא מראה אפס התעניינות במחסנית."
+    },
+    {
+      "original": "He seems less interested in the widget than in that cute drink in his paw.",
+      "translated": "נראה שהוא פחות מתעניין ברכיב מאשר במשקה החמוד בכפתו."
+    },
+    {
+      "original": "Since he isn't inclinded to talk to you, there's not much point trying to translate.",
+      "translated": "מאחר והוא אינו נוטה לשוחח איתך, אין ממש מה לתרגם."
+    },
+    {
+      "original": "On second thought, maybe you'd just better keep it in your pocket.",
+      "translated": "במחשבה שניה, מוטב שתשאיר את זה בכיסך."
+    },
+    {
+      "original": "He seems well taken care of in the drink department.",
+      "translated": "נראה שהוא מקבל טיפול מסור במחלקת המשקאות."
+    },
+    {
+      "original": "You wonder why you're offering this giant hairball your new jet pack and are forced to admit you don't know.",
+      "translated": "אתה תוהה בינך לבין עצמך מפני מה אתה מציע לכדור הפרווה הענק הזה את תרמיל הריחוף החדש שלך ונאלץ להודות שאין לך מושג."
+    },
+    {
+      "original": "You wisely decide that flashing your coupons at fur-face here would be a serious waste of your time.",
+      "translated": "אתה מכריע בחוכמה כי נפנוף בקופוניך מול פרצוף הפרווה כאן יהיה בזבוז אדיר של זמן."
+    },
+    {
+      "original": "You decide you'd rather live.",
+      "translated": "אתה מעדיף לחיות."
+    },
+    {
+      "original": "He doesn't seem willing to accept this in trade for a beer.",
+      "translated": "לא נראה שהוא מוכן לקבל את זה כתמורה לבירה."
+    },
+    {
+      "original": "The bartender only wants money.",
+      "translated": "המוזג רוצה כסף ותו לא."
+    },
+    {
+      "original": "He doesn't want this - he wants money.",
+      "translated": "הוא לא רוצה את זה - הוא רוצה כסף."
+    },
+    {
+      "original": "Threatening the bartender will probably get you Laze-O-Toasted. Try buying a drink instead.",
+      "translated": "איום על המוזג יהפוך אותך ככל הנראה ללייזר-טוסט. נסה לקנות משקה כתחליף."
+    },
+    {
+      "original": "No, dummy - he's supposed to gieve YOU drinks.",
+      "translated": "לא, טמבל - הוא אמור לתת לך משקה."
+    },
+    {
+      "original": "The bartender does not recognize your jet pack as currency. He wants to see Buckazoids.",
+      "translated": "המוזג אינו מזהה את תרמילך כהילך חוקי. הוא דורש לראות את זוזואודיך."
+    },
+    {
+      "original": "Try it and this guy is likely to use his beer tap on your head.",
+      "translated": "נסה את זה והבחור עלול להשתמש בברז הבירה על פדחתך."
+    },
+    {
+      "original": "His armpits could etch glass.",
+      "translated": "בית השחי שלו יכול לחרוט זכוכית."
+    },
+    {
+      "original": "Maybe you'd better buy your own beer",
+      "translated": "אולי כדאי שתקנה בירה משלך."
+    },
+    {
+      "original": "What's the use? You can't understand a word they're saying.",
+      "translated": "מה הטעם? אתה לא מבין מילה ממה שהם אומרים."
+    },
+    {
+      "original": "Sniffing others is a ritual best left to dogs and other four-legged creatures.",
+      "translated": "רחרוח הזולת הינו פולחן שמוטב להשאירו לכלבים ושאר יצורים ההולכים על ארבע."
+    },
+    {
+      "original": "The little purple guy doesn't seem to understand your offer of money.",
+      "translated": "הבחור הורדרד הקטן לא נראה שמבין את הצעתך הכספית."
+    },
+    {
+      "original": "The cartridge doesn't interest him in the least.",
+      "translated": "המחסנית לא מעניינת אותו בכהוא זה."
+    },
+    {
+      "original": "He seems not to care about the widget.",
+      "translated": "נראה שהרכיב לא מרגש אותו."
+    },
+    {
+      "original": "Even translated, his speech is gibberish.",
+      "translated": "אפילו לאחר תרגום, הנאום שלו נשמע בג'יבריש."
+    },
+    {
+      "original": "You talk to yourself and, as usual, learn nothing that you didn't already know.",
+      "translated": "אתה מדבר אל עצמך, וכרגיל, לא לומד משהו שלא ידעת כבר."
+    },
+    {
+      "original": "Hey! One shouldn't attempt to manipulate one's self in a family game.",
+      "translated": "היי! אתה לא אמור להתעסק עם עצמך במשחק לכל המשפחה."
+    },
+    {
+      "original": "Better not. You're likely to get a fur ball.",
+      "translated": "מוטב שלא. אתה צפוי לבלוע כדור פרווה."
+    },
+    {
+      "original": "The odor you're producing causes you to regret skipping last month's shower.",
+      "translated": "הניחוח שאתה מפיק גורם לך להתחרט על שדילגת על המקלחת החודשית."
+    },
+    {
+      "original": "You're too busy right now.",
+      "translated": "אתה עסוק מדי עכשיו."
+    },
+    {
+      "original": "Better save it for when you're thirsty.",
+      "translated": "עדיף לשמור את זה לרגעים שתהיה צמא."
+    },
+    {
+      "original": "You don't want to do that here.",
+      "translated": "אתה לא רוצה לעשות את זה כאן."
+    },
+    {
+      "original": "You wisely strap on the jetpack to allow your self motion control.",
+      "translated": "אתה חוגר בתבונתך את תרמיל הריחוף כדי לאפשר לך בקרת תנועה עצמית."
+    },
+    {
+      "original": "The jetpack is useful only in Zero-G situations.",
+      "translated": "תרמיל הריחוף יעיל רק במצבי אפס כבידה."
+    },
+    {
+      "original": "Don't bother. This knife wouldn't cut hot lard.",
+      "translated": "אל תטרח. הסכין לא חותכת שומן רותח."
+    },
+    {
+      "original": "Isn't this just the most amazing waste of time?",
+      "translated": "האין זה בזבוז הזמן המדהים ביותר בעולם?"
+    },
+    {
+      "original": "You have to wonder why you're performing such a useless action.",
+      "translated": "עליך לשאול את עצמך מדוע הינך מבצע פעולות כל כך חסרות תועלת."
+    },
+    {
+      "original": "You wisely decide this is a serious waste of time and energy.",
+      "translated": "אתה מחליט בחוכמה שמדובר בבזבוז משווע של זמן ואנרגיה."
+    },
+    {
+      "original": "You ask yourself why you're doing this and are forced to reply that you just don't know.",
+      "translated": "אתה שואל את עצמך למה אתה עושה זה ועצמך עונה לך שאין לו מושג."
+    },
+    {
+      "original": "Even for you, this isn't bright.",
+      "translated": "אפילו במונחים שלך, זה לא רעיון מבריק."
+    },
+    {
+      "original": "Thank you for playing Space Quest I. You've been most entertaining.",
+      "translated": "תודה ששיחקתם מסע בחלל 1. בידרתם אותנו כמו שצריך."
+    },
+    {
+      "original": "Are you sure you want to restart?",
+      "translated": "בטוח שרוצים להתחיל מחדש?"
+    },
+    {
+      "original": "Memory fragmented.",
+      "translated": "קטעי זכרונות."
+    },
+    {
+      "original": "What did you expect them to do, reproduce?",
+      "translated": "מה ציפית מהם לעשות, להתרבות?"
+    },
+    {
+      "original": "You're far too busy for that now.",
+      "translated": "אתה עסוק מדי בשביל זה עכשיו."
+    },
+    {
+      "original": "You switch the gadget off to conserve its energy.",
+      "translated": "אתה מכבה את הגאדג'ט כדי לחסוך באנרגיה."
+    },
+    {
+      "original": "You switch the gadget on.",
+      "translated": "אתה מפעיל את הגאדג'ט."
+    },
+    {
+      "original": "You're far to busy for that now.",
+      "translated": "אתה עסוק מדי בשביל זה עכשיו."
+    },
+    {
+      "original": "You scrape that sticky goo from the bottom of the rock.",
+      "translated": "אתה מגרד את העיסה הדביקה מתחתית הסלע."
+    },
+    {
+      "original": "There is nothing you can do to the rock.",
+      "translated": "אין לך מה לעשות לסלע."
+    },
+    {
+      "original": "You've already opened the survival kit and removed its contents.",
+      "translated": "כבר פתחת את ערכת ההישרדות ורוקנת את תכולתה."
+    },
+    {
+      "original": "Upon opening the survival kit you discover a Xenon army knife and a canister of dehydrated water.",
+      "translated": "אתה פותח את ערכת ההישרדות ומוצא בתוכה סכין צבאי זנוני ומיכל מים מיובשים."
+    },
+    {
+      "original": "You have %d Buckazoid%s",
+      "translated": "יש לך %d זוזואידים"
+    },
+    {
+      "original": "Thank you for playing Space Quest I. Too bad you've failed miserably and doomed all of your people to a horrible death at the hands of the Sariens. You quickly glance about the room to see if anyone saw your silly mistake. Better luck next time.",
+      "translated": "תודה ששיחקת מסע בחלל 1. עצוב מאד שנחלת כישלון מחפיר וגזרת על אנשיך מוות מחריד בידי הסריינים. אתה מעיף מבט חטוף מסביב לחדר ובודק אם מישהו הבחין בטעות המגוחכת שלך. בהצלחה בפעם הבאה."
+    },
+    {
+      "original": "Score: %d of %d",
+      "translated": "ניקוד: %d מתוך %d"
+    },
+    {
+      "original": "Roger Wilco",
+      "translated": "רוג'ר ווילקו"
+    },
+    {
+      "original": "It's you, Roger Wilco, janitor sub-extraordinaire.",
+      "translated": "זה אתה, רוג'ר ווילקו, מנקה תת-מעולה."
+    },
+    {
+      "original": "This is your brain take-out container.",
+      "translated": "זה מיכל הוצאת המוח שלך."
+    },
+    {
+      "original": "Let me out of here!\\n(Quit)",
+      "translated": "תוציאו אותי מכאן!\\n(צא)"
+    },
+    {
+      "original": "I don't know WHAT\\nI was thinking.\\nLet's Play!",
+      "translated": "אני לא יודע *מה*\\nאני חשבתי.\\nבואו נשחק!"
+    },
+    {
+      "original": "Of course I'm sure!",
+      "translated": "ברור שאני בטוח!"
+    },
+    {
+      "original": "Changed My Mind.\\nLet's Play!",
+      "translated": "שיניתי את דעתי.\\nבואו נשחק!"
+    },
+    {
+      "original": "Who cares",
+      "translated": "למי אכפת"
+    },
+    {
+      "original": "Debug",
+      "translated": "דיבאג"
+    },
+    {
+      "original": "Select this Icon to close this window.",
+      "translated": "בחר בסמליל הזה כדי לסגור את החלון."
+    },
+    {
+      "original": "Select this Icon then select an inventory item you'd like a description of.",
+      "translated": "בחר בסמליל הזה ואז בחר פריט מהמלאי שאתה רוצה תיאור שלו."
+    },
+    {
+      "original": "This allows you to do something to an item.",
+      "translated": "זה מאפשר לך לעשות משהו לפריט."
+    },
+    {
+      "original": "This allows you to select an item.",
+      "translated": "זה מאפשר לך לבחור פריט."
+    },
+    {
+      "original": "It's a cartridge from the Arcada's Data Archive.",
+      "translated": "זו מחסנית מארכיב המידע של הארקדה."
+    },
+    {
+      "original": "This keycard fits an electronic lock someplace on the Arcada.",
+      "translated": "הכרטיס הזה מתאים למנעול אלקטרוני איפשהו בארקדה."
+    },
+    {
+      "original": "This is some sort of gadget. You're not sure what it does exactly, but it has a switch.",
+      "translated": "זה סוג של אביזר. אתה לא בטוח מה בדיוק זה עושה, אבל יש לזה מתג."
+    },
+    {
+      "original": "It's the cone shaped tip of a stalagmite.",
+      "translated": "זה הקצה החרוטי של זקיף."
+    },
+    {
+      "original": "A Survival Kit",
+      "translated": "ערכת הישרדות"
+    },
+    {
+      "original": "It's a Xenon Army knife",
+      "translated": "זה אולר צבא קסנוני"
+    },
+    {
+      "original": "The can label says Pelvitron Dehydrated Water (H2) - All you add is air! Makes 10 gallons! Caution - Do not attempt to open or rupture container! Misuse could result in personal injury and/or flash flooding.",
+      "translated": "על התווית של הפחית כתוב פלוויטרון מים מיובשים - נשאר רק להוסיף אוויר! טוב ל-40 ליטר! זהירות - אל תנסה לפתוח או לקרוע את המיכל! שימוש לקוי עלול להסתיים בפציעה ו/או הצפה פתאומית."
+    }
+  ],
+  "messages": [
+    {
+      "logicFile": "43.agilogic",
+      "messageNumber": 3,
+      "original": "Please remain seated and keep your hands inside while the vehicle is moving.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "43.agilogic",
+      "messageNumber": 4,
+      "original": "Darn, %s1. Upon exiting the ship, you find that you have no means of maneuvering and are subject to the whims of inertia and gravity. You quickly learn the true meaning of helplessness as death has its way with you.",
+      "placeholders": [
+        "%s"
+      ],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "43.agilogic",
+      "messageNumber": 5,
+      "original": "Before you lies the Sarien battle cruiser, Deltaur. An imposingly massive ship. Now you understand why the Arcada was so easily overtaken. Your first instinct is to turn the ship around and head for home. But, then you realize that unless you do something to try to stop the Sariens, there will be no home.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "43.agilogic",
+      "messageNumber": 6,
+      "original": "Before leaving the safety of your ship, you instruct the little droid to set a course for Xenon, where you will rendezvous later. Providing, of course, that you are successful in carrying out your mission. Once again, you are on your own.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    }
+  ]
+}

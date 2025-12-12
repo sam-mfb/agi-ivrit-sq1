@@ -1,0 +1,59 @@
+{
+  "room": "39",
+  "totalMessages": 4,
+  "matchStats": {
+    "exact": 0,
+    "normalized": 0,
+    "fuzzy": 1,
+    "partial": 1,
+    "unmatched": 2
+  },
+  "csvContext": [],
+  "messages": [
+    {
+      "logicFile": "39.agilogic",
+      "messageNumber": 1,
+      "original": "This is the exterior of Droids-B-Us. There is a door here.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "זה החלק החיצוני של רובוטים-אר-אס. יש כאן דלת."
+    },
+    {
+      "logicFile": "39.agilogic",
+      "messageNumber": 2,
+      "original": "The sign says \\\"Droids-B-Us\\\". That's it.",
+      "placeholders": [],
+      "matchType": "partial",
+      "matchScore": 0.5,
+      "suggestedTranslation": "על השלט החבוט רשום רובוטים-אר-אס איסוף.",
+      "csvMatch": "The badly weathered sign says Droids-B-Us Pickup.",
+      "translation": "REVIEW: על השלט כתוב \\\"רובוטים-אר-אס\\\". זהו.",
+      "notes": "REVIEW: Partial match - simpler version"
+    },
+    {
+      "logicFile": "39.agilogic",
+      "messageNumber": 3,
+      "original": "The droid waits outside for you.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "הדרואיד מחכה לך בחוץ."
+    },
+    {
+      "logicFile": "39.agilogic",
+      "messageNumber": 30,
+      "original": "You are standing against the protective barrier encircling Ulence Flats. Due to the fact that you are land-based, you are not able to pass.",
+      "placeholders": [],
+      "matchType": "fuzzy",
+      "matchScore": 0.8947368421052632,
+      "suggestedTranslation": "אתה עומד על יד מחסום המגן המקיף את מישורי יולנס. לאור העובדה שאתה יונק יבשתי, אין באפשרותך לדלג מעליו.",
+      "csvMatch": "You are standing next to the protective barrier encircling Ulence Flats. Due to the fact that you are land-based, you are not able to pass.",
+      "translation": "אתה עומד נגד מחסום המגן המקיף את מישורי יולנס. מאחר שאתה יבשתי, אינך יכול לעבור."
+    }
+  ]
+}

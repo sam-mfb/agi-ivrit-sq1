@@ -1,0 +1,755 @@
+{
+  "room": "14",
+  "totalMessages": 23,
+  "matchStats": {
+    "exact": 1,
+    "normalized": 0,
+    "fuzzy": 1,
+    "partial": 1,
+    "unmatched": 20
+  },
+  "csvContext": [
+    {
+      "original": "Gee, all of a sudden the engines have grown quiet. Boy, you sure were zooming along for quite some time.",
+      "translated": "אללי, לפתע פתאום מנועי הספינה כבים ומשתתקים כליל. וואו, כמה שחיכית לרגע של שקט."
+    },
+    {
+      "original": "Of course, the zooming part is over now since you've run out of fuel. You'll just float along on inertia with no control of your attitude or destination.",
+      "translated": "כמובן, הרגע הקסום מתפוגג לו עד מהרה מאחר ונגמר לך הדלק. אתה משייט לך מכוח ההתמדה ללא שליטה על יציבותך או כיוונך."
+    },
+    {
+      "original": "Yep, you're still drifting hopelessly through space. Bummer, eh?",
+      "translated": "כן, אתה עדיין נסחף חסר כל תקווה במרחבי החלל. באסה, אה?"
+    },
+    {
+      "original": "Hunger grows to a level where your body decides to start feasting on itself. In your last conscious thoughts it dawns on you that navigation of some sort might have been a big helper here.",
+      "translated": "הרעב גובר לרמה בה גופך מחליט להתחיל לזלול את עצמו. במחשבה הצלולה האחרונה נופל לך האסימון כי ניווט מכל סוג שהוא היה פותר לך כמה בעיות."
+    },
+    {
+      "original": "Remove your seatbelt first. It works better.",
+      "translated": "ראשית הסר את חגורת הבטיחות. זה עובד טוב יותר."
+    },
+    {
+      "original": "Please stay seated until the space pod has come to a complete stop. Thank you for your cooperation.",
+      "translated": "אנא הישאר לשבת במקומך עד שחללית המילוט תגיע למצב של עצירה מוחלטת. תודה על שיתוף הפעולה הפורה."
+    },
+    {
+      "original": "The pod has gone through some changes. All systems seem to have died and the windshield is now embossed with a lovely mosaic pattern.",
+      "translated": "החללית עברה כמה שינויים. כל המערכות שבקו חיים ומגן הרוח התכסה בתבנית פסיפס מרהיבה."
+    },
+    {
+      "original": "The inside of the Arcada's escape pods is not exactly packed with luxurious appointments. However, when it comes to saving one's posterior, it's as good as a Rolls.",
+      "translated": "פנים חללית המילוט של הארקדה אינו מצויד במילה האחרונה בתחום אביזרי הנוחות. יחד עם זאת, בכל הנוגע להצלת אחורי הנוסעים, אין היא נופלת מרולס-רויס."
+    },
+    {
+      "original": "The pain fades away along with any sense of belonging to the community of the living. Your powerless pod drifts through space for eons, eventually being plowed by some primitive deep space probe. Knowing that your insurance deductible was much too high anyway, you gain a new appreciation for death.",
+      "translated": "הכאב מתעמעם ביחד עם תחושת השייכות לקהילת החיים. ספינתך חסרת החיים נסחפת בחלל היקום במשך יובלות, עד שלבסוף נטחנת על ידי גשושית חלל עמוק פרימיטיבית חולפת. ההשתתפות עצמית הגבוהה ממילא, נותנת לך פרספקטיבה חדשה על המוות."
+    },
+    {
+      "original": "Please press the desired button.",
+      "translated": "אנא הקש על הכפתור הרצוי."
+    },
+    {
+      "original": "Thank you for flying Arcada Getaway Podlines! It's nearly been a pleasure serving you. Tell a friend (if you've got one).",
+      "translated": "תודה שטסתם בארקדה נתיבי מילוט! היה כמעט תענוג לשרת אתכם. ספרו לחבריכם (אם יש לכם כאלה)."
+    },
+    {
+      "original": "This has been rendered inoperable due to the shock of that less-than-graceful landing.",
+      "translated": "הדבר הוכרז כבלתי שמיש עקב הזעזוע שחטף מהנחיתה הבלתי-חיננית-בעליל."
+    },
+    {
+      "original": "This option works better with the power on.",
+      "translated": "אפשרות זו עובדת טוב יותר כשהחשמל פועל."
+    },
+    {
+      "original": "The fuel supply has expired.",
+      "translated": "אספקת הדלק תמה."
+    },
+    {
+      "original": "This button just doesn't work the same since the accident.",
+      "translated": "כפתור זה לא עובד באותה צורה מאז התאונה."
+    },
+    {
+      "original": "You have a feeling you shouldn't have pressed that button.",
+      "translated": "יש לך תחושה שלא היית אמור ללחוץ על הכפתור הזה."
+    },
+    {
+      "original": "Ouch! I think we've got some serious organ damage here! All of them, of course, could be easily replaced in the time period from which you've just arrived. However, a quick scenery check reveals that you are now in the Dark Ages. The only transplant you'll get here is from carcass to spit over flame.",
+      "translated": "אאוץ'! אני חושב שיש לנו פה פגיעת איברים חמורה! כולם, כמובן, היו ניתנים להחלפה בתקופת הזמן ממנה הגעת זה עתה. אולם, בדיקת נוף מהירה מגלה כי נחתת בימי הביניים. ההשתלה היחידה שתקבל כאן היא חלקי שיפוד מגוויה על המנגל."
+    },
+    {
+      "original": "As you draw a few final lungfuls of oxygen through your newly-acquired sucking chest wound, you gleefully notice your final resting place is near beautiful Nottingham Castle - universally renowned for its inclusion in Sierra's 'Conquests of the Longbow'.",
+      "translated": "בשעה שאתה שואף מלוא ריאותיך את מנת החמצן האחרונה דרך פציעת החזה החדישה שלך, אתה מבחין באושר רב כי מקום מנוחתך האחרון שוכן קרוב לטירת נוטינגהם - הנודעת לשמצה עקב הכללתה ב'כיבושי הקשת הארוכה'."
+    },
+    {
+      "original": "Oh, my goodness! You're shocked to hear some highly inflammatory language making its way into your auditory canals. Must be some uncivilized ruffians in the nearby pub.",
+      "translated": "אוי, אלוקים אדירים! אתה נדהם לשמוע שפה מסיתה במיוחד עושה את דרכה אל תעלת האוזן התיכונה. כנראה סוג של בריונים חסרי תרבות מהמועדון הקרוב."
+    },
+    {
+      "original": "Well, you're dead again. We even warned you not to push that button. You have no one to blame but yourself for having to sit through a plug for another fine Sierra product. Maybe you'll follow directions next time. Thanks for playing (and all that stuff).",
+      "translated": "ובכן, אתה מת שוב. הרי הזהרנו אותך לא ללחוץ על הכפתור. אין לך את מי להאשים מלבד את עצמך על כך שנאלצת לצפות בפרסומת למוצר משובח אחר של סיירה. אולי בפעם הבאה תקשיב להוראות. תודה ששיחקת (וכו' וכו')."
+    },
+    {
+      "original": "Nothing much will happen without power.",
+      "translated": "שום דבר לא יקרה בלי חשמל."
+    },
+    {
+      "original": "The lack of fuel allows you to float aimlessly through space.",
+      "translated": "המחסור בדלק מאפשר לך לרחף חסר מטרה בחלל החיצון."
+    },
+    {
+      "original": "You are already thrusting through space.",
+      "translated": "אתה כבר נהדף במרחבי החלל."
+    },
+    {
+      "original": "You have no need to remove your seatbelt.",
+      "translated": "אין שום צורך להסיר את חגורת הבטיחות."
+    },
+    {
+      "original": "Hey, this baby saved your life. The view out the window, however, might make you regret it.",
+      "translated": "הי, המתוקה הזאת הצילה אותך ממוות בטוח. הנוף המשתקף מהחלון, לעומת זאת, עלול לגרום לך להתחרט על כך."
+    },
+    {
+      "original": "Dials galore populate the instrument console of the pod cabin.%s",
+      "translated": "חוגות למכביר מפארות את מסוף הבקרה בקדמת הספינה.%s"
+    },
+    {
+      "original": "This is the pod's instrument console. Dials, gauges, and a couple of controls fill out the board.%s",
+      "translated": "זהו מסוף הבקרה השולט על מערכות החללית. חוגות, מחוונים, וכמה בקרים ממלאים את הלוח.%s"
+    },
+    {
+      "original": "This is the lucky escapee's seat.%s",
+      "translated": "מושב מפלט לבני מזל.%s"
+    },
+    {
+      "original": "Through the fractured pod window, you see utter desolation spread out before you. You suddenly feel very lonely.",
+      "translated": "מבעד לחלון התרמיל הסדוק, אתה רואה שממון מוחלט נפרש עד מעבר לאופק. אתה לפתע מרגיש בודד מאד."
+    },
+    {
+      "original": "The window allows you an unrestricted view of the vast nothingness of space.",
+      "translated": "החלון מספק לך תצוגה בלתי מוגבלת של מרחבי ריק אינסופיים."
+    },
+    {
+      "original": "The rugged landing liberated the survival kit from its mounting fixture.",
+      "translated": "המנחת הטרשי שחרר את ערכת ההשרדות ממתקן הקיבוע שלה."
+    },
+    {
+      "original": "Within the survival kit are the necessities for surviving a brief stay in a less-than-hospitable environment.",
+      "translated": "ערכת ההשרדות כוללת את כל האמצעים הדרושים לשהות קצרה בסביבה עוינת שאינה מסבירת פנים."
+    },
+    {
+      "original": "You can't get that now.",
+      "translated": "אין לך אפשרות לקחת את זה עכשיו."
+    },
+    {
+      "original": "Nice lights, huh?",
+      "translated": "אורות נעימים, אה?"
+    },
+    {
+      "original": "This is a radar used by the Autonav system.",
+      "translated": "מכם זה משמש את מערכת הניווט האוטומטית."
+    },
+    {
+      "original": "This button WASN'T to be pushed at anytime. Now that it's dead go crazy and push away.",
+      "translated": "על כפתור זה לא היית אמור ללחוץ לעולם. עתה משנאסף אל אבותיו, תתחיל ללחוץ עליו כמו מטורף."
+    },
+    {
+      "original": "THIS BUTTON IS NOT TO BE PUSHED AT ANYTIME.",
+      "translated": "אין ללחוץ על כפתור זה לעולם."
+    },
+    {
+      "original": "This is the power button for the escape pod.%s",
+      "translated": "זה כפתור ההדלקה של חללית המילוט.%s"
+    },
+    {
+      "original": "thruster",
+      "translated": "מדחף"
+    },
+    {
+      "original": "This lever causes forward propulsion of the pod when powered-up and in space.",
+      "translated": "הידית הזו גורמת לתאוצה קדמית של החללית כאשר היא פועלת."
+    },
+    {
+      "original": "Roger",
+      "translated": "רוג'ר"
+    },
+    {
+      "original": "There doesn't seem to be enough room.",
+      "translated": "נראה שאין מספיק מקום."
+    },
+    {
+      "original": "seat belt",
+      "translated": "חגורת בטיחות"
+    },
+    {
+      "original": "The seatbelt is dummy-tested, which ought to suit you just fine.",
+      "translated": "חגורת הבטיחות נבחנה עם בובות התנגשות, אז ראש ריק כמו שלך אמור להיות בסדר גמור."
+    },
+    {
+      "original": "Dials galore populate the instrument console of the pod cabin. Too bad none of them work anymore.",
+      "translated": "מחוגים לרוב מאכלסים את מסוף המכשור של תא הטייס של החללית."
+    },
+    {
+      "original": "Too bad none of them work anymore.",
+      "translated": "חבל שאף אחד מהם כבר לא עובד."
+    },
+    {
+      "original": "It might have been dampened slightly by that landing.",
+      "translated": "ייתכן שהוא נהיה לח קלות בשל הנחיתה ההיא."
+    },
+    {
+      "original": "Window",
+      "translated": "חלון"
+    },
+    {
+      "original": "On this button pad are the AUTONAV, POWER, and DON'T TOUCH buttons.",
+      "translated": "על לוח הכפתורים הזה מצויים ניווט-אוטומטי, מתח וכפתורי *אל תיגע*."
+    },
+    {
+      "original": "Kerona",
+      "translated": "קרונה"
+    },
+    {
+      "original": "should be hands-off",
+      "translated": "צריך להיות בלי ידיים"
+    },
+    {
+      "original": "survival kit",
+      "translated": "ערכת הישרדות"
+    },
+    {
+      "original": "Within the survival kit are the necessities for surviving a brief stay in a less-than-hospitable environment.",
+      "translated": "בערכת ההישרדות נמצאים הדברים הנחוצים להישרדות בשהייה קצרה בסביבה לא-כה-מזמינה."
+    },
+    {
+      "original": "mountain",
+      "translated": "הר"
+    },
+    {
+      "original": "Mountains generously dappled with spires of unknown formational origin loom at your visual terminus.",
+      "translated": "הרים המנומרים בנדיבות בצריחים ממקור מבני לא ידוע נגלים לפניך בקצה הראייה שלך."
+    },
+    {
+      "original": "lights",
+      "translated": "אורות"
+    },
+    {
+      "original": "radar",
+      "translated": "מכם"
+    },
+    {
+      "original": "Simple radar.",
+      "translated": "מכם פשוט."
+    },
+    {
+      "original": "arm",
+      "translated": "זרוע"
+    },
+    {
+      "original": "This is your arm.",
+      "translated": "זו הזרוע שלך."
+    },
+    {
+      "original": "head",
+      "translated": "ראש"
+    },
+    {
+      "original": "This is your head. This is your head in a fishbowl.",
+      "translated": "זה הראש שלך. זה הראש שלך באקווריום."
+    },
+    {
+      "original": "star",
+      "translated": "כוכב"
+    },
+    {
+      "original": "star 1",
+      "translated": "כוכב 1"
+    },
+    {
+      "original": "star 2",
+      "translated": "כוכב 2"
+    },
+    {
+      "original": "don't need",
+      "translated": "לא צריך"
+    },
+    {
+      "original": "The spent drives of the pod vent fumes after the long escape from the Arcada.",
+      "translated": "המדחפים הגמורים של החללית מוציאים אדים אחרי ההימלטות הממושכת מהארקדיה."
+    },
+    {
+      "original": "This is the escape pod's hatch.",
+      "translated": "זה הצוהר של חללית המילוט."
+    },
+    {
+      "original": "hologram",
+      "translated": "הולוגרמה"
+    },
+    {
+      "original": "escape pod",
+      "translated": "חללית מילוט"
+    },
+    {
+      "original": "Autonav button",
+      "translated": "כפתור ניווט-אוטומטי"
+    },
+    {
+      "original": "This is the Autonav button. When operative it allows the pod to navigate to the closest habitable planet.",
+      "translated": "זהו כפתור הניווט-האוטומטי. כשהוא פועל הוא מאפשר לחללית לנווט לעבר הכוכב בר-היישוב הקרוב ביותר."
+    },
+    {
+      "original": "button",
+      "translated": "כפתור"
+    },
+    {
+      "original": "power button",
+      "translated": "כפתור מתח"
+    },
+    {
+      "original": "Its service life has expired as a result of the rugged touch-down.",
+      "translated": "תקופת האחריות שלו פקעה כתוצאה מלחיצות קשוחות."
+    },
+    {
+      "original": "button pad",
+      "translated": "לוח כפתורים"
+    },
+    {
+      "original": "Please press the desired button.",
+      "translated": "בחר בכפתור המתאים."
+    },
+    {
+      "original": "You talk to yourself and, as usual, learn nothing that you didn't already know.",
+      "translated": "אתה מדבר אל עצמך, וכרגיל, לא לומד משהו שלא ידעת כבר."
+    },
+    {
+      "original": "Hey! One shouldn't attempt to manipulate one's self in a family game.",
+      "translated": "היי! אתה לא אמור להתעסק עם עצמך במשחק לכל המשפחה."
+    },
+    {
+      "original": "Better not. You're likely to get a fur ball.",
+      "translated": "מוטב שלא. אתה צפוי לבלוע כדור פרווה."
+    },
+    {
+      "original": "The odor you're producing causes you to regret skipping last month's shower.",
+      "translated": "הניחוח שאתה מפיק גורם לך להתחרט על שדילגת על המקלחת החודשית."
+    },
+    {
+      "original": "You're too busy right now.",
+      "translated": "אתה עסוק מדי עכשיו."
+    },
+    {
+      "original": "Better save it for when you're thirsty.",
+      "translated": "עדיף לשמור את זה לרגעים שתהיה צמא."
+    },
+    {
+      "original": "You don't want to do that here.",
+      "translated": "אתה לא רוצה לעשות את זה כאן."
+    },
+    {
+      "original": "You wisely strap on the jetpack to allow your self motion control.",
+      "translated": "אתה חוגר בתבונתך את תרמיל הריחוף כדי לאפשר לך בקרת תנועה עצמית."
+    },
+    {
+      "original": "The jetpack is useful only in Zero-G situations.",
+      "translated": "תרמיל הריחוף יעיל רק במצבי אפס כבידה."
+    },
+    {
+      "original": "Don't bother. This knife wouldn't cut hot lard.",
+      "translated": "אל תטרח. הסכין לא חותכת שומן רותח."
+    },
+    {
+      "original": "Isn't this just the most amazing waste of time?",
+      "translated": "האין זה בזבוז הזמן המדהים ביותר בעולם?"
+    },
+    {
+      "original": "You have to wonder why you're performing such a useless action.",
+      "translated": "עליך לשאול את עצמך מדוע הינך מבצע פעולות כל כך חסרות תועלת."
+    },
+    {
+      "original": "You wisely decide this is a serious waste of time and energy.",
+      "translated": "אתה מחליט בחוכמה שמדובר בבזבוז משווע של זמן ואנרגיה."
+    },
+    {
+      "original": "You ask yourself why you're doing this and are forced to reply that you just don't know.",
+      "translated": "אתה שואל את עצמך למה אתה עושה זה ועצמך עונה לך שאין לו מושג."
+    },
+    {
+      "original": "Even for you, this isn't bright.",
+      "translated": "אפילו במונחים שלך, זה לא רעיון מבריק."
+    },
+    {
+      "original": "Thank you for playing Space Quest I. You've been most entertaining.",
+      "translated": "תודה ששיחקתם מסע בחלל 1. בידרתם אותנו כמו שצריך."
+    },
+    {
+      "original": "Are you sure you want to restart?",
+      "translated": "בטוח שרוצים להתחיל מחדש?"
+    },
+    {
+      "original": "Memory fragmented.",
+      "translated": "קטעי זכרונות."
+    },
+    {
+      "original": "What did you expect them to do, reproduce?",
+      "translated": "מה ציפית מהם לעשות, להתרבות?"
+    },
+    {
+      "original": "You're far too busy for that now.",
+      "translated": "אתה עסוק מדי בשביל זה עכשיו."
+    },
+    {
+      "original": "You switch the gadget off to conserve its energy.",
+      "translated": "אתה מכבה את הגאדג'ט כדי לחסוך באנרגיה."
+    },
+    {
+      "original": "You switch the gadget on.",
+      "translated": "אתה מפעיל את הגאדג'ט."
+    },
+    {
+      "original": "You're far to busy for that now.",
+      "translated": "אתה עסוק מדי בשביל זה עכשיו."
+    },
+    {
+      "original": "You scrape that sticky goo from the bottom of the rock.",
+      "translated": "אתה מגרד את העיסה הדביקה מתחתית הסלע."
+    },
+    {
+      "original": "There is nothing you can do to the rock.",
+      "translated": "אין לך מה לעשות לסלע."
+    },
+    {
+      "original": "You've already opened the survival kit and removed its contents.",
+      "translated": "כבר פתחת את ערכת ההישרדות ורוקנת את תכולתה."
+    },
+    {
+      "original": "Upon opening the survival kit you discover a Xenon army knife and a canister of dehydrated water.",
+      "translated": "אתה פותח את ערכת ההישרדות ומוצא בתוכה סכין צבאי זנוני ומיכל מים מיובשים."
+    },
+    {
+      "original": "You have %d Buckazoid%s",
+      "translated": "יש לך %d זוזואידים"
+    },
+    {
+      "original": "Thank you for playing Space Quest I. Too bad you've failed miserably and doomed all of your people to a horrible death at the hands of the Sariens. You quickly glance about the room to see if anyone saw your silly mistake. Better luck next time.",
+      "translated": "תודה ששיחקת מסע בחלל 1. עצוב מאד שנחלת כישלון מחפיר וגזרת על אנשיך מוות מחריד בידי הסריינים. אתה מעיף מבט חטוף מסביב לחדר ובודק אם מישהו הבחין בטעות המגוחכת שלך. בהצלחה בפעם הבאה."
+    },
+    {
+      "original": "Score: %d of %d",
+      "translated": "ניקוד: %d מתוך %d"
+    },
+    {
+      "original": "Roger Wilco",
+      "translated": "רוג'ר ווילקו"
+    },
+    {
+      "original": "It's you, Roger Wilco, janitor sub-extraordinaire.",
+      "translated": "זה אתה, רוג'ר ווילקו, מנקה תת-מעולה."
+    },
+    {
+      "original": "This is your brain take-out container.",
+      "translated": "זה מיכל הוצאת המוח שלך."
+    },
+    {
+      "original": "Let me out of here!\\n(Quit)",
+      "translated": "תוציאו אותי מכאן!\\n(צא)"
+    },
+    {
+      "original": "I don't know WHAT\\nI was thinking.\\nLet's Play!",
+      "translated": "אני לא יודע *מה*\\nאני חשבתי.\\nבואו נשחק!"
+    },
+    {
+      "original": "Of course I'm sure!",
+      "translated": "ברור שאני בטוח!"
+    },
+    {
+      "original": "Changed My Mind.\\nLet's Play!",
+      "translated": "שיניתי את דעתי.\\nבואו נשחק!"
+    },
+    {
+      "original": "Who cares",
+      "translated": "למי אכפת"
+    },
+    {
+      "original": "Debug",
+      "translated": "דיבאג"
+    },
+    {
+      "original": "Select this Icon to close this window.",
+      "translated": "בחר בסמליל הזה כדי לסגור את החלון."
+    },
+    {
+      "original": "Select this Icon then select an inventory item you'd like a description of.",
+      "translated": "בחר בסמליל הזה ואז בחר פריט מהמלאי שאתה רוצה תיאור שלו."
+    },
+    {
+      "original": "This allows you to do something to an item.",
+      "translated": "זה מאפשר לך לעשות משהו לפריט."
+    },
+    {
+      "original": "This allows you to select an item.",
+      "translated": "זה מאפשר לך לבחור פריט."
+    },
+    {
+      "original": "It's a cartridge from the Arcada's Data Archive.",
+      "translated": "זו מחסנית מארכיב המידע של הארקדה."
+    },
+    {
+      "original": "This keycard fits an electronic lock someplace on the Arcada.",
+      "translated": "הכרטיס הזה מתאים למנעול אלקטרוני איפשהו בארקדה."
+    },
+    {
+      "original": "This is some sort of gadget. You're not sure what it does exactly, but it has a switch.",
+      "translated": "זה סוג של אביזר. אתה לא בטוח מה בדיוק זה עושה, אבל יש לזה מתג."
+    },
+    {
+      "original": "It's the cone shaped tip of a stalagmite.",
+      "translated": "זה הקצה החרוטי של זקיף."
+    },
+    {
+      "original": "A Survival Kit",
+      "translated": "ערכת הישרדות"
+    },
+    {
+      "original": "It's a Xenon Army knife",
+      "translated": "זה אולר צבא קסנוני"
+    },
+    {
+      "original": "The can label says Pelvitron Dehydrated Water (H2) - All you add is air! Makes 10 gallons! Caution - Do not attempt to open or rupture container! Misuse could result in personal injury and/or flash flooding.",
+      "translated": "על התווית של הפחית כתוב פלוויטרון מים מיובשים - נשאר רק להוסיף אוויר! טוב ל-40 ליטר! זהירות - אל תנסה לפתוח או לקרוע את המיכל! שימוש לקוי עלול להסתיים בפציעה ו/או הצפה פתאומית."
+    }
+  ],
+  "messages": [
+    {
+      "logicFile": "14.agilogic",
+      "messageNumber": 1,
+      "original": "You are inside the escape pod. It appears that the more fragile devices were damaged severely by the impact of landing.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "14.agilogic",
+      "messageNumber": 2,
+      "original": "Through the window you see a vast wasteland composed of sand.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "14.agilogic",
+      "messageNumber": 3,
+      "original": "The console consists of a screen, pod status indicators, a throttle, and some buttons.  The buttons are marked \\\"AutoNav\\\" and \\\"Power\\\".",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "14.agilogic",
+      "messageNumber": 4,
+      "original": "Pushing the AutoNav button has no effect.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "14.agilogic",
+      "messageNumber": 5,
+      "original": "The throttle seems to be jammed.  It won't budge.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "14.agilogic",
+      "messageNumber": 6,
+      "original": "The screen is dark, not to mention cracked.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "14.agilogic",
+      "messageNumber": 7,
+      "original": "Pushing the Power button has no effect.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "14.agilogic",
+      "messageNumber": 8,
+      "original": "You are inside the escape pod. It appears that the more fragile devices were damaged severely by the impact of landing.  Got any bright ideas, Edison?",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "14.agilogic",
+      "messageNumber": 9,
+      "original": "You are unable to leave with your seat belt on.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "14.agilogic",
+      "messageNumber": 10,
+      "original": "Done",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "14.agilogic",
+      "messageNumber": 11,
+      "original": "That has already been done.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "14.agilogic",
+      "messageNumber": 12,
+      "original": "You can fix nothing here.",
+      "placeholders": [],
+      "matchType": "partial",
+      "matchScore": 0.5,
+      "suggestedTranslation": "לא תוכל לעשות להם דבר מכאן.",
+      "csvMatch": "There's nothing you can do to these from here."
+    },
+    {
+      "logicFile": "14.agilogic",
+      "messageNumber": 13,
+      "original": "Neither this nor anything else on the console works.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "14.agilogic",
+      "messageNumber": 14,
+      "original": "There are three buttons here. They are marked \\\"AutoNav\\\", \\\"Power\\\", and \\\"Don't Press\\\".",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "14.agilogic",
+      "messageNumber": 15,
+      "original": "The throttle is of the usual \\\"T\\\"-shaped variety.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "14.agilogic",
+      "messageNumber": 16,
+      "original": "The door has been permanently opened by the impact of landing.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "14.agilogic",
+      "messageNumber": 17,
+      "original": "A survival kit has broken loose from someplace.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "14.agilogic",
+      "messageNumber": 18,
+      "original": "There is nothing under the seat.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "14.agilogic",
+      "messageNumber": 19,
+      "original": "After a skull-jarring landing, you peer through the shattered viewing port out onto the desert landscape. A feeling of utter desolation settles in. You`re in a fine mess now, %s1.",
+      "placeholders": [
+        "%s"
+      ],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "14.agilogic",
+      "messageNumber": 20,
+      "original": ">",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "14.agilogic",
+      "messageNumber": 21,
+      "original": "_",
+      "placeholders": [],
+      "matchType": "exact",
+      "matchScore": 1,
+      "suggestedTranslation": "_",
+      "csvMatch": "_"
+    },
+    {
+      "logicFile": "14.agilogic",
+      "messageNumber": 22,
+      "original": "No way.",
+      "placeholders": [],
+      "matchType": "fuzzy",
+      "matchScore": 1,
+      "suggestedTranslation": "אין סיכוי!",
+      "csvMatch": "No way!"
+    },
+    {
+      "logicFile": "14.agilogic",
+      "messageNumber": 23,
+      "original": "Don't worry. Aside from a stray Sarien attack, this is a low crime area.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "room": "62",
+  "totalMessages": 9,
+  "matchStats": {
+    "exact": 0,
+    "normalized": 0,
+    "fuzzy": 0,
+    "partial": 0,
+    "unmatched": 9
+  },
+  "messages": [
+    {
+      "logicFile": "62.agilogic",
+      "messageNumber": 1,
+      "original": "That cannot be done from where you are.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "זה לא יכול להיעשות מהמקום בו אתה נמצא."
+    },
+    {
+      "logicFile": "62.agilogic",
+      "messageNumber": 2,
+      "original": "You swiftly slip into the sleek ship. (Try to say that three times fast.)",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "אתה חומק במהירות אל תוך הספינה המלוטשת. (נסה לומר את זה שלוש פעמים מהר.)"
+    },
+    {
+      "logicFile": "62.agilogic",
+      "messageNumber": 3,
+      "original": "That act cannot be performed now.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "הפעולה הזו אינה יכולה להתבצע כעת."
+    },
+    {
+      "logicFile": "62.agilogic",
+      "messageNumber": 4,
+      "original": "You are in the shuttle launch bay aboard the Sarien ship.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "אתה נמצא במפרץ שיגור המעבורות על סיפון הספינה הסריאנית."
+    },
+    {
+      "logicFile": "62.agilogic",
+      "messageNumber": 5,
+      "original": "The ship is a one-man transport vessel.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "הספינה היא כלי תחבורה לאדם אחד."
+    },
+    {
+      "logicFile": "62.agilogic",
+      "messageNumber": 6,
+      "original": "You frantically search the control console for the \\\"Launch\\\" button. Aha! There it is.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "אתה מחפש בקדחתנות בקונסולת הבקרה את כפתור \\\"השיגור\\\". אהא! הנה הוא."
+    },
+    {
+      "logicFile": "62.agilogic",
+      "messageNumber": 7,
+      "original": "You see nothing out of the ordinary about it.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "אינך רואה שום דבר לא רגיל בו."
+    },
+    {
+      "logicFile": "62.agilogic",
+      "messageNumber": 8,
+      "original": "Down below you see the spaceship's launch track.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "למטה אתה רואה את מסלול השיגור של החללית."
+    },
+    {
+      "logicFile": "62.agilogic",
+      "messageNumber": 9,
+      "original": "You don't have much time before this ship blows.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "אין לך הרבה זמן לפני שהספינה תתפוצץ."
+    }
+  ]
+}

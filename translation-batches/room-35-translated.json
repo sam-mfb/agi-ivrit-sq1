@@ -1,0 +1,509 @@
+{
+  "room": "35",
+  "totalMessages": 54,
+  "matchStats": {
+    "exact": 4,
+    "normalized": 0,
+    "fuzzy": 11,
+    "partial": 6,
+    "unmatched": 33
+  },
+  "messages": [
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 1,
+      "original": "Please remain seated and keep hands inside while the vehicle is moving.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "נא להישאר יושב ולשמור את הידיים בפנים בעוד הרכב בתנועה.",
+      "notes": ""
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 2,
+      "original": "You already have it!",
+      "placeholders": [],
+      "matchType": "partial",
+      "translation": "כבר יש לך את המפתחות.",
+      "notes": "REVIEW: Partial match - original refers to generic 'it', suggested translation refers to 'keys'"
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 3,
+      "original": "You aren't close enough.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "אינך קרוב מספיק.",
+      "notes": ""
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 4,
+      "original": "Welcome to Ulence Flats",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "ברוכים הבאים למישורי יולנס",
+      "notes": ""
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 5,
+      "original": "Taken",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "נלקח",
+      "notes": ""
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 6,
+      "original": "\\\"Say, this is a genuine Falton sand skimmer. I've been looking for one just like it. I wonder if you would accept %v35 buckazoids?\\\"",
+      "placeholders": [
+        "%v"
+      ],
+      "matchType": "unmatched",
+      "translation": "\\\"תראה, זוהי רחפת חולות פולטון אותנטית. חיפשתי אחת כזאת כבר שנים. האם תסכים לקבל %v35 זוזואידים?\\\"",
+      "notes": ""
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 7,
+      "original": "\\\"Ok. This is my final offer and I'm only doin' it because you look like you need it pretty bad. I'll give you %v35 buckazoids and I'll throw in this swell jetpack. I only used it once. Works great in zero gravity. You'll love it. Is it a deal? Yes or no?\\\"",
+      "placeholders": [
+        "%v"
+      ],
+      "matchType": "unmatched",
+      "translation": "\\\"בסדר. זו ההצעה הסופית שלי ואני מציע זאת רק כי אתה נראה לי נואש. אתן לך %v35 זוזואידים ואזרוק לך גם את תרמיל הריחוף הנהדר הזה. השתמשתי בו רק פעם אחת. עובד מצוין באפס כבידה. תאהב אותו. אז מה, עסקה? כן או לא?\\\"",
+      "notes": ""
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 8,
+      "original": "\\\"Fine. Be that way.\\\"",
+      "placeholders": [],
+      "matchType": "fuzzy",
+      "translation": "בסדר. שיהיה ככה.",
+      "notes": ""
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 9,
+      "original": "You're not on one, %s1.",
+      "placeholders": [
+        "%s"
+      ],
+      "matchType": "partial",
+      "translation": "אני לא מדבר איתך.",
+      "notes": "REVIEW: Partial match - context differs"
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 10,
+      "original": "\\\"Glad we could do business. I'll just take that key. Thank you kindly. Hope your stay in Ulence Flats is an interesting one.\\\"",
+      "placeholders": [],
+      "matchType": "fuzzy",
+      "translation": "שמח שהבנו איש ללב רעהו. רק אקח את המפתח. תודה מקרב לב. מקווה ששהייתך במישורי יולנס תעבור עליך בנעימים.",
+      "notes": ""
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 11,
+      "original": "\\\"Glad we could do business. Hope your stay in Ulence Flats is an interesting one.\\\"",
+      "placeholders": [],
+      "matchType": "fuzzy",
+      "translation": "שמח שהבנו איש ללב רעהו. מקווה ששהייתך במישורי יולנס תעבור עליך בנעימים.",
+      "notes": ""
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 12,
+      "original": "After a truly stone-crushing journey, you have miraculously arrived safely in Ulence Flats. And, just in time too, because the skimmer's power cell has been drained. It will take some time to recharge itself. This place isn't quite what you had expected. It is semi-bleak at best. ",
+      "placeholders": [],
+      "matchType": "fuzzy",
+      "translation": "לאחר מסע מרסק עצמות, בניסי ניסים אתה נוחת בשלום במישורי יולנס. ובדיוק בזמן, מפני שסוללת הרחפת התרוקנה. יקח לה זמן להטעין את עצמה מחדש. המקום לא ממש מה שציפית. זה חצי עגום במקרה הטוב.",
+      "notes": ""
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 13,
+      "original": "\\\"I really want a skimmer like this. Here's my offer and I'm only doin' it because you look like you need it pretty bad. I'll give you %v35 buckazoids and I'll throw in this swell jetpack. I've only used it once. Works great in zero gravity. Is it a deal or what? Yes or no?\\\"",
+      "placeholders": [
+        "%v"
+      ],
+      "matchType": "unmatched",
+      "translation": "\\\"אני ממש רוצה רחפת כזאת. הנה ההצעה שלי ואני עושה זאת רק כי אתה נראה נואש. אתן לך %v35 זוזואידים ואזרוק לך את תרמיל הריחוף המדהים הזה. השתמשתי בו רק פעם אחת. עובד נהדר באפס כבידה. אז מה, עסקה או מה? כן או לא?\\\"",
+      "notes": ""
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 14,
+      "original": "You are at the south edge of Ulence Flats. The area is protected from predators by an electronic barrier which runs around the perimeter of the settlement.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "אתה נמצא בקצה הדרומי של מישורי יולנס. האזור מוגן מטורפים באמצעות מחסום אלקטרוני המקיף את היישוב.",
+      "notes": ""
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 15,
+      "original": "\\\"Say there, pal. It's come to my attention that you're in the market for some transportation.\\\"",
+      "placeholders": [],
+      "matchType": "fuzzy",
+      "translation": "תגיד, אח שלי. השמועה אומרת כי אתה בעניין של רכישת כלי תחבורה.",
+      "notes": ""
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 16,
+      "original": "\\\"I may be able to help. If you'll follow me, I'd like to show you a fine little piece of machinery that'll knock your eyes out.\\\"",
+      "placeholders": [],
+      "matchType": "fuzzy",
+      "translation": "יתכן ואוכל לעזור. אם תבוא אחרי, אראה לך חתיכת מכונה מדהימה שתוציא לך את העיניים מהחורים.",
+      "notes": ""
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 17,
+      "original": "The sand skimmer is a one-passenger mode of transportation and it looks like it has skimmed quite a bit of sand in its time. On it is a panel which has a small readout, currently dark, and a keyhole with a key in it.",
+      "placeholders": [],
+      "matchType": "fuzzy",
+      "translation": "רחפת החולות הינה אמצעי תחבורה חד נוסעי ונראה עליה שגרפה לא מעט חולות בימי חייה. בלוח הבקרה שלה נקבע צג קטן, החשוך בשעה זו, וחור מנעול עם מפתח בתוכו.",
+      "notes": ""
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 18,
+      "original": "There is a small rounded structure here with a door on one side. It is typical of some of the prefab structures used in frontier areas years ago.",
+      "placeholders": [],
+      "matchType": "fuzzy",
+      "translation": "יש פה מבנה עגול עם דלת בצד אחד. זה מראה טיפוסי לחלק מהמבנים הטרומיים שנבנו על ידי החלוצים לפני שנים.",
+      "notes": ""
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 19,
+      "original": "Compared to some of the beings you've seen lately, this one looks fairly normal except for the fact that he seems to have a cylinder for a head.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "בהשוואה לחלק מהיצורים שראית לאחרונה, זה נראה די נורמלי, פרט לעובדה שנראה שיש לו גליל במקום ראש.",
+      "notes": ""
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 20,
+      "original": "The man is not interested in idle conversation. He's only interested in the skimmer.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "האיש לא מתעניין בשיחת חולין. הוא רק מתעניין ברחפת.",
+      "notes": ""
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 21,
+      "original": "You have no way or reason to kill this being.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "אין לך דרך או סיבה להרוג את היצור הזה.",
+      "notes": ""
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 22,
+      "original": "This being is about the size of a humanoid but has some odd features. He seems to have a friendly-looking mug.",
+      "placeholders": [],
+      "matchType": "exact",
+      "translation": "גודלו של היצור כמידת בן אנוש ממוצע אך הוא נבדל ממנו בכמה מאפיינים. יש לו פרצוף ידידותי וחביב.",
+      "notes": ""
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 23,
+      "original": "You are standing against the protective barrier encircling Ulence Flats. Due to the fact that you are land-based, you are not able to pass.",
+      "placeholders": [],
+      "matchType": "fuzzy",
+      "translation": "אתה עומד על יד מחסום המגן המקיף את מישורי יולנס. לאור העובדה שאתה יונק יבשתי, אין באפשרותך לדלג מעליו.",
+      "notes": ""
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 24,
+      "original": "He wants you to follow him.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "הוא רוצה שתלך אחריו.",
+      "notes": ""
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 25,
+      "original": "The fresh air helps you snap out of the stupor which that foul brew was responsible for.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "האוויר הצח עוזר לך להתנער מהסדרון שאותה משקה מגעיל גרם לך.",
+      "notes": ""
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 26,
+      "original": "Ulence Flats is a typical example of some of the frontier settlements that sprang up in the early days of the Outer Zone exploration several years ago. Unfortunately, this attracted many unsavory individuals looking to make a quick buckazoid. Caution is advised.",
+      "placeholders": [],
+      "matchType": "fuzzy",
+      "translation": "מישורי אולנס היא דוגמה טיפוסית למושבת חלוצים שקמה בתקופה המוקדמת של חקר חוץ-אזורי. למרבה הצער, זה משך הרבה טיפוסים שמחפשים להרוויח זוזון מהיר. מומלץ לפקוח עין.",
+      "notes": ""
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 27,
+      "original": "That can't be done now.",
+      "placeholders": [],
+      "matchType": "partial",
+      "translation": "אין לך אפשרות לקחת את זה עכשיו.",
+      "notes": "REVIEW: Partial match - different context"
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 28,
+      "original": "Turning the key does no good since the skimmer was programmed to get here and go no further.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "סיבוב המפתח לא יעזור כיוון שהרחפת תוכנתה להגיע לכאן ולא יותר.",
+      "notes": ""
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 29,
+      "original": "There are couple of other craft here which might belong to the beings inside this building.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "יש כאן כמה כלי טיס אחרים ששייכים כנראה ליצורים בתוך המבנה.",
+      "notes": ""
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 30,
+      "original": "The sand skimmer is a one-passenger mode of transportation and it looks like it has skimmed quite a bit of sand in its time. On it is a panel which has a small readout, currently dark, and a keyhole without a key in it.",
+      "placeholders": [],
+      "matchType": "fuzzy",
+      "translation": "רחפת החולות הינה אמצעי תחבורה חד נוסעי ונראה עליה שגרפה לא מעט חולות בימי חייה. בלוח הבקרה שלה נקבע צג קטן, החשוך בשעה זו, וחור מנעול ללא מפתח בתוכו.",
+      "notes": ""
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 31,
+      "original": "He can't hear you from there. You'll have to get closer.",
+      "placeholders": [],
+      "matchType": "partial",
+      "translation": "תיאלץ לגשת קרוב יותר.",
+      "notes": "REVIEW: Partial match - missing first part"
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 32,
+      "original": "\\\"Hey! I'll trade you a jetpack for that sand skimmer. What do you think? Yes or No?\\\"",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "\\\"היי! אני אחליף לך תרמיל ריחוף תמורת רחפת החולות הזאת. מה אתה אומר? כן או לא?\\\"",
+      "notes": ""
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 33,
+      "original": "That will do you no good. The power cell is drained. It may take some time to recharge.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "זה לא יעזור לך. התא החשמלי ריק. זה עלול לקחת זמן עד שיטען מחדש.",
+      "notes": ""
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 34,
+      "original": "The key is not in its hole.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "המפתח לא בחור שלו.",
+      "notes": ""
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 35,
+      "original": "You are not in a position to do that.",
+      "placeholders": [],
+      "matchType": "partial",
+      "translation": "אתה לא עד כדי כך רעב.",
+      "notes": "REVIEW: Partial match - different meaning"
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 36,
+      "original": "You watch as the skimmer is driven away by its new owner.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "אתה צופה בעוד הרחפת מסיעה משם על ידי בעליה החדשים.",
+      "notes": ""
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 37,
+      "original": "My, my. It would appear that your skimmer has become the property of another. I wonder who forgot to remove the key?",
+      "placeholders": [],
+      "matchType": "exact",
+      "translation": "אוי ואבוי. נראה כי רחפתך עברה לרשותו של איש אחר. מעניין מי שכח את המפתח במתג ההתנעה?",
+      "notes": ""
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 38,
+      "original": "It's not yours anymore. Leave it alone.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "זה לא שלך יותר. תעזוב את זה.",
+      "notes": ""
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 39,
+      "original": "Wise up, %s1! You're already on it.",
+      "placeholders": [
+        "%s"
+      ],
+      "matchType": "unmatched",
+      "translation": "תתפכח, %s1! אתה כבר עליה.",
+      "notes": ""
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 40,
+      "original": ">",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": ">",
+      "notes": ""
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 41,
+      "original": "_",
+      "placeholders": [],
+      "matchType": "exact",
+      "translation": "_",
+      "notes": ""
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 42,
+      "original": "The ships are locked.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "החלליות נעולות.",
+      "notes": ""
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 43,
+      "original": "The panel has an ignition switch. There is a key in it.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "בלוח יש מתג הצתה. יש בו מפתח.",
+      "notes": ""
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 44,
+      "original": "The panel has an ignition switch. There is no key in it.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "בלוח יש מתג הצתה. אין בו מפתח.",
+      "notes": ""
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 45,
+      "original": "Done.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "בוצע.",
+      "notes": ""
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 46,
+      "original": "That has already been done.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "זה כבר בוצע.",
+      "notes": ""
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 47,
+      "original": "You can't do that from here.",
+      "placeholders": [],
+      "matchType": "exact",
+      "translation": "אתה לא יכול לעשות את זה מכאן.",
+      "notes": ""
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 48,
+      "original": "The ignition switch has a hole for a key which is currently filled.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "למתג ההצתה יש חור למפתח שמלא כרגע.",
+      "notes": ""
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 49,
+      "original": "The ignition switch has a hole for a key which is currently empty.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "למתג ההצתה יש חור למפתח שריק כרגע.",
+      "notes": ""
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 50,
+      "original": "You need to be closer.",
+      "placeholders": [],
+      "matchType": "partial",
+      "translation": "תצטרך לגשת יותר קרוב בשביל זה.",
+      "notes": "REVIEW: Partial match"
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 51,
+      "original": "\\\"Hey! I'll gladly take that crusty old skimmer off your hands. What do you think? Yes or No?\\\"",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "\\\"היי! אשמח לקחת ממך את הרחפת הישנה והחלודה הזאת. מה אתה אומר? כן או לא?\\\"",
+      "notes": ""
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 52,
+      "original": "The guy (or whatever it is) is busy leaving.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "הבחור (או מה שזה לא יהיה) עסוק בעזיבה.",
+      "notes": ""
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 53,
+      "original": "The skimmer is attempting to leave. Get out of the way, you geek!",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "הרחפת מנסה לצאת. תזוז מהדרך, חנון!",
+      "notes": ""
+    },
+    {
+      "logicFile": "35.agilogic",
+      "messageNumber": 54,
+      "original": "Do not remove the key while the skimmer is in motion.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "אל תוציא את המפתח כאשר הרחפת בתנועה.",
+      "notes": ""
+    }
+  ]
+}

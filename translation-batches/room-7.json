@@ -1,0 +1,505 @@
+{
+  "room": "7",
+  "totalMessages": 15,
+  "matchStats": {
+    "exact": 1,
+    "normalized": 0,
+    "fuzzy": 0,
+    "partial": 1,
+    "unmatched": 13
+  },
+  "csvContext": [
+    {
+      "original": "Your search of the body reveals nothing.",
+      "translated": "החיפוש על הגופה אינו מניב תוצאות."
+    },
+    {
+      "original": "Gosh, Randy's even quieter in this state.",
+      "translated": "אללי, רנדי אפילו יותר שקט במצב הזה."
+    },
+    {
+      "original": "Randy's recently re-exposed and re-heated lunch smells pretty good. You start to regret having slept through lunch.",
+      "translated": "ארוחת הצהריים שאכל רנדי לא מזמן מריחה ממש טוב. אתה מתחיל להתחרט שישנת בזמן הארוחה."
+    },
+    {
+      "original": "Although it's darn tempting, all this tension has your stomach churning. The last thing it needs is more stomach acid, especially from someone else's stomach.",
+      "translated": "למרות שזה נורא מפתה, כל המתח הפך לך את הבטן. הדבר האחרון שאתה צריך זה עוד חומצות קיבה, ועוד מבטן של מישהו אחר."
+    },
+    {
+      "original": "Randy, usually a sucker for a Buckazoid, is showing a remarkable lack of interest.",
+      "translated": "רנדי, שבזמנים כתיקונם מת על זוזואידים, מפגין כעת חוסר עניין מוחלט."
+    },
+    {
+      "original": "Randy ignores your efforts to ask him about the cartridge, maybe because he's dead.",
+      "translated": "רנדי מתעלם באלגנטיות ממאמציך לתשאל אותו על המחסנית, אולי בגלל שהוא מת."
+    },
+    {
+      "original": "Randy doesn't seem to want the keycard. His present condition may have something to do with this.",
+      "translated": "רנדי לא נראה מעוניין בכרטיס. למצבו הנוכחי בטח יש קשר לזה."
+    },
+    {
+      "original": "Whatever this thing does, reanimating the dead does not appear to be one of them.",
+      "translated": "בין כל הסגולות של הדבר הזה, תחיית המתים אינו אחד מהם."
+    },
+    {
+      "original": "Even you don't need a translator to get the message that Randy is D-E-A-D.",
+      "translated": "אפילו אתה לא צריך מתרגם כדי לקלוט את המסר שרנדי מ-ת."
+    },
+    {
+      "original": "Normally a pleasant guy to talk with, Hugh is pretty darn boring now.",
+      "translated": "בדרך כלל הוא בחור נעים שיחה, אך עתה יו משעמם למדי."
+    },
+    {
+      "original": "Either you have a taste for sweat or you didn't smell him before you tried to taste him.",
+      "translated": "או שיש לך חיבה לטעם זיעה או שלא הרחת אותו לפני שטעמת אותו."
+    },
+    {
+      "original": "Hmmm. I think Hugh might have missed a shower or two. Or perhaps his body got sweaty from the heat of that laser blast.",
+      "translated": "המממ. כמדומני שיו פספס מקלחת או שתיים. או שהגוף שלו התמלא זיעה מחום פיצוץ הלייזר."
+    },
+    {
+      "original": "Your money doesn't hold much interest for Hugh at this point",
+      "translated": "כספך אינו מעורר עניין רב אצל יו בשלב הזה."
+    },
+    {
+      "original": "Hugh offers you no help with the cartridge.",
+      "translated": "יו לא מציע לך עזרה עם המחסנית."
+    },
+    {
+      "original": "If Hugh could speak, he'd tell you he doesn't want the keycard. He might also have something to say about your intelligence.",
+      "translated": "אם יו היה יכול לדבר, הוא היה אומר לך שאין לו צורך בכרטיס. הוא גם היה מוסיף משהו לגבי האינטליגנציה שלך."
+    },
+    {
+      "original": "It's possible Hugh's only pretending disinterest in the widget. It's also possible he's still dead.",
+      "translated": "קיים סיכוי שיו רק מעמיד פנים כאילו הוא אדיש כלפי הרכיב. קיים גם סיכוי שהוא מת."
+    },
+    {
+      "original": "Blatant, messy death requires no translation.",
+      "translated": "פסיכי, מוות מחריד לא דורש תרגום."
+    },
+    {
+      "original": "Widgets don't talk.",
+      "translated": "רכיבים לא מדברים."
+    },
+    {
+      "original": "It smells magnetic.",
+      "translated": "זה מריח מגנטי."
+    },
+    {
+      "original": "It tastes quite metallic.",
+      "translated": "יש לזה טעם מתכתי."
+    },
+    {
+      "original": "This is the Star Generator Development Laboratory. Due to your incredibly low security clearance, you have never had access to this room. What a mess! Wreckage clutters the middle of the floor. A pair of lab workers have been blasted from the roster of the living. You're glad somebody else has to clean this up!",
+      "translated": "זוהי מעבדת פיתוח מחולל הכוכבים. הודות לסיווג הבטחוני הנמוך להחריד שלך, מעולם לא היתה לך גישה לחדר. איזה בלגן! הריסות מוטלים בערבוביה במרכז החדר. זוג עובדי מעבדה נמחקו מרשימת החיים. אתה שמח שמישהו אחר יצטרך לנקות את זה!"
+    },
+    {
+      "original": "Randy",
+      "translated": "רנדי"
+    },
+    {
+      "original": "The lifeless body of Randy, one of the lab technicians, lies sprawled at your feet. Those laser blasts are nasty. Why, you can't distinguish one exposed organ from another.",
+      "translated": "גופתו חסרת החיים של רנדי, אחד מטכנאי המעבדה, שרועה למרגלותיך. יריות הלייזר האלה בהחלט מכוערות. אי אפשר להבדיל בין איבר חשוף אחד למשנהו."
+    },
+    {
+      "original": "Hugh",
+      "translated": "יו"
+    },
+    {
+      "original": "Yet another crewman's motionless body reduces the shine of the floor wax. Hugh doesn't look too neat and clean with his lungs hanging out like that.",
+      "translated": "עוד אחת מגופותיהם חסרות התנועה של חברי הצוות שמעמעמים את ברק הרצפה. יו לא נראה בדיוק מסודר ונקי כשריאותיו תלויים בחוץ בצורה כזאת."
+    },
+    {
+      "original": "You find a small but heavy device affixed to the base of the Star Generator platform. It appears to be magnetic. That must be how the aliens upset the force field protecting the unit!",
+      "translated": "אתה מוצא מכשיר קטן אך כבד מקובע לבסיס משטח מחולל הכוכבים. עושה רושם שהוא מגנטי. ככה כנראה משבשים החייזרים את שדה הכוח המגן על היחידה!"
+    },
+    {
+      "original": "upper support",
+      "translated": "תומך עליון"
+    },
+    {
+      "original": "This is the upper support for the Star Generator when it is affixed to the pedestal.",
+      "translated": "זהו התומך העליון של מחולל הכוכבים כאשר הוא מוצמד לבמה."
+    },
+    {
+      "original": "The base of the Star Generator research pedestal has apparently been trashed by the vandals who stole the Generator.",
+      "translated": "בסיס בימת המחקר של מחולל הכוכבים נהרס על ידי הפורעים שגנבו את המחולל."
+    },
+    {
+      "original": "Now you know why you didn't have clearance for this place. You don't understand what most of this crap does. This thing looks like a giant speaker for the cosmos.",
+      "translated": "עכשיו אתה יודע למה אין לך אישור כניסה למקום הזה. אתה לא מבין מה רוב הזבל הזה עושה. הדבר הזה נראה כמו רמקול ענק שפונה אל היקום."
+    },
+    {
+      "original": "This thing looks like it came off the front end of an old Studebaker (or maybe the Batmobile). Anyway, it appears non-functional at this time. It was probably damaged in the heist.",
+      "translated": "הדבר הזה נראה כאילו התנתק מהפגוש של סטודבייקר (או אולי באטמוביל). בכל מקרה, הוא נראה לא פונקציונלי בשלב הזה. הוא כנראה ניזוק במהלך השוד."
+    },
+    {
+      "original": "The glass globe atop the console is inactive at this time. The mess of wiring inside reminds you of how your hair looks after a nap.",
+      "translated": "גלובוס הזכוכית במרומי הקונסולה אינו פעיל כרגע. סבך החוטים בתוכו מזכיר לך את השיער שלך כשאתה קם משינה."
+    },
+    {
+      "original": "You are standing on the research platform where the Star Generator is... was mounted for testing.",
+      "translated": "אתה עומד על משטח מחקר מוגבה שעליו הורכב מחולל הכוכבים... לצורכי בדיקה."
+    },
+    {
+      "original": "This is a star chart. It was used for locating candidates to test the Star Generator on once the bulk of the development process was completed.",
+      "translated": "זוהי מפת כוכבים. היא שימשה לאיתור מועמדים לבדיקת מחולל הכוכבים כאשר רוב רובו של תהליך הפיתוח הושלם."
+    },
+    {
+      "original": "You talk to yourself and, as usual, learn nothing that you didn't already know.",
+      "translated": "אתה מדבר אל עצמך, וכרגיל, לא לומד משהו שלא ידעת כבר."
+    },
+    {
+      "original": "Hey! One shouldn't attempt to manipulate one's self in a family game.",
+      "translated": "היי! אתה לא אמור להתעסק עם עצמך במשחק לכל המשפחה."
+    },
+    {
+      "original": "Better not. You're likely to get a fur ball.",
+      "translated": "מוטב שלא. אתה צפוי לבלוע כדור פרווה."
+    },
+    {
+      "original": "The odor you're producing causes you to regret skipping last month's shower.",
+      "translated": "הניחוח שאתה מפיק גורם לך להתחרט על שדילגת על המקלחת החודשית."
+    },
+    {
+      "original": "You're too busy right now.",
+      "translated": "אתה עסוק מדי עכשיו."
+    },
+    {
+      "original": "Better save it for when you're thirsty.",
+      "translated": "עדיף לשמור את זה לרגעים שתהיה צמא."
+    },
+    {
+      "original": "You don't want to do that here.",
+      "translated": "אתה לא רוצה לעשות את זה כאן."
+    },
+    {
+      "original": "You wisely strap on the jetpack to allow your self motion control.",
+      "translated": "אתה חוגר בתבונתך את תרמיל הריחוף כדי לאפשר לך בקרת תנועה עצמית."
+    },
+    {
+      "original": "The jetpack is useful only in Zero-G situations.",
+      "translated": "תרמיל הריחוף יעיל רק במצבי אפס כבידה."
+    },
+    {
+      "original": "Don't bother. This knife wouldn't cut hot lard.",
+      "translated": "אל תטרח. הסכין לא חותכת שומן רותח."
+    },
+    {
+      "original": "Isn't this just the most amazing waste of time?",
+      "translated": "האין זה בזבוז הזמן המדהים ביותר בעולם?"
+    },
+    {
+      "original": "You have to wonder why you're performing such a useless action.",
+      "translated": "עליך לשאול את עצמך מדוע הינך מבצע פעולות כל כך חסרות תועלת."
+    },
+    {
+      "original": "You wisely decide this is a serious waste of time and energy.",
+      "translated": "אתה מחליט בחוכמה שמדובר בבזבוז משווע של זמן ואנרגיה."
+    },
+    {
+      "original": "You ask yourself why you're doing this and are forced to reply that you just don't know.",
+      "translated": "אתה שואל את עצמך למה אתה עושה זה ועצמך עונה לך שאין לו מושג."
+    },
+    {
+      "original": "Even for you, this isn't bright.",
+      "translated": "אפילו במונחים שלך, זה לא רעיון מבריק."
+    },
+    {
+      "original": "Thank you for playing Space Quest I. You've been most entertaining.",
+      "translated": "תודה ששיחקתם מסע בחלל 1. בידרתם אותנו כמו שצריך."
+    },
+    {
+      "original": "Are you sure you want to restart?",
+      "translated": "בטוח שרוצים להתחיל מחדש?"
+    },
+    {
+      "original": "Memory fragmented.",
+      "translated": "קטעי זכרונות."
+    },
+    {
+      "original": "What did you expect them to do, reproduce?",
+      "translated": "מה ציפית מהם לעשות, להתרבות?"
+    },
+    {
+      "original": "You're far too busy for that now.",
+      "translated": "אתה עסוק מדי בשביל זה עכשיו."
+    },
+    {
+      "original": "You switch the gadget off to conserve its energy.",
+      "translated": "אתה מכבה את הגאדג'ט כדי לחסוך באנרגיה."
+    },
+    {
+      "original": "You switch the gadget on.",
+      "translated": "אתה מפעיל את הגאדג'ט."
+    },
+    {
+      "original": "You're far to busy for that now.",
+      "translated": "אתה עסוק מדי בשביל זה עכשיו."
+    },
+    {
+      "original": "You scrape that sticky goo from the bottom of the rock.",
+      "translated": "אתה מגרד את העיסה הדביקה מתחתית הסלע."
+    },
+    {
+      "original": "There is nothing you can do to the rock.",
+      "translated": "אין לך מה לעשות לסלע."
+    },
+    {
+      "original": "You've already opened the survival kit and removed its contents.",
+      "translated": "כבר פתחת את ערכת ההישרדות ורוקנת את תכולתה."
+    },
+    {
+      "original": "Upon opening the survival kit you discover a Xenon army knife and a canister of dehydrated water.",
+      "translated": "אתה פותח את ערכת ההישרדות ומוצא בתוכה סכין צבאי זנוני ומיכל מים מיובשים."
+    },
+    {
+      "original": "You have %d Buckazoid%s",
+      "translated": "יש לך %d זוזואידים"
+    },
+    {
+      "original": "Thank you for playing Space Quest I. Too bad you've failed miserably and doomed all of your people to a horrible death at the hands of the Sariens. You quickly glance about the room to see if anyone saw your silly mistake. Better luck next time.",
+      "translated": "תודה ששיחקת מסע בחלל 1. עצוב מאד שנחלת כישלון מחפיר וגזרת על אנשיך מוות מחריד בידי הסריינים. אתה מעיף מבט חטוף מסביב לחדר ובודק אם מישהו הבחין בטעות המגוחכת שלך. בהצלחה בפעם הבאה."
+    },
+    {
+      "original": "Score: %d of %d",
+      "translated": "ניקוד: %d מתוך %d"
+    },
+    {
+      "original": "Roger Wilco",
+      "translated": "רוג'ר ווילקו"
+    },
+    {
+      "original": "It's you, Roger Wilco, janitor sub-extraordinaire.",
+      "translated": "זה אתה, רוג'ר ווילקו, מנקה תת-מעולה."
+    },
+    {
+      "original": "This is your brain take-out container.",
+      "translated": "זה מיכל הוצאת המוח שלך."
+    },
+    {
+      "original": "Let me out of here!\\n(Quit)",
+      "translated": "תוציאו אותי מכאן!\\n(צא)"
+    },
+    {
+      "original": "I don't know WHAT\\nI was thinking.\\nLet's Play!",
+      "translated": "אני לא יודע *מה*\\nאני חשבתי.\\nבואו נשחק!"
+    },
+    {
+      "original": "Of course I'm sure!",
+      "translated": "ברור שאני בטוח!"
+    },
+    {
+      "original": "Changed My Mind.\\nLet's Play!",
+      "translated": "שיניתי את דעתי.\\nבואו נשחק!"
+    },
+    {
+      "original": "Who cares",
+      "translated": "למי אכפת"
+    },
+    {
+      "original": "Debug",
+      "translated": "דיבאג"
+    },
+    {
+      "original": "Select this Icon to close this window.",
+      "translated": "בחר בסמליל הזה כדי לסגור את החלון."
+    },
+    {
+      "original": "Select this Icon then select an inventory item you'd like a description of.",
+      "translated": "בחר בסמליל הזה ואז בחר פריט מהמלאי שאתה רוצה תיאור שלו."
+    },
+    {
+      "original": "This allows you to do something to an item.",
+      "translated": "זה מאפשר לך לעשות משהו לפריט."
+    },
+    {
+      "original": "This allows you to select an item.",
+      "translated": "זה מאפשר לך לבחור פריט."
+    },
+    {
+      "original": "It's a cartridge from the Arcada's Data Archive.",
+      "translated": "זו מחסנית מארכיב המידע של הארקדה."
+    },
+    {
+      "original": "This keycard fits an electronic lock someplace on the Arcada.",
+      "translated": "הכרטיס הזה מתאים למנעול אלקטרוני איפשהו בארקדה."
+    },
+    {
+      "original": "This is some sort of gadget. You're not sure what it does exactly, but it has a switch.",
+      "translated": "זה סוג של אביזר. אתה לא בטוח מה בדיוק זה עושה, אבל יש לזה מתג."
+    },
+    {
+      "original": "It's the cone shaped tip of a stalagmite.",
+      "translated": "זה הקצה החרוטי של זקיף."
+    },
+    {
+      "original": "A Survival Kit",
+      "translated": "ערכת הישרדות"
+    },
+    {
+      "original": "It's a Xenon Army knife",
+      "translated": "זה אולר צבא קסנוני"
+    },
+    {
+      "original": "The can label says Pelvitron Dehydrated Water (H2) - All you add is air! Makes 10 gallons! Caution - Do not attempt to open or rupture container! Misuse could result in personal injury and/or flash flooding.",
+      "translated": "על התווית של הפחית כתוב פלוויטרון מים מיובשים - נשאר רק להוסיף אוויר! טוב ל-40 ליטר! זהירות - אל תנסה לפתוח או לקרוע את המיכל! שימוש לקוי עלול להסתיים בפציעה ו/או הצפה פתאומית."
+    }
+  ],
+  "messages": [
+    {
+      "logicFile": "7.agilogic",
+      "messageNumber": 1,
+      "original": "This is one of the mid-level decks of the Arcada",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "7.agilogic",
+      "messageNumber": 2,
+      "original": "The elevator goes to another level. You have never used it due to its restricted access status.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "7.agilogic",
+      "messageNumber": 3,
+      "original": "You slide the keycard into its slot. You hear an audible click. You take the keycard back.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "7.agilogic",
+      "messageNumber": 4,
+      "original": "You are too far away.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "7.agilogic",
+      "messageNumber": 5,
+      "original": "You don't have that.",
+      "placeholders": [],
+      "matchType": "partial",
+      "matchScore": 0.5,
+      "suggestedTranslation": "אתה לא רוצה לעשות את זה כאן.",
+      "csvMatch": "You don't want to do that here."
+    },
+    {
+      "logicFile": "7.agilogic",
+      "messageNumber": 6,
+      "original": "The walls are all nondescript except for a keycard unit near the elevator. It controls access to the level below.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "7.agilogic",
+      "messageNumber": 7,
+      "original": "One of your crewmates lies at your feet. He is non-functional.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "7.agilogic",
+      "messageNumber": 8,
+      "original": "%w1 %w2? I'm sorry, %s1. You can't do that. I question your mental fitness.",
+      "placeholders": [
+        "%w1",
+        "%w2",
+        "%s"
+      ],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "7.agilogic",
+      "messageNumber": 9,
+      "original": "You search the corpse and turn up. . .",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "7.agilogic",
+      "messageNumber": 10,
+      "original": "nothing.",
+      "placeholders": [],
+      "matchType": "exact",
+      "matchScore": 1,
+      "suggestedTranslation": "כלום.",
+      "csvMatch": "nothing."
+    },
+    {
+      "logicFile": "7.agilogic",
+      "messageNumber": 11,
+      "original": "The keycard unit is a small, sturdy box with a slot. Just above it is a display light which is not currently on.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "7.agilogic",
+      "messageNumber": 12,
+      "original": "The keycard unit is a small, sturdy box with a slot. Just above it is a display light which is currently on.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "7.agilogic",
+      "messageNumber": 13,
+      "original": "There is no keycard to get.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "7.agilogic",
+      "messageNumber": 14,
+      "original": "Alas, it does not open. You have adorned the door with a small circle of nose grease. Were you Karl Malden, it could have gotten ugly.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "7.agilogic",
+      "messageNumber": 15,
+      "original": "One can only wonder what your purpose for this action is. You can't undress the body. Allow him one last bit of dignity.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    }
+  ]
+}

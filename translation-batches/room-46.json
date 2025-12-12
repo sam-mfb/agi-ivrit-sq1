@@ -1,0 +1,461 @@
+{
+  "room": "46",
+  "totalMessages": 1,
+  "matchStats": {
+    "exact": 0,
+    "normalized": 0,
+    "fuzzy": 0,
+    "partial": 0,
+    "unmatched": 1
+  },
+  "csvContext": [
+    {
+      "original": "Well, okay. If you really feel competent enough to assemble this thing, just do it. Start with the smallest box.",
+      "translated": "טוב, בסדר. אם אתה מרגיש מספיק כשיר להרכיב דבר כזה, פשוט תעשה את זה. תתחיל עם התיבה הקטנה."
+    },
+    {
+      "original": "Oops.",
+      "translated": "אופס."
+    },
+    {
+      "original": "I wouldn't mess with them if I were you.",
+      "translated": "לא הייתי מתעסק איתם במקומך."
+    },
+    {
+      "original": "No answer is forthcoming.",
+      "translated": "אף תגובה לא תנתן בקרוב."
+    },
+    {
+      "original": "It smells like a fine grade of light machine oil. You were expecting Hai Karate, perhaps?",
+      "translated": "הוא מריח כמו שמן מכונות סוג ג'. ציפית להוגו בוס, אולי?"
+    },
+    {
+      "original": "Why on earth - or Kerona for that matter - would you want to do that?",
+      "translated": "למה לעזאזל - או לקרונה לצורך העניין - תרצה לעשות זאת?"
+    },
+    {
+      "original": "Unfortunately, you AREN'T smarter than you look, so you'd best leave the incredibly complex robot parts alone before you hurt yourself. Too bad they don't give rebates to retrobates.",
+      "translated": "לרוע המזל, אתה לא יותר חכם ממה שאתה נראה, אז כדאי שתעזוב את חלקי הרובוט המאוד מורכבים האלה לפני שתזיק לעצמך. חבל שהם לא נותנים הנחות למחוסרי מוחות."
+    },
+    {
+      "original": "You can tell this is definitely out of your league. You can't even open the boxes, much less assemble what's inside.",
+      "translated": "אתה מבין לבד שזה לגמרי לא בליגה שלך. אתה אפילו לא יכול לפתוח את הקופסאות, בטח שלא להרכיב את מה שבתוכן."
+    },
+    {
+      "original": "Like many buildings on these backwater planets, this one is a quickie Construct-O-Foam job that won't last more than a couple of thousand years at the outside. They just don't make `em like they used to.",
+      "translated": "כמו מבנים רבים על פני כוכבי לכת נידחים אלה, הוא הוקם בבניית אל-קצף חפוזה שלא תשרוד יותר מכמה אלפי שנים לכל היותר. כבר לא מייצרים אותם כמו פעם."
+    },
+    {
+      "original": "Talking to buildings is likely to get you arrested on this planet.",
+      "translated": "דיבור עם בניינים דינו מעצר על פי חוקי הכוכב הנל."
+    },
+    {
+      "original": "Why would you possibly care what this building smells like?",
+      "translated": "למה שיהיה אכפת לך מה הריח של הבניין?"
+    },
+    {
+      "original": "Oh, blecchhh!",
+      "translated": "אוך, להקיא!"
+    },
+    {
+      "original": "You can't reach it.",
+      "translated": "אתה לא יכול להגיע לשם."
+    },
+    {
+      "original": "No matter how you try to convince it otherwise, the sign will only say Droids-B-Us Pickup.",
+      "translated": "לא משנה כמה תנסה לשכנע אותו אחרת, השלט ימשיך להכריז בגאון רובוטים-זה-אנחנו מרכז איסוף."
+    },
+    {
+      "original": "From here, you can discern no particular smell on the sign.",
+      "translated": "מכאן, אינך מבחין בשום ריח מיוחד הבוקע מהשלט."
+    },
+    {
+      "original": "If your neck was as long as a giraffazoid's, then maybe you could do that. But why would you want to?",
+      "translated": "אם היה לך צוואר ארוך כשל ג'ירפזואידית, אולי היית יכול לבצע את זה. אבל למה שתרצה לעשות את זה?"
+    },
+    {
+      "original": "This isn't the real Gerry Giraffazoid, Roger - it's just a picture.",
+      "translated": "זה לא הג'רי ג'ירפזואידי האמיתי, רוג'ר - זו סתם תמונה."
+    },
+    {
+      "original": "Gerry Giraffazoid's picture doesn't smell like much of anything.",
+      "translated": "תמונת ג'רי הגירפזואידי לא מריחה כמו שום דבר."
+    },
+    {
+      "original": "Trust me - that logo lacks any taste.",
+      "translated": "תאמין לי - ללוגו הזה אין שום טעם."
+    },
+    {
+      "original": "This is the pickup area for Droids-B-Us.",
+      "translated": "זה אזור האיסוף של רובוטים-אר-אס."
+    },
+    {
+      "original": "Here's your incredibly complex robot, sir.  I sprained my thermodiodinal-tricycler carrying it out here for you.  I hope you're satisfied.",
+      "translated": "הנה הרובוט המורכב להפליא שלך, אדוני.__אני נקעתי את התלת-אופן-התרמודיודינאלי שלי כשסחבתי את זה לכאן בשבילך.__אני מקווה שאתה מרוצה."
+    },
+    {
+      "original": "And I hope you're smarter than you look, or you'll never be able to put it together.  How depressing.",
+      "translated": "ואני מקווה שאתה חכם יותר ממה שנראה, או שלעולם לא תצליח להרכיב את זה.__כמה מדכא."
+    },
+    {
+      "original": "Guess this was a bit beyond your capabilities. Speaking of bits, that's about all that remains of you. Hope you can regroup those molecules and get back to the game.",
+      "translated": "כנראה שזה היה קצת מעבר ליכולות שלך. אם כבר מדברים על קצת, זה כל מה שנשאר ממך. אני מקווה שתצליח לקבץ חזרה את המולקולות האלה ולחזור למשחק."
+    },
+    {
+      "original": "Oh my. Another shredded customer. I suppose someone will be upset about this. Why do I bother.",
+      "translated": "אוי לי. עוד לקוח גרוס. אני מניח שמישהו יהיה לא מרוצה בגלל זה. בשביל מה אני טורח בכלל."
+    },
+    {
+      "original": "You seem to have had trouble maintaining your composure (not to mention your molecular structure). Get yourself together. Unfortunately, you're the universe's only hope.",
+      "translated": "נראה שנתקלת בקשיים לשמור על שלוותך (שלא לדבר על המבנה המולקולרי שלך). קח את עצמך בידיים. למרבה הצער, אתה התקווה היחידה של היקום."
+    },
+    {
+      "original": "Hello, sir.  Your new robot will be here in a moment.",
+      "translated": "שלום, אדוני.__הרובוט החדש שלך יהיה כאן בעוד רגע."
+    },
+    {
+      "original": "Well, there he is, sir, programmed to follow you around like a wimpering little puppy dog. How humiliating.",
+      "translated": "טוב, הנה הוא, אדוני, מתוכנת לעקוב אחריך כמו גור כלבים קטן ומייבב. כמה מביש."
+    },
+    {
+      "original": "force field sensor",
+      "translated": "חיישן שדה כח"
+    },
+    {
+      "original": "The settlement of Ulence Flats is surrounded by these force field generators. They repel such undesirables such as the grell which thrive below the sands. It will allow only airborne vehicles in or out.",
+      "translated": "המושבה של מישורי אולנס מוקפת במייצרי שדה הכוח האלו. הם דוחים דברים שאינם רצויים כמו הגרל שמשגשגים מתחת לחול. הוא מאפשר רק לכלי רכב אוויריים להיכנס ולצאת."
+    },
+    {
+      "original": "warehouse robot",
+      "translated": "רובוט מחסן"
+    },
+    {
+      "original": "This robot is a very old model.  Somehow, he looks tired and depressed.",
+      "translated": "הרובוט הזה הוא מדגם ישן מאוד. איכשהו, הוא מצליח להיראות עייף ומדוכא."
+    },
+    {
+      "original": "It's easy for you to be chearful, isn't it? YOU don't have deteriorating flaberthrusters.",
+      "translated": "קל לך להיות עליז, נכון? *לך* אין מדחפי-פלאבר מתיישנים."
+    },
+    {
+      "original": "What do you want now? I was just about finished with my internal diagnostics check. Now I'm going to have to recalibrate my photo-electric scanner membranes and begin all over again.",
+      "translated": "מה אתה רוצה עכשיו? כמעט סיימתי עם בדיקת האבחון הפנימית שלי. עכשיו אני אצטרך לכייל מחדש את קרומי הסורק הפוטו-אלקטרי שלי ולהתחיל מהתחלה."
+    },
+    {
+      "original": "Carbon-based life-forms can be sooo trying sometimes. If you haven't purchased a robot, I have nothing for you. Now, go away!",
+      "translated": "צורות-חיים מבוססות-פחמן יכולות להיות כללל כך מתישות לפעמים. אם לא רכשת רובוט, אין לי מה לעשות בשבילך. עכשיו, לך מכאן!"
+    },
+    {
+      "original": "(Sigh!) How depressing. Let's begin again from the start and proceed veeerrrryyyy sssslllooowwwllly. I do NOT want to be disturbed. You ARE disturbing me. GO AWAY! Thank you so much.",
+      "translated": "(אנחה!) כמה מדכא. בוא נתחיל שוב מהתחלה ונתקדם מאאאווודדד ללללאאאאטטטטט. אני *לא* רוצה שיפריעו לי. אתה *אכן* מפריע לי. *לך מכאן*! תודה רבה לך."
+    },
+    {
+      "original": "I'm STILL ignoring you!",
+      "translated": "אני *עדיין* מתעלם ממך!"
+    },
+    {
+      "original": "I'm ignoring you.",
+      "translated": "אני מתעלם ממך."
+    },
+    {
+      "original": "Do NOT touch me! Carbon-based life-forms are notoriously filthy creatures. Everyone knows that they veritably ooze with metal-tarnishing agents.",
+      "translated": "*אל* תיגע בי! צורות-חיים מבוססות-פחמן הם יצורים הידועים לשמצה בטינופת שלהם. כולם יודעים שחומרים מכתימי-מתכת פשוט נוטפים מהן."
+    },
+    {
+      "original": "I am programmed to defend myself against all attacks. Even against such a laughable attempt at destruction as this. It would be a shame to expend the energy required to kill you, don't you agree? Yes, I thought you would.",
+      "translated": "אני מתוכנת להגן על עצמי מכל התקפה. אפילו מול נסיון השמדה מגוחך כמו זה. זה יהיה בזבוז להוציא את האנרגיה הנדרשת כדי להרוג אותך, אתה לא חושב? כן, חשבתי שתסכים איתי."
+    },
+    {
+      "original": "Although I am amused at your feeble attempt to modify my magnetic field, I must warn you that I can, and most definitely will, defend myself if need be. Now, please put that thing away. Thank you so much.",
+      "translated": "על אף שאני משועשע מהנסיון העלוב שלך לשנות את השדה המגנטי שלי, אני חייב להזהיר אותך שאני יכול, וכנראה גם אפעל, להגן על עצמי במקרה הצורך. עכשיו, הנח בבקשה את הדבר הזה. תודה רבה לך."
+    },
+    {
+      "original": "Sorry, sir. I'm not allowed to accept tips.",
+      "translated": "סליחה, אדוני. אני לא מורשה לקבל תשר."
+    },
+    {
+      "original": "It appears to be some sort of data cartridge, sir, but I'm afraid I'm not equipped with the necessary port to access the information it contains.",
+      "translated": "נראה שזו איזושהי סוג של מחסנית מידע, אדוני, אבל אני חושש שאני לא מצויד בחיבור המתאים כדי לגשת למידע שהוא מכיל."
+    },
+    {
+      "original": "You won't need your translation device, sir. I'm fluent in more than three million modes of spoken communication.",
+      "translated": "לא תזדקק למכשיר התרגום שלך, אדוני. אני בקיא ביותר משלוש מיליון צורות תקשורת מדוברות."
+    },
+    {
+      "original": "No thank you, sir - I never touch the stuff.",
+      "translated": "לא תודה, אדוני - אני לא נוגע בדבר הזה."
+    },
+    {
+      "original": "I've seen a jet pack much like this one reduced to slag after one brief flight. It wasn't a pretty sight.",
+      "translated": "ראיתי תרמיל ריחוף ממש כמו זה שלא נשאר ממנו דבר. זה לא היה מראה מלבב."
+    },
+    {
+      "original": "Many of our local businesses issue these coupons for discounts through the Ulence Flats Chamber of Commerce. It's done wonders for business around here.",
+      "translated": "רבים מהעסקים המקומיים שלנו מנפקים את הקופונים האלו עבור הנחות דרך לשכת המסחר של מישורי אולנס. זה שיפר פלאים את העסקים בסביבה."
+    },
+    {
+      "original": "Many of our local businesses issue thses coupons for discounts through the Ulence Flats Chamber of Commerce. It's done wonders for business around here.",
+      "translated": "רבים מהעסקים המקומיים שלנו מנפקים את הקופונים האלו עבור הנחות דרך לשכת המסחר של מישורי אולנס. זה שיפר פלאים את העסקים בסביבה."
+    },
+    {
+      "original": "SUX robot",
+      "translated": "רובוט חלליתא"
+    },
+    {
+      "original": "What a fine robot you've purchased!",
+      "translated": "איזה רובוט נהדר רכשת!"
+    },
+    {
+      "original": "box",
+      "translated": "קופסא"
+    },
+    {
+      "original": "Great. Three boxes of robot parts, sporting large signs which read: Caution: This product contains explosive parts. Not intended for children under three.",
+      "translated": "נהדר. שלוש קופסאות של חלקי רובוט, ועליהם שלטים גדולים שבהם כתוב: זהירות: מוצר זה מכיל חלקים נפיצים. לא מיועד לילדים מתחת לגיל שלוש."
+    },
+    {
+      "original": "Droids-B-Us warehouse and pickup area",
+      "translated": "מחסן ואזור איסוף של רובוטים-אר-אס"
+    },
+    {
+      "original": "This portion of the building is the warehouse where customers come to pick up their purchases.",
+      "translated": "חלק זה של הבניין הוא המחסן שאליו מגיעים לקוחות לאסוף את הרכישות שלהם."
+    },
+    {
+      "original": "Droids-B-Us store",
+      "translated": "חנות רובוטים-אר-אס"
+    },
+    {
+      "original": "That's the Droids-B-Us storefront. Droids-B-Us is known throughout this end of the galaxy for the best deals on new and used psionic and cybernetic systems for home, school, office, and spaceship.",
+      "translated": "זו חזית החנות של רובוטים-אר-אס. רובוטים-אר-אס ידוע בקצה הזה של היקום בשל המחירים המצוינים שהוא נותן על מערכות פסיוניות וקיברנטיות חדשות ומשומשות לבית, לבית הספר, למשרד ולספינת החלל."
+    },
+    {
+      "original": "sign above the door",
+      "translated": "שלט מעל הדלת"
+    },
+    {
+      "original": "The badly weathered sign says Droids-B-Us Pickup.",
+      "translated": "על השלט החבוט רשום רובוטים-אר-אס איסוף."
+    },
+    {
+      "original": "Gerry G",
+      "translated": "גרשון ג"
+    },
+    {
+      "original": "This cheerful fellow is Gerry Giraffazoid, logo, spokesbeing, and C.E.O. of Droids-B-Us, Inc.",
+      "translated": "הבחור העליז הזה הוא גרשון ג'ירפזויד, הסמל, הדובר והמנכל של רובוטים-אר-אס בעמ."
+    },
+    {
+      "original": "You talk to yourself and, as usual, learn nothing that you didn't already know.",
+      "translated": "אתה מדבר אל עצמך, וכרגיל, לא לומד משהו שלא ידעת כבר."
+    },
+    {
+      "original": "Hey! One shouldn't attempt to manipulate one's self in a family game.",
+      "translated": "היי! אתה לא אמור להתעסק עם עצמך במשחק לכל המשפחה."
+    },
+    {
+      "original": "Better not. You're likely to get a fur ball.",
+      "translated": "מוטב שלא. אתה צפוי לבלוע כדור פרווה."
+    },
+    {
+      "original": "The odor you're producing causes you to regret skipping last month's shower.",
+      "translated": "הניחוח שאתה מפיק גורם לך להתחרט על שדילגת על המקלחת החודשית."
+    },
+    {
+      "original": "You're too busy right now.",
+      "translated": "אתה עסוק מדי עכשיו."
+    },
+    {
+      "original": "Better save it for when you're thirsty.",
+      "translated": "עדיף לשמור את זה לרגעים שתהיה צמא."
+    },
+    {
+      "original": "You don't want to do that here.",
+      "translated": "אתה לא רוצה לעשות את זה כאן."
+    },
+    {
+      "original": "You wisely strap on the jetpack to allow your self motion control.",
+      "translated": "אתה חוגר בתבונתך את תרמיל הריחוף כדי לאפשר לך בקרת תנועה עצמית."
+    },
+    {
+      "original": "The jetpack is useful only in Zero-G situations.",
+      "translated": "תרמיל הריחוף יעיל רק במצבי אפס כבידה."
+    },
+    {
+      "original": "Don't bother. This knife wouldn't cut hot lard.",
+      "translated": "אל תטרח. הסכין לא חותכת שומן רותח."
+    },
+    {
+      "original": "Isn't this just the most amazing waste of time?",
+      "translated": "האין זה בזבוז הזמן המדהים ביותר בעולם?"
+    },
+    {
+      "original": "You have to wonder why you're performing such a useless action.",
+      "translated": "עליך לשאול את עצמך מדוע הינך מבצע פעולות כל כך חסרות תועלת."
+    },
+    {
+      "original": "You wisely decide this is a serious waste of time and energy.",
+      "translated": "אתה מחליט בחוכמה שמדובר בבזבוז משווע של זמן ואנרגיה."
+    },
+    {
+      "original": "You ask yourself why you're doing this and are forced to reply that you just don't know.",
+      "translated": "אתה שואל את עצמך למה אתה עושה זה ועצמך עונה לך שאין לו מושג."
+    },
+    {
+      "original": "Even for you, this isn't bright.",
+      "translated": "אפילו במונחים שלך, זה לא רעיון מבריק."
+    },
+    {
+      "original": "Thank you for playing Space Quest I. You've been most entertaining.",
+      "translated": "תודה ששיחקתם מסע בחלל 1. בידרתם אותנו כמו שצריך."
+    },
+    {
+      "original": "Are you sure you want to restart?",
+      "translated": "בטוח שרוצים להתחיל מחדש?"
+    },
+    {
+      "original": "Memory fragmented.",
+      "translated": "קטעי זכרונות."
+    },
+    {
+      "original": "What did you expect them to do, reproduce?",
+      "translated": "מה ציפית מהם לעשות, להתרבות?"
+    },
+    {
+      "original": "You're far too busy for that now.",
+      "translated": "אתה עסוק מדי בשביל זה עכשיו."
+    },
+    {
+      "original": "You switch the gadget off to conserve its energy.",
+      "translated": "אתה מכבה את הגאדג'ט כדי לחסוך באנרגיה."
+    },
+    {
+      "original": "You switch the gadget on.",
+      "translated": "אתה מפעיל את הגאדג'ט."
+    },
+    {
+      "original": "You're far to busy for that now.",
+      "translated": "אתה עסוק מדי בשביל זה עכשיו."
+    },
+    {
+      "original": "You scrape that sticky goo from the bottom of the rock.",
+      "translated": "אתה מגרד את העיסה הדביקה מתחתית הסלע."
+    },
+    {
+      "original": "There is nothing you can do to the rock.",
+      "translated": "אין לך מה לעשות לסלע."
+    },
+    {
+      "original": "You've already opened the survival kit and removed its contents.",
+      "translated": "כבר פתחת את ערכת ההישרדות ורוקנת את תכולתה."
+    },
+    {
+      "original": "Upon opening the survival kit you discover a Xenon army knife and a canister of dehydrated water.",
+      "translated": "אתה פותח את ערכת ההישרדות ומוצא בתוכה סכין צבאי זנוני ומיכל מים מיובשים."
+    },
+    {
+      "original": "You have %d Buckazoid%s",
+      "translated": "יש לך %d זוזואידים"
+    },
+    {
+      "original": "Thank you for playing Space Quest I. Too bad you've failed miserably and doomed all of your people to a horrible death at the hands of the Sariens. You quickly glance about the room to see if anyone saw your silly mistake. Better luck next time.",
+      "translated": "תודה ששיחקת מסע בחלל 1. עצוב מאד שנחלת כישלון מחפיר וגזרת על אנשיך מוות מחריד בידי הסריינים. אתה מעיף מבט חטוף מסביב לחדר ובודק אם מישהו הבחין בטעות המגוחכת שלך. בהצלחה בפעם הבאה."
+    },
+    {
+      "original": "Score: %d of %d",
+      "translated": "ניקוד: %d מתוך %d"
+    },
+    {
+      "original": "Roger Wilco",
+      "translated": "רוג'ר ווילקו"
+    },
+    {
+      "original": "It's you, Roger Wilco, janitor sub-extraordinaire.",
+      "translated": "זה אתה, רוג'ר ווילקו, מנקה תת-מעולה."
+    },
+    {
+      "original": "This is your brain take-out container.",
+      "translated": "זה מיכל הוצאת המוח שלך."
+    },
+    {
+      "original": "Let me out of here!\\n(Quit)",
+      "translated": "תוציאו אותי מכאן!\\n(צא)"
+    },
+    {
+      "original": "I don't know WHAT\\nI was thinking.\\nLet's Play!",
+      "translated": "אני לא יודע *מה*\\nאני חשבתי.\\nבואו נשחק!"
+    },
+    {
+      "original": "Of course I'm sure!",
+      "translated": "ברור שאני בטוח!"
+    },
+    {
+      "original": "Changed My Mind.\\nLet's Play!",
+      "translated": "שיניתי את דעתי.\\nבואו נשחק!"
+    },
+    {
+      "original": "Who cares",
+      "translated": "למי אכפת"
+    },
+    {
+      "original": "Debug",
+      "translated": "דיבאג"
+    },
+    {
+      "original": "Select this Icon to close this window.",
+      "translated": "בחר בסמליל הזה כדי לסגור את החלון."
+    },
+    {
+      "original": "Select this Icon then select an inventory item you'd like a description of.",
+      "translated": "בחר בסמליל הזה ואז בחר פריט מהמלאי שאתה רוצה תיאור שלו."
+    },
+    {
+      "original": "This allows you to do something to an item.",
+      "translated": "זה מאפשר לך לעשות משהו לפריט."
+    },
+    {
+      "original": "This allows you to select an item.",
+      "translated": "זה מאפשר לך לבחור פריט."
+    },
+    {
+      "original": "It's a cartridge from the Arcada's Data Archive.",
+      "translated": "זו מחסנית מארכיב המידע של הארקדה."
+    },
+    {
+      "original": "This keycard fits an electronic lock someplace on the Arcada.",
+      "translated": "הכרטיס הזה מתאים למנעול אלקטרוני איפשהו בארקדה."
+    },
+    {
+      "original": "This is some sort of gadget. You're not sure what it does exactly, but it has a switch.",
+      "translated": "זה סוג של אביזר. אתה לא בטוח מה בדיוק זה עושה, אבל יש לזה מתג."
+    },
+    {
+      "original": "It's the cone shaped tip of a stalagmite.",
+      "translated": "זה הקצה החרוטי של זקיף."
+    },
+    {
+      "original": "A Survival Kit",
+      "translated": "ערכת הישרדות"
+    },
+    {
+      "original": "It's a Xenon Army knife",
+      "translated": "זה אולר צבא קסנוני"
+    },
+    {
+      "original": "The can label says Pelvitron Dehydrated Water (H2) - All you add is air! Makes 10 gallons! Caution - Do not attempt to open or rupture container! Misuse could result in personal injury and/or flash flooding.",
+      "translated": "על התווית של הפחית כתוב פלוויטרון מים מיובשים - נשאר רק להוסיף אוויר! טוב ל-40 ליטר! זהירות - אל תנסה לפתוח או לקרוע את המיכל! שימוש לקוי עלול להסתיים בפציעה ו/או הצפה פתאומית."
+    }
+  ],
+  "messages": [
+    {
+      "logicFile": "46.agilogic",
+      "messageNumber": 1,
+      "original": "The inhabitants of this vessel don't appear to appreciate your desire to sight-see. You have been transformed into space dust.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    }
+  ]
+}

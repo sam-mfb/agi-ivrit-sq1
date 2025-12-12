@@ -1,0 +1,120 @@
+{
+  "room": "64",
+  "totalMessages": 19,
+  "messages": [
+    {
+      "logicFile": "64.agilogic",
+      "messageNumber": 1,
+      "original": "Congratulations %s1, you've rid the universe of the evil Sariens and saved your people from certain doom. You're an all-around hero! You've made it home safely aboard the stolen Sarien craft, where you've encountered a cheering Xenon crowd. They have gathered together for a ceremony in your honor. The ceremony is already in progress.",
+      "translation": "ברכות %s1, פינית את היקום מהסרייאנים המרושעים והצלת את אנשיך מאבדון בטוח. אתה גיבור בכל מובן המילה! הגעת הביתה בשלום על סיפון החללית הסרייאנית הגנובה, שם נתקלת בקהל זנוני מריע. הם התכנסו לטקס לכבודך. הטקס כבר בעיצומו."
+    },
+    {
+      "logicFile": "64.agilogic",
+      "messageNumber": 2,
+      "original": "As a token of appreciation, you are presented with a golden mop. \\\"Thank you, %s1 for cleaning up our galaxy\\\", says the Xenon leader.",
+      "translation": "כאות הוקרה, מוגשת לך סחבה זהובה. \\\"תודה לך, %s1 על שניקית את הגלקסיה שלנו\\\", אומר מנהיג זנון."
+    },
+    {
+      "logicFile": "64.agilogic",
+      "messageNumber": 3,
+      "original": "Once a janitor always a janitor.",
+      "translation": "פעם מנקה, תמיד מנקה."
+    },
+    {
+      "logicFile": "64.agilogic",
+      "messageNumber": 4,
+      "original": "Thank you for playing Space Quest",
+      "translation": "REVIEW: תודה ששיחקתם מסע בחלל"
+    },
+    {
+      "logicFile": "64.agilogic",
+      "messageNumber": 5,
+      "original": "    Watch for Space Quest II",
+      "translation": "    צפו למסע בחלל II"
+    },
+    {
+      "logicFile": "64.agilogic",
+      "messageNumber": 6,
+      "original": " ",
+      "translation": " "
+    },
+    {
+      "logicFile": "64.agilogic",
+      "messageNumber": 7,
+      "original": "         Thank You",
+      "translation": "REVIEW: תודה"
+    },
+    {
+      "logicFile": "64.agilogic",
+      "messageNumber": 8,
+      "original": "         Scott Murphy",
+      "translation": "         סקוט מרפי"
+    },
+    {
+      "logicFile": "64.agilogic",
+      "messageNumber": 9,
+      "original": "         Mark Crowe",
+      "translation": "         מארק קרואו"
+    },
+    {
+      "logicFile": "64.agilogic",
+      "messageNumber": 10,
+      "original": "         Sol Ackerman",
+      "translation": "         סול אקרמן"
+    },
+    {
+      "logicFile": "64.agilogic",
+      "messageNumber": 11,
+      "original": "         Ken Williams",
+      "translation": "         קן וויליאמס"
+    },
+    {
+      "logicFile": "64.agilogic",
+      "messageNumber": 12,
+      "original": "         Jeff Stephenson",
+      "translation": "         ג'ף סטפנסון"
+    },
+    {
+      "logicFile": "64.agilogic",
+      "messageNumber": 13,
+      "original": "         Chris Iden",
+      "translation": "         כריס אידן"
+    },
+    {
+      "logicFile": "64.agilogic",
+      "messageNumber": 14,
+      "original": "         Sierra On-Line Inc.",
+      "translation": " 1991 סיירה און-ליין, בעמ"
+    },
+    {
+      "logicFile": "64.agilogic",
+      "messageNumber": 15,
+      "original": "         The Sarien Fleet",
+      "translation": "         צי הסרייאנים"
+    },
+    {
+      "logicFile": "64.agilogic",
+      "messageNumber": 16,
+      "original": "         The Entire Human Race",
+      "translation": "         כל המין האנושי"
+    },
+    {
+      "logicFile": "64.agilogic",
+      "messageNumber": 17,
+      "original": " %s1, Galactic Warrior",
+      "translation": " %s1, לוחם גלקטי"
+    },
+    {
+      "logicFile": "64.agilogic",
+      "messageNumber": 18,
+      "original": " ",
+      "translation": " "
+    },
+    {
+      "logicFile": "64.agilogic",
+      "messageNumber": 19,
+      "original": "Congratulations %s1, you've rid the universe of the evil Sariens and saved your people from certain doom. The Star Generator technology is safe inside the Data Cartridge. Now, a new Star Generator can be built and can carry out its original task - You're an all-around hero! You've made it home safely aboard the stolen Sarien craft, where you've encountered a cheering Xenon crowd. They have gathered together for a ceremony in your honor. The ceremony is already in progress.",
+      "translation": "ברכות %s1, פינית את היקום מהסרייאנים המרושעים והצלת את אנשיך מאבדון בטוח. טכנולוגיית מחולל הכוכבים מאובטחת בתוך מחסנית הנתונים. כעת, ניתן לבנות מחולל כוכבים חדש ולבצע את משימתו המקורית - אתה גיבור בכל מובן המילה! הגעת הביתה בשלום על סיפון החללית הסרייאנית הגנובה, שם נתקלת בקהל זנוני מריע. הם התכנסו לטקס לכבודך. הטקס כבר בעיצומו."
+    }
+  ]
+}

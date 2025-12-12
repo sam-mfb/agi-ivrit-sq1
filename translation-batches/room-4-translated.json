@@ -1,0 +1,107 @@
+{
+  "room": "4",
+  "totalMessages": 16,
+  "messages": [
+    {
+      "logicFile": "4.agilogic",
+      "messageNumber": 1,
+      "original": "This another hallway aboard the Arcada. There is an elevator door nearby.",
+      "matchType": "fuzzy",
+      "translation": "זהו מסדרון נוסף על סיפון הארקדה. יש דלת מעלית בסמוך."
+    },
+    {
+      "logicFile": "4.agilogic",
+      "messageNumber": 2,
+      "original": "Sorry, due to your low security clearance you are not allowed access to this area.",
+      "translation": "סליחה, בגלל אישור האבטחה הנמוך שלך אינך מורשה לגשת לאזור זה."
+    },
+    {
+      "logicFile": "4.agilogic",
+      "messageNumber": 3,
+      "original": "This is an elevator to one of the other levels of the Arcada.",
+      "matchType": "exact",
+      "translation": "מעלית זו נעה אל אחד ממפלסי הארקדה."
+    },
+    {
+      "logicFile": "4.agilogic",
+      "messageNumber": 4,
+      "original": "That cannot be done from here.",
+      "translation": "זה לא יכול להיעשות מכאן."
+    },
+    {
+      "logicFile": "4.agilogic",
+      "messageNumber": 5,
+      "original": "There is no situation which calls for that action now.",
+      "translation": "אין מצב הדורש את הפעולה הזו כעת."
+    },
+    {
+      "logicFile": "4.agilogic",
+      "messageNumber": 6,
+      "original": "You see nothing that catches your eye.",
+      "translation": "אתה לא רואה דבר שמושך את תשומת ליבך."
+    },
+    {
+      "logicFile": "4.agilogic",
+      "messageNumber": 7,
+      "original": "The door is quite heavy and impossible for you to open. Your classification does not permit it.",
+      "translation": "הדלת כבדה למדי ובלתי אפשרי לך לפתוח אותה. הסיווג שלך לא מאפשר זאת."
+    },
+    {
+      "logicFile": "4.agilogic",
+      "messageNumber": 8,
+      "original": "A cursory glance indicates that this is a dead lab technician.",
+      "translation": "מבט שטחי מעיד שזהו טכנאי מעבדה מת."
+    },
+    {
+      "logicFile": "4.agilogic",
+      "messageNumber": 9,
+      "original": "Your search of the body reveals nothing.",
+      "matchType": "exact",
+      "translation": "החיפוש על הגופה אינו מניב תוצאות."
+    },
+    {
+      "logicFile": "4.agilogic",
+      "messageNumber": 10,
+      "original": "This appears to be a non-breathing research scientist.",
+      "translation": "זה נראה כמו מדען מחקר שלא נושם."
+    },
+    {
+      "logicFile": "4.agilogic",
+      "messageNumber": 11,
+      "original": "Good grief, man! You are a bit twisted, I must say.?",
+      "translation": "בחיי, בנאדם! אתה קצת מעוות, אני חייב לומר.?"
+    },
+    {
+      "logicFile": "4.agilogic",
+      "messageNumber": 13,
+      "original": "There is not much left of the door. Someone has blown it away.",
+      "translation": "לא נשאר הרבה מהדלת. מישהו פוצץ אותה."
+    },
+    {
+      "logicFile": "4.agilogic",
+      "messageNumber": 14,
+      "original": "You see another boring door.",
+      "translation": "אתה רואה עוד דלת משעממת."
+    },
+    {
+      "logicFile": "4.agilogic",
+      "messageNumber": 15,
+      "original": "One can only wonder what your purpose for this action is. You can't undress the body. Allow him one last bit of dignity.",
+      "translation": "אפשר רק לתהות מה המטרה שלך בפעולה הזו. אתה לא יכול להפשיט את הגופה. תן לו שמץ אחרון של כבוד."
+    },
+    {
+      "logicFile": "4.agilogic",
+      "messageNumber": 16,
+      "original": "Are you serious?",
+      "matchType": "partial",
+      "translation": "REVIEW: אתה רציני?",
+      "notes": "REVIEW: Partial match - simplified from 'You can't be serious!'"
+    },
+    {
+      "logicFile": "4.agilogic",
+      "messageNumber": 17,
+      "original": "You are too far away to get a good look.",
+      "translation": "אתה רחוק מדי כדי לקבל מבט טוב."
+    }
+  ]
+}

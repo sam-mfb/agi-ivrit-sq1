@@ -1,0 +1,1483 @@
+[
+  {
+    "logicFile": "0.agilogic",
+    "messageNumber": 7,
+    "original": "That does not ",
+    "placeholders": [],
+    "matchType": "partial",
+    "matchScore": 0.5,
+    "suggestedTranslation": "זה לא עוזר.",
+    "csvMatch": "That's not helpful.",
+    "translation": "REVIEW: זה לא ",
+    "notes": "REVIEW: Fragment - partial match suggests 'helpful' context"
+  },
+  {
+    "logicFile": "0.agilogic",
+    "messageNumber": 16,
+    "original": "Silly human! That would not be helpful.",
+    "placeholders": [],
+    "matchType": "partial",
+    "matchScore": 0.5,
+    "suggestedTranslation": "זה לא עוזר.",
+    "csvMatch": "That's not helpful.",
+    "translation": "REVIEW: אדם מטופש! זה לא יעזור.",
+    "notes": "REVIEW: Partial match - added full sentence structure"
+  },
+  {
+    "logicFile": "0.agilogic",
+    "messageNumber": 19,
+    "original": "You can't hear anything of note.",
+    "placeholders": [],
+    "matchType": "partial",
+    "matchScore": 0.6,
+    "suggestedTranslation": "אתה לא יכול לעשות לו דבר.",
+    "csvMatch": "You can't do anything to it.",
+    "translation": "REVIEW: אתה לא שומע שום דבר מיוחד.",
+    "notes": "REVIEW: Partial match but different context (hear vs do)"
+  },
+  {
+    "logicFile": "0.agilogic",
+    "messageNumber": 25,
+    "original": "%m8you.",
+    "placeholders": [
+      "%m8"
+    ],
+    "matchType": "partial",
+    "matchScore": 0.5,
+    "suggestedTranslation": "אתה לא יכול.",
+    "csvMatch": "You can't.",
+    "translation": "REVIEW: %m8אתה.",
+    "notes": "REVIEW: Partial match - fragment with placeholder"
+  },
+  {
+    "logicFile": "0.agilogic",
+    "messageNumber": 32,
+    "original": "This knife wouldn't cut hot margarine.",
+    "placeholders": [],
+    "matchType": "partial",
+    "matchScore": 0.5555555555555556,
+    "suggestedTranslation": "אל תטרח. הסכין לא חותכת שומן רותח.",
+    "csvMatch": "Don't bother. This knife wouldn't cut hot lard.",
+    "translation": "REVIEW: הסכין הזאת לא תחתוך מרגרינה חמה.",
+    "notes": "REVIEW: Partial match - similar concept but different wording"
+  },
+  {
+    "logicFile": "0.agilogic",
+    "messageNumber": 55,
+    "original": "There is no need to do that now.",
+    "placeholders": [],
+    "matchType": "partial",
+    "matchScore": 0.6,
+    "suggestedTranslation": "אין צורך לעשות זאת.",
+    "csvMatch": "There's no need for that.",
+    "translation": "REVIEW: אין צורך לעשות את זה עכשיו.",
+    "notes": "REVIEW: Partial match - added temporal element"
+  },
+  {
+    "logicFile": "0.agilogic",
+    "messageNumber": 60,
+    "original": "You can't run.",
+    "placeholders": [],
+    "matchType": "partial",
+    "matchScore": 0.6666666666666666,
+    "suggestedTranslation": "אתה לא יכול.",
+    "csvMatch": "You can't.",
+    "translation": "REVIEW: אתה לא יכול לרוץ.",
+    "notes": "REVIEW: Partial match - added specific action"
+  },
+  {
+    "logicFile": "0.agilogic",
+    "messageNumber": 69,
+    "original": "You possess %v124 buckazoid(s).",
+    "placeholders": [
+      "%v"
+    ],
+    "matchType": "partial",
+    "matchScore": 0.5,
+    "suggestedTranslation": "יש לך %d זוזואידים",
+    "csvMatch": "You have %d Buckazoid%s",
+    "translation": "REVIEW: יש ברשותך %v124 זוזואידים.",
+    "notes": "REVIEW: Partial match - kept %v placeholder as is"
+  },
+  {
+    "logicFile": "0.agilogic",
+    "messageNumber": 72,
+    "original": "Are you sure you want to look at that?",
+    "placeholders": [],
+    "matchType": "partial",
+    "matchScore": 0.5714285714285714,
+    "suggestedTranslation": "בטוח שרוצים להתחיל מחדש?",
+    "csvMatch": "Are you sure you want to restart?",
+    "translation": "REVIEW: אתה בטוח שאתה רוצה להסתכל על זה?",
+    "notes": "REVIEW: Partial match - different context (look vs restart)"
+  },
+  {
+    "logicFile": "0.agilogic",
+    "messageNumber": 75,
+    "original": "You can't obtain that here.",
+    "placeholders": [],
+    "matchType": "partial",
+    "matchScore": 0.6666666666666666,
+    "suggestedTranslation": "אתה לא יכול לעשות את זה מכאן.",
+    "csvMatch": "You can't do that from in here.",
+    "translation": "REVIEW: אתה לא יכול להשיג את זה כאן.",
+    "notes": "REVIEW: Partial match - different context (obtain vs do)"
+  },
+  {
+    "logicFile": "0.agilogic",
+    "messageNumber": 111,
+    "original": "In the pocket of this%m2 is an alien %m5card. The name on the card is Butston Freem. You wonder if this is a common%m3 name.",
+    "placeholders": [
+      "%m2",
+      "%m5",
+      "%m3"
+    ],
+    "matchType": "partial",
+    "matchScore": 0.5882352941176471,
+    "suggestedTranslation": "בכיס של התחפושת המכוערת הזאת יש תעודת זהות סאריינית. השם על הכרטיס הוא ישבנאבן פרים. אתה תוהה אם זה שם סארייני נפוץ (ואם כן, אתה שמח שאתה לא סארייני).",
+    "csvMatch": "In the pocket of this ugly outfit is a Sarien ID card. The name on the card is Butston Freem. You wonder if this is a common Sarien name (and if it is, you're glad you're not Sarien).",
+    "translation": "REVIEW: בכיס של ה%m2 הזה יש כרטיס %m5 זר. השם על הכרטיס הוא ישבנאבן פרים. אתה תוהה אם זה שם%m3 נפוץ.",
+    "notes": "REVIEW: Partial match - simplified version without the parenthetical"
+  },
+  {
+    "logicFile": "0.agilogic",
+    "messageNumber": 152,
+    "original": "Help    ",
+    "placeholders": [],
+    "matchType": "partial",
+    "matchScore": 0.5,
+    "suggestedTranslation": "זה חסר תועלת.",
+    "csvMatch": "That's of no help.",
+    "translation": "REVIEW: עזרה    ",
+    "notes": "REVIEW: Partial match - keeping as menu item"
+  },
+  {
+    "logicFile": "1.agilogic",
+    "messageNumber": 9,
+    "original": "After only a few steps he slumps to the floor.",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "לאחר מספר צעדים, הוא פוגש את הרצפה בקול חבטה עמום.",
+    "notes": "REVIEW: Partial match"
+  },
+  {
+    "logicFile": "1.agilogic",
+    "messageNumber": 10,
+    "original": "A large laser hole has been burned in his uniform through which you can see previously unexposed tissue.  Struggling painfully, he raises up on one elbow.",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "חורי לייזר ענקיים צרבו את מדיו, בחושפם נוף יפה של רקמות נסתרות עד זה לא מכבר. מתייסר מכאבים, הוא מתרומם על מרפקו האחד.",
+    "notes": "REVIEW: Partial match"
+  },
+  {
+    "logicFile": "1.agilogic",
+    "messageNumber": 11,
+    "original": "He tells you the Arcada is under attack and that the Star Generator is in danger. You had better leave if you value your life.",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "מחולל הכוכבים בסכנה! הארקדה תחת מתקפה! כדאי לך להסתלק מהמכולה הזאת באם חייך יקרים לך, ווילקו.",
+    "notes": "REVIEW: Partial match"
+  },
+  {
+    "logicFile": "1.agilogic",
+    "messageNumber": 20,
+    "original": "Arcada Data Archive",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "זו מחסנית מארכיב המידע של הארקדה.",
+    "notes": "REVIEW: Partial match - contextually this is the title/heading not the description"
+  },
+  {
+    "logicFile": "2.agilogic",
+    "messageNumber": 4,
+    "original": "You can't see anything in here because it is dark.",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "אינך רואה דבר מכאן למעלה.",
+    "notes": "REVIEW: Partial match - adapted from 'You can't see anything from up here'"
+  },
+  {
+    "logicFile": "2.agilogic",
+    "messageNumber": 12,
+    "original": "A quick search of the body turns up nothing.",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "החיפוש על הגופה אינו מניב תוצאות.",
+    "notes": "REVIEW: Partial match - adapted from 'Your search of the body reveals nothing'"
+  },
+  {
+    "logicFile": "2.agilogic",
+    "messageNumber": 14,
+    "original": "That can't be done here.",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "אתה לא יכול לעשות את זה מכאן.",
+    "notes": "REVIEW: Partial match - adapted from 'You can't do that from in here'"
+  },
+  {
+    "logicFile": "2.agilogic",
+    "messageNumber": 16,
+    "original": "Dave?  Dave's not here!",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "לא מכאן.",
+    "notes": "REVIEW: Partial match - adapted from 'Not from here'"
+  },
+  {
+    "logicFile": "2.agilogic",
+    "messageNumber": 17,
+    "original": "That is not seen easily from here.",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "זה לא אפשרי כאן מלמעלה.",
+    "notes": "REVIEW: Partial match - adapted from 'That's not possible from up here'"
+  },
+  {
+    "logicFile": "4.agilogic",
+    "messageNumber": 16,
+    "original": "Are you serious?",
+    "matchType": "partial",
+    "translation": "REVIEW: אתה רציני?",
+    "notes": "REVIEW: Partial match - simplified from 'You can't be serious!'"
+  },
+  {
+    "logicFile": "5.agilogic",
+    "messageNumber": 6,
+    "original": "That can't be accomplished from here.",
+    "placeholders": [],
+    "matchType": "partial",
+    "matchScore": 0.6666666666666666,
+    "suggestedTranslation": "אתה לא יכול לעשות את זה מכאן.",
+    "csvMatch": "You can't do that from in here.",
+    "translation": "אי אפשר לעשות את זה מכאן.",
+    "notes": "REVIEW: Partial match - adapted translation"
+  },
+  {
+    "logicFile": "5.agilogic",
+    "messageNumber": 9,
+    "original": "Nothing interesting is to be seen there.",
+    "placeholders": [],
+    "matchType": "partial",
+    "matchScore": 0.5,
+    "suggestedTranslation": "אין מה לעשות שם.",
+    "csvMatch": "Nothing to do there.",
+    "translation": "אין מה לראות שם.",
+    "notes": "REVIEW: Partial match - adapted translation"
+  },
+  {
+    "logicFile": "6.agilogic",
+    "messageNumber": 8,
+    "original": "You don't see that here.",
+    "placeholders": [],
+    "matchType": "partial",
+    "matchScore": 0.6666666666666666,
+    "suggestedTranslation": "אתה לא רוצה לעשות את זה כאן.",
+    "csvMatch": "You don't want to do that here.",
+    "translation": "אינך רואה את זה כאן.",
+    "notes": "REVIEW: Partial match - adapted translation"
+  },
+  {
+    "logicFile": "6.agilogic",
+    "messageNumber": 13,
+    "original": "Nothing of interest there.",
+    "placeholders": [],
+    "matchType": "partial",
+    "matchScore": 0.6666666666666666,
+    "suggestedTranslation": "אין מה לעשות שם.",
+    "csvMatch": "Nothing to do there.",
+    "translation": "אין מה לעשות שם.",
+    "notes": "REVIEW: Partial match - close meaning"
+  },
+  {
+    "logicFile": "7.agilogic",
+    "messageNumber": 5,
+    "original": "You don't have that.",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "אתה לא רוצה לעשות את זה כאן.",
+    "notes": "REVIEW: Partial match - context is 'have' not 'want to do'"
+  },
+  {
+    "logicFile": "8.agilogic",
+    "messageNumber": 2,
+    "original": "This is one of the Arcada's escape pods. You vaguely remember receiving some orientation on these when you joined the crew.",
+    "placeholders": [],
+    "matchType": "partial",
+    "matchScore": 0.5333333333333333,
+    "suggestedTranslation": "זוהי אחת מחלליות המילוט של הארקדה. אתה זוכר במעורפל שקיבלת הדרכה כלשהי לגביהן כשהצטרפת לצוות. למרבה הצער, היית עסוק במחקר על שינה עם עיניים פקוחות, ולכן, לא זוכר הרבה.",
+    "csvMatch": "This is one of the Arcada's escape pods. You vaguely remember receiving some orientation on these when you joined the crew. Unfortunately, you were deep into research on sleeping with your eyes open and, hence, don't remember much.",
+    "translation": "זוהי אחת מחלליות המילוט של הארקדה. אתה זוכר במעורפל שקיבלת הדרכה כלשהי לגביהן כשהצטרפת לצוות.",
+    "notes": "REVIEW: Partial match - shortened version used"
+  },
+  {
+    "logicFile": "8.agilogic",
+    "messageNumber": 13,
+    "original": "You cannot perform that act from here.",
+    "placeholders": [],
+    "matchType": "partial",
+    "matchScore": 0.5,
+    "suggestedTranslation": "אתה לא יכול לעשות את זה מכאן.",
+    "csvMatch": "You can't do that from in here.",
+    "translation": "אינך יכול לבצע פעולה זו מכאן.",
+    "notes": "REVIEW: Partial match - adapted translation"
+  },
+  {
+    "logicFile": "8.agilogic",
+    "messageNumber": 21,
+    "original": "The pod door is already open.",
+    "placeholders": [],
+    "matchType": "partial",
+    "matchScore": 0.5,
+    "suggestedTranslation": "תעלת האוורור כבר פתוחה ועומדת.",
+    "csvMatch": "The vent is already open.",
+    "translation": "דלת החללית כבר פתוחה.",
+    "notes": "REVIEW: Partial match - adapted translation"
+  },
+  {
+    "logicFile": "9.agilogic",
+    "messageNumber": 3,
+    "original": "This is the inside airlock door.",
+    "translation": "זהו מנעל האוויר של הארקדה.",
+    "placeholders": [],
+    "matchType": "partial",
+    "notes": "REVIEW: Suggested translation from partial match"
+  },
+  {
+    "logicFile": "9.agilogic",
+    "messageNumber": 4,
+    "original": "That is not here to be seen.",
+    "translation": "אין לזה השפעה כאן.",
+    "placeholders": [],
+    "matchType": "partial",
+    "notes": "REVIEW: Suggested translation from partial match"
+  },
+  {
+    "logicFile": "9.agilogic",
+    "messageNumber": 13,
+    "original": "The sign on the wall suggests that the bay doors are not currently open.",
+    "translation": "דלתות הסיפון פתוחות כרגע.",
+    "placeholders": [],
+    "matchType": "partial",
+    "notes": "REVIEW: Suggested translation from partial match"
+  },
+  {
+    "logicFile": "9.agilogic",
+    "messageNumber": 14,
+    "original": "The sign on the wall warns that the bay doors are currently open.",
+    "translation": "דלתות הסיפון פתוחות כרגע.",
+    "placeholders": [],
+    "matchType": "partial",
+    "notes": "REVIEW: Suggested translation from partial match"
+  },
+  {
+    "logicFile": "9.agilogic",
+    "messageNumber": 17,
+    "original": "It looks like an electrical gadget of some sort.",
+    "translation": "זה נראה כמו סוג של... סרעפת ענקית?",
+    "placeholders": [],
+    "matchType": "partial",
+    "notes": "REVIEW: Suggested translation from partial match"
+  },
+  {
+    "logicFile": "9.agilogic",
+    "messageNumber": 18,
+    "original": "You are not close enough.",
+    "translation": "אתה לא מספיק קרוב לסורג כדי לפתוח אותו.",
+    "placeholders": [],
+    "matchType": "partial",
+    "notes": "REVIEW: Suggested translation from partial match"
+  },
+  {
+    "logicFile": "9.agilogic",
+    "messageNumber": 19,
+    "original": "The closet is not open.",
+    "translation": "המפתחות לא פותחות את המכשיר.",
+    "placeholders": [],
+    "matchType": "partial",
+    "notes": "REVIEW: Suggested translation from partial match"
+  },
+  {
+    "logicFile": "9.agilogic",
+    "messageNumber": 21,
+    "original": "There is nothing here to get.",
+    "translation": "אין מה לקנות כאן.",
+    "placeholders": [],
+    "matchType": "partial",
+    "notes": "REVIEW: Suggested translation from partial match"
+  },
+  {
+    "logicFile": "9.agilogic",
+    "messageNumber": 22,
+    "original": "You already have it.",
+    "translation": "כבר יש לך את המפתחות.",
+    "placeholders": [],
+    "matchType": "partial",
+    "notes": "REVIEW: Suggested translation from partial match"
+  },
+  {
+    "logicFile": "9.agilogic",
+    "messageNumber": 23,
+    "original": "That can't be done from here.",
+    "translation": "אתה לא יכול לעשות את זה מכאן.",
+    "placeholders": [],
+    "matchType": "partial",
+    "notes": "REVIEW: Suggested translation from partial match"
+  },
+  {
+    "logicFile": "9.agilogic",
+    "messageNumber": 27,
+    "original": "You don't have that.",
+    "translation": "אתה לא רוצה לעשות את זה כאן.",
+    "placeholders": [],
+    "matchType": "partial",
+    "notes": "REVIEW: Suggested translation from partial match"
+  },
+  {
+    "logicFile": "9.agilogic",
+    "messageNumber": 28,
+    "original": "You already have it on.",
+    "translation": "כבר יש לך את המפתחות.",
+    "placeholders": [],
+    "matchType": "partial",
+    "notes": "REVIEW: Suggested translation from partial match"
+  },
+  {
+    "logicFile": "9.agilogic",
+    "messageNumber": 36,
+    "original": "You'll need to get closer to see that.",
+    "translation": "תצטרך לגשת יותר קרוב בשביל זה.",
+    "placeholders": [],
+    "matchType": "partial",
+    "notes": "REVIEW: Suggested translation from partial match"
+  },
+  {
+    "logicFile": "9.agilogic",
+    "messageNumber": 38,
+    "original": "You need to get closer.",
+    "translation": "תיאלץ לגשת קרוב יותר.",
+    "placeholders": [],
+    "matchType": "partial",
+    "notes": "REVIEW: Suggested translation from partial match"
+  },
+  {
+    "logicFile": "10.agilogic",
+    "messageNumber": 4,
+    "original": "Escape Pod Systems Activated",
+    "placeholders": [],
+    "matchType": "partial",
+    "matchScore": 0.5,
+    "suggestedTranslation": "חללית מילוט",
+    "csvMatch": "escape pod",
+    "translation": "REVIEW: מערכות חללית המילוט הופעלו",
+    "notes": "REVIEW: Partial match - adjusted from just 'escape pod' to full sentence"
+  },
+  {
+    "logicFile": "11.agilogic",
+    "messageNumber": 1,
+    "original": ". . . .WARNING. . . .",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "אור אזהרה",
+    "notes": "REVIEW: Partial match"
+  },
+  {
+    "logicFile": "11.agilogic",
+    "messageNumber": 22,
+    "original": "There is nothing to see here.",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "אין מה לקנות כאן.",
+    "notes": "REVIEW: Partial match - context is 'see' not 'buy'"
+  },
+  {
+    "logicFile": "11.agilogic",
+    "messageNumber": 23,
+    "original": "That can not be seen from here.",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "אתה לא יכול לעשות את זה מכאן.",
+    "notes": "REVIEW: Partial match - context is 'seen' not 'do'"
+  },
+  {
+    "logicFile": "14.agilogic",
+    "messageNumber": 12,
+    "original": "You can fix nothing here.",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "לא תוכל לעשות להם דבר מכאן.",
+    "notes": "REVIEW: Partial match - different context (fixing vs doing to them)"
+  },
+  {
+    "logicFile": "19.agilogic",
+    "messageNumber": 2,
+    "original": "That can't be done here.",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "אתה לא יכול לעשות את זה מכאן.",
+    "notes": "REVIEW: Partial match"
+  },
+  {
+    "logicFile": "19.agilogic",
+    "messageNumber": 10,
+    "original": "That is unreachable from here.",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "אתה לא יכול לעשות את זה מכאן.",
+    "notes": "REVIEW: Partial match"
+  },
+  {
+    "logicFile": "19.agilogic",
+    "messageNumber": 11,
+    "original": "You already have that.",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "כבר יש לך את המפתחות.",
+    "notes": "REVIEW: Partial match - adapted from 'You already have the keys'"
+  },
+  {
+    "logicFile": "19.agilogic",
+    "messageNumber": 12,
+    "original": "You don't have that.",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "אתה לא רוצה לעשות את זה כאן.",
+    "notes": "REVIEW: Partial match - adapted from 'You don't want to do that here'"
+  },
+  {
+    "logicFile": "19.agilogic",
+    "messageNumber": 13,
+    "original": "You are not near that.",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "אתה לא עד כדי כך רעב.",
+    "notes": "REVIEW: Partial match - adapted from 'You're not that hungry'"
+  },
+  {
+    "logicFile": "22.agilogic",
+    "messageNumber": 10,
+    "original": "That is unreachable from here.",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "אתה לא יכול לעשות את זה מכאן.",
+    "notes": "REVIEW: Partial match"
+  },
+  {
+    "logicFile": "22.agilogic",
+    "messageNumber": 11,
+    "original": "You already have that.",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "כבר יש לך את המפתחות.",
+    "notes": "REVIEW: Partial match"
+  },
+  {
+    "logicFile": "22.agilogic",
+    "messageNumber": 12,
+    "original": "You don't have that.",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "אתה לא רוצה לעשות את זה כאן.",
+    "notes": "REVIEW: Partial match"
+  },
+  {
+    "logicFile": "22.agilogic",
+    "messageNumber": 13,
+    "original": "You are not near that.",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "אתה לא עד כדי כך רעב.",
+    "notes": "REVIEW: Partial match"
+  },
+  {
+    "logicFile": "23.agilogic",
+    "messageNumber": 10,
+    "original": "That is unreachable from here.",
+    "matchType": "partial",
+    "translation": "REVIEW: אינך יכול להגיע לשם מכאן.",
+    "notes": "REVIEW: Partial match - adapted for unreachable context"
+  },
+  {
+    "logicFile": "23.agilogic",
+    "messageNumber": 11,
+    "original": "You already have that.",
+    "matchType": "partial",
+    "translation": "REVIEW: כבר יש לך את זה.",
+    "notes": "REVIEW: Partial match - generalized from keys context"
+  },
+  {
+    "logicFile": "23.agilogic",
+    "messageNumber": 12,
+    "original": "You don't have that.",
+    "matchType": "partial",
+    "translation": "REVIEW: אין לך את זה.",
+    "notes": "REVIEW: Partial match - literal translation"
+  },
+  {
+    "logicFile": "23.agilogic",
+    "messageNumber": 13,
+    "original": "You are not near that.",
+    "matchType": "partial",
+    "translation": "REVIEW: אתה לא קרוב לזה.",
+    "notes": "REVIEW: Partial match - adapted from 'not that hungry' context"
+  },
+  {
+    "logicFile": "24.agilogic",
+    "messageNumber": 9,
+    "original": "The walls are solid rock. You notice a fine spray of glistening, metallic jelly.",
+    "matchType": "partial",
+    "translation": "REVIEW: הקירות הם סלע מוצק. אתה מבחין ברסס עדין של ג'לי מתכתי מנצנץ.",
+    "notes": "REVIEW: Partial match - combined full sentence"
+  },
+  {
+    "logicFile": "24.agilogic",
+    "messageNumber": 25,
+    "original": "It's too far away.",
+    "matchType": "partial",
+    "translation": "REVIEW: זה רחוק מדי.",
+    "notes": "REVIEW: Partial match - generalized from specific context"
+  },
+  {
+    "logicFile": "24.agilogic",
+    "messageNumber": 27,
+    "original": "Orat is a guy of few words and none of them are for you.",
+    "matchType": "partial",
+    "translation": "REVIEW: אורט הוא בחור של מעט מילים ואף אחת מהן לא בשבילך.",
+    "notes": "REVIEW: Partial match - adapted from similar context"
+  },
+  {
+    "logicFile": "25.agilogic",
+    "messageNumber": 2,
+    "original": "You need to be closer.",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "תצטרך לגשת יותר קרוב בשביל זה.",
+    "notes": "REVIEW: Partial match"
+  },
+  {
+    "logicFile": "25.agilogic",
+    "messageNumber": 6,
+    "original": "That is not here to get.",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "אין לזה השפעה כאן.",
+    "notes": "REVIEW: Partial match"
+  },
+  {
+    "logicFile": "26.agilogic",
+    "messageNumber": 3,
+    "original": "You don't have that.",
+    "matchType": "partial",
+    "suggestedTranslation": "אתה לא רוצה לעשות את זה כאן.",
+    "translation": "REVIEW: אין לך את זה.",
+    "notes": "REVIEW: Partial match - simple negation"
+  },
+  {
+    "logicFile": "26.agilogic",
+    "messageNumber": 8,
+    "original": "You are not close enough.",
+    "matchType": "partial",
+    "suggestedTranslation": "אתה לא מספיק קרוב לסורג כדי לפתוח אותו.",
+    "translation": "REVIEW: אתה לא מספיק קרוב.",
+    "notes": "REVIEW: Partial match - simplified"
+  },
+  {
+    "logicFile": "27.agilogic",
+    "messageNumber": 2,
+    "original": "That can't be done now.",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "אין לך אפשרות לקחת את זה עכשיו.",
+    "notes": "REVIEW: Partial match - adapted from 'You can't get that now'"
+  },
+  {
+    "logicFile": "27.agilogic",
+    "messageNumber": 4,
+    "original": "You gaze intently at the purplish pool of liquid, the first real sign of moisture on the planet. The pool seems to have no bottom. The gentle dripping has a soothing effect on your frazzled nerves.",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "אתה בוהה בתשומת לב בבריכת הנוזל הירקרק, סימן ראשון להימצאותם של אדי מים על פני הכוכב. הבריכה נראית נטולת תחתית. לטפטוף העדין יש אפקט מרגיע על עצביך המרוטים. פלומת ערפל קלה אופפת את שטח הבריכה.",
+    "notes": "REVIEW: Partial match - color different (purplish vs greenish)"
+  },
+  {
+    "logicFile": "27.agilogic",
+    "messageNumber": 8,
+    "original": "This is a upper pathway in a slightly smaller chamber in the underground complex. There is a level area below which is not accessible from here. There is a pool on the lower right side.",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "זהו חדר מעט קטן יותר במכלול התת קרקעי. מעליו מתפתל שביל אשר אינו נגיש מכאן. בריכה נקוותה בצידו הימני.",
+    "notes": "REVIEW: Partial match - adapted for upper pathway"
+  },
+  {
+    "logicFile": "28.agilogic",
+    "messageNumber": 1,
+    "original": "That can't be done from here.",
+    "matchType": "partial",
+    "suggestedTranslation": "אתה לא יכול לעשות את זה מכאן.",
+    "translation": "REVIEW: זה לא יכול להיעשות מכאן.",
+    "notes": "REVIEW: Partial match - passive form"
+  },
+  {
+    "logicFile": "28.agilogic",
+    "messageNumber": 2,
+    "original": "You don't have the glass.",
+    "matchType": "partial",
+    "suggestedTranslation": "מה זאת אומרת, הסולם לא אצלך?",
+    "translation": "REVIEW: אין לך את הזכוכית.",
+    "notes": "REVIEW: Partial match - different object"
+  },
+  {
+    "logicFile": "28.agilogic",
+    "messageNumber": 4,
+    "original": "There is no need to do that now.",
+    "matchType": "partial",
+    "suggestedTranslation": "אין צורך לעשות זאת.",
+    "translation": "REVIEW: אין צורך לעשות את זה עכשיו.",
+    "notes": "REVIEW: Partial match - added 'now'"
+  },
+  {
+    "logicFile": "29.agilogic",
+    "messageNumber": 6,
+    "original": "\\\"So, you have returned.  Fortunately, there is much more to you than meets the eye.\\\"",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "אז, מצאת את דרכך אל אולמי המקודש. לשמחתי הפתעות רבות מצפות לך כאן.",
+    "notes": "REVIEW: Partial match - first part different context"
+  },
+  {
+    "logicFile": "29.agilogic",
+    "messageNumber": 17,
+    "original": "You don't have that.",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "אתה לא רוצה לעשות את זה כאן.",
+    "notes": "REVIEW: Partial match - different meaning"
+  },
+  {
+    "logicFile": "29.agilogic",
+    "messageNumber": 35,
+    "original": "You can't do that right now.",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "אין לך אפשרות לקחת את זה עכשיו.",
+    "notes": "REVIEW: Partial match - slightly different meaning"
+  },
+  {
+    "logicFile": "30.agilogic",
+    "messageNumber": 1,
+    "original": "You are not close enough.",
+    "placeholders": [],
+    "matchType": "partial",
+    "matchScore": 0.5555555555555556,
+    "suggestedTranslation": "אתה לא מספיק קרוב לסורג כדי לפתוח אותו.",
+    "csvMatch": "You are not close enough to the vent grill to open it.",
+    "translation": "אינך קרוב מספיק.",
+    "notes": "REVIEW: Partial match - simplified translation"
+  },
+  {
+    "logicFile": "30.agilogic",
+    "messageNumber": 3,
+    "original": "You already have it.",
+    "placeholders": [],
+    "matchType": "partial",
+    "matchScore": 0.6,
+    "suggestedTranslation": "כבר יש לך את המפתחות.",
+    "csvMatch": "You already have the keys.",
+    "translation": "כבר יש לך את זה.",
+    "notes": "REVIEW: Partial match - simplified translation"
+  },
+  {
+    "logicFile": "31.agilogic",
+    "messageNumber": 25,
+    "original": "  The Star Generator is a miraculous",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "  מחולל הכוכבים הוא מכשיר",
+    "notes": "REVIEW: Partial match - adapted from 'walkway above the Star Generator' context"
+  },
+  {
+    "logicFile": "31.agilogic",
+    "messageNumber": 35,
+    "original": "  construction of the Star Generator.",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "  מחולל הכוכבים.",
+    "notes": "REVIEW: Partial match - adapted from 'walkway above the Star Generator' context"
+  },
+  {
+    "logicFile": "31.agilogic",
+    "messageNumber": 47,
+    "original": "          must enter the code:",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "          להזין את הקוד:",
+    "notes": "REVIEW: Partial match - adapted from 'Enter Code:' context"
+  },
+  {
+    "logicFile": "31.agilogic",
+    "messageNumber": 67,
+    "original": "That thing is not here.",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "אין לזה השפעה כאן.",
+    "notes": "REVIEW: Partial match - adapted from 'That's not effective here' context"
+  },
+  {
+    "logicFile": "31.agilogic",
+    "messageNumber": 84,
+    "original": "You need to be closer.",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "תצטרך לגשת יותר קרוב בשביל זה.",
+    "notes": "REVIEW: Partial match - adapted from 'You'd need to be closer for that' context"
+  },
+  {
+    "logicFile": "34.agilogic",
+    "messageNumber": 1,
+    "original": "\\\"Howdy, Bucko! Can I interest you in one of the finest little used space ships in the galaxy? You look like a man of discerning taste.\\\"",
+    "placeholders": [],
+    "matchType": "partial",
+    "matchScore": 0.6923076923076923,
+    "suggestedTranslation": "אהלן, חבוב! אפשר לעניין אותך באחת מספינות החלל הקטנות והמשובחות ביותר בגלקסיה? אתה נראה כמו אחד שמבין עניין. זאתי, למשל, מתאימה לך כמו אשפה... אה... כפפה ליד!",
+    "csvMatch": "Howdy, bucko! Can I interest you in one of the finest little used space ships in the galaxy? You look like a man of discerning taste. This one, for instance, is just your speed... er... style, that is!",
+    "translation": "REVIEW: \\\"אהלן, חבוב! אפשר לעניין אותך באחת מספינות החלל הקטנות המשומשות והמשובחות ביותר בגלקסיה? אתה נראה כמו אדם בעל טעם מתחשב.\\\"",
+    "notes": "REVIEW: Partial match - this is shorter version"
+  },
+  {
+    "logicFile": "34.agilogic",
+    "messageNumber": 28,
+    "original": "You're not close enough.",
+    "placeholders": [],
+    "matchType": "partial",
+    "matchScore": 0.5714285714285714,
+    "suggestedTranslation": "אתה לא קרוב מספיק בכדי לדבר עם השומר.",
+    "csvMatch": "You're not close enough to talk to the guard.",
+    "translation": "REVIEW: אתה לא קרוב מספיק.",
+    "notes": "REVIEW: Partial match - shorter version"
+  },
+  {
+    "logicFile": "35.agilogic",
+    "messageNumber": 2,
+    "original": "You already have it!",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "כבר יש לך את המפתחות.",
+    "notes": "REVIEW: Partial match - original refers to generic 'it', suggested translation refers to 'keys'"
+  },
+  {
+    "logicFile": "35.agilogic",
+    "messageNumber": 9,
+    "original": "You're not on one, %s1.",
+    "placeholders": [
+      "%s"
+    ],
+    "matchType": "partial",
+    "translation": "אני לא מדבר איתך.",
+    "notes": "REVIEW: Partial match - context differs"
+  },
+  {
+    "logicFile": "35.agilogic",
+    "messageNumber": 27,
+    "original": "That can't be done now.",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "אין לך אפשרות לקחת את זה עכשיו.",
+    "notes": "REVIEW: Partial match - different context"
+  },
+  {
+    "logicFile": "35.agilogic",
+    "messageNumber": 31,
+    "original": "He can't hear you from there. You'll have to get closer.",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "תיאלץ לגשת קרוב יותר.",
+    "notes": "REVIEW: Partial match - missing first part"
+  },
+  {
+    "logicFile": "35.agilogic",
+    "messageNumber": 35,
+    "original": "You are not in a position to do that.",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "אתה לא עד כדי כך רעב.",
+    "notes": "REVIEW: Partial match - different meaning"
+  },
+  {
+    "logicFile": "35.agilogic",
+    "messageNumber": 50,
+    "original": "You need to be closer.",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "תצטרך לגשת יותר קרוב בשביל זה.",
+    "notes": "REVIEW: Partial match"
+  },
+  {
+    "logicFile": "37.agilogic",
+    "messageNumber": 1,
+    "original": "\\\"Howdy, Bucko! Can I interest you in one of the finest little used space ships in the galaxy? You look like a man of discerning taste.\\\"",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "אהלן, חבוב! אפשר לעניין אותך באחת מספינות החלל הקטנות והמשובחות ביותר בגלקסיה? אתה נראה כמו אחד שמבין עניין.",
+    "notes": "REVIEW: Partial match - adapted translation"
+  },
+  {
+    "logicFile": "37.agilogic",
+    "messageNumber": 4,
+    "original": "\\\"With your 70 buckazoid credit that would come to. . .let's see. . .uhm. . 144 buckazoids.\\\"",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "כמובן, אחרי זיכוי של 70 זוזואידים, הכל יעלה לך 115 זוזואידים טבין ותקילין.",
+    "notes": "REVIEW: Partial match - adapted from similar context"
+  },
+  {
+    "logicFile": "37.agilogic",
+    "messageNumber": 41,
+    "original": "Looking at the inside of the ship you notice there are no controls here, just a button marked \\\"LOAD\\\". Tiny must have been serious when he said you would need a droid to fly it.",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "בזמן שאתה יושב בחללית הקרב, אתה מבחין כי אין כל לחצנים בהישג ידך, מלבד כפתור המסומן טעינה. זעירי התכוון ברצינות באומרו שרק רובוט מסוגל להטיס את הדבר הזה.",
+    "notes": "REVIEW: Partial match - similar context"
+  },
+  {
+    "logicFile": "38.agilogic",
+    "messageNumber": 4,
+    "original": "You are not close enough.",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "אתה לא מספיק קרוב לסורג כדי לפתוח אותו.",
+    "notes": "REVIEW: Partial match - generic version without specific object"
+  },
+  {
+    "logicFile": "39.agilogic",
+    "messageNumber": 2,
+    "original": "The sign says \\\"Droids-B-Us\\\". That's it.",
+    "placeholders": [],
+    "matchType": "partial",
+    "matchScore": 0.5,
+    "suggestedTranslation": "על השלט החבוט רשום רובוטים-אר-אס איסוף.",
+    "csvMatch": "The badly weathered sign says Droids-B-Us Pickup.",
+    "translation": "REVIEW: על השלט כתוב \\\"רובוטים-אר-אס\\\". זהו.",
+    "notes": "REVIEW: Partial match - simpler version"
+  },
+  {
+    "logicFile": "42.agilogic",
+    "messageNumber": 2,
+    "original": "That was mighty close!",
+    "matchType": "partial",
+    "translation": "REVIEW: זה היה קרוב מאוד!",
+    "notes": "REVIEW: Partial match - expanded from 'That was close'"
+  },
+  {
+    "logicFile": "45.agilogic",
+    "messageNumber": 5,
+    "original": "It appears to be a standard airlock.  There is a handle in the center.",
+    "matchType": "partial",
+    "suggestedTranslation": "נראה כמו מנעל אוויר סטנדרטי. לצידו מותקנת ידית.",
+    "translation": "REVIEW: נראה כמו מנעל אוויר סטנדרטי. יש ידית במרכז.",
+    "notes": "REVIEW: Partial match - handle location differs"
+  },
+  {
+    "logicFile": "45.agilogic",
+    "messageNumber": 7,
+    "original": "That's up to you!",
+    "matchType": "partial",
+    "suggestedTranslation": "אתה לא עד כדי כך רעב.",
+    "translation": "REVIEW: זה תלוי בך!",
+    "notes": "REVIEW: Partial match - completely different meaning"
+  },
+  {
+    "logicFile": "50.agilogic",
+    "messageNumber": 2,
+    "original": "You don't have that.",
+    "placeholders": [],
+    "matchType": "partial",
+    "matchScore": 0.5,
+    "suggestedTranslation": "אתה לא רוצה לעשות את זה כאן.",
+    "csvMatch": "You don't want to do that here.",
+    "translation": "אין לך את זה.",
+    "notes": "REVIEW: Partial match - translated independently"
+  },
+  {
+    "logicFile": "50.agilogic",
+    "messageNumber": 7,
+    "original": "That can't be done now.",
+    "placeholders": [],
+    "matchType": "partial",
+    "matchScore": 0.5,
+    "suggestedTranslation": "אין לך אפשרות לקחת את זה עכשיו.",
+    "csvMatch": "You can't get that now.",
+    "translation": "אי אפשר לעשות את זה עכשיו.",
+    "notes": "REVIEW: Partial match - adapted translation"
+  },
+  {
+    "logicFile": "50.agilogic",
+    "messageNumber": 9,
+    "original": "You already have one.",
+    "placeholders": [],
+    "matchType": "partial",
+    "matchScore": 0.5,
+    "suggestedTranslation": "כבר יש לך את המפתחות.",
+    "csvMatch": "You already have the keys.",
+    "translation": "כבר יש לך אחד.",
+    "notes": "REVIEW: Partial match - adapted translation"
+  },
+  {
+    "logicFile": "50.agilogic",
+    "messageNumber": 19,
+    "original": "It is already on.",
+    "placeholders": [],
+    "matchType": "partial",
+    "matchScore": 0.5,
+    "suggestedTranslation": "זה כבר הוזז.",
+    "csvMatch": "It's already moved.",
+    "translation": "זה כבר דלוק.",
+    "notes": "REVIEW: Partial match - adapted translation"
+  },
+  {
+    "logicFile": "50.agilogic",
+    "messageNumber": 28,
+    "original": "You can't see it very well from up here.",
+    "placeholders": [],
+    "matchType": "partial",
+    "matchScore": 0.625,
+    "suggestedTranslation": "אינך רואה דבר מכאן למעלה.",
+    "csvMatch": "You can't see anything from up here.",
+    "translation": "אתה לא יכול לראות את זה טוב מכאן למעלה.",
+    "notes": "REVIEW: Partial match - adapted translation"
+  },
+  {
+    "logicFile": "51.agilogic",
+    "messageNumber": 3,
+    "original": "There is no need for that at this time.",
+    "matchType": "partial",
+    "suggestedTranslation": "אין צורך לעשות זאת.",
+    "translation": "REVIEW: אין צורך בזה בשלב זה.",
+    "notes": "REVIEW: Partial match - adjusted to include 'at this time'"
+  },
+  {
+    "logicFile": "51.agilogic",
+    "messageNumber": 7,
+    "original": "You don't have that to %w1.",
+    "matchType": "partial",
+    "suggestedTranslation": "אתה לא רוצה לעשות את זה כאן.",
+    "translation": "REVIEW: אין לך את זה כדי ל%w1.",
+    "notes": "REVIEW: Partial match - needs context for %w1 placeholder"
+  },
+  {
+    "logicFile": "51.agilogic",
+    "messageNumber": 10,
+    "original": "You already have one.",
+    "matchType": "partial",
+    "suggestedTranslation": "כבר יש לך את המפתחות.",
+    "translation": "REVIEW: כבר יש לך אחד.",
+    "notes": "REVIEW: Partial match - generic version"
+  },
+  {
+    "logicFile": "51.agilogic",
+    "messageNumber": 11,
+    "original": "There is nothing to get.",
+    "matchType": "partial",
+    "suggestedTranslation": "אין מה לעשות שם.",
+    "translation": "REVIEW: אין מה לקחת.",
+    "notes": "REVIEW: Partial match - adjusted for 'nothing to get'"
+  },
+  {
+    "logicFile": "51.agilogic",
+    "messageNumber": 31,
+    "original": "You already have the pulseray.",
+    "matchType": "partial",
+    "suggestedTranslation": "כבר יש לך את המפתחות.",
+    "translation": "REVIEW: כבר יש לך את קרן הדופק.",
+    "notes": "REVIEW: Partial match - adjusted for pulseray"
+  },
+  {
+    "logicFile": "53.agilogic",
+    "messageNumber": 8,
+    "original": "Too late!",
+    "placeholders": [],
+    "matchType": "partial",
+    "matchScore": 0.5,
+    "suggestedTranslation": "מדי מאוחר בשביל זה עכשיו.",
+    "csvMatch": "It's too late to do that now.",
+    "translation": "מאוחר מדי!",
+    "notes": "REVIEW: Partial match - simplified translation"
+  },
+  {
+    "logicFile": "53.agilogic",
+    "messageNumber": 10,
+    "original": "It`s already open.",
+    "placeholders": [],
+    "matchType": "partial",
+    "matchScore": 0.5,
+    "suggestedTranslation": "תעלת האוורור כבר פתוחה ועומדת.",
+    "csvMatch": "The vent is already open.",
+    "translation": "זה כבר פתוח.",
+    "notes": "REVIEW: Partial match - simplified translation"
+  },
+  {
+    "logicFile": "53.agilogic",
+    "messageNumber": 15,
+    "original": "The door is closed.",
+    "placeholders": [],
+    "matchType": "partial",
+    "matchScore": 0.5,
+    "suggestedTranslation": "שדה הראייה שלך מוגבל מפאת הדלת הסגורה.",
+    "csvMatch": "Your view is restricted by the closed door.",
+    "translation": "הדלת סגורה.",
+    "notes": "REVIEW: Partial match - simplified translation"
+  },
+  {
+    "logicFile": "53.agilogic",
+    "messageNumber": 30,
+    "original": "It's too late to hide! You hear someone coming!",
+    "placeholders": [],
+    "matchType": "partial",
+    "matchScore": 0.5714285714285714,
+    "suggestedTranslation": "הו הו! אתה שומע מישהו מתקרב.",
+    "csvMatch": "Uh, oh! You hear someone coming.",
+    "translation": "מאוחר מדי להתחבא! אתה שומע מישהו מתקרב!",
+    "notes": "REVIEW: Partial match - adapted translation"
+  },
+  {
+    "logicFile": "54.agilogic",
+    "messageNumber": 2,
+    "original": "It has a small sign on it.",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "שלט פרסום קטן",
+    "notes": "REVIEW: Partial match - contextually this describes what's on the door, not the sign itself"
+  },
+  {
+    "logicFile": "57.agilogic",
+    "messageNumber": 7,
+    "original": "You have no need to do that.",
+    "matchType": "partial",
+    "suggestedTranslation": "אינך צריך לעשות זאת שוב.",
+    "translation": "REVIEW: אין לך צורך לעשות את זה.",
+    "notes": "REVIEW: Partial match - adjusted without 'again'"
+  },
+  {
+    "logicFile": "57.agilogic",
+    "messageNumber": 20,
+    "original": "You don't have that.",
+    "matchType": "partial",
+    "suggestedTranslation": "אתה לא רוצה לעשות את זה כאן.",
+    "translation": "REVIEW: אין לך את זה.",
+    "notes": "REVIEW: Partial match - simple negation"
+  },
+  {
+    "logicFile": "57.agilogic",
+    "messageNumber": 28,
+    "original": "The door is tightly sealed.",
+    "matchType": "partial",
+    "suggestedTranslation": "אטומות ומהודקות",
+    "translation": "REVIEW: הדלת אטומה ומהודקת.",
+    "notes": "REVIEW: Partial match - adjusted to full sentence about door"
+  },
+  {
+    "logicFile": "58.agilogic",
+    "messageNumber": 1,
+    "original": "You are in a hallway aboard the Deltaur.",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "אתה בפרוזדור המפלס העליון על הדלטאור.",
+    "notes": "REVIEW: Partial match - generic hallway vs upper level hallway"
+  },
+  {
+    "logicFile": "65.agilogic",
+    "messageNumber": 4,
+    "original": "Invalid Code",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "הוזן קוד שגוי",
+    "notes": "REVIEW: Partial match - suggested includes 'entered' which original doesn't have"
+  },
+  {
+    "logicFile": "67.agilogic",
+    "messageNumber": 1,
+    "original": "By Two Guys From Andromeda",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "שני בחורים",
+    "notes": "REVIEW: Partial match - missing 'From Andromeda' part"
+  },
+  {
+    "logicFile": "68.agilogic",
+    "messageNumber": 19,
+    "original": "   called the Star Generator.  The",
+    "placeholders": [],
+    "matchType": "partial",
+    "matchScore": 0.5,
+    "suggestedTranslation": "מעבר החולף מעל מחולל הכוכבים.",
+    "csvMatch": "It's the walkway above the Star Generator.",
+    "translation": "   בשם מחולל הכוכבים."
+  },
+  {
+    "logicFile": "68.agilogic",
+    "messageNumber": 27,
+    "original": "    testing of the Star Generator.",
+    "placeholders": [],
+    "matchType": "partial",
+    "matchScore": 0.5,
+    "suggestedTranslation": "מעבר החולף מעל מחולל הכוכבים.",
+    "csvMatch": "It's the walkway above the Star Generator.",
+    "translation": "    והבדיקה של מחולל הכוכבים."
+  },
+  {
+    "logicFile": "70.agilogic",
+    "messageNumber": 9,
+    "original": "You're not close enough to play.",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "אני לא מדבר איתך.",
+    "notes": "REVIEW: Partial match - context different (about playing vs talking)"
+  },
+  {
+    "logicFile": "70.agilogic",
+    "messageNumber": 12,
+    "original": "This is a seedy little place. Galactic riff-raff are seated at the bar. The bartender drops by occasionally to serve them. A band is cranking out some of the more popular tunes in the quadrant. There is a slot machine standing near the bar. You notice a sweeper in the lower corner of the room. It must get messy here. No one seems to notice or care that you have entered the bar.",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "זהו מקום קטן ומוזנח. אספסוף גלקטי התאסף על יד הבר. הברמן מגיע מדי פעם לשרת אותם. להקה מפיקה כמה מהשירים הפופולריים יותר בצביר. לצידם ניצבת מכונת מזל. אתה מבחין במנקה בפינת החדר. בטח הלכלוך פה עולה על גדותיו. איש אינו מבחין או מתעניין בכניסתך לבר.",
+    "notes": "REVIEW: Partial match - some differences in detail"
+  },
+  {
+    "logicFile": "70.agilogic",
+    "messageNumber": 26,
+    "original": "Oh my, you are starting to feel unstable.",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "אוי לא, אתה מתחיל להרגיש חוסר יציבות מסוימת.",
+    "notes": "REVIEW: Partial match - slight wording difference"
+  },
+  {
+    "logicFile": "70.agilogic",
+    "messageNumber": 37,
+    "original": "You are not in a position to do that.",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "אתה לא עד כדי כך רעב.",
+    "notes": "REVIEW: Partial match - different meaning"
+  },
+  {
+    "logicFile": "70.agilogic",
+    "messageNumber": 50,
+    "original": "You don't have that.",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "אתה לא רוצה לעשות את זה כאן.",
+    "notes": "REVIEW: Partial match - different meaning"
+  },
+  {
+    "logicFile": "92.agilogic",
+    "messageNumber": 2,
+    "original": "                 Help",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "זה חסר תועלת.",
+    "notes": "REVIEW: Partial match - suggested translation is 'that's of no help' while original is just 'Help'"
+  },
+  {
+    "logicFile": "95.agilogic",
+    "messageNumber": 92,
+    "original": "get",
+    "translation": "תהיה מציאותי!",
+    "placeholders": [],
+    "matchType": "partial",
+    "matchScore": 0.5,
+    "suggestedTranslation": "תהיה מציאותי!",
+    "csvMatch": "Get real!",
+    "notes": "REVIEW: Partial match - using suggested translation"
+  },
+  {
+    "logicFile": "95.agilogic",
+    "messageNumber": 93,
+    "original": "get.v",
+    "translation": "תהיה מציאותי!",
+    "placeholders": [],
+    "matchType": "partial",
+    "matchScore": 0.5,
+    "suggestedTranslation": "תהיה מציאותי!",
+    "csvMatch": "Get real!",
+    "notes": "REVIEW: Partial match - using suggested translation"
+  },
+  {
+    "logicFile": "95.agilogic",
+    "messageNumber": 229,
+    "original": "has",
+    "translation": "אין לה ריח.",
+    "placeholders": [],
+    "matchType": "partial",
+    "matchScore": 0.5,
+    "suggestedTranslation": "אין לה ריח.",
+    "csvMatch": "It has no smell.",
+    "notes": "REVIEW: Partial match - using suggested translation"
+  },
+  {
+    "logicFile": "100.agilogic",
+    "messageNumber": 3,
+    "original": "That concludes your experiment involving the effects of total vacuum on the human body, %s1.",
+    "translation": "זה מסכם את הניסויים שערכת בנושא השפעת הריק על גופים אנושיים חסרי הגנה. איזה כיף זה היה!",
+    "placeholders": [
+      "%s"
+    ],
+    "matchType": "partial",
+    "notes": "REVIEW: Suggested translation from partial match"
+  },
+  {
+    "logicFile": "100.agilogic",
+    "messageNumber": 30,
+    "original": "Thank you for playing Space Quest.  Too bad you've failed miserably and doomed all your people to a horrible death at the hands of the Sariens. If you continue playing as skillfully as this, we'll never have a chance for a sequel.  Better luck next time.",
+    "translation": "תודה ששיחקת מסע בחלל 1. עצוב מאד שנחלת כישלון מחפיר וגזרת על אנשיך מוות מחריד בידי הסריינים. אתה מעיף מבט חטוף מסביב לחדר ובודק אם מישהו הבחין בטעות המגוחכת שלך. בהצלחה בפעם הבאה.",
+    "placeholders": [],
+    "matchType": "partial",
+    "notes": "REVIEW: Suggested translation from partial match"
+  },
+  {
+    "logicFile": "112.agilogic",
+    "messageNumber": 13,
+    "original": "That won't help you..",
+    "translation": "זה חסר תועלת.",
+    "placeholders": [],
+    "matchType": "partial",
+    "notes": "REVIEW: Suggested translation from partial match"
+  },
+  {
+    "logicFile": "112.agilogic",
+    "messageNumber": 15,
+    "original": "Why would you want to do that? You got a bone to bury?",
+    "translation": "למה שתרצה לעשות את זה?",
+    "placeholders": [],
+    "matchType": "partial",
+    "notes": "REVIEW: Suggested translation from partial match"
+  },
+  {
+    "logicFile": "113.agilogic",
+    "messageNumber": 3,
+    "original": " You Have $%v124",
+    "matchType": "partial",
+    "suggestedTranslation": "יש לך %d זוזואידים",
+    "translation": "REVIEW: יש לך $%v124",
+    "notes": "REVIEW: Partial match - different placeholder format"
+  },
+  {
+    "logicFile": "115.agilogic",
+    "messageNumber": 5,
+    "original": " You Have $%v124",
+    "placeholders": [
+      "%v"
+    ],
+    "matchType": "partial",
+    "translation": "יש לך %d זוזואידים",
+    "notes": "REVIEW: Partial match - placeholder type differs (%v vs %d)"
+  },
+  {
+    "logicFile": "115.agilogic",
+    "messageNumber": 6,
+    "original": "   You Lose    ",
+    "placeholders": [],
+    "matchType": "partial",
+    "translation": "הפסדת, חבוב!",
+    "notes": "REVIEW: Partial match - added 'homeboy' equivalent"
+  },
+  {
+    "logicFile": "119.agilogic",
+    "messageNumber": 2,
+    "original": "You can't do that now. Try later.",
+    "matchType": "partial",
+    "translation": "REVIEW: אינך יכול לעשות את זה עכשיו. נסה מאוחר יותר.",
+    "notes": "REVIEW: Partial match - added 'Try later' context"
+  },
+  {
+    "logicFile": "120.agilogic",
+    "messageNumber": 1,
+    "original": "You are in one of the Deltaur's ventilation shafts.",
+    "translation": "אתה בקומה העליונה של אחד ממסדרונות הדלטאור.",
+    "placeholders": [],
+    "matchType": "partial",
+    "notes": "REVIEW: Suggested translation from partial match"
+  },
+  {
+    "logicFile": "120.agilogic",
+    "messageNumber": 7,
+    "original": "It is already open.",
+    "translation": "תעלת האוורור כבר פתוחה ועומדת.",
+    "placeholders": [],
+    "matchType": "partial",
+    "notes": "REVIEW: Suggested translation from partial match"
+  },
+  {
+    "logicFile": "120.agilogic",
+    "messageNumber": 10,
+    "original": "You cannot reach the grate from here.",
+    "translation": "לא נראה שאתה מסוגל להגיע לפתח האוורור מכאן.",
+    "placeholders": [],
+    "matchType": "partial",
+    "notes": "REVIEW: Suggested translation from partial match"
+  },
+  {
+    "logicFile": "120.agilogic",
+    "messageNumber": 15,
+    "original": "That's up to you.",
+    "translation": "אתה לא עד כדי כך רעב.",
+    "placeholders": [],
+    "matchType": "partial",
+    "notes": "REVIEW: Suggested translation from partial match"
+  },
+  {
+    "logicFile": "121.agilogic",
+    "messageNumber": 1,
+    "original": "It`s already open.",
+    "placeholders": [],
+    "matchType": "partial",
+    "matchScore": 0.5,
+    "suggestedTranslation": "תעלת האוורור כבר פתוחה ועומדת.",
+    "csvMatch": "The vent is already open.",
+    "translation": "REVIEW: תעלת האוורור כבר פתוחה ועומדת.",
+    "notes": "REVIEW: Partial match - using suggested translation but may need adjustment for context"
+  },
+  {
+    "logicFile": "121.agilogic",
+    "messageNumber": 7,
+    "original": "You have no need to do that.",
+    "placeholders": [],
+    "matchType": "partial",
+    "matchScore": 0.5,
+    "suggestedTranslation": "אינך צריך לעשות זאת שוב.",
+    "csvMatch": "You don't need to do that again.",
+    "translation": "REVIEW: אינך צריך לעשות זאת שוב.",
+    "notes": "REVIEW: Partial match - may need adjustment"
+  },
+  {
+    "logicFile": "121.agilogic",
+    "messageNumber": 20,
+    "original": "You don't have that.",
+    "placeholders": [],
+    "matchType": "partial",
+    "matchScore": 0.5,
+    "suggestedTranslation": "אתה לא רוצה לעשות את זה כאן.",
+    "csvMatch": "You don't want to do that here.",
+    "translation": "REVIEW: אין לך את זה.",
+    "notes": "REVIEW: Partial match - suggested translation doesn't fit, translating literally"
+  },
+  {
+    "logicFile": "121.agilogic",
+    "messageNumber": 24,
+    "original": "That can't be done now.",
+    "placeholders": [],
+    "matchType": "partial",
+    "matchScore": 0.5,
+    "suggestedTranslation": "אין לך אפשרות לקחת את זה עכשיו.",
+    "csvMatch": "You can't get that now.",
+    "translation": "REVIEW: אין אפשרות לעשות את זה כעת.",
+    "notes": "REVIEW: Partial match - adjusted for general action"
+  },
+  {
+    "logicFile": "122.agilogic",
+    "messageNumber": 23,
+    "original": "Talk, talk, talk, can't you find anything better to do?",
+    "translation": "אתה לא יכול לעשות לו דבר.",
+    "placeholders": [],
+    "matchType": "partial",
+    "notes": "REVIEW: Suggested translation from partial match"
+  }
+]

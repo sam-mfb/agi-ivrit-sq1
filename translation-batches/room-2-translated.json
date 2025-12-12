@@ -1,0 +1,202 @@
+{
+  "room": "2",
+  "totalMessages": 21,
+  "matchStats": {
+    "exact": 2,
+    "normalized": 0,
+    "fuzzy": 1,
+    "partial": 5,
+    "unmatched": 13
+  },
+  "messages": [
+    {
+      "logicFile": "2.agilogic",
+      "messageNumber": 1,
+      "original": "This is one of the many hallways in the Arcada.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "זה אחד המסדרונות הרבים בארקדה.",
+      "notes": ""
+    },
+    {
+      "logicFile": "2.agilogic",
+      "messageNumber": 2,
+      "original": "You recognize this as your sanitation supply closet. You have spent many hours sleeping in it.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "אתה מזהה את זה כארון אספקת הניקיון שלך. בילית שעות רבות בשינה בתוכו.",
+      "notes": ""
+    },
+    {
+      "logicFile": "2.agilogic",
+      "messageNumber": 3,
+      "original": "You have just stumbled into a small, dark, and very cluttered utility closet.  Many things fall, most of them landing on you. Doesn't say much for your cleaning prowess.",
+      "placeholders": [],
+      "matchType": "fuzzy",
+      "translation": "זה עתה מעדת לתוך ארון שירות קטן, חשוך, ומבולגן. דברים רבים נופלים ורובם נוחתים עליך. זה לא אומר הרבה על מיומנות הניקיון שלך.",
+      "notes": ""
+    },
+    {
+      "logicFile": "2.agilogic",
+      "messageNumber": 4,
+      "original": "You can't see anything in here because it is dark.",
+      "placeholders": [],
+      "matchType": "partial",
+      "translation": "אינך רואה דבר מכאן למעלה.",
+      "notes": "REVIEW: Partial match - adapted from 'You can't see anything from up here'"
+    },
+    {
+      "logicFile": "2.agilogic",
+      "messageNumber": 5,
+      "original": "This is an elevator to one of the lower levels.",
+      "placeholders": [],
+      "matchType": "exact",
+      "translation": "מעלית זו יורדת אל אחד מהמפלסים התחתונים.",
+      "notes": ""
+    },
+    {
+      "logicFile": "2.agilogic",
+      "messageNumber": 6,
+      "original": "\\\"Is it shipping yet? I want this thing shipping yesterday. I thought you said the graphics would be done last week?\\\"",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "\\\"זה כבר נשלח? אני רוצה שזה יישלח אתמול. חשבתי שאמרת שהגרפיקה תהיה מוכנה שבוע שעבר?\\\"",
+      "notes": ""
+    },
+    {
+      "logicFile": "2.agilogic",
+      "messageNumber": 7,
+      "original": ">",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": ">",
+      "notes": ""
+    },
+    {
+      "logicFile": "2.agilogic",
+      "messageNumber": 8,
+      "original": "_",
+      "placeholders": [],
+      "matchType": "exact",
+      "translation": "_",
+      "notes": ""
+    },
+    {
+      "logicFile": "2.agilogic",
+      "messageNumber": 9,
+      "original": "The doors here are not particularly interesting.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "הדלתות כאן לא מיוחדות במיוחד.",
+      "notes": ""
+    },
+    {
+      "logicFile": "2.agilogic",
+      "messageNumber": 10,
+      "original": "You see nothing that catches your eye.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "אינך רואה דבר שמושך את עינך.",
+      "notes": ""
+    },
+    {
+      "logicFile": "2.agilogic",
+      "messageNumber": 11,
+      "original": "This is another one of your non-functional crewmates. It's a grisly sight.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "זה עוד אחד מחברי הצוות הלא-פעילים שלך. זה מחזה איום.",
+      "notes": ""
+    },
+    {
+      "logicFile": "2.agilogic",
+      "messageNumber": 12,
+      "original": "A quick search of the body turns up nothing.",
+      "placeholders": [],
+      "matchType": "partial",
+      "translation": "החיפוש על הגופה אינו מניב תוצאות.",
+      "notes": "REVIEW: Partial match - adapted from 'Your search of the body reveals nothing'"
+    },
+    {
+      "logicFile": "2.agilogic",
+      "messageNumber": 14,
+      "original": "That can't be done here.",
+      "placeholders": [],
+      "matchType": "partial",
+      "translation": "אתה לא יכול לעשות את זה מכאן.",
+      "notes": "REVIEW: Partial match - adapted from 'You can't do that from in here'"
+    },
+    {
+      "logicFile": "2.agilogic",
+      "messageNumber": 15,
+      "original": "One can only wonder what your purpose for this action is. You can't undress the body. Allow him one last bit of dignity.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "אפשר רק לתהות מה מטרתך בפעולה זו. אתה לא יכול להפשיט את הגופה. תן לו שמץ אחרון של כבוד.",
+      "notes": ""
+    },
+    {
+      "logicFile": "2.agilogic",
+      "messageNumber": 16,
+      "original": "Dave?  Dave's not here!",
+      "placeholders": [],
+      "matchType": "partial",
+      "translation": "לא מכאן.",
+      "notes": "REVIEW: Partial match - adapted from 'Not from here'"
+    },
+    {
+      "logicFile": "2.agilogic",
+      "messageNumber": 17,
+      "original": "That is not seen easily from here.",
+      "placeholders": [],
+      "matchType": "partial",
+      "translation": "זה לא אפשרי כאן מלמעלה.",
+      "notes": "REVIEW: Partial match - adapted from 'That's not possible from up here'"
+    },
+    {
+      "logicFile": "2.agilogic",
+      "messageNumber": 18,
+      "original": "Looking into the closet you see nothing but darkness.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "כשאתה מסתכל לתוך הארון אתה רואה רק חושך.",
+      "notes": ""
+    },
+    {
+      "logicFile": "2.agilogic",
+      "messageNumber": 19,
+      "original": "The door is closed, fool!",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "הדלת סגורה, טיפש!",
+      "notes": ""
+    },
+    {
+      "logicFile": "2.agilogic",
+      "messageNumber": 20,
+      "original": "This is the closed door to the closet you napped in.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "זו הדלת הסגורה לארון שנמנמת בו.",
+      "notes": ""
+    },
+    {
+      "logicFile": "2.agilogic",
+      "messageNumber": 21,
+      "original": "It looks dark in there.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "זה נראה חשוך שם.",
+      "notes": ""
+    },
+    {
+      "logicFile": "2.agilogic",
+      "messageNumber": 22,
+      "original": "This door leads to the Data Archive.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "הדלת הזו מובילה לארכיון המידע.",
+      "notes": ""
+    }
+  ]
+}

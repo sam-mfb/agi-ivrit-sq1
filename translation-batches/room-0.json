@@ -1,0 +1,1961 @@
+{
+  "room": "0",
+  "totalMessages": 132,
+  "matchStats": {
+    "exact": 0,
+    "normalized": 1,
+    "fuzzy": 5,
+    "partial": 12,
+    "unmatched": 114
+  },
+  "csvContext": [
+    {
+      "original": "You talk to yourself and, as usual, learn nothing that you didn't already know.",
+      "translated": "אתה מדבר אל עצמך, וכרגיל, לא לומד משהו שלא ידעת כבר."
+    },
+    {
+      "original": "Hey! One shouldn't attempt to manipulate one's self in a family game.",
+      "translated": "היי! אתה לא אמור להתעסק עם עצמך במשחק לכל המשפחה."
+    },
+    {
+      "original": "Better not. You're likely to get a fur ball.",
+      "translated": "מוטב שלא. אתה צפוי לבלוע כדור פרווה."
+    },
+    {
+      "original": "The odor you're producing causes you to regret skipping last month's shower.",
+      "translated": "הניחוח שאתה מפיק גורם לך להתחרט על שדילגת על המקלחת החודשית."
+    },
+    {
+      "original": "You're too busy right now.",
+      "translated": "אתה עסוק מדי עכשיו."
+    },
+    {
+      "original": "Better save it for when you're thirsty.",
+      "translated": "עדיף לשמור את זה לרגעים שתהיה צמא."
+    },
+    {
+      "original": "You don't want to do that here.",
+      "translated": "אתה לא רוצה לעשות את זה כאן."
+    },
+    {
+      "original": "You wisely strap on the jetpack to allow your self motion control.",
+      "translated": "אתה חוגר בתבונתך את תרמיל הריחוף כדי לאפשר לך בקרת תנועה עצמית."
+    },
+    {
+      "original": "The jetpack is useful only in Zero-G situations.",
+      "translated": "תרמיל הריחוף יעיל רק במצבי אפס כבידה."
+    },
+    {
+      "original": "Don't bother. This knife wouldn't cut hot lard.",
+      "translated": "אל תטרח. הסכין לא חותכת שומן רותח."
+    },
+    {
+      "original": "Isn't this just the most amazing waste of time?",
+      "translated": "האין זה בזבוז הזמן המדהים ביותר בעולם?"
+    },
+    {
+      "original": "You have to wonder why you're performing such a useless action.",
+      "translated": "עליך לשאול את עצמך מדוע הינך מבצע פעולות כל כך חסרות תועלת."
+    },
+    {
+      "original": "You wisely decide this is a serious waste of time and energy.",
+      "translated": "אתה מחליט בחוכמה שמדובר בבזבוז משווע של זמן ואנרגיה."
+    },
+    {
+      "original": "You ask yourself why you're doing this and are forced to reply that you just don't know.",
+      "translated": "אתה שואל את עצמך למה אתה עושה זה ועצמך עונה לך שאין לו מושג."
+    },
+    {
+      "original": "Even for you, this isn't bright.",
+      "translated": "אפילו במונחים שלך, זה לא רעיון מבריק."
+    },
+    {
+      "original": "Thank you for playing Space Quest I. You've been most entertaining.",
+      "translated": "תודה ששיחקתם מסע בחלל 1. בידרתם אותנו כמו שצריך."
+    },
+    {
+      "original": "Are you sure you want to restart?",
+      "translated": "בטוח שרוצים להתחיל מחדש?"
+    },
+    {
+      "original": "Memory fragmented.",
+      "translated": "קטעי זכרונות."
+    },
+    {
+      "original": "What did you expect them to do, reproduce?",
+      "translated": "מה ציפית מהם לעשות, להתרבות?"
+    },
+    {
+      "original": "You're far too busy for that now.",
+      "translated": "אתה עסוק מדי בשביל זה עכשיו."
+    },
+    {
+      "original": "You switch the gadget off to conserve its energy.",
+      "translated": "אתה מכבה את הגאדג'ט כדי לחסוך באנרגיה."
+    },
+    {
+      "original": "You switch the gadget on.",
+      "translated": "אתה מפעיל את הגאדג'ט."
+    },
+    {
+      "original": "You're far to busy for that now.",
+      "translated": "אתה עסוק מדי בשביל זה עכשיו."
+    },
+    {
+      "original": "You scrape that sticky goo from the bottom of the rock.",
+      "translated": "אתה מגרד את העיסה הדביקה מתחתית הסלע."
+    },
+    {
+      "original": "There is nothing you can do to the rock.",
+      "translated": "אין לך מה לעשות לסלע."
+    },
+    {
+      "original": "You've already opened the survival kit and removed its contents.",
+      "translated": "כבר פתחת את ערכת ההישרדות ורוקנת את תכולתה."
+    },
+    {
+      "original": "Upon opening the survival kit you discover a Xenon army knife and a canister of dehydrated water.",
+      "translated": "אתה פותח את ערכת ההישרדות ומוצא בתוכה סכין צבאי זנוני ומיכל מים מיובשים."
+    },
+    {
+      "original": "You have %d Buckazoid%s",
+      "translated": "יש לך %d זוזואידים"
+    },
+    {
+      "original": "Thank you for playing Space Quest I. Too bad you've failed miserably and doomed all of your people to a horrible death at the hands of the Sariens. You quickly glance about the room to see if anyone saw your silly mistake. Better luck next time.",
+      "translated": "תודה ששיחקת מסע בחלל 1. עצוב מאד שנחלת כישלון מחפיר וגזרת על אנשיך מוות מחריד בידי הסריינים. אתה מעיף מבט חטוף מסביב לחדר ובודק אם מישהו הבחין בטעות המגוחכת שלך. בהצלחה בפעם הבאה."
+    },
+    {
+      "original": "Score: %d of %d",
+      "translated": "ניקוד: %d מתוך %d"
+    },
+    {
+      "original": "Roger Wilco",
+      "translated": "רוג'ר ווילקו"
+    },
+    {
+      "original": "It's you, Roger Wilco, janitor sub-extraordinaire.",
+      "translated": "זה אתה, רוג'ר ווילקו, מנקה תת-מעולה."
+    },
+    {
+      "original": "This is your brain take-out container.",
+      "translated": "זה מיכל הוצאת המוח שלך."
+    },
+    {
+      "original": "Let me out of here!\\n(Quit)",
+      "translated": "תוציאו אותי מכאן!\\n(צא)"
+    },
+    {
+      "original": "I don't know WHAT\\nI was thinking.\\nLet's Play!",
+      "translated": "אני לא יודע *מה*\\nאני חשבתי.\\nבואו נשחק!"
+    },
+    {
+      "original": "Of course I'm sure!",
+      "translated": "ברור שאני בטוח!"
+    },
+    {
+      "original": "Changed My Mind.\\nLet's Play!",
+      "translated": "שיניתי את דעתי.\\nבואו נשחק!"
+    },
+    {
+      "original": "Who cares",
+      "translated": "למי אכפת"
+    },
+    {
+      "original": "Debug",
+      "translated": "דיבאג"
+    },
+    {
+      "original": "Select this Icon to close this window.",
+      "translated": "בחר בסמליל הזה כדי לסגור את החלון."
+    },
+    {
+      "original": "Select this Icon then select an inventory item you'd like a description of.",
+      "translated": "בחר בסמליל הזה ואז בחר פריט מהמלאי שאתה רוצה תיאור שלו."
+    },
+    {
+      "original": "This allows you to do something to an item.",
+      "translated": "זה מאפשר לך לעשות משהו לפריט."
+    },
+    {
+      "original": "This allows you to select an item.",
+      "translated": "זה מאפשר לך לבחור פריט."
+    },
+    {
+      "original": "It's a cartridge from the Arcada's Data Archive.",
+      "translated": "זו מחסנית מארכיב המידע של הארקדה."
+    },
+    {
+      "original": "This keycard fits an electronic lock someplace on the Arcada.",
+      "translated": "הכרטיס הזה מתאים למנעול אלקטרוני איפשהו בארקדה."
+    },
+    {
+      "original": "This is some sort of gadget. You're not sure what it does exactly, but it has a switch.",
+      "translated": "זה סוג של אביזר. אתה לא בטוח מה בדיוק זה עושה, אבל יש לזה מתג."
+    },
+    {
+      "original": "It's the cone shaped tip of a stalagmite.",
+      "translated": "זה הקצה החרוטי של זקיף."
+    },
+    {
+      "original": "A Survival Kit",
+      "translated": "ערכת הישרדות"
+    },
+    {
+      "original": "It's a Xenon Army knife",
+      "translated": "זה אולר צבא קסנוני"
+    },
+    {
+      "original": "The can label says Pelvitron Dehydrated Water (H2) - All you add is air! Makes 10 gallons! Caution - Do not attempt to open or rupture container! Misuse could result in personal injury and/or flash flooding.",
+      "translated": "על התווית של הפחית כתוב פלוויטרון מים מיובשים - נשאר רק להוסיף אוויר! טוב ל-40 ליטר! זהירות - אל תנסה לפתוח או לקרוע את המיכל! שימוש לקוי עלול להסתיים בפציעה ו/או הצפה פתאומית."
+    },
+    {
+      "original": "It's that highly reflective piece of broken cockpit glass.",
+      "translated": "זה החלק השקוף מאוד של זכוכית תא הטייס השבורה."
+    },
+    {
+      "original": "This cute little item is an Orat part - you're not sure what part though.",
+      "translated": "הפריט הקטן והחמוד הזה הוא חלק של אורט - אבל אתה לא בטוח איזה חלק."
+    },
+    {
+      "original": "This key operates the skimmer.",
+      "translated": "המפתח הזה מפעיל את הרחפת."
+    },
+    {
+      "original": "Ummm! Keronian Ale!",
+      "translated": "מממ! שיכר קרוניאני!"
+    },
+    {
+      "original": "This is a used jetpack. Real used.",
+      "translated": "זה תרמיל ריחוף משומש. ממש משומש."
+    },
+    {
+      "original": "It's a pulseray laser pistol. Remember, this isn't a play toy!",
+      "translated": "זה אקדח קרן-פעימת לייזר. זכור, זה אינו צעצוע משחק!"
+    },
+    {
+      "original": "You have a small innocuous looking grenade.",
+      "translated": "יש לך רימון קטן ולא מזיק למראה."
+    },
+    {
+      "original": "This is a small single function remote control.",
+      "translated": "זה שלט רחוק קטן בעל פעולה יחידה."
+    },
+    {
+      "original": "It's a genuine Widget. You're not sure what it does but it's heavy, it looks cool, and it might be magnetic. Please keep this away from the game disks!",
+      "translated": "זה ווידג'ט מקורי. אתה לא בטוח מה זה עושה אבל זה כבד, נראה מגניב, ועשוי להיות מגנטי. בבקשה שמור על זה רחוק מהדיסקים של המשחק!"
+    },
+    {
+      "original": "This is simply a piece of sticky, stinking, rotting, plant",
+      "translated": "זאת פשוט חתיכה דביקה, מסריחה, רקובה של צמח."
+    },
+    {
+      "original": "Hey kids! This bar coupon is good for 5 bucakzoids and a free Keronian Ale!",
+      "translated": "היי ילדים! השובר הזה לבר טוב ל-5 זוזונים ושיכר קרוניאני חינם!"
+    },
+    {
+      "original": "This coupon gives you a 20% discount at a Droids-B-Us near you! How helpful! Those suckers have the highest droid prices in this universe.",
+      "translated": "השובר הזה נותן לך 20% הנחה ברובוטים-אר-אס הקרוב אליך! כמה מועיל! לטמבלים האלה יש את מחירי הרובוטים הגבוהים ביותר ביקום."
+    },
+    {
+      "original": "In the pocket of this ugly outfit is a Sarien ID card. The name on the card is Butston Freem. You wonder if this is a common Sarien name (and if it is, you're glad you're not Sarien).",
+      "translated": "בכיס של התחפושת המכוערת הזאת יש תעודת זהות סאריינית. השם על הכרטיס הוא ישבנאבן פרים. אתה תוהה אם זה שם סארייני נפוץ (ואם כן, אתה שמח שאתה לא סארייני)."
+    },
+    {
+      "original": "Restore",
+      "translated": "טעינה"
+    },
+    {
+      "original": "Restart",
+      "translated": "אתחל"
+    },
+    {
+      "original": "Quit",
+      "translated": "צא"
+    },
+    {
+      "original": "Space Quest I - The Sarien Encounter",
+      "translated": "מסע בחלל 1 - המפגש הסארייני"
+    },
+    {
+      "original": "This icon is for walking.",
+      "translated": "הצלמית הזו היא להליכה."
+    },
+    {
+      "original": "This icon is for looking.",
+      "translated": "הצלמית הזו היא להסתכלות."
+    },
+    {
+      "original": "This icon is for doing.",
+      "translated": "הצלמית הזו היא לעשייה."
+    },
+    {
+      "original": "This icon is for talking.",
+      "translated": "הצלמית הזו היא לדיבור."
+    },
+    {
+      "original": "This window displays the current inventory item.",
+      "translated": "החלון הזה מציג את פריט המלאי הנוכחי."
+    },
+    {
+      "original": "This icon brings up the inventory window.",
+      "translated": "הצלמית הזו מעלה את חלון המלאי."
+    },
+    {
+      "original": "This icon is for smelling.",
+      "translated": "הצלמית הזו היא להרחה."
+    },
+    {
+      "original": "This icon is for tasting.",
+      "translated": "הצלמית הזו היא לטעימה."
+    },
+    {
+      "original": "This icon brings up the control panel.",
+      "translated": "הצלמית הזו מעלה את לוח הבקרה."
+    },
+    {
+      "original": "This icon tells you about other icons.",
+      "translated": "הצלמית הזו מסבירה על צלמיות אחרות."
+    },
+    {
+      "original": "Raises and lowers the level of graphics detail.",
+      "translated": "מעלה ומורידה את רמת הפירוט של הגרפיקה."
+    },
+    {
+      "original": "Adjusts sound volume.",
+      "translated": "מתאימה את עוצמת הקול."
+    },
+    {
+      "original": "Adjusts the speed of the your character's animation (within the limits of your computer's capability).",
+      "translated": "מתאימה את מהירות אנימציית הדמות שלך (במגבלות יכולות המחשב שלך)."
+    },
+    {
+      "original": "Saves your current game.",
+      "translated": "שומרת את המשחק הנוכחי שלך."
+    },
+    {
+      "original": "Restores a previously saved game.",
+      "translated": "טוענת משחק שנשמר."
+    },
+    {
+      "original": "Restarts the Game.",
+      "translated": "מאתחלת את המשחק."
+    },
+    {
+      "original": "Exits the game.",
+      "translated": "יוצאת מהמשחק."
+    },
+    {
+      "original": "Information about the game.",
+      "translated": "מידע על המשחק."
+    },
+    {
+      "original": "Exits this menu.",
+      "translated": "יוצאת מהתפריט הזה."
+    },
+    {
+      "original": "You talk to yourself and, as usual, learn nothing that you didn't already know.",
+      "translated": "אתה מדבר אל עצמך, וכרגיל, לא לומד משהו שלא ידעת כבר."
+    },
+    {
+      "original": "Hey! One shouldn't attempt to manipulate one's self in a family game.",
+      "translated": "היי! אתה לא אמור להתעסק עם עצמך במשחק לכל המשפחה."
+    },
+    {
+      "original": "Better not. You're likely to get a fur ball.",
+      "translated": "מוטב שלא. אתה צפוי לבלוע כדור פרווה."
+    },
+    {
+      "original": "The odor you're producing causes you to regret skipping last month's shower.",
+      "translated": "הניחוח שאתה מפיק גורם לך להתחרט על שדילגת על המקלחת החודשית."
+    },
+    {
+      "original": "You're too busy right now.",
+      "translated": "אתה עסוק מדי עכשיו."
+    },
+    {
+      "original": "Better save it for when you're thirsty.",
+      "translated": "עדיף לשמור את זה לרגעים שתהיה צמא."
+    },
+    {
+      "original": "You don't want to do that here.",
+      "translated": "אתה לא רוצה לעשות את זה כאן."
+    },
+    {
+      "original": "You wisely strap on the jetpack to allow your self motion control.",
+      "translated": "אתה חוגר בתבונתך את תרמיל הריחוף כדי לאפשר לך בקרת תנועה עצמית."
+    },
+    {
+      "original": "The jetpack is useful only in Zero-G situations.",
+      "translated": "תרמיל הריחוף יעיל רק במצבי אפס כבידה."
+    },
+    {
+      "original": "Don't bother. This knife wouldn't cut hot lard.",
+      "translated": "אל תטרח. הסכין לא חותכת שומן רותח."
+    },
+    {
+      "original": "Isn't this just the most amazing waste of time?",
+      "translated": "האין זה בזבוז הזמן המדהים ביותר בעולם?"
+    },
+    {
+      "original": "You have to wonder why you're performing such a useless action.",
+      "translated": "עליך לשאול את עצמך מדוע הינך מבצע פעולות כל כך חסרות תועלת."
+    },
+    {
+      "original": "You wisely decide this is a serious waste of time and energy.",
+      "translated": "אתה מחליט בחוכמה שמדובר בבזבוז משווע של זמן ואנרגיה."
+    },
+    {
+      "original": "You ask yourself why you're doing this and are forced to reply that you just don't know.",
+      "translated": "אתה שואל את עצמך למה אתה עושה זה ועצמך עונה לך שאין לו מושג."
+    },
+    {
+      "original": "Even for you, this isn't bright.",
+      "translated": "אפילו במונחים שלך, זה לא רעיון מבריק."
+    },
+    {
+      "original": "Thank you for playing Space Quest I. You've been most entertaining.",
+      "translated": "תודה ששיחקתם מסע בחלל 1. בידרתם אותנו כמו שצריך."
+    },
+    {
+      "original": "Are you sure you want to restart?",
+      "translated": "בטוח שרוצים להתחיל מחדש?"
+    },
+    {
+      "original": "Memory fragmented.",
+      "translated": "קטעי זכרונות."
+    },
+    {
+      "original": "What did you expect them to do, reproduce?",
+      "translated": "מה ציפית מהם לעשות, להתרבות?"
+    },
+    {
+      "original": "You're far too busy for that now.",
+      "translated": "אתה עסוק מדי בשביל זה עכשיו."
+    },
+    {
+      "original": "You switch the gadget off to conserve its energy.",
+      "translated": "אתה מכבה את הגאדג'ט כדי לחסוך באנרגיה."
+    },
+    {
+      "original": "You switch the gadget on.",
+      "translated": "אתה מפעיל את הגאדג'ט."
+    },
+    {
+      "original": "You're far to busy for that now.",
+      "translated": "אתה עסוק מדי בשביל זה עכשיו."
+    },
+    {
+      "original": "You scrape that sticky goo from the bottom of the rock.",
+      "translated": "אתה מגרד את העיסה הדביקה מתחתית הסלע."
+    },
+    {
+      "original": "There is nothing you can do to the rock.",
+      "translated": "אין לך מה לעשות לסלע."
+    },
+    {
+      "original": "You've already opened the survival kit and removed its contents.",
+      "translated": "כבר פתחת את ערכת ההישרדות ורוקנת את תכולתה."
+    },
+    {
+      "original": "Upon opening the survival kit you discover a Xenon army knife and a canister of dehydrated water.",
+      "translated": "אתה פותח את ערכת ההישרדות ומוצא בתוכה סכין צבאי זנוני ומיכל מים מיובשים."
+    },
+    {
+      "original": "You have %d Buckazoid%s",
+      "translated": "יש לך %d זוזואידים"
+    },
+    {
+      "original": "Thank you for playing Space Quest I. Too bad you've failed miserably and doomed all of your people to a horrible death at the hands of the Sariens. You quickly glance about the room to see if anyone saw your silly mistake. Better luck next time.",
+      "translated": "תודה ששיחקת מסע בחלל 1. עצוב מאד שנחלת כישלון מחפיר וגזרת על אנשיך מוות מחריד בידי הסריינים. אתה מעיף מבט חטוף מסביב לחדר ובודק אם מישהו הבחין בטעות המגוחכת שלך. בהצלחה בפעם הבאה."
+    },
+    {
+      "original": "Score: %d of %d",
+      "translated": "ניקוד: %d מתוך %d"
+    },
+    {
+      "original": "Roger Wilco",
+      "translated": "רוג'ר ווילקו"
+    },
+    {
+      "original": "It's you, Roger Wilco, janitor sub-extraordinaire.",
+      "translated": "זה אתה, רוג'ר ווילקו, מנקה תת-מעולה."
+    },
+    {
+      "original": "This is your brain take-out container.",
+      "translated": "זה מיכל הוצאת המוח שלך."
+    },
+    {
+      "original": "Let me out of here!\\n(Quit)",
+      "translated": "תוציאו אותי מכאן!\\n(צא)"
+    },
+    {
+      "original": "I don't know WHAT\\nI was thinking.\\nLet's Play!",
+      "translated": "אני לא יודע *מה*\\nאני חשבתי.\\nבואו נשחק!"
+    },
+    {
+      "original": "Of course I'm sure!",
+      "translated": "ברור שאני בטוח!"
+    },
+    {
+      "original": "Changed My Mind.\\nLet's Play!",
+      "translated": "שיניתי את דעתי.\\nבואו נשחק!"
+    },
+    {
+      "original": "Who cares",
+      "translated": "למי אכפת"
+    },
+    {
+      "original": "Debug",
+      "translated": "דיבאג"
+    },
+    {
+      "original": "Select this Icon to close this window.",
+      "translated": "בחר בסמליל הזה כדי לסגור את החלון."
+    },
+    {
+      "original": "Select this Icon then select an inventory item you'd like a description of.",
+      "translated": "בחר בסמליל הזה ואז בחר פריט מהמלאי שאתה רוצה תיאור שלו."
+    },
+    {
+      "original": "This allows you to do something to an item.",
+      "translated": "זה מאפשר לך לעשות משהו לפריט."
+    },
+    {
+      "original": "This allows you to select an item.",
+      "translated": "זה מאפשר לך לבחור פריט."
+    },
+    {
+      "original": "It's a cartridge from the Arcada's Data Archive.",
+      "translated": "זו מחסנית מארכיב המידע של הארקדה."
+    },
+    {
+      "original": "This keycard fits an electronic lock someplace on the Arcada.",
+      "translated": "הכרטיס הזה מתאים למנעול אלקטרוני איפשהו בארקדה."
+    },
+    {
+      "original": "This is some sort of gadget. You're not sure what it does exactly, but it has a switch.",
+      "translated": "זה סוג של אביזר. אתה לא בטוח מה בדיוק זה עושה, אבל יש לזה מתג."
+    },
+    {
+      "original": "It's the cone shaped tip of a stalagmite.",
+      "translated": "זה הקצה החרוטי של זקיף."
+    },
+    {
+      "original": "A Survival Kit",
+      "translated": "ערכת הישרדות"
+    },
+    {
+      "original": "It's a Xenon Army knife",
+      "translated": "זה אולר צבא קסנוני"
+    },
+    {
+      "original": "The can label says Pelvitron Dehydrated Water (H2) - All you add is air! Makes 10 gallons! Caution - Do not attempt to open or rupture container! Misuse could result in personal injury and/or flash flooding.",
+      "translated": "על התווית של הפחית כתוב פלוויטרון מים מיובשים - נשאר רק להוסיף אוויר! טוב ל-40 ליטר! זהירות - אל תנסה לפתוח או לקרוע את המיכל! שימוש לקוי עלול להסתיים בפציעה ו/או הצפה פתאומית."
+    }
+  ],
+  "messages": [
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 1,
+      "original": "",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 2,
+      "original": " uniform",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 3,
+      "original": " Sarien",
+      "placeholders": [],
+      "matchType": "normalized",
+      "matchScore": 0.95,
+      "suggestedTranslation": "סרייאנים",
+      "csvMatch": "sarien"
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 4,
+      "original": "You are ",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 5,
+      "original": "identification ",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 6,
+      "original": "There is nothing there that you can't already see.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 7,
+      "original": "That does not ",
+      "placeholders": [],
+      "matchType": "partial",
+      "matchScore": 0.5,
+      "suggestedTranslation": "זה לא עוזר.",
+      "csvMatch": "That's not helpful."
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 8,
+      "original": "I don't understand ",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 9,
+      "original": "The can gives only one size of serving, 10 gallons. I don't think you're that thirsty.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 10,
+      "original": "%m8\\\"%w1\\\"",
+      "placeholders": [
+        "%w1",
+        "%m8"
+      ],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 11,
+      "original": "%m8\\\"%w2\\\"",
+      "placeholders": [
+        "%w2",
+        "%m8"
+      ],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 12,
+      "original": "%m8\\\"%w3\\\"",
+      "placeholders": [
+        "%w3",
+        "%m8"
+      ],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 13,
+      "original": "A mind is a terrible thing to waste.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 14,
+      "original": "I'll get naked if you get naked. You go first.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 15,
+      "original": "%m4%s1. Don't you remember?",
+      "placeholders": [
+        "%s",
+        "%m4"
+      ],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 16,
+      "original": "Silly human! That would not be helpful.",
+      "placeholders": [],
+      "matchType": "partial",
+      "matchScore": 0.5,
+      "suggestedTranslation": "זה לא עוזר.",
+      "csvMatch": "That's not helpful."
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 17,
+      "original": "Yum! What a taste treat.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 18,
+      "original": "There is a red flashing alarm light here which seems to be indicating that you had better get moving.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 19,
+      "original": "You can't hear anything of note.",
+      "placeholders": [],
+      "matchType": "partial",
+      "matchScore": 0.6,
+      "suggestedTranslation": "אתה לא יכול לעשות לו דבר.",
+      "csvMatch": "You can't do anything to it."
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 20,
+      "original": "Yes, it's true. You definitely hear footsteps. You'd better make yourself scarce!",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 21,
+      "original": "Word not known: ",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 22,
+      "original": "%m21%w1",
+      "placeholders": [
+        "%w1",
+        "%m21"
+      ],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 23,
+      "original": "%m21%w2",
+      "placeholders": [
+        "%w2",
+        "%m21"
+      ],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 24,
+      "original": "%m21%w3",
+      "placeholders": [
+        "%w3",
+        "%m21"
+      ],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 25,
+      "original": "%m8you.",
+      "placeholders": [
+        "%m8"
+      ],
+      "matchType": "partial",
+      "matchScore": 0.5,
+      "suggestedTranslation": "אתה לא יכול.",
+      "csvMatch": "You can't."
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 26,
+      "original": "There are no footsteps to hear now.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 27,
+      "original": "I hope you know how strange that sounds.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 28,
+      "original": "Nothing up there is going to help you.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 29,
+      "original": "You can't do that. Read the label, %s!",
+      "placeholders": [
+        "%s"
+      ],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 30,
+      "original": "You do not possess the designated item.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 31,
+      "original": "You'll have to be more specific.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 32,
+      "original": "This knife wouldn't cut hot margarine.",
+      "placeholders": [],
+      "matchType": "partial",
+      "matchScore": 0.5555555555555556,
+      "suggestedTranslation": "אל תטרח. הסכין לא חותכת שומן רותח.",
+      "csvMatch": "Don't bother. This knife wouldn't cut hot lard."
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 33,
+      "original": "You turn the dial to the right. The light begins to glow.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 34,
+      "original": "There is no need for you to turn the gadget off.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 35,
+      "original": "You just can't do that. Really. It's not a good idea. Besides, your dental hygiene hasn't been what it should. Do the universe a favor.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 36,
+      "original": "%m4dressed in the standard issue excursion garment.",
+      "placeholders": [
+        "%m4"
+      ],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 37,
+      "original": "On your back is a jetpack.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 38,
+      "original": "%m4attired in the spiffy%m2 of a%m3 marauder. There is a pocket.",
+      "placeholders": [
+        "%m4",
+        "%m2",
+        "%m3"
+      ],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 39,
+      "original": "You have no helmet and are easily distinguished as an intruder by your non-green head.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 40,
+      "original": "%m4wearing a lovely one-piece casual space travel outfit.",
+      "placeholders": [
+        "%m4"
+      ],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 41,
+      "original": "There is printing on it.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 42,
+      "original": "You plant your teeth into the strange plant and take a large bite, only to find it tastes exquisitely bad. If you had your choice you would choose any form of death over a meal of this.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 43,
+      "original": "No time to talk!",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 44,
+      "original": "%m4now wearing the jetpack. A small control linkage snaps onto the back of your helmet allowing you to control it merely by focusing on where you want to go.",
+      "placeholders": [
+        "%m4"
+      ],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 45,
+      "original": "%m4already wearing it.",
+      "placeholders": [
+        "%m4"
+      ],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 46,
+      "original": "Due to its highly reflective coating you cannot see through the glass very easily, however, you do see a rather striking figure peering back at you.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 47,
+      "original": "You place your lips to the nozzle and draw.  A fluid, not a very reasonable facsimile of water, is released slowly. While tasting slightly terrible, it quenches your thirst, at least for the time being.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 48,
+      "original": "The can label says \\\"Pelvitron's Dehydrated Water  (H2) - All you add is air!  Makes 10 gallons!\\\"",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 49,
+      "original": "\\\"Directions - To use, simply drink from nozzle. Metered amounts will be dispensed.     Caution - Do not attempt to open or rupture! Misuse could result in personal injury and/or flash flooding.\\\"",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 50,
+      "original": "Come to your senses, %s1. That couldn't help you at this time.",
+      "placeholders": [
+        "%s"
+      ],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 51,
+      "original": "The regulator is just a curved, metal tube which mixes air with the can's contents and directs it to the nozzle.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 52,
+      "original": "The nozzle is a flexible tube which senses suction and releases the water.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 53,
+      "original": "You just had a drink. You'd better ration your supply. This place is hot!",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 54,
+      "original": "Sorry. Can't see an object right now. Try later.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 55,
+      "original": "There is no need to do that now.",
+      "placeholders": [],
+      "matchType": "partial",
+      "matchScore": 0.6,
+      "suggestedTranslation": "אין צורך לעשות זאת.",
+      "csvMatch": "There's no need for that."
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 56,
+      "original": "It wouldn't help to wear it since there is gravity here.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 57,
+      "original": "For more information refer to coupons enclosed in package.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 58,
+      "original": "Hello, %s1. I've been expecting you. You're obviously a person of dubious taste. Drop me a line at Sierra and let me know if you've enjoyed playing.",
+      "placeholders": [
+        "%s"
+      ],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 59,
+      "original": "Sorry. This game is in a NO JUMPING zone.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 60,
+      "original": "You can't run.",
+      "placeholders": [],
+      "matchType": "partial",
+      "matchScore": 0.6666666666666666,
+      "suggestedTranslation": "אתה לא יכול.",
+      "csvMatch": "You can't."
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 61,
+      "original": "Don't be ridiculous!",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 62,
+      "original": "You raise the Orat part to your mouth and attempt to feast on it. Unfortunately for you it is composed mainly of bone. The small amount of flesh still clinging to the bone is incredibly rancid in flavor. You wisely give up on this idea.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 63,
+      "original": "You've already had your nap!",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 64,
+      "original": "You talk to the sprawled corpse. Strangely, you get no response.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 65,
+      "original": "Good grief, %s1! %m4a bit twisted, I must say.",
+      "placeholders": [
+        "%s",
+        "%m4"
+      ],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 66,
+      "original": "There is no need to do that. Just drink from the nozzle.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 67,
+      "original": "That doesn't seem to be the correct action in this case.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 68,
+      "original": "You stare into the semi-clear liquid and notice how it gives everything seen through it a lovely yellow tint.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 69,
+      "original": "You possess %v124 buckazoid(s).",
+      "placeholders": [
+        "%v"
+      ],
+      "matchType": "partial",
+      "matchScore": 0.5,
+      "suggestedTranslation": "יש לך %d זוזואידים",
+      "csvMatch": "You have %d Buckazoid%s"
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 70,
+      "original": "%m7seem to be in your sight now.",
+      "placeholders": [
+        "%m7"
+      ],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 71,
+      "original": "%m7appear to be here to view.",
+      "placeholders": [
+        "%m7"
+      ],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 72,
+      "original": "Are you sure you want to look at that?",
+      "placeholders": [],
+      "matchType": "partial",
+      "matchScore": 0.5714285714285714,
+      "suggestedTranslation": "בטוח שרוצים להתחיל מחדש?",
+      "csvMatch": "Are you sure you want to restart?"
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 73,
+      "original": "%m7seem to be available at this time.",
+      "placeholders": [
+        "%m7"
+      ],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 74,
+      "original": "There is nothing here by that name which can be acquired.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 75,
+      "original": "You can't obtain that here.",
+      "placeholders": [],
+      "matchType": "partial",
+      "matchScore": 0.6666666666666666,
+      "suggestedTranslation": "אתה לא יכול לעשות את זה מכאן.",
+      "csvMatch": "You can't do that from in here."
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 76,
+      "original": "Your legs will take you where you want to go (in most cases, anyway).",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 77,
+      "original": "That's not the way to get there.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 79,
+      "original": "That is not currently one of your options.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 80,
+      "original": "How would you like to do that?",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 82,
+      "original": "That act would lack any serious gratification.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 83,
+      "original": "You possess nothing that would help you accomplish this.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 84,
+      "original": "You can't find something you didn't lose.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 87,
+      "original": "You press the button on the remote control but notice nothing different.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 88,
+      "original": "You learn nothing new through this act.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 89,
+      "original": "%m8your request.",
+      "placeholders": [
+        "%m8"
+      ],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 90,
+      "original": "%m7compute.",
+      "placeholders": [
+        "%m7"
+      ],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 91,
+      "original": "Say What?",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 95,
+      "original": "%m4currently wearing it.",
+      "placeholders": [
+        "%m4"
+      ],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 96,
+      "original": "You'll have to go there to do that.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 98,
+      "original": "You see a%m3 clad in red battle gear. You'd better hope it doesn't see you.",
+      "placeholders": [
+        "%m3"
+      ],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 99,
+      "original": "There is no one else here.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 100,
+      "original": "%m4already in possession of the card.",
+      "placeholders": [
+        "%m4"
+      ],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 101,
+      "original": "Reaching into the pocket of the%m3%m2 you find a%m3 ID card.",
+      "placeholders": [
+        "%m3",
+        "%m2",
+        "%m3"
+      ],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 102,
+      "original": "You see no one of interest.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 103,
+      "original": "The Keycard or the I.D. card?",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 104,
+      "original": "You don't seem to have that.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 105,
+      "original": "I'll bet you wish you still had that dehydrated water.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 106,
+      "original": "%m4very much in need of water now. Your future will be a thing of the past without it.",
+      "placeholders": [
+        "%m4"
+      ],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 107,
+      "original": "You're dead, %s1. You have died of dehydration. Within a few hours, your gaunt corpse will have dried to a crisp, your powdered remains evenly distributed across the parched terrain by a searing gust.",
+      "placeholders": [
+        "%s"
+      ],
+      "matchType": "fuzzy",
+      "matchScore": 0.8333333333333334,
+      "suggestedTranslation": "בתוך כמה שעות, גווייתך הכחושה תתייבש לאפר, ושרידיך המאובקים יפוצו על פני המישורים הצחיחים ברוחות הקדים העזות.",
+      "csvMatch": "Within a few hours, your gaunt corpse will have dried to a crisp, your powdered remains evenly distributed across the parched terrain by a searing gust."
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 108,
+      "original": "F6 to fire Pulseray",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 109,
+      "original": " %v13:%v12|2:%v11|2  ",
+      "placeholders": [
+        "%v"
+      ],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 110,
+      "original": "Searching your pocket you find $%v124.",
+      "placeholders": [
+        "%v"
+      ],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 111,
+      "original": "In the pocket of this%m2 is an alien %m5card. The name on the card is Butston Freem. You wonder if this is a common%m3 name.",
+      "placeholders": [
+        "%m2",
+        "%m5",
+        "%m3"
+      ],
+      "matchType": "partial",
+      "matchScore": 0.5882352941176471,
+      "suggestedTranslation": "בכיס של התחפושת המכוערת הזאת יש תעודת זהות סאריינית. השם על הכרטיס הוא ישבנאבן פרים. אתה תוהה אם זה שם סארייני נפוץ (ואם כן, אתה שמח שאתה לא סארייני).",
+      "csvMatch": "In the pocket of this ugly outfit is a Sarien ID card. The name on the card is Butston Freem. You wonder if this is a common Sarien name (and if it is, you're glad you're not Sarien)."
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 112,
+      "original": "There is an alien %m5card there.",
+      "placeholders": [
+        "%m5"
+      ],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 113,
+      "original": "The heat is causing you to develop quite a thirst. A drink of water would certainly be most pleasant.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 114,
+      "original": "Sorry, you'll have to go back into the bar to do that.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 115,
+      "original": "%s4",
+      "placeholders": [
+        "%s"
+      ],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 118,
+      "original": "Just lost your buckazoid object.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 149,
+      "original": "Controller     <Ctrl J>",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 150,
+      "original": "Sierra",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 151,
+      "original": "About SQ",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 152,
+      "original": "Help    ",
+      "placeholders": [],
+      "matchType": "partial",
+      "matchScore": 0.5,
+      "suggestedTranslation": "זה חסר תועלת.",
+      "csvMatch": "That's of no help."
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 153,
+      "original": "File",
+      "placeholders": [],
+      "matchType": "fuzzy",
+      "matchScore": 1,
+      "suggestedTranslation": "קובץ: %s",
+      "csvMatch": "File: %s"
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 154,
+      "original": "Save     <F5>",
+      "placeholders": [],
+      "matchType": "fuzzy",
+      "matchScore": 1,
+      "suggestedTranslation": "__שמירה__",
+      "csvMatch": "Save"
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 155,
+      "original": "Restore  <F7>",
+      "placeholders": [],
+      "matchType": "fuzzy",
+      "matchScore": 1,
+      "suggestedTranslation": "טעינה",
+      "csvMatch": "Restore"
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 156,
+      "original": "-------------",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 157,
+      "original": "Restart  <F9>",
+      "placeholders": [],
+      "matchType": "fuzzy",
+      "matchScore": 1,
+      "suggestedTranslation": "אתחל",
+      "csvMatch": "Restart"
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 158,
+      "original": "Quit  <Alt-Z>",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 159,
+      "original": "Action",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 161,
+      "original": "See Object  <F4>",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 162,
+      "original": "Inventory  <Tab>",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 163,
+      "original": "Special",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 164,
+      "original": "Sound On/Off      <F2>",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 165,
+      "original": "Graphics Mode <Ctrl R>",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 166,
+      "original": "Joystick      <Ctrl J>",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 167,
+      "original": "Pause            <Esc>",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 168,
+      "original": "Speed",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 169,
+      "original": "Normal ",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 170,
+      "original": "Slow   ",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 171,
+      "original": "Fast   ",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 172,
+      "original": "Fastest",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "0.agilogic",
+      "messageNumber": 175,
+      "original": "Space Quest was designed and created by Mark Crowe and Scott Murphy.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    }
+  ]
+}

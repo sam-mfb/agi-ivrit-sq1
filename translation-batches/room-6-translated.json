@@ -1,0 +1,224 @@
+{
+  "room": "6",
+  "totalMessages": 19,
+  "matchStats": {
+    "exact": 2,
+    "normalized": 0,
+    "fuzzy": 1,
+    "partial": 2,
+    "unmatched": 14
+  },
+  "messages": [
+    {
+      "logicFile": "6.agilogic",
+      "messageNumber": 1,
+      "original": "You are in the central control area of the Arcada. The reactor domes pulsate irregularly, as if they had been tampered with. This does not look good. Through the window just above the control console, you can see down into the vehicle bay below.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "אתה נמצא באזור הבקרה המרכזי של הארקדה. כיפות הכור פועמות בצורה לא סדירה, כאילו התעסקו בהן. זה לא נראה טוב. דרך החלון ממש מעל קונסולת הבקרה, אתה יכול לראות למטה אל מפרץ הרכב."
+    },
+    {
+      "logicFile": "6.agilogic",
+      "messageNumber": 2,
+      "original": "This panel consists of status indicators which don't mean diddly to you.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "הלוח הזה מורכב ממחווני מצב שלא אומרים לך מאומה."
+    },
+    {
+      "logicFile": "6.agilogic",
+      "messageNumber": 3,
+      "original": "On the console by the window are two buttons marked \\\"OPEN BAY DOOR\\\" and \\\"CLOSE BAY DOOR\\\".",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "על הקונסולה ליד החלון נמצאים שני כפתורים עם התוויות \\\"פתח דלת מפרץ\\\" ו\\\"סגור דלת מפרץ\\\"."
+    },
+    {
+      "logicFile": "6.agilogic",
+      "messageNumber": 4,
+      "original": "You can't see it from here.",
+      "placeholders": [],
+      "matchType": "fuzzy",
+      "matchScore": 0.8333333333333334,
+      "suggestedTranslation": "אינך רואה דבר מכאן למעלה.",
+      "csvMatch": "You can't see anything from up here.",
+      "translation": "אינך רואה דבר מכאן למעלה."
+    },
+    {
+      "logicFile": "6.agilogic",
+      "messageNumber": 5,
+      "original": "You search the damaged body of your fellow crewman. You get too close a glimpse of the injury. In the pockets you find...",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "אתה מחפש בגופתו הפגועה של חבר הצוות שלך. אתה מקבל מבט קרוב מדי לפציעה. בכיסים אתה מוצא..."
+    },
+    {
+      "logicFile": "6.agilogic",
+      "messageNumber": 6,
+      "original": "nothing.",
+      "placeholders": [],
+      "matchType": "exact",
+      "matchScore": 1,
+      "suggestedTranslation": "כלום.",
+      "csvMatch": "nothing.",
+      "translation": "כלום."
+    },
+    {
+      "logicFile": "6.agilogic",
+      "messageNumber": 7,
+      "original": "You can't do that from here.",
+      "placeholders": [],
+      "matchType": "exact",
+      "matchScore": 1,
+      "suggestedTranslation": "אתה לא יכול לעשות את זה מכאן.",
+      "csvMatch": "You can't do that from here.",
+      "translation": "אתה לא יכול לעשות את זה מכאן."
+    },
+    {
+      "logicFile": "6.agilogic",
+      "messageNumber": 8,
+      "original": "You don't see that here.",
+      "placeholders": [],
+      "matchType": "partial",
+      "matchScore": 0.6666666666666666,
+      "suggestedTranslation": "אתה לא רוצה לעשות את זה כאן.",
+      "csvMatch": "You don't want to do that here.",
+      "translation": "אינך רואה את זה כאן.",
+      "notes": "REVIEW: Partial match - adapted translation"
+    },
+    {
+      "logicFile": "6.agilogic",
+      "messageNumber": 9,
+      "original": "Looking through the window you can see down into the vehicle bay.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "מביט דרך החלון אתה יכול לראות למטה אל מפרץ הרכב."
+    },
+    {
+      "logicFile": "6.agilogic",
+      "messageNumber": 10,
+      "original": "Looking through the window you can see down into the vehicle bay. The rather massive bay doors are open.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "מביט דרך החלון אתה יכול לראות למטה אל מפרץ הרכב. דלתות המפרץ העצומות למדי פתוחות."
+    },
+    {
+      "logicFile": "6.agilogic",
+      "messageNumber": 11,
+      "original": "Here lies another heap of fried humanity. The attackers have proven to be very thorough thus far.  There's something to be said for not being the hero type, you rationalize.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "כאן מוטלת ערימה נוספת של אנושות מטוגנת. התוקפים הוכיחו את עצמם כיסודיים מאוד עד כה. יש משהו לומר בעד זה שלא להיות טיפוס גיבור, אתה מנמק לעצמך."
+    },
+    {
+      "logicFile": "6.agilogic",
+      "messageNumber": 12,
+      "original": "Nothing happens.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "כלום לא קורה."
+    },
+    {
+      "logicFile": "6.agilogic",
+      "messageNumber": 13,
+      "original": "Nothing of interest there.",
+      "placeholders": [],
+      "matchType": "partial",
+      "matchScore": 0.6666666666666666,
+      "suggestedTranslation": "אין מה לעשות שם.",
+      "csvMatch": "Nothing to do there.",
+      "translation": "אין מה לעשות שם.",
+      "notes": "REVIEW: Partial match - close meaning"
+    },
+    {
+      "logicFile": "6.agilogic",
+      "messageNumber": 14,
+      "original": "The bay door can't be closed while the pod is up.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "דלת המפרץ לא יכולה להיסגר בזמן שהחללית למעלה."
+    },
+    {
+      "logicFile": "6.agilogic",
+      "messageNumber": 15,
+      "original": "One can only wonder what your purpose for this action is. You can't undress the body. Allow him one last bit of dignity.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "אפשר רק לתהות מה המטרה שלך בפעולה זו. אתה לא יכול להפשיט את הגופה. תן לו קצת כבוד אחרון."
+    },
+    {
+      "logicFile": "6.agilogic",
+      "messageNumber": 16,
+      "original": "Your limited view shows that there is a large vehicle bay below.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "השדה המוגבל שלך מראה שיש מפרץ רכב גדול למטה."
+    },
+    {
+      "logicFile": "6.agilogic",
+      "messageNumber": 17,
+      "original": "You'll have to be more specific.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "תצטרך להיות יותר ספציפי."
+    },
+    {
+      "logicFile": "6.agilogic",
+      "messageNumber": 18,
+      "original": "On the floor are three domes, covering closed access tubes, and one badly damaged body.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "על הרצפה שלוש כיפות, המכסות צינורות גישה סגורים, וגופה אחת פגועה קשה."
+    },
+    {
+      "logicFile": "6.agilogic",
+      "messageNumber": 19,
+      "original": "The domes cover access tubes to the Arcada's power plant. They are bolted closed since they seldom require maintenance.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "הכיפות מכסות צינורות גישה למפעל הכוח של הארקדה. הן בורגו סגורות מכיוון שהן זקוקות לתחזוקה לעיתים רחוקות."
+    }
+  ]
+}

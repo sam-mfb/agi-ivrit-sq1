@@ -1,0 +1,21 @@
+SQ1 Translation Merge Report
+============================
+
+Total messages: 1781
+Updated: 1781
+Missing: 0
+
+=== Translation Sources ===
+Exact matches (from CSV): 75
+Normalized matches: 3
+Fuzzy matches (≥70%): 117
+Partial matches (50-70%, needs review): 150
+Claude translations: 1403
+Empty/skipped: 33
+
+=== Coverage ===
+From CSV: 345
+From Claude: 1403
+Total translated: 1748
+
+Review needed: 150 messages (see needs-review.json)

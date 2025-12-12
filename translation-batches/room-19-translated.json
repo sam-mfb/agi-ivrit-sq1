@@ -1,0 +1,148 @@
+{
+  "room": "19",
+  "totalMessages": 15,
+  "matchStats": {
+    "exact": 0,
+    "normalized": 0,
+    "fuzzy": 1,
+    "partial": 5,
+    "unmatched": 9
+  },
+  "messages": [
+    {
+      "logicFile": "19.agilogic",
+      "messageNumber": 1,
+      "original": "It lands with a pleasing thud.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "זה נוחת עם שקשוק נעים.",
+      "notes": ""
+    },
+    {
+      "logicFile": "19.agilogic",
+      "messageNumber": 2,
+      "original": "That can't be done here.",
+      "placeholders": [],
+      "matchType": "partial",
+      "translation": "אתה לא יכול לעשות את זה מכאן.",
+      "notes": "REVIEW: Partial match"
+    },
+    {
+      "logicFile": "19.agilogic",
+      "messageNumber": 3,
+      "original": "It was not known that you are a master of the rock! That was a fine effort.",
+      "placeholders": [],
+      "matchType": "fuzzy",
+      "translation": "לא התפרסמת עד היום כאלוף בהטלת עקמות! כל הכבוד על הנסיון.",
+      "notes": ""
+    },
+    {
+      "logicFile": "19.agilogic",
+      "messageNumber": 5,
+      "original": "It looks a lot like spinach.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "זה נראה מאוד כמו תרד.",
+      "notes": ""
+    },
+    {
+      "logicFile": "19.agilogic",
+      "messageNumber": 7,
+      "original": "You tear off a piece of the plant.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "אתה תולש חתיכה מהצמח.",
+      "notes": ""
+    },
+    {
+      "logicFile": "19.agilogic",
+      "messageNumber": 8,
+      "original": "The Health Minister has determined that smoking is hazardous to your health.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "שר הבריאות קבע שעישון מזיק לבריאותך.",
+      "notes": ""
+    },
+    {
+      "logicFile": "19.agilogic",
+      "messageNumber": 9,
+      "original": "You take a whiff of the plant and find it to be a regrettable experience.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "אתה מריח את הצמח ומגלה שזו חוויה מצערת.",
+      "notes": ""
+    },
+    {
+      "logicFile": "19.agilogic",
+      "messageNumber": 10,
+      "original": "That is unreachable from here.",
+      "placeholders": [],
+      "matchType": "partial",
+      "translation": "אתה לא יכול לעשות את זה מכאן.",
+      "notes": "REVIEW: Partial match"
+    },
+    {
+      "logicFile": "19.agilogic",
+      "messageNumber": 11,
+      "original": "You already have that.",
+      "placeholders": [],
+      "matchType": "partial",
+      "translation": "כבר יש לך את המפתחות.",
+      "notes": "REVIEW: Partial match - adapted from 'You already have the keys'"
+    },
+    {
+      "logicFile": "19.agilogic",
+      "messageNumber": 12,
+      "original": "You don't have that.",
+      "placeholders": [],
+      "matchType": "partial",
+      "translation": "אתה לא רוצה לעשות את זה כאן.",
+      "notes": "REVIEW: Partial match - adapted from 'You don't want to do that here'"
+    },
+    {
+      "logicFile": "19.agilogic",
+      "messageNumber": 13,
+      "original": "You are not near that.",
+      "placeholders": [],
+      "matchType": "partial",
+      "translation": "אתה לא עד כדי כך רעב.",
+      "notes": "REVIEW: Partial match - adapted from 'You're not that hungry'"
+    },
+    {
+      "logicFile": "19.agilogic",
+      "messageNumber": 14,
+      "original": "You are in a unique area. There is a natural land bridge here as well as life in the form of plants.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "אתה באזור ייחודי. יש כאן גשר אדמה טבעי כמו גם חיים בדמות צמחים.",
+      "notes": ""
+    },
+    {
+      "logicFile": "19.agilogic",
+      "messageNumber": 15,
+      "original": "There is a very large rock on the natural bridge.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "יש סלע גדול מאוד על הגשר הטבעי.",
+      "notes": ""
+    },
+    {
+      "logicFile": "19.agilogic",
+      "messageNumber": 16,
+      "original": "On the ground rests a large boulder.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "על הקרקע מונח סלע גדול.",
+      "notes": ""
+    },
+    {
+      "logicFile": "19.agilogic",
+      "messageNumber": 17,
+      "original": "There are no rocks of note here.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "אין כאן סלעים ראויים לציון.",
+      "notes": ""
+    }
+  ]
+}

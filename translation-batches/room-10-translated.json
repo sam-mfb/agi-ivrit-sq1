@@ -1,0 +1,498 @@
+{
+  "room": "10",
+  "totalMessages": 42,
+  "matchStats": {
+    "exact": 0,
+    "normalized": 0,
+    "fuzzy": 1,
+    "partial": 1,
+    "unmatched": 40
+  },
+  "csvContext": [
+    {
+      "original": "You slide the keycard into the slot. The lock releases with a satisfying click, and the elevator doors slide open.",
+      "translated": "אתה מעביר את התג בקורא התגים. המנעול נפתח בקליק נעים, ודלתות המעלית נפתחות בגלישה איטית."
+    },
+    {
+      "original": "The bay doors are currently open.",
+      "translated": "דלתות הסיפון פתוחות כרגע."
+    },
+    {
+      "original": "The bay doors are currently closed.",
+      "translated": "דלתות הסיפון סגורות כרגע."
+    },
+    {
+      "original": "You overhear a couple of strange guys conversing nearby.",
+      "translated": "אתה שומע קבוצה של בחורים מוזרים מנהלים שיחה בקרבת מקום."
+    },
+    {
+      "original": "Through this window you can see down into the pod bay. A pod sits waiting on the launch track. The large bay doors are currently %s.",
+      "translated": "דרך החלון אתה יכול לצפות הישר אל תוך רציף המילוט. חללית מילוט ממתינה על מסלול השיגור. דלת הרציף הגדולה %s כרגע."
+    }
+  ],
+  "messages": [
+    {
+      "logicFile": "10.agilogic",
+      "messageNumber": 1,
+      "original": "You are sitting in the pilot seat of the escape pod facing toward the window. There is a dark console before you and seat belt straps at your side. Confused as to what you should do, you wish you would have paid more attention during crew orientation.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "אתה יושב במושב הטייס של חללית המילוט מול החלון. לפניך קונסולה כהה וחגורות בטיחות לצדדיך. מבולבל ולא יודע מה לעשות, הלוואי ששמת לב בהכשרה של חברי הצוות."
+    },
+    {
+      "logicFile": "10.agilogic",
+      "messageNumber": 2,
+      "original": "Your effort to power-down the pod was wisely overridden by the on-board computer.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "הנסיון שלך לכבות את החללית בוטל בחוכמה על-ידי המחשב המשולב."
+    },
+    {
+      "logicFile": "10.agilogic",
+      "messageNumber": 3,
+      "original": "The screen is dark.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "המסך חשוך."
+    },
+    {
+      "logicFile": "10.agilogic",
+      "messageNumber": 4,
+      "original": "Escape Pod Systems Activated",
+      "placeholders": [],
+      "matchType": "partial",
+      "matchScore": 0.5,
+      "suggestedTranslation": "חללית מילוט",
+      "csvMatch": "escape pod",
+      "translation": "REVIEW: מערכות חללית המילוט הופעלו",
+      "notes": "REVIEW: Partial match - adjusted from just 'escape pod' to full sentence"
+    },
+    {
+      "logicFile": "10.agilogic",
+      "messageNumber": 5,
+      "original": "Ready For Instructions",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "מוכן לפקודות"
+    },
+    {
+      "logicFile": "10.agilogic",
+      "messageNumber": 6,
+      "original": "Emergency Program Initiated",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "תכנית החירום החלה"
+    },
+    {
+      "logicFile": "10.agilogic",
+      "messageNumber": 8,
+      "original": "Pull Throttle To Execute",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "משוך את הידית להפעלה"
+    },
+    {
+      "logicFile": "10.agilogic",
+      "messageNumber": 9,
+      "original": "Launch Sequence",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "רצף שיגור"
+    },
+    {
+      "logicFile": "10.agilogic",
+      "messageNumber": 12,
+      "original": "The console consists of a screen, pod status indicators, a throttle, and some buttons.  The buttons are marked \\\"AutoNav\\\", \\\"Power\\\", and \\\"Don't Touch\\\".",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "הקונסולה מורכבת ממסך, מחווני מצב חללית, ידית משיכה וכמה כפתורים. על הכפתורים כתוב \\\"ניווט אוטו\\\", \\\"הפעלה\\\", ו\\\"אל תלחץ\\\"."
+    },
+    {
+      "logicFile": "10.agilogic",
+      "messageNumber": 13,
+      "original": "Out the window you see billions and billions of stars.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "מחוץ לחלון אתה רואה מיליארדים על מיליארדים של כוכבים."
+    },
+    {
+      "logicFile": "10.agilogic",
+      "messageNumber": 14,
+      "original": "There sure are a lot of them.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "באמת יש הרבה."
+    },
+    {
+      "logicFile": "10.agilogic",
+      "messageNumber": 16,
+      "original": "That has no effect now.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "אין לזה השפעה עכשיו."
+    },
+    {
+      "logicFile": "10.agilogic",
+      "messageNumber": 17,
+      "original": "It said don't touch.  I warned you!",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "כתוב אל תלחץ. אמרתי לך!"
+    },
+    {
+      "logicFile": "10.agilogic",
+      "messageNumber": 18,
+      "original": "Please buckle your seat belt first.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "אנא חגור תחילה את חגורת הבטיחות."
+    },
+    {
+      "logicFile": "10.agilogic",
+      "messageNumber": 19,
+      "original": "Done.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "בוצע."
+    },
+    {
+      "logicFile": "10.agilogic",
+      "messageNumber": 20,
+      "original": "The monitor flashes. You study it to see what new information is being displayed.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "המסך מהבהב. אתה בוחן אותו כדי לראות איזה מידע חדש מוצג."
+    },
+    {
+      "logicFile": "10.agilogic",
+      "messageNumber": 21,
+      "original": "It sure looks deep.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "זה נראה עמוק מאוד."
+    },
+    {
+      "logicFile": "10.agilogic",
+      "messageNumber": 22,
+      "original": "You have already done that.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "כבר עשית את זה."
+    },
+    {
+      "logicFile": "10.agilogic",
+      "messageNumber": 23,
+      "original": "There are three buttons here. They are marked \\\"AutoNav\\\", \\\"Power\\\", and \\\"Don't Touch\\\".",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "יש כאן שלושה כפתורים. עליהם כתוב \\\"ניווט אוטו\\\", \\\"הפעלה\\\", ו\\\"אל תלחץ\\\"."
+    },
+    {
+      "logicFile": "10.agilogic",
+      "messageNumber": 24,
+      "original": "There are some lights on. They indicate (when lit) that all pod systems are functioning normally.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "יש כמה נורות דולקות. הן מעידות (כשהן דולקות) שכל מערכות החללית פועלות כראוי."
+    },
+    {
+      "logicFile": "10.agilogic",
+      "messageNumber": 25,
+      "original": "The lights on the console are currently not on.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "הנורות על הקונסולה כבויות כרגע."
+    },
+    {
+      "logicFile": "10.agilogic",
+      "messageNumber": 26,
+      "original": "That act has already been performed.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "הפעולה כבר בוצעה."
+    },
+    {
+      "logicFile": "10.agilogic",
+      "messageNumber": 27,
+      "original": "Are you crazy? It seems quite obvious that you don't know what you are doing, you daft imp.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "אתה משוגע? ברור לגמרי שאין לך מושג מה אתה עושה, גמד טיפש."
+    },
+    {
+      "logicFile": "10.agilogic",
+      "messageNumber": 28,
+      "original": "You'll have to be more specific. The autonav button or the power button?",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "עליך להיות יותר ספציפי. כפתור הניווט האוטומטי או כפתור ההפעלה?"
+    },
+    {
+      "logicFile": "10.agilogic",
+      "messageNumber": 29,
+      "original": "Hey! What are you doing? Don't mess with the throttle while in flight! You have enough problems already. Why don't you spend your time thinking about how you're going to handle them?",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "היי! מה אתה עושה? אל תתעסק עם הידית בזמן טיסה! יש לך מספיק בעיות כבר. למה שלא תשקיע את הזמן שלך לחשוב איך אתה הולך להתמודד איתן?"
+    },
+    {
+      "logicFile": "10.agilogic",
+      "messageNumber": 30,
+      "original": "Your door is ajar.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "הדלת שלך פתוחה במעט."
+    },
+    {
+      "logicFile": "10.agilogic",
+      "messageNumber": 31,
+      "original": "I'm sorry, Dave. I'm afraid I can't do that.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "מצטער, דייב. אני חושש שאני לא יכול לעשות את זה."
+    },
+    {
+      "logicFile": "10.agilogic",
+      "messageNumber": 32,
+      "original": "The throttle is of the usual \\\"T\\\"-shaped variety.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "הידית היא מהסוג הרגיל בצורת \\\"T\\\"."
+    },
+    {
+      "logicFile": "10.agilogic",
+      "messageNumber": 33,
+      "original": "You can't. The door is closed.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "אתה לא יכול. הדלת סגורה."
+    },
+    {
+      "logicFile": "10.agilogic",
+      "messageNumber": 34,
+      "original": "You can't. You are buckled into your seat.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "אתה לא יכול. אתה חגור למושב."
+    },
+    {
+      "logicFile": "10.agilogic",
+      "messageNumber": 35,
+      "original": "You see nothing of interest.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "אתה לא רואה דבר מעניין."
+    },
+    {
+      "logicFile": "10.agilogic",
+      "messageNumber": 36,
+      "original": "The throttle is currently in a position that prevents you from doing that.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "הידית במצב שמונע ממך לעשות את זה."
+    },
+    {
+      "logicFile": "10.agilogic",
+      "messageNumber": 37,
+      "original": "Don't worry. Aside from a stray Sarien attack, this is a low crime area.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "אל תדאג. חוץ מהתקפת סריאנים תועה, זה אזור עם פשיעה נמוכה."
+    },
+    {
+      "logicFile": "10.agilogic",
+      "messageNumber": 38,
+      "original": "You can't see it from here.",
+      "placeholders": [],
+      "matchType": "fuzzy",
+      "matchScore": 0.8333333333333334,
+      "suggestedTranslation": "אינך רואה דבר מכאן למעלה.",
+      "csvMatch": "You can't see anything from up here.",
+      "translation": "אינך רואה דבר מכאן למעלה."
+    },
+    {
+      "logicFile": "10.agilogic",
+      "messageNumber": 39,
+      "original": "The throttle is already in that position.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "הידית כבר במצב הזה."
+    },
+    {
+      "logicFile": "10.agilogic",
+      "messageNumber": 40,
+      "original": "The door is small and uninteresting. It is presently closed.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "הדלת קטנה ולא מעניינת. היא סגורה כעת."
+    },
+    {
+      "logicFile": "10.agilogic",
+      "messageNumber": 41,
+      "original": "The door is small and uninteresting. It is presently open.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "הדלת קטנה ולא מעניינת. היא פתוחה כעת."
+    },
+    {
+      "logicFile": "10.agilogic",
+      "messageNumber": 42,
+      "original": "All systems are GO",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "כל המערכות מוכנות"
+    },
+    {
+      "logicFile": "10.agilogic",
+      "messageNumber": 43,
+      "original": "They're just your typical passenger restraint devices.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "אלו רק מכשירי ריסון נוסעים רגילים."
+    },
+    {
+      "logicFile": "10.agilogic",
+      "messageNumber": 44,
+      "original": "The throttle is back as far as it will go.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "הידית נמשכה לאחור עד הסוף."
+    },
+    {
+      "logicFile": "10.agilogic",
+      "messageNumber": 45,
+      "original": "You should specify which button you would like to push.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "עליך לציין איזה כפתור אתה רוצה ללחוץ."
+    },
+    {
+      "logicFile": "10.agilogic",
+      "messageNumber": 46,
+      "original": "Please remain seated and keep seat belt buckled while vehicle is in motion.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "אנא הישאר במושב ושמור על חגורת הבטיחות חגורה בזמן שהכלי בתנועה."
+    }
+  ]
+}

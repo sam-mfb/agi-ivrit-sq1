@@ -1,0 +1,128 @@
+{
+  "room": "119",
+  "totalMessages": 19,
+  "messages": [
+    {
+      "logicFile": "119.agilogic",
+      "messageNumber": 1,
+      "original": "F6 to fire Pulseray",
+      "translation": "F6 לירות פולסריי"
+    },
+    {
+      "logicFile": "119.agilogic",
+      "messageNumber": 2,
+      "original": "You can't do that now. Try later.",
+      "matchType": "partial",
+      "translation": "REVIEW: אינך יכול לעשות את זה עכשיו. נסה מאוחר יותר.",
+      "notes": "REVIEW: Partial match - added 'Try later' context"
+    },
+    {
+      "logicFile": "119.agilogic",
+      "messageNumber": 3,
+      "original": "You don't have one.",
+      "translation": "אין לך אחד."
+    },
+    {
+      "logicFile": "119.agilogic",
+      "messageNumber": 4,
+      "original": "This is neither the time nor the place.",
+      "translation": "זה לא הזמן ולא המקום."
+    },
+    {
+      "logicFile": "119.agilogic",
+      "messageNumber": 5,
+      "original": "Are you crazy?",
+      "translation": "אתה משוגע?"
+    },
+    {
+      "logicFile": "119.agilogic",
+      "messageNumber": 6,
+      "original": "There is a guardian droid here roaming the corridor. ",
+      "translation": "יש כאן רובוט שומר משוטט במסדרון. "
+    },
+    {
+      "logicFile": "119.agilogic",
+      "messageNumber": 7,
+      "original": "The robot droid isn't programmed for speech, only to kill.",
+      "translation": "הרובוט אינו מתוכנת לדבר, רק להרוג."
+    },
+    {
+      "logicFile": "119.agilogic",
+      "messageNumber": 8,
+      "original": "If the robot droid could laugh, which it is not programmed to do, it would do so. Your pulseray is only effective against living opponents!",
+      "translation": "אם הרובוט היה יכול לצחוק, ובכך הוא אינו מתוכנת, הוא היה עושה זאת. הפולסריי שלך יעיל רק נגד יריבים חיים!"
+    },
+    {
+      "logicFile": "119.agilogic",
+      "messageNumber": 9,
+      "original": "You are welcome to try.",
+      "translation": "אתה מוזמן לנסות."
+    },
+    {
+      "logicFile": "119.agilogic",
+      "messageNumber": 10,
+      "original": "The bomb has fallen to the floor where it has exploded harmlessly. The guard is so intent on guarding the Star Generator he doesn't even blink an eye.",
+      "translation": "הפצצה נפלה לרצפה שם התפוצצה ללא נזק. השומר כל כך מרוכז בשמירה על מחולל הכוכבים שהוא אפילו לא ממצמץ."
+    },
+    {
+      "logicFile": "119.agilogic",
+      "messageNumber": 12,
+      "original": "You've just been disintegrated ",
+      "translation": "זה עתה התפרקת "
+    },
+    {
+      "logicFile": "119.agilogic",
+      "messageNumber": 13,
+      "original": "%m12by contact with the robot droid.",
+      "placeholders": ["%m12"],
+      "translation": "%m12ממגע עם הרובוט."
+    },
+    {
+      "logicFile": "119.agilogic",
+      "messageNumber": 14,
+      "original": "%m6Fortunately, it recognizes you as a Sarien.",
+      "placeholders": ["%m6"],
+      "translation": "%m6למזלך, הוא מזהה אותך כסריאני."
+    },
+    {
+      "logicFile": "119.agilogic",
+      "messageNumber": 15,
+      "original": "The grenade drops to the floor releasing its poisonous gas on the unsuspecting alien. Good shot %s1!",
+      "placeholders": ["%s"],
+      "translation": "הרימון נופל לרצפה ומשחרר את הגז הרעיל שלו על החייזר החסר חשד. ירייה טובה %s1!"
+    },
+    {
+      "logicFile": "119.agilogic",
+      "messageNumber": 16,
+      "original": "Obviously, this was not the smartest thing you've done today. You have once again demonstrated that a janitor's place is not in space.",
+      "translation": "ברור שזה לא הדבר החכם ביותר שעשית היום. הוכחת שוב שמקומו של מנקה אינו בחלל."
+    },
+    {
+      "logicFile": "119.agilogic",
+      "messageNumber": 17,
+      "original": "You're toast!",
+      "translation": "אתה טוסט!"
+    },
+    {
+      "logicFile": "119.agilogic",
+      "messageNumber": 18,
+      "original": "%m12by the Sarien's pulseray. Perhaps this will teach you not to loiter about on the Deltaur.",
+      "placeholders": ["%m12"],
+      "translation": "%m12על ידי הפולסריי של הסריאני. אולי זה ילמד אותך לא להסתובב בדלתאור."
+    },
+    {
+      "logicFile": "119.agilogic",
+      "messageNumber": 19,
+      "original": "Geez %s1! Go take some marksmanship courses and come back and give it another try in a couple of months. OK?",
+      "placeholders": ["%s"],
+      "translation": "איי %s1! לך קח קצת קורסים בירי וחזור ותנסה שוב בעוד חודשיים. בסדר?"
+    },
+    {
+      "logicFile": "119.agilogic",
+      "messageNumber": 20,
+      "original": "You've just been reduced to micro-particles by the alien's pulseray. You'll have to be quicker on the draw than that %s1.",
+      "placeholders": ["%s"],
+      "translation": "זה עתה הופחתת לחלקיקים מיקרוסקופיים על ידי הפולסריי של החייזר. תצטרך להיות מהיר יותר בשליפה מזה %s1."
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "room": "99",
+  "totalMessages": 20,
+  "matchStats": {
+    "exact": 0,
+    "normalized": 0,
+    "fuzzy": 0,
+    "partial": 0,
+    "unmatched": 20
+  },
+  "messages": [
+    {
+      "logicFile": "99.agilogic",
+      "messageNumber": 1,
+      "original": "new room: ",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "חדר חדש: "
+    },
+    {
+      "logicFile": "99.agilogic",
+      "messageNumber": 2,
+      "original": "x: ",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "x: "
+    },
+    {
+      "logicFile": "99.agilogic",
+      "messageNumber": 3,
+      "original": "y: ",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "y: "
+    },
+    {
+      "logicFile": "99.agilogic",
+      "messageNumber": 4,
+      "original": "object number: ",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "מספר אובייקט: "
+    },
+    {
+      "logicFile": "99.agilogic",
+      "messageNumber": 5,
+      "original": "var number: ",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "מספר משתנה: "
+    },
+    {
+      "logicFile": "99.agilogic",
+      "messageNumber": 6,
+      "original": "var value: ",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "ערך משתנה: "
+    },
+    {
+      "logicFile": "99.agilogic",
+      "messageNumber": 7,
+      "original": "object #: ",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "אובייקט #: "
+    },
+    {
+      "logicFile": "99.agilogic",
+      "messageNumber": 8,
+      "original": "var %v161: %v162",
+      "placeholders": [
+        "%v"
+      ],
+      "matchType": "unmatched",
+      "translation": "משתנה %v161: %v162"
+    },
+    {
+      "logicFile": "99.agilogic",
+      "messageNumber": 9,
+      "original": "flag number: ",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "מספר דגל: "
+    },
+    {
+      "logicFile": "99.agilogic",
+      "messageNumber": 10,
+      "original": "flag %v161 is set",
+      "placeholders": [
+        "%v"
+      ],
+      "matchType": "unmatched",
+      "translation": "דגל %v161 מוגדר"
+    },
+    {
+      "logicFile": "99.agilogic",
+      "messageNumber": 11,
+      "original": "flag %v161 is not set",
+      "placeholders": [
+        "%v"
+      ],
+      "matchType": "unmatched",
+      "translation": "דגל %v161 לא מוגדר"
+    },
+    {
+      "logicFile": "99.agilogic",
+      "messageNumber": 12,
+      "original": "Word not known: ",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "מילה לא מוכרת: "
+    },
+    {
+      "logicFile": "99.agilogic",
+      "messageNumber": 13,
+      "original": "%m12%w1",
+      "placeholders": [
+        "%w1",
+        "%m12"
+      ],
+      "matchType": "unmatched",
+      "translation": "%m12%w1"
+    },
+    {
+      "logicFile": "99.agilogic",
+      "messageNumber": 14,
+      "original": "%m12%w2",
+      "placeholders": [
+        "%w2",
+        "%m12"
+      ],
+      "matchType": "unmatched",
+      "translation": "%m12%w2"
+    },
+    {
+      "logicFile": "99.agilogic",
+      "messageNumber": 15,
+      "original": "%m12%w3",
+      "placeholders": [
+        "%w3",
+        "%m12"
+      ],
+      "matchType": "unmatched",
+      "translation": "%m12%w3"
+    },
+    {
+      "logicFile": "99.agilogic",
+      "messageNumber": 16,
+      "original": "No response to input.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "אין תגובה לקלט."
+    },
+    {
+      "logicFile": "99.agilogic",
+      "messageNumber": 17,
+      "original": "You Have $%v124. Enter New Total-> ",
+      "placeholders": [
+        "%v"
+      ],
+      "matchType": "unmatched",
+      "translation": "יש לך $%v124. הזן סכום חדש-> "
+    },
+    {
+      "logicFile": "99.agilogic",
+      "messageNumber": 18,
+      "original": "Cheater!",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "רמאי!"
+    },
+    {
+      "logicFile": "99.agilogic",
+      "messageNumber": 19,
+      "original": "already in jetpack",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "כבר בתרמיל ריחוף"
+    },
+    {
+      "logicFile": "99.agilogic",
+      "messageNumber": 20,
+      "original": "trace on",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "מעקב מופעל"
+    }
+  ]
+}

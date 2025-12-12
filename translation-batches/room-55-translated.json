@@ -1,0 +1,40 @@
+{
+  "room": "55",
+  "totalMessages": 3,
+  "matchStats": {
+    "exact": 0,
+    "normalized": 0,
+    "fuzzy": 0,
+    "partial": 0,
+    "unmatched": 3
+  },
+  "messages": [
+    {
+      "logicFile": "55.agilogic",
+      "messageNumber": 1,
+      "original": "You are wandering through the Sarien spaceship.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "אתה משוטט דרך החללית הסריאנית.",
+      "notes": ""
+    },
+    {
+      "logicFile": "55.agilogic",
+      "messageNumber": 2,
+      "original": "It is just another elevator.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "זו סתם עוד מעלית.",
+      "notes": ""
+    },
+    {
+      "logicFile": "55.agilogic",
+      "messageNumber": 3,
+      "original": "These Sariens are scum, but they sure know how to build a spaceship.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "הסריינים האלה הם חלאות, אבל הם בהחלט יודעים איך לבנות חללית.",
+      "notes": ""
+    }
+  ]
+}

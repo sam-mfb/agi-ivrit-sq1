@@ -1,0 +1,463 @@
+{
+  "room": "70",
+  "totalMessages": 50,
+  "matchStats": {
+    "exact": 6,
+    "normalized": 0,
+    "fuzzy": 5,
+    "partial": 5,
+    "unmatched": 34
+  },
+  "messages": [
+    {
+      "logicFile": "70.agilogic",
+      "messageNumber": 1,
+      "original": "\\\"What'll it be? I got beer and it's 2 buckazoids.\\\"",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "\\\"מה יהיה? יש לי בירה ב-2 זוזואידים.\\\"",
+      "notes": ""
+    },
+    {
+      "logicFile": "70.agilogic",
+      "messageNumber": 2,
+      "original": "Your words find no audience.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "דבריך לא מוצאים קהל.",
+      "notes": ""
+    },
+    {
+      "logicFile": "70.agilogic",
+      "messageNumber": 3,
+      "original": "\\\"That'll be $2.00. Thank you very much. Come again.\\\"",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "\\\"זה יהיה 2 דולר. תודה רבה לך. תבוא שוב.\\\"",
+      "notes": ""
+    },
+    {
+      "logicFile": "70.agilogic",
+      "messageNumber": 4,
+      "original": "The bartender is busy and cannot hear you.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "הברמן עסוק ולא שומע אותך.",
+      "notes": ""
+    },
+    {
+      "logicFile": "70.agilogic",
+      "messageNumber": 5,
+      "original": "\\\"Hey! What are you trying to pull? What do you mean you can't pay? Take off before I have you fed to Grell.\\\"",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "\\\"היי! מה אתה מנסה לעשות? איך זה שאין לך כסף? תסתלק לפני שאאכיל אותך לגרל.\\\"",
+      "notes": ""
+    },
+    {
+      "logicFile": "70.agilogic",
+      "messageNumber": 6,
+      "original": "The beer tastes like carbonated Zipple sweat. However, considering recent events, you could learn to love it.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "הבירה טועמת כמו זיעת זיפל מוגזת. אך לאור האירועים האחרונים, אתה יכול ללמוד לאהוב את זה.",
+      "notes": ""
+    },
+    {
+      "logicFile": "70.agilogic",
+      "messageNumber": 7,
+      "original": "You can't drink something you don't have.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "אתה לא יכול לשתות משהו שאין לך.",
+      "notes": ""
+    },
+    {
+      "logicFile": "70.agilogic",
+      "messageNumber": 8,
+      "original": "\\\"One at a time, Mac!\\\"",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "\\\"אחד בכל פעם, מאק!\\\"",
+      "notes": ""
+    },
+    {
+      "logicFile": "70.agilogic",
+      "messageNumber": 9,
+      "original": "You're not close enough to play.",
+      "placeholders": [],
+      "matchType": "partial",
+      "translation": "אני לא מדבר איתך.",
+      "notes": "REVIEW: Partial match - context different (about playing vs talking)"
+    },
+    {
+      "logicFile": "70.agilogic",
+      "messageNumber": 10,
+      "original": "Sorry, someone is currently playing. Wait your turn.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "סליחה, מישהו משחק כרגע. חכה לתורך.",
+      "notes": ""
+    },
+    {
+      "logicFile": "70.agilogic",
+      "messageNumber": 11,
+      "original": "\\\"Listen, Mac, I can't serve you any more. You're sledged! You better go sleep it off or something before you start making a public display of yourself.\\\"",
+      "placeholders": [],
+      "matchType": "fuzzy",
+      "translation": "תקשיב, חבוב, אני לא מגיש לך יותר. אתה גמור! כדאי שתלך לישון או משהו לפני שתעשה לעצמך בושות בפומבי.",
+      "notes": ""
+    },
+    {
+      "logicFile": "70.agilogic",
+      "messageNumber": 12,
+      "original": "This is a seedy little place. Galactic riff-raff are seated at the bar. The bartender drops by occasionally to serve them. A band is cranking out some of the more popular tunes in the quadrant. There is a slot machine standing near the bar. You notice a sweeper in the lower corner of the room. It must get messy here. No one seems to notice or care that you have entered the bar.",
+      "placeholders": [],
+      "matchType": "partial",
+      "translation": "זהו מקום קטן ומוזנח. אספסוף גלקטי התאסף על יד הבר. הברמן מגיע מדי פעם לשרת אותם. להקה מפיקה כמה מהשירים הפופולריים יותר בצביר. לצידם ניצבת מכונת מזל. אתה מבחין במנקה בפינת החדר. בטח הלכלוך פה עולה על גדותיו. איש אינו מבחין או מתעניין בכניסתך לבר.",
+      "notes": "REVIEW: Partial match - some differences in detail"
+    },
+    {
+      "logicFile": "70.agilogic",
+      "messageNumber": 13,
+      "original": "The walls are sporting a wonderful smoke finish such that the original color is a puzzle. There are cracks here and there which attest to the state of disrepair.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "הקירות מתהדרים בגימור עשן נפלא כך שהצבע המקורי הוא חידה. יש סדקים פה ושם המעידים על מצב הזנחה.",
+      "notes": ""
+    },
+    {
+      "logicFile": "70.agilogic",
+      "messageNumber": 14,
+      "original": "Some of the stranger galactic riff-raff are seated at the bar. The bartender drops by occasionally to serve them. There seems to be a vacant spot at the right end of the bar.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "חלק מהאספסוף הגלקטי המוזר יותר יושב ליד הבר. הברמן מגיע מדי פעם לשרת אותם. נראה שיש מקום פנוי בקצה הימני של הבר.",
+      "notes": ""
+    },
+    {
+      "logicFile": "70.agilogic",
+      "messageNumber": 15,
+      "original": "It appears to be an electronic slot machine.",
+      "placeholders": [],
+      "matchType": "exact",
+      "translation": "נראה שזאת מכונת מזל אלקטרונית.",
+      "notes": ""
+    },
+    {
+      "logicFile": "70.agilogic",
+      "messageNumber": 16,
+      "original": "There is a hip combo of green beings jamming. They only seem to be interested in playing music.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "יש להקה מגניבה של יצורים ירוקים שמנגנת. נראה שהם מתעניינים רק בניגון מוזיקה.",
+      "notes": ""
+    },
+    {
+      "logicFile": "70.agilogic",
+      "messageNumber": 17,
+      "original": "There are a couple of non-galactic looking humanoids cranking out some unfamiliar sounding tunes. They seem interested solely in the music they are performing.",
+      "placeholders": [],
+      "matchType": "exact",
+      "translation": "כמה יצורים דמויי אנוש לא-גלקטיים שמפיקים מנגינות לא מוכרות. נראה שהם מתעניינים רק במוזיקה שהם מייצרים.",
+      "notes": ""
+    },
+    {
+      "logicFile": "70.agilogic",
+      "messageNumber": 18,
+      "original": "They are not interested in you.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "הם לא מתעניינים בך.",
+      "notes": ""
+    },
+    {
+      "logicFile": "70.agilogic",
+      "messageNumber": 19,
+      "original": "There is nothing special about the stairs. They look like a standard gravity rebellion device.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "אין שום דבר מיוחד במדרגות. הן נראות כמו התקן סטנדרטי למרידה בכבידה.",
+      "notes": ""
+    },
+    {
+      "logicFile": "70.agilogic",
+      "messageNumber": 20,
+      "original": "As you sip another of the odd brews, you overhear someone at the bar speaking: \\\"There I was cruising through sector HH when I spot this blip on the scanner.\\\"",
+      "placeholders": [],
+      "matchType": "fuzzy",
+      "translation": "בעוד אתה נוטל לגימה נוספת מהשיכר הלא ברור, אתה שומע שיחה אקראית בבר: אני משייט לי ברחבי גזרה HH כשלפתע אני קולט הבהוב בסורק.",
+      "notes": ""
+    },
+    {
+      "logicFile": "70.agilogic",
+      "messageNumber": 21,
+      "original": "\\\"So, I head toward it, ya see, and right there in front of me sits the Deltaur. It's just sittin' there. My hearts start hyperwarping on me.\\\"",
+      "placeholders": [],
+      "matchType": "fuzzy",
+      "translation": "אז אני נוסע לשם, ת'מבין, ושם אל מול עיני יושבת הדלטאור. פשוט רובצת לה שם כמו פדלאה. הלב שלי מתחיל לדהור במהירות האור.",
+      "notes": ""
+    },
+    {
+      "logicFile": "70.agilogic",
+      "messageNumber": 22,
+      "original": "\\\"I figure my milliseconds are numbered. All I can think of doin' is getting my craft outta there. So, I'm reachin' for the throttle.\\\"",
+      "placeholders": [],
+      "matchType": "fuzzy",
+      "translation": "אני מבין שאלפיות שניותי ספורות. כל מה שעולה לי בראש זה לתפוס את החללית שלי ולהסתלק מהמקום. אז אני שולח יד למשנק.",
+      "notes": ""
+    },
+    {
+      "logicFile": "70.agilogic",
+      "messageNumber": 23,
+      "original": "\\\"All of a sudden there's this incredible flash of light, ya see. And just like that this little planetoid explodes into a ball of fire! I tell ya, I've never seen anything like it. I mauled the throttle and got outta there quick you bet.\\\"",
+      "placeholders": [],
+      "matchType": "fuzzy",
+      "translation": "ולפתע אני רואה הבזק אור מטורף, ת'מבין. וברגע אחד הכוכבון הקטן מתפוצץ לכדור של אש! אני אומר'ך, בחיים לא ראיתי דבר כזה. מחצתי את המשנק וברחתי משם הכי מהר שיכולתי.",
+      "notes": ""
+    },
+    {
+      "logicFile": "70.agilogic",
+      "messageNumber": 24,
+      "original": "The bartender is only interested in selling his wares. He is of no help otherwise.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "הברמן מתעניין רק במכירת סחורותיו. חוץ מזה אין ממנו תועלת.",
+      "notes": ""
+    },
+    {
+      "logicFile": "70.agilogic",
+      "messageNumber": 25,
+      "original": "You feel a strange tingling sensation. The taste of the beer doesn't seem to be bothering you so much now, hee, hee.",
+      "placeholders": [],
+      "matchType": "exact",
+      "translation": "אתה מרגיש תחושת עקצוץ מוזרה. טעם הבירה כבר לא מטריד אותך בשלב זה, חי, חי.",
+      "notes": ""
+    },
+    {
+      "logicFile": "70.agilogic",
+      "messageNumber": 26,
+      "original": "Oh my, you are starting to feel unstable.",
+      "placeholders": [],
+      "matchType": "partial",
+      "translation": "אוי לא, אתה מתחיל להרגיש חוסר יציבות מסוימת.",
+      "notes": "REVIEW: Partial match - slight wording difference"
+    },
+    {
+      "logicFile": "70.agilogic",
+      "messageNumber": 27,
+      "original": "  I'mm nott ffeeling soo wunderfful.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "  אנני לוא מררגיש טווב בכככלל.",
+      "notes": ""
+    },
+    {
+      "logicFile": "70.agilogic",
+      "messageNumber": 28,
+      "original": "I knnoww therz a doorr hhere summware.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "אנני יוודע שששיש דדלת פפפה אייפששהו.",
+      "notes": ""
+    },
+    {
+      "logicFile": "70.agilogic",
+      "messageNumber": 29,
+      "original": "      Pleeze stop movin th barr!",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "      בבבקששה תתפסססיק להזזזזיז את ההבררר!",
+      "notes": ""
+    },
+    {
+      "logicFile": "70.agilogic",
+      "messageNumber": 30,
+      "original": "The bartender is a compact looking gent. He seems to be about as friendly as the patrons.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "הברמן הוא אדם קומפקטי. נראה שהוא ידידותי בערך כמו הפטרונים.",
+      "notes": ""
+    },
+    {
+      "logicFile": "70.agilogic",
+      "messageNumber": 31,
+      "original": "You don't have a good view from here.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "אין לך שדה ראייה טוב מכאן.",
+      "notes": ""
+    },
+    {
+      "logicFile": "70.agilogic",
+      "messageNumber": 32,
+      "original": "You've never seen the likes of the patrons seated at the bar. They look fairly absorbed in their drinks.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "מעולם לא ראית דומה לפטרונים היושבים ליד הבר. הם נראים די שקועים במשקאותיהם.",
+      "notes": ""
+    },
+    {
+      "logicFile": "70.agilogic",
+      "messageNumber": 33,
+      "original": "The sweeper is a small motorized device which scans the floor for debris and removes it within moments of detection. There is nothing special about it, otherwise.",
+      "placeholders": [],
+      "matchType": "exact",
+      "translation": "הגורף הוא מכשיר ממונע קטן שסורק את הרצפה למצוא פסולת ומסיר אותה תוך רגעים מגילוי. חוץ מזה, אין בו שום דבר מיוחד.",
+      "notes": ""
+    },
+    {
+      "logicFile": "70.agilogic",
+      "messageNumber": 34,
+      "original": "No one here seems willing to acknowledge your presence. Maybe they're not too fond of humanoids.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "אף אחד כאן לא נראה מוכן להכיר בנוכחותך. אולי הם לא כל כך אוהבים בני אנוש.",
+      "notes": ""
+    },
+    {
+      "logicFile": "70.agilogic",
+      "messageNumber": 35,
+      "original": "The only thing you hear when attempting to eavesdrop is \\\"Eat felch, humanoid!\\\"",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "הדבר היחיד שאתה שומע כשאתה מנסה להאזין בחשאי הוא \\\"תאכל צואה, בן אנוש!\\\"",
+      "notes": ""
+    },
+    {
+      "logicFile": "70.agilogic",
+      "messageNumber": 36,
+      "original": "That act, while providing a means of venting frustration, serves only to cause you considerable pain when your toes scatter in directions they weren't designed to travel. Wise up, Space Cadet!",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "הפעולה הזו, למרות שמהווה אמצעי להוצאת תסכול, משרתת רק לגרום לך כאב ניכר כשהאצבעות שלך מתפזרות לכיוונים שלא תוכננו לנוע בהם. תתפכח, חניך החלל!",
+      "notes": ""
+    },
+    {
+      "logicFile": "70.agilogic",
+      "messageNumber": 37,
+      "original": "You are not in a position to do that.",
+      "placeholders": [],
+      "matchType": "partial",
+      "translation": "אתה לא עד כדי כך רעב.",
+      "notes": "REVIEW: Partial match - different meaning"
+    },
+    {
+      "logicFile": "70.agilogic",
+      "messageNumber": 38,
+      "original": "It's not advisable to be trying anything aggressive here since you are out-numbered.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "לא מומלץ לנסות שום דבר אגרסיבי כאן כיוון שאתה במיעוט.",
+      "notes": ""
+    },
+    {
+      "logicFile": "70.agilogic",
+      "messageNumber": 39,
+      "original": "There are no surfaces on which to place your posterior other than the floor and you don`t want to do that.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "אין משטחים עליהם לשים את האחוריים שלך מלבד הרצפה ואתה לא רוצה לעשות את זה.",
+      "notes": ""
+    },
+    {
+      "logicFile": "70.agilogic",
+      "messageNumber": 40,
+      "original": ">",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": ">",
+      "notes": ""
+    },
+    {
+      "logicFile": "70.agilogic",
+      "messageNumber": 41,
+      "original": "_",
+      "placeholders": [],
+      "matchType": "exact",
+      "translation": "_",
+      "notes": ""
+    },
+    {
+      "logicFile": "70.agilogic",
+      "messageNumber": 42,
+      "original": "\\\"Wine? Did I say we have wine? Hey did you hear this humanoid? He wants wine! Get serious!\\\"",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "\\\"יין? אמרתי שיש לנו יין? שמעתם את בן האנוש הזה? הוא רוצה יין! תתייחס ברצינות!\\\"",
+      "notes": ""
+    },
+    {
+      "logicFile": "70.agilogic",
+      "messageNumber": 43,
+      "original": "\\\"Whatever you say.\\\"",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "\\\"מה שתגיד.\\\"",
+      "notes": ""
+    },
+    {
+      "logicFile": "70.agilogic",
+      "messageNumber": 45,
+      "original": "On the stage is one of the hottest bands in the quadrant.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "על הבמה נמצאת אחת הלהקות הלוהטות ביותר בצביר.",
+      "notes": ""
+    },
+    {
+      "logicFile": "70.agilogic",
+      "messageNumber": 46,
+      "original": "Sorry, the machine is currently out of order. Please come again.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "סליחה, המכונה לא תקינה כרגע. אנא בוא שוב.",
+      "notes": ""
+    },
+    {
+      "logicFile": "70.agilogic",
+      "messageNumber": 47,
+      "original": "On stage are two heavily-bearded gents and a relatively clean-shaven drummer. They're one of the hottest bands in the quadrant.",
+      "placeholders": [],
+      "matchType": "exact",
+      "translation": "על הבמה יש שני אדונים עבדקנים ומתופף מגולח יחסית. הם אחת מהלהקות הלוהטות ביותר בצביר.",
+      "notes": ""
+    },
+    {
+      "logicFile": "70.agilogic",
+      "messageNumber": 48,
+      "original": "Gulp! Gulp!",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "גלופ! גלופ!",
+      "notes": ""
+    },
+    {
+      "logicFile": "70.agilogic",
+      "messageNumber": 49,
+      "original": "\\\"You have one of those coupons, huh? Here's your 5 buckazoids and your free beer. Enjoy.\\\"",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "\\\"יש לך אחד מהקופונים האלה, הא? הנה 5 הזוזואידים שלך והבירה החינמית. תהנה.\\\"",
+      "notes": ""
+    },
+    {
+      "logicFile": "70.agilogic",
+      "messageNumber": 50,
+      "original": "You don't have that.",
+      "placeholders": [],
+      "matchType": "partial",
+      "translation": "אתה לא רוצה לעשות את זה כאן.",
+      "notes": "REVIEW: Partial match - different meaning"
+    },
+    {
+      "logicFile": "70.agilogic",
+      "messageNumber": 51,
+      "original": "Just walk up close to the machine to play.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "פשוט התקרב למכונה כדי לשחק.",
+      "notes": ""
+    }
+  ]
+}

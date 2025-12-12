@@ -1,0 +1,24 @@
+{
+  "room": "59",
+  "totalMessages": 3,
+  "messages": [
+    {
+      "logicFile": "59.agilogic",
+      "messageNumber": 1,
+      "original": "You are in a hallway aboard the Deltaur.",
+      "translation": "REVIEW: אתה במסדרון על סיפון הדלטאור."
+    },
+    {
+      "logicFile": "59.agilogic",
+      "messageNumber": 2,
+      "original": "The walls are no different here than in the rest of the ship.",
+      "translation": "הקירות כאן לא שונים מבשאר חלקי הספינה."
+    },
+    {
+      "logicFile": "59.agilogic",
+      "messageNumber": 3,
+      "original": "It is just an average door.",
+      "translation": "זו רק דלת רגילה."
+    }
+  ]
+}

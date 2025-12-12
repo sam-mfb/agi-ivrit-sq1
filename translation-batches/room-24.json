@@ -1,0 +1,529 @@
+{
+  "room": "24",
+  "totalMessages": 29,
+  "matchStats": {
+    "exact": 3,
+    "normalized": 0,
+    "fuzzy": 3,
+    "partial": 3,
+    "unmatched": 20
+  },
+  "csvContext": [
+    {
+      "original": "These teeth are in to stay.",
+      "translated": "השיניים כאן בשביל להישאר."
+    },
+    {
+      "original": "Many years of sandblasting by the Keronian elements have given the skull a smooth finish.",
+      "translated": "שנים רבות של התזת חול על ידי איתני הטבע של קרונה העניקו לגולגולת גימור חלק."
+    },
+    {
+      "original": "A section of vertebra, near where the head used to be attached, extends north and south. To the east is the ominous-looking skull.",
+      "translated": "אזור של חוליות, ליד המקום בו הראש היה מחובר, נמשך צפונה ודרומה. לכיוון מזרח נמצאת הגולגולת מבשרת-הרעות."
+    },
+    {
+      "original": "No doubt about it. Those are some serious teeth. It could've used a little dental work - maybe some braces even. It's just a good thing you never had the opportunity to be on the business end of these things when it was still a living being.",
+      "translated": "אין ספק. אלה שיניים רציניות. לא היה מזיק לו ביקור אצל שיננית - אולי אפילו גשר. פשוט מזל שלא יצא לך לפגוש אותם מקרוב כשהוא עוד היה יצור חי."
+    },
+    {
+      "original": "This must be the skull previously attached to the rest of the mammoth bones partially assembled here.",
+      "translated": "זאת בטח הגולגולת שהייתה מחוברת פעם לשאר העצמות המורכבות חלקית של היצור הזה."
+    },
+    {
+      "original": "You talk to yourself and, as usual, learn nothing that you didn't already know.",
+      "translated": "אתה מדבר אל עצמך, וכרגיל, לא לומד משהו שלא ידעת כבר."
+    },
+    {
+      "original": "Hey! One shouldn't attempt to manipulate one's self in a family game.",
+      "translated": "היי! אתה לא אמור להתעסק עם עצמך במשחק לכל המשפחה."
+    },
+    {
+      "original": "Better not. You're likely to get a fur ball.",
+      "translated": "מוטב שלא. אתה צפוי לבלוע כדור פרווה."
+    },
+    {
+      "original": "The odor you're producing causes you to regret skipping last month's shower.",
+      "translated": "הניחוח שאתה מפיק גורם לך להתחרט על שדילגת על המקלחת החודשית."
+    },
+    {
+      "original": "You're too busy right now.",
+      "translated": "אתה עסוק מדי עכשיו."
+    },
+    {
+      "original": "Better save it for when you're thirsty.",
+      "translated": "עדיף לשמור את זה לרגעים שתהיה צמא."
+    },
+    {
+      "original": "You don't want to do that here.",
+      "translated": "אתה לא רוצה לעשות את זה כאן."
+    },
+    {
+      "original": "You wisely strap on the jetpack to allow your self motion control.",
+      "translated": "אתה חוגר בתבונתך את תרמיל הריחוף כדי לאפשר לך בקרת תנועה עצמית."
+    },
+    {
+      "original": "The jetpack is useful only in Zero-G situations.",
+      "translated": "תרמיל הריחוף יעיל רק במצבי אפס כבידה."
+    },
+    {
+      "original": "Don't bother. This knife wouldn't cut hot lard.",
+      "translated": "אל תטרח. הסכין לא חותכת שומן רותח."
+    },
+    {
+      "original": "Isn't this just the most amazing waste of time?",
+      "translated": "האין זה בזבוז הזמן המדהים ביותר בעולם?"
+    },
+    {
+      "original": "You have to wonder why you're performing such a useless action.",
+      "translated": "עליך לשאול את עצמך מדוע הינך מבצע פעולות כל כך חסרות תועלת."
+    },
+    {
+      "original": "You wisely decide this is a serious waste of time and energy.",
+      "translated": "אתה מחליט בחוכמה שמדובר בבזבוז משווע של זמן ואנרגיה."
+    },
+    {
+      "original": "You ask yourself why you're doing this and are forced to reply that you just don't know.",
+      "translated": "אתה שואל את עצמך למה אתה עושה זה ועצמך עונה לך שאין לו מושג."
+    },
+    {
+      "original": "Even for you, this isn't bright.",
+      "translated": "אפילו במונחים שלך, זה לא רעיון מבריק."
+    },
+    {
+      "original": "Thank you for playing Space Quest I. You've been most entertaining.",
+      "translated": "תודה ששיחקתם מסע בחלל 1. בידרתם אותנו כמו שצריך."
+    },
+    {
+      "original": "Are you sure you want to restart?",
+      "translated": "בטוח שרוצים להתחיל מחדש?"
+    },
+    {
+      "original": "Memory fragmented.",
+      "translated": "קטעי זכרונות."
+    },
+    {
+      "original": "What did you expect them to do, reproduce?",
+      "translated": "מה ציפית מהם לעשות, להתרבות?"
+    },
+    {
+      "original": "You're far too busy for that now.",
+      "translated": "אתה עסוק מדי בשביל זה עכשיו."
+    },
+    {
+      "original": "You switch the gadget off to conserve its energy.",
+      "translated": "אתה מכבה את הגאדג'ט כדי לחסוך באנרגיה."
+    },
+    {
+      "original": "You switch the gadget on.",
+      "translated": "אתה מפעיל את הגאדג'ט."
+    },
+    {
+      "original": "You're far to busy for that now.",
+      "translated": "אתה עסוק מדי בשביל זה עכשיו."
+    },
+    {
+      "original": "You scrape that sticky goo from the bottom of the rock.",
+      "translated": "אתה מגרד את העיסה הדביקה מתחתית הסלע."
+    },
+    {
+      "original": "There is nothing you can do to the rock.",
+      "translated": "אין לך מה לעשות לסלע."
+    },
+    {
+      "original": "You've already opened the survival kit and removed its contents.",
+      "translated": "כבר פתחת את ערכת ההישרדות ורוקנת את תכולתה."
+    },
+    {
+      "original": "Upon opening the survival kit you discover a Xenon army knife and a canister of dehydrated water.",
+      "translated": "אתה פותח את ערכת ההישרדות ומוצא בתוכה סכין צבאי זנוני ומיכל מים מיובשים."
+    },
+    {
+      "original": "You have %d Buckazoid%s",
+      "translated": "יש לך %d זוזואידים"
+    },
+    {
+      "original": "Thank you for playing Space Quest I. Too bad you've failed miserably and doomed all of your people to a horrible death at the hands of the Sariens. You quickly glance about the room to see if anyone saw your silly mistake. Better luck next time.",
+      "translated": "תודה ששיחקת מסע בחלל 1. עצוב מאד שנחלת כישלון מחפיר וגזרת על אנשיך מוות מחריד בידי הסריינים. אתה מעיף מבט חטוף מסביב לחדר ובודק אם מישהו הבחין בטעות המגוחכת שלך. בהצלחה בפעם הבאה."
+    },
+    {
+      "original": "Score: %d of %d",
+      "translated": "ניקוד: %d מתוך %d"
+    },
+    {
+      "original": "Roger Wilco",
+      "translated": "רוג'ר ווילקו"
+    },
+    {
+      "original": "It's you, Roger Wilco, janitor sub-extraordinaire.",
+      "translated": "זה אתה, רוג'ר ווילקו, מנקה תת-מעולה."
+    },
+    {
+      "original": "This is your brain take-out container.",
+      "translated": "זה מיכל הוצאת המוח שלך."
+    },
+    {
+      "original": "Let me out of here!\\n(Quit)",
+      "translated": "תוציאו אותי מכאן!\\n(צא)"
+    },
+    {
+      "original": "I don't know WHAT\\nI was thinking.\\nLet's Play!",
+      "translated": "אני לא יודע *מה*\\nאני חשבתי.\\nבואו נשחק!"
+    },
+    {
+      "original": "Of course I'm sure!",
+      "translated": "ברור שאני בטוח!"
+    },
+    {
+      "original": "Changed My Mind.\\nLet's Play!",
+      "translated": "שיניתי את דעתי.\\nבואו נשחק!"
+    },
+    {
+      "original": "Who cares",
+      "translated": "למי אכפת"
+    },
+    {
+      "original": "Debug",
+      "translated": "דיבאג"
+    },
+    {
+      "original": "Select this Icon to close this window.",
+      "translated": "בחר בסמליל הזה כדי לסגור את החלון."
+    },
+    {
+      "original": "Select this Icon then select an inventory item you'd like a description of.",
+      "translated": "בחר בסמליל הזה ואז בחר פריט מהמלאי שאתה רוצה תיאור שלו."
+    },
+    {
+      "original": "This allows you to do something to an item.",
+      "translated": "זה מאפשר לך לעשות משהו לפריט."
+    },
+    {
+      "original": "This allows you to select an item.",
+      "translated": "זה מאפשר לך לבחור פריט."
+    },
+    {
+      "original": "It's a cartridge from the Arcada's Data Archive.",
+      "translated": "זו מחסנית מארכיב המידע של הארקדה."
+    },
+    {
+      "original": "This keycard fits an electronic lock someplace on the Arcada.",
+      "translated": "הכרטיס הזה מתאים למנעול אלקטרוני איפשהו בארקדה."
+    },
+    {
+      "original": "This is some sort of gadget. You're not sure what it does exactly, but it has a switch.",
+      "translated": "זה סוג של אביזר. אתה לא בטוח מה בדיוק זה עושה, אבל יש לזה מתג."
+    },
+    {
+      "original": "It's the cone shaped tip of a stalagmite.",
+      "translated": "זה הקצה החרוטי של זקיף."
+    },
+    {
+      "original": "A Survival Kit",
+      "translated": "ערכת הישרדות"
+    },
+    {
+      "original": "It's a Xenon Army knife",
+      "translated": "זה אולר צבא קסנוני"
+    },
+    {
+      "original": "The can label says Pelvitron Dehydrated Water (H2) - All you add is air! Makes 10 gallons! Caution - Do not attempt to open or rupture container! Misuse could result in personal injury and/or flash flooding.",
+      "translated": "על התווית של הפחית כתוב פלוויטרון מים מיובשים - נשאר רק להוסיף אוויר! טוב ל-40 ליטר! זהירות - אל תנסה לפתוח או לקרוע את המיכל! שימוש לקוי עלול להסתיים בפציעה ו/או הצפה פתאומית."
+    }
+  ],
+  "messages": [
+    {
+      "logicFile": "24.agilogic",
+      "messageNumber": 1,
+      "original": "The cave interior now features a lovely new Jagged Metal/Liberated Entrails motif. The stench? Whew! Not even an all-text adventure would attempt that description.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "24.agilogic",
+      "messageNumber": 2,
+      "original": "\\\"What have we here?\\\"",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "24.agilogic",
+      "messageNumber": 3,
+      "original": "You reach down and take the Orat part in your hand. Some of it oozes to fill the space between your fingers.",
+      "placeholders": [],
+      "matchType": "exact",
+      "matchScore": 1,
+      "suggestedTranslation": "אתה משתחווה אפיים ארצה ונוטל את אברו של אורט בידך. נוזליו המטפטפים גודשים את הרווחים בין אצבעותיך.",
+      "csvMatch": "You reach down and take the Orat part in your hand. Some of it oozes to fill the space between your fingers."
+    },
+    {
+      "logicFile": "24.agilogic",
+      "messageNumber": 4,
+      "original": "You'd want MORE of THAT? You are truly twisted. Seek a physician when you hit town.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "24.agilogic",
+      "messageNumber": 5,
+      "original": "You're going to have to go one-on-one against Orat for something like that?",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "24.agilogic",
+      "messageNumber": 6,
+      "original": "You've just been molecularly re-distributed by the spider droid. Tough luck, %s1.",
+      "placeholders": [
+        "%s"
+      ],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "24.agilogic",
+      "messageNumber": 7,
+      "original": "You are in the slimiest of caves. The odor in here is less than desirable.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "24.agilogic",
+      "messageNumber": 8,
+      "original": "The walls are solid rock.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "24.agilogic",
+      "messageNumber": 9,
+      "original": "The walls are solid rock. You notice a fine spray of glistening, metallic jelly.",
+      "placeholders": [],
+      "matchType": "partial",
+      "matchScore": 0.6923076923076923,
+      "suggestedTranslation": "אתה מבחין ברסס עדין של ג'לי מתכתי מנצנץ המקשט את הקירות.",
+      "csvMatch": "You notice a fine spray of glistening, metallic jelly decorating the walls."
+    },
+    {
+      "logicFile": "24.agilogic",
+      "messageNumber": 10,
+      "original": "It looks like the rest of the ground around here. The green spots indicate that there is a little moisture.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "24.agilogic",
+      "messageNumber": 11,
+      "original": "On the ground rests a gleaming chunk of Orat's anatomy.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "24.agilogic",
+      "messageNumber": 12,
+      "original": "It is very large and very hard.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "24.agilogic",
+      "messageNumber": 13,
+      "original": "Orat is huge and ugly. Of course, your opinion may differ depending on what part of the universe you come from. It should also be mentioned that he is quite mean.",
+      "placeholders": [],
+      "matchType": "fuzzy",
+      "matchScore": 0.8076923076923077,
+      "suggestedTranslation": "אורט הוא ענק ומכוער. כמובן, דעתך יכולה להשתנות כתלות באזור של היקום ממנו באת. אתה גם מקבל את הרושם שהוא יכול להיות די מרושע.",
+      "csvMatch": "Orat is huge and ugly. Of course, your opinion may differ depending on what part of the universe you come from. You also get the impression that he might be quite mean."
+    },
+    {
+      "logicFile": "24.agilogic",
+      "messageNumber": 14,
+      "original": "You shiver at the sight of the spider droid with its spindly legs and cold metallic body. Its red scanner probing the terrain for anything that moves. Truly an icon of terror.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "24.agilogic",
+      "messageNumber": 15,
+      "original": "You are unable to do that.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "24.agilogic",
+      "messageNumber": 16,
+      "original": "You have trouble moving your own carcass around. You sure can't move something that weighs several times more than you.",
+      "placeholders": [],
+      "matchType": "fuzzy",
+      "matchScore": 0.75,
+      "suggestedTranslation": "אתה בקושי מזיז את גווייתך שלך. ברור שאין לך אפשרות לטלטל משהו שכבד ממך פי כמה וכמה. וחוץ מזה, השארת את התומכה שלך על הארקדה.",
+      "csvMatch": "You have trouble moving your own carcass around. You sure can't move something that weighs several times more than you. Besides, you left your truss back on the Arcada."
+    },
+    {
+      "logicFile": "24.agilogic",
+      "messageNumber": 17,
+      "original": "There is no need for you to do that.",
+      "placeholders": [],
+      "matchType": "fuzzy",
+      "matchScore": 0.8,
+      "suggestedTranslation": "אין צורך לעשות זאת.",
+      "csvMatch": "There's no need for that."
+    },
+    {
+      "logicFile": "24.agilogic",
+      "messageNumber": 18,
+      "original": "Orat has transformed you into a new source of recreation.  You, of course, don't survive this treatment. It's tough to make friends around here.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "24.agilogic",
+      "messageNumber": 19,
+      "original": "Orat, always in the mood for a snack, snatches the can out of the air with his spacious oral cavity, chews and swallows it. He notices a rumbling deep within his abdomen.",
+      "placeholders": [],
+      "matchType": "exact",
+      "matchScore": 1,
+      "suggestedTranslation": "אורט, תמיד במצב רוח לנשנושים, חוטף את הפחית מחלל האוויר בפיו הפעור לרווחה, לועס ובולע אותה. הוא שומע רעם עמוק בתוך בטנו.",
+      "csvMatch": "Orat, always in the mood for a snack, snatches the can out of the air with his spacious oral cavity, chews and swallows it. He notices a rumbling deep within his abdomen."
+    },
+    {
+      "logicFile": "24.agilogic",
+      "messageNumber": 20,
+      "original": "Orat's eyes prove to be bigger than his stomach for once. Incapable of becoming history's first living reservoir, his body succumbs to the intense internal pressure created by nearly ten gallons of instantly reconstituted water. As a special bonus, you have received a much needed shower!",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "24.agilogic",
+      "messageNumber": 21,
+      "original": "No time for that!",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "24.agilogic",
+      "messageNumber": 22,
+      "original": "That would be ineffective now.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "24.agilogic",
+      "messageNumber": 23,
+      "original": "Get closer.",
+      "placeholders": [],
+      "matchType": "exact",
+      "matchScore": 1,
+      "suggestedTranslation": "התקרב.",
+      "csvMatch": "Get closer."
+    },
+    {
+      "logicFile": "24.agilogic",
+      "messageNumber": 24,
+      "original": "It's a darn shame you're not around to enjoy it. You'll have to be more careful about who you hang around with in the future, %s1.",
+      "placeholders": [
+        "%s"
+      ],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "24.agilogic",
+      "messageNumber": 25,
+      "original": "It's too far away.",
+      "placeholders": [],
+      "matchType": "partial",
+      "matchScore": 0.6,
+      "suggestedTranslation": "הם רחוקים מדי בשביל לטעום אותם.",
+      "csvMatch": "They're too far away to taste."
+    },
+    {
+      "logicFile": "24.agilogic",
+      "messageNumber": 26,
+      "original": "You don't seem to have that.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "24.agilogic",
+      "messageNumber": 27,
+      "original": "Orat is a guy of few words and none of them are for you.",
+      "placeholders": [],
+      "matchType": "partial",
+      "matchScore": 0.6363636363636364,
+      "suggestedTranslation": "הבחור מקמץ במילים, וגם הם לא נועדו לאוזניך.",
+      "csvMatch": "This is a guy of few words, none of them for you."
+    },
+    {
+      "logicFile": "24.agilogic",
+      "messageNumber": 28,
+      "original": "How do you intend to do that.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "24.agilogic",
+      "messageNumber": 29,
+      "original": "This knife wouldn't cut hot margarine. Were you hoping he might die from an infected bruise?",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    }
+  ]
+}

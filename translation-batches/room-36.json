@@ -1,0 +1,509 @@
+{
+  "room": "36",
+  "totalMessages": 25,
+  "matchStats": {
+    "exact": 4,
+    "normalized": 0,
+    "fuzzy": 9,
+    "partial": 1,
+    "unmatched": 11
+  },
+  "csvContext": [
+    {
+      "original": "This section is an Arcade sequence. Would you like to Play or Skip this sequence.",
+      "translated": "קטע זה הינו משחק ארקייד. רוצה לשחק או לדלג?"
+    },
+    {
+      "original": "Maybe you could try playing the arcade sequence next time.",
+      "translated": "אתה יכול לנסות לשחק בו בפעם הבאה."
+    },
+    {
+      "original": "Congratulations, you made it through without a scratch.",
+      "translated": "כל הכבוד, צלחת אותו ללא פגע."
+    },
+    {
+      "original": "That was pretty intense.",
+      "translated": "זה היה מלחיץ."
+    },
+    {
+      "original": "Late Warning: The big rock cuts you no slack.",
+      "translated": "אזהרה מאוחרת: הסלע חותך בך ללא רחם."
+    },
+    {
+      "original": "Had you eaten a few less doughnuts during the mission, you might have cleared that rock.",
+      "translated": "אילו היית זולל פחות סופגניות במהלך המסע, היית מצליח לפנות את הסלע."
+    },
+    {
+      "original": "Play",
+      "translated": "שחק_"
+    },
+    {
+      "original": "Skip",
+      "translated": "דלג_"
+    },
+    {
+      "original": "gauge",
+      "translated": "מונה"
+    },
+    {
+      "original": "This gauge tells the amount of damage done to the skimmer.",
+      "translated": "המונה סוכם את הנזק שספגה הרחפת."
+    },
+    {
+      "original": "You talk to yourself and, as usual, learn nothing that you didn't already know.",
+      "translated": "אתה מדבר אל עצמך, וכרגיל, לא לומד משהו שלא ידעת כבר."
+    },
+    {
+      "original": "Hey! One shouldn't attempt to manipulate one's self in a family game.",
+      "translated": "היי! אתה לא אמור להתעסק עם עצמך במשחק לכל המשפחה."
+    },
+    {
+      "original": "Better not. You're likely to get a fur ball.",
+      "translated": "מוטב שלא. אתה צפוי לבלוע כדור פרווה."
+    },
+    {
+      "original": "The odor you're producing causes you to regret skipping last month's shower.",
+      "translated": "הניחוח שאתה מפיק גורם לך להתחרט על שדילגת על המקלחת החודשית."
+    },
+    {
+      "original": "You're too busy right now.",
+      "translated": "אתה עסוק מדי עכשיו."
+    },
+    {
+      "original": "Better save it for when you're thirsty.",
+      "translated": "עדיף לשמור את זה לרגעים שתהיה צמא."
+    },
+    {
+      "original": "You don't want to do that here.",
+      "translated": "אתה לא רוצה לעשות את זה כאן."
+    },
+    {
+      "original": "You wisely strap on the jetpack to allow your self motion control.",
+      "translated": "אתה חוגר בתבונתך את תרמיל הריחוף כדי לאפשר לך בקרת תנועה עצמית."
+    },
+    {
+      "original": "The jetpack is useful only in Zero-G situations.",
+      "translated": "תרמיל הריחוף יעיל רק במצבי אפס כבידה."
+    },
+    {
+      "original": "Don't bother. This knife wouldn't cut hot lard.",
+      "translated": "אל תטרח. הסכין לא חותכת שומן רותח."
+    },
+    {
+      "original": "Isn't this just the most amazing waste of time?",
+      "translated": "האין זה בזבוז הזמן המדהים ביותר בעולם?"
+    },
+    {
+      "original": "You have to wonder why you're performing such a useless action.",
+      "translated": "עליך לשאול את עצמך מדוע הינך מבצע פעולות כל כך חסרות תועלת."
+    },
+    {
+      "original": "You wisely decide this is a serious waste of time and energy.",
+      "translated": "אתה מחליט בחוכמה שמדובר בבזבוז משווע של זמן ואנרגיה."
+    },
+    {
+      "original": "You ask yourself why you're doing this and are forced to reply that you just don't know.",
+      "translated": "אתה שואל את עצמך למה אתה עושה זה ועצמך עונה לך שאין לו מושג."
+    },
+    {
+      "original": "Even for you, this isn't bright.",
+      "translated": "אפילו במונחים שלך, זה לא רעיון מבריק."
+    },
+    {
+      "original": "Thank you for playing Space Quest I. You've been most entertaining.",
+      "translated": "תודה ששיחקתם מסע בחלל 1. בידרתם אותנו כמו שצריך."
+    },
+    {
+      "original": "Are you sure you want to restart?",
+      "translated": "בטוח שרוצים להתחיל מחדש?"
+    },
+    {
+      "original": "Memory fragmented.",
+      "translated": "קטעי זכרונות."
+    },
+    {
+      "original": "What did you expect them to do, reproduce?",
+      "translated": "מה ציפית מהם לעשות, להתרבות?"
+    },
+    {
+      "original": "You're far too busy for that now.",
+      "translated": "אתה עסוק מדי בשביל זה עכשיו."
+    },
+    {
+      "original": "You switch the gadget off to conserve its energy.",
+      "translated": "אתה מכבה את הגאדג'ט כדי לחסוך באנרגיה."
+    },
+    {
+      "original": "You switch the gadget on.",
+      "translated": "אתה מפעיל את הגאדג'ט."
+    },
+    {
+      "original": "You're far to busy for that now.",
+      "translated": "אתה עסוק מדי בשביל זה עכשיו."
+    },
+    {
+      "original": "You scrape that sticky goo from the bottom of the rock.",
+      "translated": "אתה מגרד את העיסה הדביקה מתחתית הסלע."
+    },
+    {
+      "original": "There is nothing you can do to the rock.",
+      "translated": "אין לך מה לעשות לסלע."
+    },
+    {
+      "original": "You've already opened the survival kit and removed its contents.",
+      "translated": "כבר פתחת את ערכת ההישרדות ורוקנת את תכולתה."
+    },
+    {
+      "original": "Upon opening the survival kit you discover a Xenon army knife and a canister of dehydrated water.",
+      "translated": "אתה פותח את ערכת ההישרדות ומוצא בתוכה סכין צבאי זנוני ומיכל מים מיובשים."
+    },
+    {
+      "original": "You have %d Buckazoid%s",
+      "translated": "יש לך %d זוזואידים"
+    },
+    {
+      "original": "Thank you for playing Space Quest I. Too bad you've failed miserably and doomed all of your people to a horrible death at the hands of the Sariens. You quickly glance about the room to see if anyone saw your silly mistake. Better luck next time.",
+      "translated": "תודה ששיחקת מסע בחלל 1. עצוב מאד שנחלת כישלון מחפיר וגזרת על אנשיך מוות מחריד בידי הסריינים. אתה מעיף מבט חטוף מסביב לחדר ובודק אם מישהו הבחין בטעות המגוחכת שלך. בהצלחה בפעם הבאה."
+    },
+    {
+      "original": "Score: %d of %d",
+      "translated": "ניקוד: %d מתוך %d"
+    },
+    {
+      "original": "Roger Wilco",
+      "translated": "רוג'ר ווילקו"
+    },
+    {
+      "original": "It's you, Roger Wilco, janitor sub-extraordinaire.",
+      "translated": "זה אתה, רוג'ר ווילקו, מנקה תת-מעולה."
+    },
+    {
+      "original": "This is your brain take-out container.",
+      "translated": "זה מיכל הוצאת המוח שלך."
+    },
+    {
+      "original": "Let me out of here!\\n(Quit)",
+      "translated": "תוציאו אותי מכאן!\\n(צא)"
+    },
+    {
+      "original": "I don't know WHAT\\nI was thinking.\\nLet's Play!",
+      "translated": "אני לא יודע *מה*\\nאני חשבתי.\\nבואו נשחק!"
+    },
+    {
+      "original": "Of course I'm sure!",
+      "translated": "ברור שאני בטוח!"
+    },
+    {
+      "original": "Changed My Mind.\\nLet's Play!",
+      "translated": "שיניתי את דעתי.\\nבואו נשחק!"
+    },
+    {
+      "original": "Who cares",
+      "translated": "למי אכפת"
+    },
+    {
+      "original": "Debug",
+      "translated": "דיבאג"
+    },
+    {
+      "original": "Select this Icon to close this window.",
+      "translated": "בחר בסמליל הזה כדי לסגור את החלון."
+    },
+    {
+      "original": "Select this Icon then select an inventory item you'd like a description of.",
+      "translated": "בחר בסמליל הזה ואז בחר פריט מהמלאי שאתה רוצה תיאור שלו."
+    },
+    {
+      "original": "This allows you to do something to an item.",
+      "translated": "זה מאפשר לך לעשות משהו לפריט."
+    },
+    {
+      "original": "This allows you to select an item.",
+      "translated": "זה מאפשר לך לבחור פריט."
+    },
+    {
+      "original": "It's a cartridge from the Arcada's Data Archive.",
+      "translated": "זו מחסנית מארכיב המידע של הארקדה."
+    },
+    {
+      "original": "This keycard fits an electronic lock someplace on the Arcada.",
+      "translated": "הכרטיס הזה מתאים למנעול אלקטרוני איפשהו בארקדה."
+    },
+    {
+      "original": "This is some sort of gadget. You're not sure what it does exactly, but it has a switch.",
+      "translated": "זה סוג של אביזר. אתה לא בטוח מה בדיוק זה עושה, אבל יש לזה מתג."
+    },
+    {
+      "original": "It's the cone shaped tip of a stalagmite.",
+      "translated": "זה הקצה החרוטי של זקיף."
+    },
+    {
+      "original": "A Survival Kit",
+      "translated": "ערכת הישרדות"
+    },
+    {
+      "original": "It's a Xenon Army knife",
+      "translated": "זה אולר צבא קסנוני"
+    },
+    {
+      "original": "The can label says Pelvitron Dehydrated Water (H2) - All you add is air! Makes 10 gallons! Caution - Do not attempt to open or rupture container! Misuse could result in personal injury and/or flash flooding.",
+      "translated": "על התווית של הפחית כתוב פלוויטרון מים מיובשים - נשאר רק להוסיף אוויר! טוב ל-40 ליטר! זהירות - אל תנסה לפתוח או לקרוע את המיכל! שימוש לקוי עלול להסתיים בפציעה ו/או הצפה פתאומית."
+    }
+  ],
+  "messages": [
+    {
+      "logicFile": "36.agilogic",
+      "messageNumber": 4,
+      "original": "\\\"%v124 buckazoids? I guess it's better than nothing. Here, keep five for yourself. I gotta admit you look like you need it. Well, gotta run. Later, pal.\\\"",
+      "placeholders": [
+        "%v"
+      ],
+      "matchType": "fuzzy",
+      "matchScore": 0.8,
+      "suggestedTranslation": "%d זוזואידים? אני משער שזה עדיף מכלום. הנה, תשאיר לעצמך חמש. אני חייב להודות שאתה נראה אחד שזקוק לכל שקל.",
+      "csvMatch": "%d buckazoids? I guess it's better than nothing. Here, keep five for yourself. I gotta admit you look like you need it."
+    },
+    {
+      "logicFile": "36.agilogic",
+      "messageNumber": 8,
+      "original": "Your newly acquired droid seems to have self-destructed. Hope it's under warranty.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "36.agilogic",
+      "messageNumber": 9,
+      "original": "This is the back of the bar at the southeast end of Ulence Flats.",
+      "placeholders": [],
+      "matchType": "fuzzy",
+      "matchScore": 0.7777777777777778,
+      "suggestedTranslation": "זה החלק האחורי של המסבאה בפינה הדרום-מזרחית של מישורי אולנס.",
+      "csvMatch": "This is the back of the bar at the southeast corner of Ulence Flats."
+    },
+    {
+      "logicFile": "36.agilogic",
+      "messageNumber": 10,
+      "original": "There is some writing on it.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "36.agilogic",
+      "messageNumber": 11,
+      "original": "It appears to be in Sarien. You're a little rusty in your Sarien but it appears to say \\\"Xenon Bites!\\\"",
+      "placeholders": [],
+      "matchType": "partial",
+      "matchScore": 0.6923076923076923,
+      "suggestedTranslation": "נראה שזה כתוב בסאריינזית. הסאריינזית שלך קצת חלודה, אבל אתה מחליט שבוודאות כתוב קסנון דפוקה!",
+      "csvMatch": "It appears to be in Sarienese. Your Sarienese is a little rusty, but you decide it must say Xenon Bites!"
+    },
+    {
+      "logicFile": "36.agilogic",
+      "messageNumber": 12,
+      "original": "You're not close enough to see that clearly.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "36.agilogic",
+      "messageNumber": 13,
+      "original": "There is a strange pile of very fine white powder here. It's origin puzzles you. It has a strange burnt smell to it.",
+      "placeholders": [],
+      "matchType": "fuzzy",
+      "matchScore": 0.7857142857142857,
+      "suggestedTranslation": "יש כאן ערימה מוזרה של אבקה לבנה ודקה. יש לה ריח שרוף ומשונה.",
+      "csvMatch": "There is a strange pile of very fine white powder here. It has a strange, burnt smell to it."
+    },
+    {
+      "logicFile": "36.agilogic",
+      "messageNumber": 14,
+      "original": "You can't do that here.",
+      "placeholders": [],
+      "matchType": "fuzzy",
+      "matchScore": 0.8,
+      "suggestedTranslation": "אתה לא יכול לעשות את זה מכאן.",
+      "csvMatch": "You can't do that from in here."
+    },
+    {
+      "logicFile": "36.agilogic",
+      "messageNumber": 15,
+      "original": "You can't do that from here.",
+      "placeholders": [],
+      "matchType": "exact",
+      "matchScore": 1,
+      "suggestedTranslation": "אתה לא יכול לעשות את זה מכאן.",
+      "csvMatch": "You can't do that from here."
+    },
+    {
+      "logicFile": "36.agilogic",
+      "messageNumber": 16,
+      "original": "I'm beginning to understand you a little better now. You snort some of the powder and feel a pain like that of a thousand krebble mites feasting on your nasal membranes.",
+      "placeholders": [],
+      "matchType": "fuzzy",
+      "matchScore": 0.8461538461538461,
+      "suggestedTranslation": "אני מתחיל להבין אותך מעט יותר טוב. אתה מסניף מהאבקה וחש בכאב מפלח של אלפי קרדיות קרבל סועדים את לבם ברקמת האף שלך. אתה לא תרצה לשוב על הטעות הזאת.",
+      "csvMatch": "I'm beginning to understand you a little better now. You snort some of the powder and feel a pain like that of a thousand krebble mites feasting on your nasal membranes. You won't want to be doing that again."
+    },
+    {
+      "logicFile": "36.agilogic",
+      "messageNumber": 17,
+      "original": "The extremely fine dust seeps between your fingers. There is no need for it anyway. Especially considering its origin.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "36.agilogic",
+      "messageNumber": 19,
+      "original": "You'd better not move if you want to remain alive.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "36.agilogic",
+      "messageNumber": 20,
+      "original": "The droid, while looking small is quite heavy and not moveable by you.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "36.agilogic",
+      "messageNumber": 21,
+      "original": "You have no way or reason to kill this being.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "36.agilogic",
+      "messageNumber": 22,
+      "original": "This being is about the size of a humanoid but has some odd features. He seems to have a friendly-looking mug.",
+      "placeholders": [],
+      "matchType": "exact",
+      "matchScore": 1,
+      "suggestedTranslation": "גודלו של היצור כמידת בן אנוש ממוצע אך הוא נבדל ממנו בכמה מאפיינים. יש לו פרצוף ידידותי וחביב.",
+      "csvMatch": "This being is about the size of a humanoid but has some odd features. He seems to have a friendly-looking mug."
+    },
+    {
+      "logicFile": "36.agilogic",
+      "messageNumber": 23,
+      "original": "He just wants your buckazoids but will take your life if he has to.",
+      "placeholders": [],
+      "matchType": "exact",
+      "matchScore": 1,
+      "suggestedTranslation": "הוא מתעניין רק בכספך, אך יטול את חייך אם לא תשאיר לו ברירה.",
+      "csvMatch": "He just wants your buckazoids but will take your life if he has to."
+    },
+    {
+      "logicFile": "36.agilogic",
+      "messageNumber": 24,
+      "original": "He wants you to follow him.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "36.agilogic",
+      "messageNumber": 25,
+      "original": "You now have a throbbing appendage.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "36.agilogic",
+      "messageNumber": 30,
+      "original": "You are standing against the protective barrier encircling Ulence Flats. Due to the fact that you are land-based, you are not able to pass.",
+      "placeholders": [],
+      "matchType": "fuzzy",
+      "matchScore": 0.8947368421052632,
+      "suggestedTranslation": "אתה עומד על יד מחסום המגן המקיף את מישורי יולנס. לאור העובדה שאתה יונק יבשתי, אין באפשרותך לדלג מעליו.",
+      "csvMatch": "You are standing next to the protective barrier encircling Ulence Flats. Due to the fact that you are land-based, you are not able to pass."
+    },
+    {
+      "logicFile": "36.agilogic",
+      "messageNumber": 31,
+      "original": "\\\"Hold it right there, pal! This is a stick-up! I'll just relieve you of your cash, thank you very much.\\\"",
+      "placeholders": [],
+      "matchType": "fuzzy",
+      "matchScore": 1,
+      "suggestedTranslation": "עצור במקומך, חבר! זה שוד! אני אקל עליך מעומס הכסף שלך, תודה רבה.",
+      "csvMatch": "Hold it right there, pal! This is a stick-up! I'll just relieve you of your cash, thank you very much."
+    },
+    {
+      "logicFile": "36.agilogic",
+      "messageNumber": 32,
+      "original": "\\\"%v124 buckazoids? I guess it's better than nothing. Here, keep five for yourself. I gotta admit you look like you need it.\\\"",
+      "placeholders": [
+        "%v"
+      ],
+      "matchType": "fuzzy",
+      "matchScore": 1,
+      "suggestedTranslation": "%d זוזואידים? אני משער שזה עדיף מכלום. הנה, תשאיר לעצמך חמש. אני חייב להודות שאתה נראה אחד שזקוק לכל שקל.",
+      "csvMatch": "%d buckazoids? I guess it's better than nothing. Here, keep five for yourself. I gotta admit you look like you need it."
+    },
+    {
+      "logicFile": "36.agilogic",
+      "messageNumber": 33,
+      "original": "\\\"Well, you've got to be leaving now. Go straight back the way you came in. Deviate from that path and you're Grell kibble!\\\"",
+      "placeholders": [],
+      "matchType": "fuzzy",
+      "matchScore": 1,
+      "suggestedTranslation": "טוב, אתה צריך לעזוב עכשיו. תחזור בדיוק בדרך שבאת ממנה. תסטה מהדרך הזאת ותהיה מאכל לגרל!",
+      "csvMatch": "Well, you've got to be leaving now. Go straight back the way you came in. Deviate from that path and you're Grell kibble!"
+    },
+    {
+      "logicFile": "36.agilogic",
+      "messageNumber": 34,
+      "original": "\\\"I warned you, but, did you listen?\\\"",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "36.agilogic",
+      "messageNumber": 35,
+      "original": "The mugger impresses upon you that he was quite serious.",
+      "placeholders": [],
+      "matchType": "exact",
+      "matchScore": 1,
+      "suggestedTranslation": "השודד עושה רושם של בחור שלא משחק משחקים.",
+      "csvMatch": "The mugger impresses upon you that he was quite serious."
+    },
+    {
+      "logicFile": "36.agilogic",
+      "messageNumber": 36,
+      "original": "The droid is beyond repair. Now you know why it was on sale.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    }
+  ]
+}

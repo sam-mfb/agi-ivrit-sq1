@@ -1,0 +1,563 @@
+{
+  "room": "8",
+  "totalMessages": 28,
+  "matchStats": {
+    "exact": 2,
+    "normalized": 0,
+    "fuzzy": 0,
+    "partial": 3,
+    "unmatched": 23
+  },
+  "csvContext": [
+    {
+      "original": "This is a section of one of the lower levels of Arcada.",
+      "translated": "זהו אגף של אחד מקומות הארקדה התחתונות."
+    },
+    {
+      "original": "elevator light",
+      "translated": "תאורת מעלית"
+    },
+    {
+      "original": "This elevator must go up.",
+      "translated": "המעלית חייבת לעלות."
+    },
+    {
+      "original": "elevator",
+      "translated": "מעלית"
+    },
+    {
+      "original": "This is one way to change your altitude.",
+      "translated": "זו דרך אחת לשנות את הגובה שלך."
+    },
+    {
+      "original": "This monitor gives a readout about the ship's status. Only the lab scientist really knows... er... knew exactly what it monitored.",
+      "translated": "המוניטור מציג נתונים על מצב החללית. רק מדעני מעבדה מבינים... אה... הבינו מה הוא בדיוק מנטר."
+    },
+    {
+      "original": "lights",
+      "translated": "מנורות"
+    },
+    {
+      "original": "A pair of viewing ports protrude from the materials testing device.",
+      "translated": "זוג פתחי צפייה מזדקרים מהתקן בדיקת החומרים."
+    },
+    {
+      "original": "Pipes whose purpose is known only to the architect wrap around the upper back of the room.",
+      "translated": "צינורות שמטרתם היחידה היא ללפף אדריכלית את החלק האחורי העליון של החדר."
+    },
+    {
+      "original": "A designer conduit system runs through here. It carries the ventilation ducting as well as different type of wiring.",
+      "translated": "מערכת הולכה מעוצבת עוברת כאן. היא נושאת תעלות אוורור כמו גם סוגים שונים של כבלים."
+    },
+    {
+      "original": "thing in foreground",
+      "translated": "משהו בחזית"
+    },
+    {
+      "original": "It appears to be some sort of wiring harness. You never cared much for electrical hardware.",
+      "translated": "זה נראה כמו רתמת חיווט. מעולם לא גילית עניין מיוחד בציוד אלקטרוני."
+    },
+    {
+      "original": "round thing",
+      "translated": "חפץ עגול"
+    },
+    {
+      "original": "Who knows what this is.",
+      "translated": "מי יודע מה זה."
+    },
+    {
+      "original": "mouse thing",
+      "translated": "חפץ עכברי"
+    },
+    {
+      "original": "This interesting device was used to test materials early in the project.",
+      "translated": "המכשיר המעניין הזה שימש לבדיקת חומרים בשלבים הראשונים של המיזם."
+    },
+    {
+      "original": "You talk to yourself and, as usual, learn nothing that you didn't already know.",
+      "translated": "אתה מדבר אל עצמך, וכרגיל, לא לומד משהו שלא ידעת כבר."
+    },
+    {
+      "original": "Hey! One shouldn't attempt to manipulate one's self in a family game.",
+      "translated": "היי! אתה לא אמור להתעסק עם עצמך במשחק לכל המשפחה."
+    },
+    {
+      "original": "Better not. You're likely to get a fur ball.",
+      "translated": "מוטב שלא. אתה צפוי לבלוע כדור פרווה."
+    },
+    {
+      "original": "The odor you're producing causes you to regret skipping last month's shower.",
+      "translated": "הניחוח שאתה מפיק גורם לך להתחרט על שדילגת על המקלחת החודשית."
+    },
+    {
+      "original": "You're too busy right now.",
+      "translated": "אתה עסוק מדי עכשיו."
+    },
+    {
+      "original": "Better save it for when you're thirsty.",
+      "translated": "עדיף לשמור את זה לרגעים שתהיה צמא."
+    },
+    {
+      "original": "You don't want to do that here.",
+      "translated": "אתה לא רוצה לעשות את זה כאן."
+    },
+    {
+      "original": "You wisely strap on the jetpack to allow your self motion control.",
+      "translated": "אתה חוגר בתבונתך את תרמיל הריחוף כדי לאפשר לך בקרת תנועה עצמית."
+    },
+    {
+      "original": "The jetpack is useful only in Zero-G situations.",
+      "translated": "תרמיל הריחוף יעיל רק במצבי אפס כבידה."
+    },
+    {
+      "original": "Don't bother. This knife wouldn't cut hot lard.",
+      "translated": "אל תטרח. הסכין לא חותכת שומן רותח."
+    },
+    {
+      "original": "Isn't this just the most amazing waste of time?",
+      "translated": "האין זה בזבוז הזמן המדהים ביותר בעולם?"
+    },
+    {
+      "original": "You have to wonder why you're performing such a useless action.",
+      "translated": "עליך לשאול את עצמך מדוע הינך מבצע פעולות כל כך חסרות תועלת."
+    },
+    {
+      "original": "You wisely decide this is a serious waste of time and energy.",
+      "translated": "אתה מחליט בחוכמה שמדובר בבזבוז משווע של זמן ואנרגיה."
+    },
+    {
+      "original": "You ask yourself why you're doing this and are forced to reply that you just don't know.",
+      "translated": "אתה שואל את עצמך למה אתה עושה זה ועצמך עונה לך שאין לו מושג."
+    },
+    {
+      "original": "Even for you, this isn't bright.",
+      "translated": "אפילו במונחים שלך, זה לא רעיון מבריק."
+    },
+    {
+      "original": "Thank you for playing Space Quest I. You've been most entertaining.",
+      "translated": "תודה ששיחקתם מסע בחלל 1. בידרתם אותנו כמו שצריך."
+    },
+    {
+      "original": "Are you sure you want to restart?",
+      "translated": "בטוח שרוצים להתחיל מחדש?"
+    },
+    {
+      "original": "Memory fragmented.",
+      "translated": "קטעי זכרונות."
+    },
+    {
+      "original": "What did you expect them to do, reproduce?",
+      "translated": "מה ציפית מהם לעשות, להתרבות?"
+    },
+    {
+      "original": "You're far too busy for that now.",
+      "translated": "אתה עסוק מדי בשביל זה עכשיו."
+    },
+    {
+      "original": "You switch the gadget off to conserve its energy.",
+      "translated": "אתה מכבה את הגאדג'ט כדי לחסוך באנרגיה."
+    },
+    {
+      "original": "You switch the gadget on.",
+      "translated": "אתה מפעיל את הגאדג'ט."
+    },
+    {
+      "original": "You're far to busy for that now.",
+      "translated": "אתה עסוק מדי בשביל זה עכשיו."
+    },
+    {
+      "original": "You scrape that sticky goo from the bottom of the rock.",
+      "translated": "אתה מגרד את העיסה הדביקה מתחתית הסלע."
+    },
+    {
+      "original": "There is nothing you can do to the rock.",
+      "translated": "אין לך מה לעשות לסלע."
+    },
+    {
+      "original": "You've already opened the survival kit and removed its contents.",
+      "translated": "כבר פתחת את ערכת ההישרדות ורוקנת את תכולתה."
+    },
+    {
+      "original": "Upon opening the survival kit you discover a Xenon army knife and a canister of dehydrated water.",
+      "translated": "אתה פותח את ערכת ההישרדות ומוצא בתוכה סכין צבאי זנוני ומיכל מים מיובשים."
+    },
+    {
+      "original": "You have %d Buckazoid%s",
+      "translated": "יש לך %d זוזואידים"
+    },
+    {
+      "original": "Thank you for playing Space Quest I. Too bad you've failed miserably and doomed all of your people to a horrible death at the hands of the Sariens. You quickly glance about the room to see if anyone saw your silly mistake. Better luck next time.",
+      "translated": "תודה ששיחקת מסע בחלל 1. עצוב מאד שנחלת כישלון מחפיר וגזרת על אנשיך מוות מחריד בידי הסריינים. אתה מעיף מבט חטוף מסביב לחדר ובודק אם מישהו הבחין בטעות המגוחכת שלך. בהצלחה בפעם הבאה."
+    },
+    {
+      "original": "Score: %d of %d",
+      "translated": "ניקוד: %d מתוך %d"
+    },
+    {
+      "original": "Roger Wilco",
+      "translated": "רוג'ר ווילקו"
+    },
+    {
+      "original": "It's you, Roger Wilco, janitor sub-extraordinaire.",
+      "translated": "זה אתה, רוג'ר ווילקו, מנקה תת-מעולה."
+    },
+    {
+      "original": "This is your brain take-out container.",
+      "translated": "זה מיכל הוצאת המוח שלך."
+    },
+    {
+      "original": "Let me out of here!\\n(Quit)",
+      "translated": "תוציאו אותי מכאן!\\n(צא)"
+    },
+    {
+      "original": "I don't know WHAT\\nI was thinking.\\nLet's Play!",
+      "translated": "אני לא יודע *מה*\\nאני חשבתי.\\nבואו נשחק!"
+    },
+    {
+      "original": "Of course I'm sure!",
+      "translated": "ברור שאני בטוח!"
+    },
+    {
+      "original": "Changed My Mind.\\nLet's Play!",
+      "translated": "שיניתי את דעתי.\\nבואו נשחק!"
+    },
+    {
+      "original": "Who cares",
+      "translated": "למי אכפת"
+    },
+    {
+      "original": "Debug",
+      "translated": "דיבאג"
+    },
+    {
+      "original": "Select this Icon to close this window.",
+      "translated": "בחר בסמליל הזה כדי לסגור את החלון."
+    },
+    {
+      "original": "Select this Icon then select an inventory item you'd like a description of.",
+      "translated": "בחר בסמליל הזה ואז בחר פריט מהמלאי שאתה רוצה תיאור שלו."
+    },
+    {
+      "original": "This allows you to do something to an item.",
+      "translated": "זה מאפשר לך לעשות משהו לפריט."
+    },
+    {
+      "original": "This allows you to select an item.",
+      "translated": "זה מאפשר לך לבחור פריט."
+    },
+    {
+      "original": "It's a cartridge from the Arcada's Data Archive.",
+      "translated": "זו מחסנית מארכיב המידע של הארקדה."
+    },
+    {
+      "original": "This keycard fits an electronic lock someplace on the Arcada.",
+      "translated": "הכרטיס הזה מתאים למנעול אלקטרוני איפשהו בארקדה."
+    },
+    {
+      "original": "This is some sort of gadget. You're not sure what it does exactly, but it has a switch.",
+      "translated": "זה סוג של אביזר. אתה לא בטוח מה בדיוק זה עושה, אבל יש לזה מתג."
+    },
+    {
+      "original": "It's the cone shaped tip of a stalagmite.",
+      "translated": "זה הקצה החרוטי של זקיף."
+    },
+    {
+      "original": "A Survival Kit",
+      "translated": "ערכת הישרדות"
+    },
+    {
+      "original": "It's a Xenon Army knife",
+      "translated": "זה אולר צבא קסנוני"
+    },
+    {
+      "original": "The can label says Pelvitron Dehydrated Water (H2) - All you add is air! Makes 10 gallons! Caution - Do not attempt to open or rupture container! Misuse could result in personal injury and/or flash flooding.",
+      "translated": "על התווית של הפחית כתוב פלוויטרון מים מיובשים - נשאר רק להוסיף אוויר! טוב ל-40 ליטר! זהירות - אל תנסה לפתוח או לקרוע את המיכל! שימוש לקוי עלול להסתיים בפציעה ו/או הצפה פתאומית."
+    }
+  ],
+  "messages": [
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 1,
+      "original": "This is the cavernous Vehicle Bay.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 2,
+      "original": "This is one of the Arcada's escape pods. You vaguely remember receiving some orientation on these when you joined the crew.",
+      "placeholders": [],
+      "matchType": "partial",
+      "matchScore": 0.5333333333333333,
+      "suggestedTranslation": "זוהי אחת מחלליות המילוט של הארקדה. אתה זוכר במעורפל שקיבלת הדרכה כלשהי לגביהן כשהצטרפת לצוות. למרבה הצער, היית עסוק במחקר על שינה עם עיניים פקוחות, ולכן, לא זוכר הרבה.",
+      "csvMatch": "This is one of the Arcada's escape pods. You vaguely remember receiving some orientation on these when you joined the crew. Unfortunately, you were deep into research on sleeping with your eyes open and, hence, don't remember much."
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 3,
+      "original": "       Oops!      Forgot my suit.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 4,
+      "original": "In the middle of the vehicle bay is a deep cargo shaft.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 5,
+      "original": "Sorry, %s1.  You can't enter the Escape Pod when the Vehicle Bay doors are closed.",
+      "placeholders": [
+        "%s"
+      ],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 6,
+      "original": "Looking at the console you see a button marked \\\"Platform\\\". There are also some gauges which don't interest you.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 7,
+      "original": "The Vehicle Bay Door is quite large.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 8,
+      "original": "The walls prove to be uninteresting.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 9,
+      "original": "The massive bay doors are tightly sealed.",
+      "placeholders": [],
+      "matchType": "exact",
+      "matchScore": 1,
+      "suggestedTranslation": "דלתות המעגן העצומות אטומות ומהודקות.",
+      "csvMatch": "The massive bay doors are tightly sealed."
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 10,
+      "original": "Beyond the yawning doors lies the serenity of deep space.",
+      "placeholders": [],
+      "matchType": "exact",
+      "matchScore": 1,
+      "suggestedTranslation": "מעבר לדלתות העייפות הללו ממתינה השלווה העמוקה של החלל.",
+      "csvMatch": "Beyond the yawning doors lies the serenity of deep space."
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 11,
+      "original": "You see nothing special down there.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 12,
+      "original": "It is dark down in the shaft but you can make out the silhouette of one of the Arcada's escape pods on a platform below.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 13,
+      "original": "You cannot perform that act from here.",
+      "placeholders": [],
+      "matchType": "partial",
+      "matchScore": 0.5,
+      "suggestedTranslation": "אתה לא יכול לעשות את זה מכאן.",
+      "csvMatch": "You can't do that from in here."
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 14,
+      "original": "There is nothing like that in sight.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 15,
+      "original": "No can do, bud.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 16,
+      "original": "For safety reasons the platform will not function with the bay doors closed.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 17,
+      "original": "The bay door is open. The airlock door opens automatically.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 18,
+      "original": "The bay door is not opened from this room. The airlock door opens automatically.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 19,
+      "original": "There sure are a lot of them.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 20,
+      "original": "You see stars to infinity.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 21,
+      "original": "The pod door is already open.",
+      "placeholders": [],
+      "matchType": "partial",
+      "matchScore": 0.5,
+      "suggestedTranslation": "תעלת האוורור כבר פתוחה ועומדת.",
+      "csvMatch": "The vent is already open."
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 22,
+      "original": "The escape pod moves slowly out",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 23,
+      "original": "of the vehicle bay and into space.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 24,
+      "original": "There is now an escape pod here.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 25,
+      "original": "There is no longer an escape pod here.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 26,
+      "original": "You see a button marked \\\"Platform\\\".",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 27,
+      "original": "Congratulations, %s1.  You have found your way off the Arcada and escaped obvious danger.  Unfortunately, you will never be seen or heard from again as you float gracefully through the heavens for eternity.",
+      "placeholders": [
+        "%s"
+      ],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 28,
+      "original": "You peer in through the open door but are unable to make out any detail.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    }
+  ]
+}

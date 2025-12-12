@@ -1,0 +1,58 @@
+{
+  "room": "17",
+  "totalMessages": 4,
+  "matchStats": {
+    "exact": 0,
+    "normalized": 0,
+    "fuzzy": 0,
+    "partial": 0,
+    "unmatched": 4
+  },
+  "csvContext": [],
+  "messages": [
+    {
+      "logicFile": "17.agilogic",
+      "messageNumber": 1,
+      "original": "You are high atop a rocky plateau near two halves of an arch. The desert below seems to stretch to infinity.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "אתה גבוה על רמת סלע ליד שני חצאי קשת. המדבר למטה נראה כאילו הוא נמתח עד אינסוף."
+    },
+    {
+      "logicFile": "17.agilogic",
+      "messageNumber": 2,
+      "original": "You are near the base of a plateau, upon which rests two large rocks. It is a rather bleak environment.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "אתה ליד בסיס של רמה, שעליה מונחים שני סלעים גדולים. זו סביבה עגומה למדי."
+    },
+    {
+      "logicFile": "17.agilogic",
+      "messageNumber": 3,
+      "original": "You see a pair of oddly curved rock formations. They point at each other as if to form an arch.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "אתה רואה זוג תצורות סלע מעוקלות באופן מוזר. הן מצביעות אחת על השנייה כאילו ליצור קשת."
+    },
+    {
+      "logicFile": "17.agilogic",
+      "messageNumber": 4,
+      "original": "Near the base you notice some very small printing. If you're not mistaken the characters translate to \\\"497 Quadgillion Served.\\\"",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "ליד הבסיס אתה מבחין בהדפסה קטנה מאוד. אם אתה לא טועה התווים מתורגמים ל\\\"497 קוודגיליון שורתו.\\\""
+    }
+  ]
+}

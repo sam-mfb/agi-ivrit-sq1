@@ -1,0 +1,593 @@
+{
+  "room": "48",
+  "totalMessages": 5,
+  "matchStats": {
+    "exact": 0,
+    "normalized": 0,
+    "fuzzy": 1,
+    "partial": 0,
+    "unmatched": 4
+  },
+  "csvContext": [
+    {
+      "original": "The salesbug would appreciate it if you'd give him the money. It would make his job soooo much easier.",
+      "translated": "חרק המכירות יעריך אם תתן לו את הכסף. זה יקל עליו מאוד את העבודה."
+    },
+    {
+      "original": "A shodily manufactured jet pack is certainly not worth the price of one of these fine previously-owned droids. My advice, sir, is to come up with the cash or walk.",
+      "translated": "תרמיל הריחוף הסוג ז' שלך בהחלט אינו שווה את מחירם של הרובוטים מיד שניה האיכותיים הללו. עצתי היא לך, אדוני, לבוא עם מזומנים או ללכת."
+    },
+    {
+      "original": "The robot doesn't speak, but you think you can see a bloodthirsty gleam in his metallic eye.",
+      "translated": "הרובוט לא מדבר, אך נדמה לך כי אתה רואה ניצוץ צמא דם בעינו המתכתית."
+    },
+    {
+      "original": "Please observe our robot preview screen. If you have any questions, don't hesitate to ask.",
+      "translated": "אנא שים לב למסכי התצוגה מקדימה על הרובוטים שלנו. אם יש לך שאלות, אנחנו פה בשבילך."
+    },
+    {
+      "original": "Oh, we're back, are we? Well, perhaps we can manage to take home a droid this time, eh?",
+      "translated": "הו, חזרנו, מה? ובכן, אולי הפעם ניקח הביתה איזה רובוט, אה?"
+    },
+    {
+      "original": "However, I can see that we would be more... ah... interested in our line of economy-priced, used robots, wouldn't we?",
+      "translated": "עם זאת, אני שם לב שאנו יותר... אה... בעניין של רובוטים משומשים, במחירים נמוכים, לא כך?"
+    },
+    {
+      "original": "We have a wide variety of work-saving, life- enhancing, shiny-new, factory-fresh, technological wonders of modern engineering wizardry!",
+      "translated": "יש לנו מגוון רחב של פלאי טכנולוגיה חוסכי עבודה, משפרי חיים, נוצצים כחדשים, טריים מהמפעל, ממיטב ההנדסה המודרנית!"
+    },
+    {
+      "original": "Greetings, sir! Allow me to show you our fine line of robots, otherwise known as droids.",
+      "translated": "ברכות, אדוני! הרשה לי להראות לך את קו הרובוטים המשובחים שלנו, הידועים גם בשם דרואידים."
+    },
+    {
+      "original": "Thank you, sir.",
+      "translated": "תודה לך, אדוני."
+    },
+    {
+      "original": "You may pick up your purchase at our convenient Droids-B-Us pickup area, located just out the door and to your right.",
+      "translated": "תוכל לאסוף את רכישתך במתחם האיסוף המפואר שלנו, הממוקם ממש מחוץ לדלת מצד ימין."
+    },
+    {
+      "original": "You could fill out one of our credit applications, although I seriously doubt that you would qualify.",
+      "translated": "תוכל למלא את אחד מטפסי בקשות האשראי שלנו, אם כי אני בספק גדול אם תימצא זכאי."
+    },
+    {
+      "original": "I believe that the FloorMart store on Petulence is having a sale on pencil sharpeners that you might just be able to afford!",
+      "translated": "שמעתי כי בחנות רמי-כהן הקרובה בפטולנס נערכת מכירת חיסול של מחדדי עפרונות שאולי יתאימו לתקציב שלך!"
+    },
+    {
+      "original": "Why can't I ever get a customer with more money than brains? Well... in your case, you might just qualify at that.",
+      "translated": "למה אף פעם אין לי לקוחות עם יותר כסף משכל? טוב... במקרה שלך, אתה יכול באמת להיחשב ככזה."
+    },
+    {
+      "original": "Look, why don't you go break your piggy bank open and come back with a little more cash? Now, if you'll excuse me, you really must be going.",
+      "translated": "תראה, למה שלא תשבור את קופת החיסכון שלך ותחזור עם קצת יותר כסף? עכשיו, אם תסלח לי, כדאי שתצא לדרכך."
+    },
+    {
+      "original": "Pardon me for saying so, sir, but we don't appear to have enough money for our purchase, now, do we?",
+      "translated": "סלח לי שאני אומר, אדוני, אבל לא נראה שיש לנו מספיק כסף לעסקה הזו, נכון?"
+    },
+    {
+      "original": "salesbug",
+      "translated": "חרק מכירות"
+    },
+    {
+      "original": "The salesbug appears to be a Chdnarian, a race renowned for their predatory sales techniques. You decide to count your fingers once you've completed your transaction.",
+      "translated": "חרק המכירות נראה צ'נדריאני, גזע ידוע לשמצה בשיטות המכירה הדורסניות שלו. אתה מחליט לספור את האצבעות שלך לאחר שהעסקה תושלם."
+    },
+    {
+      "original": "If you were to insist, I could let you have it for a mere 512 buckazoids (407 with a coupon).",
+      "translated": "אם אתה נורא מתעקש, אתן לך אותו תמורת המחיר הזעום של 512 זוזואידים (407 לאחר הנחת קופון)."
+    },
+    {
+      "original": "However, I have only one left, and I put it to work in the warehouse.",
+      "translated": "מכל מקום, נותר לי אחד אחרון, ונתתי לו לעבוד במחסן."
+    },
+    {
+      "original": "This is an all-purpose household model. It cooks, sews, does windows and brews a little moonshine on the side.",
+      "translated": "לפניך דגם מנהל משק בית רב תכליתי. הוא מבשל, תופר, מנקה חלונות ומייצר אלכוהול על הדרך."
+    },
+    {
+      "original": "Don't bother haggling. This one's worth 55 buckazoids for the parts alone. That would be 46 buckazoids with a coupon.",
+      "translated": "אין טעם להתמקח. הוא עולה 55 זוזואידים על חלקי החילוף בלבד. אחרי הנחת קופון המחיר יעמוד על 46."
+    },
+    {
+      "original": "That race killed themselves off, however, and spare parts are nearly impossible to find.",
+      "translated": "הגזע התאבד באופן קולקטיבי, ולפיכך כמעט בלתי אפשרי למצוא חלקי חילוף."
+    },
+    {
+      "original": "It was produced exclusively for Droids-B-Us by a small planet who used these mechanical warriors to fight their battles.",
+      "translated": "הם יוצרו בלעדית עבור רובוטים-אר-אס על ידי כוכב קטן שהשתמש בלוחמים המכניים האלה בקרבות שלהם."
+    },
+    {
+      "original": "Ah! This model is one of my personal favorites.",
+      "translated": "אה! הדגם הזה הוא אחד האהובים עלי."
+    },
+    {
+      "original": "And, if you've got kids, you'll appreciate its low, low price of 698 buckazoids (559 with a coupon).",
+      "translated": "ואם יש לך ילדים, אתה תעריך את מחירו הזעום בסך 698 זוזואידים (559 עם קופון)."
+    },
+    {
+      "original": "If you can live with the paranoia, though, it makes a great baby-sitter.",
+      "translated": "אם תוכל לחיות עם הפרנויה, הוא גם מסוגל לתפקד כשמרטף מעולה."
+    },
+    {
+      "original": "Whenever it gets excited, it waves its arms around wildly and yells DANGER! DANGER!",
+      "translated": "בכל פעם שהוא מתרגש, הוא מנפנף בזרועותיו בפראות וצווח *סכנה*! *סכנה*!"
+    },
+    {
+      "original": "However, the manufacturer had to discontinue it due to a psychological disorder.",
+      "translated": "עם זאת, היצרן סגר את קו הייצור עקב הפרעה פסיכולוגית."
+    },
+    {
+      "original": "This model was originally designed as a family companion on those long space vacations.",
+      "translated": "הדגם הזה תוכנן במקור כמלווה משפחתי לחופשות חלל ארוכות."
+    },
+    {
+      "original": "I'd love to sell you one, but every last one I had was snapped up by a movie director from New Japan IV - sorry.",
+      "translated": "הייתי שמח למכור לך אחד, אולם כל מה שהיה לי נחטף על ידי במאי סרטים מיפן החדשה הרביעית - מתנצל."
+    },
+    {
+      "original": "Although a handsome machine, this robot has a habit of killing people without any real reason.",
+      "translated": "למרות מראהו המצודד, לרובוט הזה יש נטייה להרוג אנשים ללא כל סיבה מיוחדת."
+    },
+    {
+      "original": "Ah, yes, a truly beautiful piece of machinery. This design rates five stars.",
+      "translated": "אה, כן, זו מכונה בהחלט יפהפייה. העיצוב שלה קיבל דירוג חמישה כוכבים."
+    },
+    {
+      "original": "Yes, this dandy, compact unit goes for a mere 29 buckazoids (23 with coupon). You can't go wrong when it's SUX!",
+      "translated": "כן, היחידה הקומפקטית הנהדרת הזו עולה בסך הכל 29 זוזואידים (23 עם קופון). חלליתא בחרת, לא טעית!"
+    },
+    {
+      "original": "...but of course you wouldn't want to hear about that.",
+      "translated": "...אבל כמובן לא היית רוצה לשמוע על זה."
+    },
+    {
+      "original": "I just happen to have one of these in stock. It's been completely re-conditioned since its regrettable accident that took the lives of...",
+      "translated": "במקרה יש לי אחד כזה במלאי. הוא עבר שיפוץ מלא מאז התאונה המצערת שגבתה את חייהם של..."
+    },
+    {
+      "original": "The brand name says it all. SUX is a major manufacturer of refrigerators, dishwashers, and, some day, even time machines!",
+      "translated": "שם המותג אומר הכל. חלליתא היא חברת ענק שמייצרת בין היתר מקררים, מדיחי כלים, ואולי יום אחד, אפילו מכונות זמן!"
+    },
+    {
+      "original": "We've got a set of three, and you can have them all for just 999 buckazoids (799 with a coupon).",
+      "translated": "יש לנו מבצע של שלוש במחיר אחד, בעלות כוללת של 999 זוזואידים בלבד (799 עם קופון)."
+    },
+    {
+      "original": "Yessir, they may look like kleenex boxes, but they're built to run a loooong time. And quiet? You bet!",
+      "translated": "כן אדוני, הם אולי נראים כמו קופסאות טישו, אבל יש להם טווח סוללה מאאאאד ארוך. ופעולה שקטה? עלינו!"
+    },
+    {
+      "original": "These little robots are perfect for gardening chores. And they don't mind at all if they're away on space missions for centuries.",
+      "translated": "הרובוטים הקטנים הללו מושלמים לעבודות גינון. ואין להם בעיה לצאת למשימות חלל למשך מאות שנים."
+    },
+    {
+      "original": "However, we're fresh out of them right now. Nobody seems to survive long enough to trade them in.",
+      "translated": "עם זאת, בדיוק אזל לנו המלאי. אף אחד לא שורד מספיק כדי להחזיר אותם בטרייד אין."
+    },
+    {
+      "original": "They're just a wee bit too ambitious is all. And who of us isn't? It's quite an endearing quality, actually.",
+      "translated": "הם רק טיפ טיפה שאפתנים מדי. ומי מאיתנו לא? זו תכונה מקסימה, למען האמת."
+    },
+    {
+      "original": "Um... This model has had a bad rep, unearned if you ask me.",
+      "translated": "המ... לדגם הזה יצא שם רע, שלא בצדק אם אתה שואל אותי."
+    },
+    {
+      "original": "I could let you have him for just 875 buckazoids (700 with a coupon).",
+      "translated": "תוכל לקבל אותו תמורת 875 זוזואידים בלבד (שזה 700 עם קופון)."
+    },
+    {
+      "original": "Of course, they're all in hibernation this time of the century.",
+      "translated": "כמובן, הם כולם שרויים עמוק בתרדמת בתקופה זו של המאה."
+    },
+    {
+      "original": "These are really some of the most useful all-purpose robots around, and extremely good with children.",
+      "translated": "אלה כמה מהרובוטים הרב תכליתיים הטובים ביותר באזור, במיוחד עם ילדים."
+    },
+    {
+      "original": "His memory isn't the best, so I'll let you have him for just 512 buckazoids (410 with a coupon).",
+      "translated": "הזכרון שלו קצת חלש, אז אתן לו אותו ב-512 זוזואידים בלבד (410 עם קופון)."
+    },
+    {
+      "original": "If it had one fault, it was probably a tendency to be over- zealous. It's no longer available except for demolition purposes.",
+      "translated": "אם יש לו מגרעה אחת, זו הנטיה שלו להתלהב יתר על המידה. הוא לא זמין יותר למעט מטרות הריסה."
+    },
+    {
+      "original": "This was one of my better bodyguard models, and it also doubled as a radial-arm saw.",
+      "translated": "זהו אחד מדגמי השומרי ראש הטובים ביותר שלי, והוא גם משמש כמכונת ניסור."
+    },
+    {
+      "original": "Uh, well, maybe you shouldn't consider buying this particular model.",
+      "translated": "אה, טוב, אולי לא כדאי שתשקול לרכוש את הדגם המסוים הזה."
+    },
+    {
+      "original": "These robots have a bad attitude. You've got to keep them in line, or they'll walk all over you.",
+      "translated": "הרובוטים הללו בעלי מזג רע. עליך להחזיק אותם קצר, אחרת הם ירמסו אותך."
+    },
+    {
+      "original": "I got it from some gambling type who was required to pay-up or perish.",
+      "translated": "קיבלתי אותו מאיזה מהמר מפוקפק שנדרש לשלם או להיעלם."
+    },
+    {
+      "original": "I ask only 45 buckazoids for it (36 with coupon).",
+      "translated": "אני מבקש עליו רק 45 זוזואידים (36 עם קופון)."
+    },
+    {
+      "original": "It will pilot any modern fighter or cruiser. And, it is one of the most experienced droids we carry.",
+      "translated": "הוא יכול להטיס כל חללית קרב או משחתת מודרנית. וזה אחד מהרובוטים המנוסים ביותר שברשותינו."
+    },
+    {
+      "original": "That model is ideal for flight systems operations.",
+      "translated": "המודל הזה אידיאלי לניתוח מערכות טיסה."
+    },
+    {
+      "original": "I'm afraid I can't take data cartridges in lieu of currency. Is sir a bit short of cash, hmmmm?",
+      "translated": "חוששני כי לא אוכל לכבד מחסניות נתונים במקום כסף עובר לסוחר. האם אדוני קצר במזומנים, הממממ?"
+    },
+    {
+      "original": "I'm afraid I can't accept your translator in exchange for a droid. Buckazoids work nicely to grease the wheels of commerce, however.",
+      "translated": "חוששני כי לא אוכל לקבל מתורגמנים בתמורה לרובוטים. זוזואידים הם אלו שמשמנים את גלגלי הכלכלה, כידוע."
+    },
+    {
+      "original": "Please, sir! Violence is never the answer. Money, on the other hand, is almost always the answer.",
+      "translated": "ברשותך, אדוני! אלימות לעולם אינה הפתרון. כסף, לעומת זאת, הוא כמעט תמיד הפתרון."
+    },
+    {
+      "original": "If he drinks from this, you won't. You decide not to offer him any.",
+      "translated": "אם הוא שותה מזה, אתה לא. אתה מחליט לא להציע לו מזה."
+    },
+    {
+      "original": "Very good, sir. This coupon entitles you to a reduction of twenty percent in the price of any of our fine, previously- owned droids.",
+      "translated": "טוב מאד, אדוני. קופון זה מזכה אותך בהנחה של עשרים אחוז על כל רובוטי היד-שניה המשובחים שלנו."
+    },
+    {
+      "original": "Sorry, sir, but I've sold my last one of those.",
+      "translated": "מצטער, אדוני, אבל בדיוק מכרתי את האחרון."
+    },
+    {
+      "original": "Sorry, sir, but we have none of those in stock.",
+      "translated": "מתנצל, אדוני, אבל אין לנו אותם במלאי."
+    },
+    {
+      "original": "I'm sorry, sir, but my conscience just won't let me sell him to you. Besides, your next of kin might sue.",
+      "translated": "אני מצטער, אדוני, אבל המצפון שלי לא נותן לי למכור לך אותו. וחוץ מזה, שארי בשרך עלולים לתבוע."
+    },
+    {
+      "original": "I'm afraid that item can not be exchanged for enough money to purchase one of our quality products. Is sir financially embarassed, or might there be cash in one of those pockets?",
+      "translated": "חוששני כי הכסף שתקבל תמורת פריט זה לא יספיק כדי לקנות את אחד ממוצרי האיכות שלנו. האם אדוני מובך כלכלית, או שזה מזומן בכיס שלך?"
+    },
+    {
+      "original": "plaque",
+      "translated": "לוחית"
+    },
+    {
+      "original": "The plaque says: Salesbug of the year! You'd better watch your money around this guy.",
+      "translated": "על הלוחית נכתב: חרק המכירות של השנה! כדאי שתשמור טוב על הכסף שלך כשאתה בסביבה שלו."
+    },
+    {
+      "original": "robot head",
+      "translated": "ראש רובוט"
+    },
+    {
+      "original": "Yikes! It's an Ultron-17, the only robot bad enough to go head-to-head with an Arnoid-1000 Exterminator. You note with relief that he appears to be out of commission, at least temporarily.",
+      "translated": "אמאל'ה! זהו אולטרון-17, הרובוט היחיד שמסוגל להתמודד ראש בראש מול ארנויד-1000 המשמיד. אתה נאנח בהקלה כשאתה מבין שהוא יצא מכלל שימוש, לפחות באופן זמני."
+    },
+    {
+      "original": "robot apendage",
+      "translated": "איבר רובוטי"
+    },
+    {
+      "original": "That's an upgrade option for the Arnoid series. It's capable of crushing a person's skull. Very useful if you're in that line of work.",
+      "translated": "זהו שדרוג אופציונלי לסדרת ארנויד. מיועד לריסוק גולגולות אנוש. שימושי מאד בתחום המקצוע הזה."
+    },
+    {
+      "original": "exit button",
+      "translated": "כפתור יציאה"
+    },
+    {
+      "original": "Click on this to leave Droids-B-Us.",
+      "translated": "הקש כאן על מנת לצאת מרובוטים-זה-אנחנו."
+    },
+    {
+      "original": "sign",
+      "translated": "שלט"
+    },
+    {
+      "original": "The plastoid letters on the wall spell out: Droids-B-Us",
+      "translated": "אותיות הפלסטויד על הקיר מאייתות: רובוטים-זה-אנחנו"
+    },
+    {
+      "original": "view screen",
+      "translated": "מרקע"
+    },
+    {
+      "original": "The viewscreen shows pictures of droids currently available in your rather limited price range.",
+      "translated": "המרקע מציג תמונות של דרואידים הזמינים כעת בהתאם לטווח המחירים המוגבל שלך."
+    },
+    {
+      "original": "It looks like some sort of gigantic... diaphragm?",
+      "translated": "זה נראה כמו סוג של... סרעפת ענקית?"
+    },
+    {
+      "original": "power tubes",
+      "translated": "צינורות חשמל"
+    },
+    {
+      "original": "These tubes on the wall are power conduits.",
+      "translated": "הצינורות על הקיר מוליכים חשמל."
+    },
+    {
+      "original": "work table",
+      "translated": "שולחן עבודה"
+    },
+    {
+      "original": "There are many robotic parts scattered about the work table.",
+      "translated": "חלקי חילוף רובוטיים רבים מפוזרים על שולחן העבודה."
+    },
+    {
+      "original": "robot parts",
+      "translated": "חלקי רובוטים"
+    },
+    {
+      "original": "Many parts, bits, and pieces of robotic paraphanalia adorn the walls of this small store.",
+      "translated": "חלקים רבים, חלפים, וציוד רובוטי מקשטים את קירות החנות הקטנה."
+    },
+    {
+      "original": "You talk to yourself and, as usual, learn nothing that you didn't already know.",
+      "translated": "אתה מדבר אל עצמך, וכרגיל, לא לומד משהו שלא ידעת כבר."
+    },
+    {
+      "original": "Hey! One shouldn't attempt to manipulate one's self in a family game.",
+      "translated": "היי! אתה לא אמור להתעסק עם עצמך במשחק לכל המשפחה."
+    },
+    {
+      "original": "Better not. You're likely to get a fur ball.",
+      "translated": "מוטב שלא. אתה צפוי לבלוע כדור פרווה."
+    },
+    {
+      "original": "The odor you're producing causes you to regret skipping last month's shower.",
+      "translated": "הניחוח שאתה מפיק גורם לך להתחרט על שדילגת על המקלחת החודשית."
+    },
+    {
+      "original": "You're too busy right now.",
+      "translated": "אתה עסוק מדי עכשיו."
+    },
+    {
+      "original": "Better save it for when you're thirsty.",
+      "translated": "עדיף לשמור את זה לרגעים שתהיה צמא."
+    },
+    {
+      "original": "You don't want to do that here.",
+      "translated": "אתה לא רוצה לעשות את זה כאן."
+    },
+    {
+      "original": "You wisely strap on the jetpack to allow your self motion control.",
+      "translated": "אתה חוגר בתבונתך את תרמיל הריחוף כדי לאפשר לך בקרת תנועה עצמית."
+    },
+    {
+      "original": "The jetpack is useful only in Zero-G situations.",
+      "translated": "תרמיל הריחוף יעיל רק במצבי אפס כבידה."
+    },
+    {
+      "original": "Don't bother. This knife wouldn't cut hot lard.",
+      "translated": "אל תטרח. הסכין לא חותכת שומן רותח."
+    },
+    {
+      "original": "Isn't this just the most amazing waste of time?",
+      "translated": "האין זה בזבוז הזמן המדהים ביותר בעולם?"
+    },
+    {
+      "original": "You have to wonder why you're performing such a useless action.",
+      "translated": "עליך לשאול את עצמך מדוע הינך מבצע פעולות כל כך חסרות תועלת."
+    },
+    {
+      "original": "You wisely decide this is a serious waste of time and energy.",
+      "translated": "אתה מחליט בחוכמה שמדובר בבזבוז משווע של זמן ואנרגיה."
+    },
+    {
+      "original": "You ask yourself why you're doing this and are forced to reply that you just don't know.",
+      "translated": "אתה שואל את עצמך למה אתה עושה זה ועצמך עונה לך שאין לו מושג."
+    },
+    {
+      "original": "Even for you, this isn't bright.",
+      "translated": "אפילו במונחים שלך, זה לא רעיון מבריק."
+    },
+    {
+      "original": "Thank you for playing Space Quest I. You've been most entertaining.",
+      "translated": "תודה ששיחקתם מסע בחלל 1. בידרתם אותנו כמו שצריך."
+    },
+    {
+      "original": "Are you sure you want to restart?",
+      "translated": "בטוח שרוצים להתחיל מחדש?"
+    },
+    {
+      "original": "Memory fragmented.",
+      "translated": "קטעי זכרונות."
+    },
+    {
+      "original": "What did you expect them to do, reproduce?",
+      "translated": "מה ציפית מהם לעשות, להתרבות?"
+    },
+    {
+      "original": "You're far too busy for that now.",
+      "translated": "אתה עסוק מדי בשביל זה עכשיו."
+    },
+    {
+      "original": "You switch the gadget off to conserve its energy.",
+      "translated": "אתה מכבה את הגאדג'ט כדי לחסוך באנרגיה."
+    },
+    {
+      "original": "You switch the gadget on.",
+      "translated": "אתה מפעיל את הגאדג'ט."
+    },
+    {
+      "original": "You're far to busy for that now.",
+      "translated": "אתה עסוק מדי בשביל זה עכשיו."
+    },
+    {
+      "original": "You scrape that sticky goo from the bottom of the rock.",
+      "translated": "אתה מגרד את העיסה הדביקה מתחתית הסלע."
+    },
+    {
+      "original": "There is nothing you can do to the rock.",
+      "translated": "אין לך מה לעשות לסלע."
+    },
+    {
+      "original": "You've already opened the survival kit and removed its contents.",
+      "translated": "כבר פתחת את ערכת ההישרדות ורוקנת את תכולתה."
+    },
+    {
+      "original": "Upon opening the survival kit you discover a Xenon army knife and a canister of dehydrated water.",
+      "translated": "אתה פותח את ערכת ההישרדות ומוצא בתוכה סכין צבאי זנוני ומיכל מים מיובשים."
+    },
+    {
+      "original": "You have %d Buckazoid%s",
+      "translated": "יש לך %d זוזואידים"
+    },
+    {
+      "original": "Thank you for playing Space Quest I. Too bad you've failed miserably and doomed all of your people to a horrible death at the hands of the Sariens. You quickly glance about the room to see if anyone saw your silly mistake. Better luck next time.",
+      "translated": "תודה ששיחקת מסע בחלל 1. עצוב מאד שנחלת כישלון מחפיר וגזרת על אנשיך מוות מחריד בידי הסריינים. אתה מעיף מבט חטוף מסביב לחדר ובודק אם מישהו הבחין בטעות המגוחכת שלך. בהצלחה בפעם הבאה."
+    },
+    {
+      "original": "Score: %d of %d",
+      "translated": "ניקוד: %d מתוך %d"
+    },
+    {
+      "original": "Roger Wilco",
+      "translated": "רוג'ר ווילקו"
+    },
+    {
+      "original": "It's you, Roger Wilco, janitor sub-extraordinaire.",
+      "translated": "זה אתה, רוג'ר ווילקו, מנקה תת-מעולה."
+    },
+    {
+      "original": "This is your brain take-out container.",
+      "translated": "זה מיכל הוצאת המוח שלך."
+    },
+    {
+      "original": "Let me out of here!\\n(Quit)",
+      "translated": "תוציאו אותי מכאן!\\n(צא)"
+    },
+    {
+      "original": "I don't know WHAT\\nI was thinking.\\nLet's Play!",
+      "translated": "אני לא יודע *מה*\\nאני חשבתי.\\nבואו נשחק!"
+    },
+    {
+      "original": "Of course I'm sure!",
+      "translated": "ברור שאני בטוח!"
+    },
+    {
+      "original": "Changed My Mind.\\nLet's Play!",
+      "translated": "שיניתי את דעתי.\\nבואו נשחק!"
+    },
+    {
+      "original": "Who cares",
+      "translated": "למי אכפת"
+    },
+    {
+      "original": "Debug",
+      "translated": "דיבאג"
+    },
+    {
+      "original": "Select this Icon to close this window.",
+      "translated": "בחר בסמליל הזה כדי לסגור את החלון."
+    },
+    {
+      "original": "Select this Icon then select an inventory item you'd like a description of.",
+      "translated": "בחר בסמליל הזה ואז בחר פריט מהמלאי שאתה רוצה תיאור שלו."
+    },
+    {
+      "original": "This allows you to do something to an item.",
+      "translated": "זה מאפשר לך לעשות משהו לפריט."
+    },
+    {
+      "original": "This allows you to select an item.",
+      "translated": "זה מאפשר לך לבחור פריט."
+    },
+    {
+      "original": "It's a cartridge from the Arcada's Data Archive.",
+      "translated": "זו מחסנית מארכיב המידע של הארקדה."
+    },
+    {
+      "original": "This keycard fits an electronic lock someplace on the Arcada.",
+      "translated": "הכרטיס הזה מתאים למנעול אלקטרוני איפשהו בארקדה."
+    },
+    {
+      "original": "This is some sort of gadget. You're not sure what it does exactly, but it has a switch.",
+      "translated": "זה סוג של אביזר. אתה לא בטוח מה בדיוק זה עושה, אבל יש לזה מתג."
+    },
+    {
+      "original": "It's the cone shaped tip of a stalagmite.",
+      "translated": "זה הקצה החרוטי של זקיף."
+    },
+    {
+      "original": "A Survival Kit",
+      "translated": "ערכת הישרדות"
+    },
+    {
+      "original": "It's a Xenon Army knife",
+      "translated": "זה אולר צבא קסנוני"
+    },
+    {
+      "original": "The can label says Pelvitron Dehydrated Water (H2) - All you add is air! Makes 10 gallons! Caution - Do not attempt to open or rupture container! Misuse could result in personal injury and/or flash flooding.",
+      "translated": "על התווית של הפחית כתוב פלוויטרון מים מיובשים - נשאר רק להוסיף אוויר! טוב ל-40 ליטר! זהירות - אל תנסה לפתוח או לקרוע את המיכל! שימוש לקוי עלול להסתיים בפציעה ו/או הצפה פתאומית."
+    }
+  ],
+  "messages": [
+    {
+      "logicFile": "48.agilogic",
+      "messageNumber": 1,
+      "original": "My, aren't you the clumsy one. Because of your inability to walk without falling on your face, your helmet is now riding the elevator without you. You've blown your cover. The Sariens are sure to shoot first and ask questions later.",
+      "placeholders": [],
+      "matchType": "fuzzy",
+      "matchScore": 0.78125,
+      "suggestedTranslation": "בחיי, האין אתה מגושם למדי. עקב חוסר היכולת שלך ללכת מבלי ליפול על הפרצוף, קסדתך נאספה על ידי רובוט הזבל. כעת הכיסוי שלך נחשף. הסריאנים ידועים בתור אנשים שיורים קודם ואז שואלים שאלות.",
+      "csvMatch": "My, aren't you the clumsy one. Because of your inability to walk without falling on your face, your helmet has been collected by the trash droid. Now you've blown your cover. The Sariens are sure to shoot first and ask questions later."
+    },
+    {
+      "logicFile": "48.agilogic",
+      "messageNumber": 2,
+      "original": "Your are in one of the Deltaur's many corridors.  There is an elevator here.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "48.agilogic",
+      "messageNumber": 3,
+      "original": "You look at the wall and admire the Sarien architecture.  They may be scum, but they build a good spaceship.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "48.agilogic",
+      "messageNumber": 4,
+      "original": "You see nothing special about the elevator.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "48.agilogic",
+      "messageNumber": 5,
+      "original": "It isn't here. If you wanted it, you should have held onto it!",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    }
+  ]
+}

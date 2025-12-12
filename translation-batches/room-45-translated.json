@@ -1,0 +1,76 @@
+{
+  "room": "45",
+  "totalMessages": 10,
+  "messages": [
+    {
+      "logicFile": "45.agilogic",
+      "messageNumber": 1,
+      "original": "You are not close enough to perform that act.",
+      "translation": "אינך מספיק קרוב כדי לבצע פעולה זו."
+    },
+    {
+      "logicFile": "45.agilogic",
+      "messageNumber": 2,
+      "original": "You grasp the large handle and twist, noting the rather significant amount of pain being registered. You are extremely grateful to hear a click.",
+      "translation": "אתה אוחז בידית הגדולה ומסובב, שם לב לכמות הכאב המשמעותית למדי שנרשמת. אתה אסיר תודה לשמוע קליק."
+    },
+    {
+      "logicFile": "45.agilogic",
+      "messageNumber": 3,
+      "original": "It is already turned.",
+      "translation": "זה כבר סובב."
+    },
+    {
+      "logicFile": "45.agilogic",
+      "messageNumber": 4,
+      "original": "You are floating in space just outside the biggest darn spaceship you've ever seen. You see a door. Perhaps it is a way in?",
+      "matchType": "exact",
+      "suggestedTranslation": "אתה מרחף בחלל ממש מחוץ לספינת החלל הגדולה ביותר שאי פעם ראית. אתה רואה דלת. אולי דרכה נכנסים פנימה?",
+      "translation": "אתה מרחף בחלל ממש מחוץ לספינת החלל הגדולה ביותר שאי פעם ראית. אתה רואה דלת. אולי דרכה נכנסים פנימה?"
+    },
+    {
+      "logicFile": "45.agilogic",
+      "messageNumber": 5,
+      "original": "It appears to be a standard airlock.  There is a handle in the center.",
+      "matchType": "partial",
+      "suggestedTranslation": "נראה כמו מנעל אוויר סטנדרטי. לצידו מותקנת ידית.",
+      "translation": "REVIEW: נראה כמו מנעל אוויר סטנדרטי. יש ידית במרכז.",
+      "notes": "REVIEW: Partial match - handle location differs"
+    },
+    {
+      "logicFile": "45.agilogic",
+      "messageNumber": 6,
+      "original": "You can't see it from here!",
+      "matchType": "fuzzy",
+      "suggestedTranslation": "אינך רואה דבר מכאן למעלה.",
+      "translation": "אינך יכול לראות את זה מכאן!"
+    },
+    {
+      "logicFile": "45.agilogic",
+      "messageNumber": 7,
+      "original": "That's up to you!",
+      "matchType": "partial",
+      "suggestedTranslation": "אתה לא עד כדי כך רעב.",
+      "translation": "REVIEW: זה תלוי בך!",
+      "notes": "REVIEW: Partial match - completely different meaning"
+    },
+    {
+      "logicFile": "45.agilogic",
+      "messageNumber": 8,
+      "original": "Are you crazy? You'd make a funny looking asteroid. Keep the jetpack on!",
+      "translation": "אתה משוגע? תראה כמו אסטרואיד מצחיק. השאר את תרמיל הריחוף לבוש!"
+    },
+    {
+      "logicFile": "45.agilogic",
+      "messageNumber": 9,
+      "original": "You see a room inside the spaceship which appears to be empty.",
+      "translation": "אתה רואה חדר בתוך ספינת החלל שנראה ריק."
+    },
+    {
+      "logicFile": "45.agilogic",
+      "messageNumber": 10,
+      "original": "You can't see into the window from where you are.",
+      "translation": "אינך יכול לראות פנימה דרך החלון מהמקום בו אתה נמצא."
+    }
+  ]
+}

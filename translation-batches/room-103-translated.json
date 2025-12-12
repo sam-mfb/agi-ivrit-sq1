@@ -1,0 +1,58 @@
+{
+  "room": "103",
+  "totalMessages": 5,
+  "matchStats": {
+    "exact": 0,
+    "normalized": 0,
+    "fuzzy": 2,
+    "partial": 0,
+    "unmatched": 3
+  },
+  "messages": [
+    {
+      "logicFile": "103.agilogic",
+      "messageNumber": 1,
+      "original": "You hear footsteps. . .",
+      "translation": "אתה שומע צעדים.",
+      "placeholders": [],
+      "matchType": "fuzzy",
+      "notes": ""
+    },
+    {
+      "logicFile": "103.agilogic",
+      "messageNumber": 2,
+      "original": "The alien observes his handiwork briefly, then leaves.",
+      "translation": "החייזר מתבונן במעשה ידיו לזמן קצר ואז עוזב.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "notes": ""
+    },
+    {
+      "logicFile": "103.agilogic",
+      "messageNumber": 3,
+      "original": "Unable to see anyone here, the alien leaves to search elsewhere.",
+      "translation": "בהיעדר יכולת לראות כאן מישהו, החייזר עוזב לחפש במקום אחר.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "notes": ""
+    },
+    {
+      "logicFile": "103.agilogic",
+      "messageNumber": 4,
+      "original": "As you slip away the alien decides that one of his comrades will take care of you.",
+      "translation": "בזמן שאתה חומק, החייזר מחליט שאחד מחבריו יטפל בך.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "notes": ""
+    },
+    {
+      "logicFile": "103.agilogic",
+      "messageNumber": 5,
+      "original": "You think you hear footsteps!",
+      "translation": "אתה שומע צעדים.",
+      "placeholders": [],
+      "matchType": "fuzzy",
+      "notes": ""
+    }
+  ]
+}

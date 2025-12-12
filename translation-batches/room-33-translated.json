@@ -1,0 +1,95 @@
+{
+  "room": "33",
+  "totalMessages": 10,
+  "matchStats": {
+    "exact": 0,
+    "normalized": 0,
+    "fuzzy": 1,
+    "partial": 0,
+    "unmatched": 9
+  },
+  "messages": [
+    {
+      "logicFile": "33.agilogic",
+      "messageNumber": 1,
+      "original": "Damage Report: Minor",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "דוח נזק: קל"
+    },
+    {
+      "logicFile": "33.agilogic",
+      "messageNumber": 2,
+      "original": "Damage Report: Moderate",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "דוח נזק: בינוני"
+    },
+    {
+      "logicFile": "33.agilogic",
+      "messageNumber": 3,
+      "original": "Damage Report: Serious!",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "דוח נזק: חמור!"
+    },
+    {
+      "logicFile": "33.agilogic",
+      "messageNumber": 4,
+      "original": "Warning: Damage Situation Critical!",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "אזהרה: מצב נזק קריטי!"
+    },
+    {
+      "logicFile": "33.agilogic",
+      "messageNumber": 5,
+      "original": "THUMP!!",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "חבטה!!"
+    },
+    {
+      "logicFile": "33.agilogic",
+      "messageNumber": 6,
+      "original": " ",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": " "
+    },
+    {
+      "logicFile": "33.agilogic",
+      "messageNumber": 7,
+      "original": "No time to talk!",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "אין זמן לדבר!"
+    },
+    {
+      "logicFile": "33.agilogic",
+      "messageNumber": 8,
+      "original": "Had you eaten a few less donuts during the mission, you might have cleared that rock, %s1.",
+      "placeholders": [
+        "%s"
+      ],
+      "matchType": "fuzzy",
+      "translation": "אילו היית זולל פחות סופגניות במהלך המסע, היית מצליח לפנות את הסלע."
+    },
+    {
+      "logicFile": "33.agilogic",
+      "messageNumber": 9,
+      "original": "The settlement the alien spoke of appears on the horizon.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "ההתנחלות שהחייזר דיבר עליה מופיעה באופק."
+    },
+    {
+      "logicFile": "33.agilogic",
+      "messageNumber": 10,
+      "original": "Whew! That was pretty intense. You've managed to successfully navigate through the treacherous boulder field, and are quite relieved to see that you've reached the settlement.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "פיו! זה היה די אינטנסיבי. הצלחת לנווט בהצלחה דרך שדה הסלעים הבוגדני, ואתה די מקל עליך לראות שהגעת להתנחלות."
+    }
+  ]
+}

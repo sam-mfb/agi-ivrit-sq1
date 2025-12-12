@@ -1,0 +1,180 @@
+{
+  "room": "30",
+  "totalMessages": 15,
+  "matchStats": {
+    "exact": 0,
+    "normalized": 0,
+    "fuzzy": 1,
+    "partial": 2,
+    "unmatched": 12
+  },
+  "messages": [
+    {
+      "logicFile": "30.agilogic",
+      "messageNumber": 1,
+      "original": "You are not close enough.",
+      "placeholders": [],
+      "matchType": "partial",
+      "matchScore": 0.5555555555555556,
+      "suggestedTranslation": "אתה לא מספיק קרוב לסורג כדי לפתוח אותו.",
+      "csvMatch": "You are not close enough to the vent grill to open it.",
+      "translation": "אינך קרוב מספיק.",
+      "notes": "REVIEW: Partial match - simplified translation"
+    },
+    {
+      "logicFile": "30.agilogic",
+      "messageNumber": 2,
+      "original": "Glass now in possession",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "זכוכית כעת ברשותך"
+    },
+    {
+      "logicFile": "30.agilogic",
+      "messageNumber": 3,
+      "original": "You already have it.",
+      "placeholders": [],
+      "matchType": "partial",
+      "matchScore": 0.6,
+      "suggestedTranslation": "כבר יש לך את המפתחות.",
+      "csvMatch": "You already have the keys.",
+      "translation": "כבר יש לך את זה.",
+      "notes": "REVIEW: Partial match - simplified translation"
+    },
+    {
+      "logicFile": "30.agilogic",
+      "messageNumber": 4,
+      "original": "You can't see that here",
+      "placeholders": [],
+      "matchType": "fuzzy",
+      "matchScore": 0.8333333333333334,
+      "suggestedTranslation": "אתה לא רואה את זה מלמעלה.",
+      "csvMatch": "You can't see that from up here.",
+      "translation": "אתה לא רואה את זה מלמעלה."
+    },
+    {
+      "logicFile": "30.agilogic",
+      "messageNumber": 5,
+      "original": "The pod seems to be semi-destroyed.  A glimmering catches your eye.  Upon closer inspection you see that a piece of highly reflective glass has broken out of the pod window.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "החללית נראית למחצה הרוסה. ניצוץ מושך את עינך. בבדיקה קרובה יותר אתה רואה שחתיכת זכוכית מחזירת אור נשברה מחלון החללית."
+    },
+    {
+      "logicFile": "30.agilogic",
+      "messageNumber": 6,
+      "original": "The pod seems to be semi-destroyed.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "החללית נראית למחצה הרוסה."
+    },
+    {
+      "logicFile": "30.agilogic",
+      "messageNumber": 7,
+      "original": "You are not close enough to see it well.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "אינך קרוב מספיק כדי לראות את זה טוב."
+    },
+    {
+      "logicFile": "30.agilogic",
+      "messageNumber": 8,
+      "original": "Hold your breath!",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "עצור את נשימתך!"
+    },
+    {
+      "logicFile": "30.agilogic",
+      "messageNumber": 9,
+      "original": "It's quite sandy down there. You see that a piece of highly reflective glass has broken out of the pod window.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "די חולי למטה. אתה רואה שחתיכת זכוכית מחזירת אור נשברה מחלון החללית."
+    },
+    {
+      "logicFile": "30.agilogic",
+      "messageNumber": 10,
+      "original": "You seem to be located in an incredibly remote area. There is a thrashed escape pod here.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "נראה שאתה נמצא באזור מרוחק להפליא. יש כאן חללית מילוט מרוסקת."
+    },
+    {
+      "logicFile": "30.agilogic",
+      "messageNumber": 11,
+      "original": "That would be done best from inside.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "זה ייעשה הכי טוב מבפנים."
+    },
+    {
+      "logicFile": "30.agilogic",
+      "messageNumber": 12,
+      "original": "That's an interesting form of entertainment.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "זה סוג מעניין של בידור."
+    },
+    {
+      "logicFile": "30.agilogic",
+      "messageNumber": 13,
+      "original": "The window was shattered by the impact of landing.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "החלון התנפץ מעוצמת הנחיתה."
+    },
+    {
+      "logicFile": "30.agilogic",
+      "messageNumber": 14,
+      "original": "You see only darkness through the shattered window.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "אתה רואה רק חושך דרך החלון המנופץ."
+    },
+    {
+      "logicFile": "30.agilogic",
+      "messageNumber": 15,
+      "original": "The pod is definitely destroyed beyond repair. You can't help it.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "החללית בהחלט הרוסה מעבר לתיקון. אינך יכול לעזור בזה."
+    }
+  ]
+}

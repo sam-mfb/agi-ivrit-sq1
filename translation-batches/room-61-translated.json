@@ -1,0 +1,121 @@
+{
+  "room": "61",
+  "totalMessages": 12,
+  "matchStats": {
+    "exact": 1,
+    "normalized": 0,
+    "fuzzy": 0,
+    "partial": 0,
+    "unmatched": 11
+  },
+  "messages": [
+    {
+      "logicFile": "61.agilogic",
+      "messageNumber": 1,
+      "original": ">",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": ">",
+      "notes": ""
+    },
+    {
+      "logicFile": "61.agilogic",
+      "messageNumber": 2,
+      "original": "_",
+      "placeholders": [],
+      "matchType": "exact",
+      "translation": "_",
+      "notes": ""
+    },
+    {
+      "logicFile": "61.agilogic",
+      "messageNumber": 3,
+      "original": "\\\"Bleep, Gurgle, Pop!\\\" apologizes the strange robot as he pushes you aside.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "\\\"ביפ, גרגור, פופ!\\\" מתנצל הרובוט המוזר בעודו דוחף אותך הצידה.",
+      "notes": ""
+    },
+    {
+      "logicFile": "61.agilogic",
+      "messageNumber": 4,
+      "original": "You are in an airlock.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "אתה בתא אוויר.",
+      "notes": ""
+    },
+    {
+      "logicFile": "61.agilogic",
+      "messageNumber": 5,
+      "original": "\\\"Snap, Crackle, Murphy,\\\" responds the little robot.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "\\\"סנאפ, קראקל, מרפי,\\\" עונה הרובוט הקטן.",
+      "notes": ""
+    },
+    {
+      "logicFile": "61.agilogic",
+      "messageNumber": 6,
+      "original": "You're in an airlock! Don't you think you ought to wait until you enter the ship?",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "אתה בתא אוויר! לא חושב שכדאי לחכות עד שתיכנס לספינה?",
+      "notes": ""
+    },
+    {
+      "logicFile": "61.agilogic",
+      "messageNumber": 7,
+      "original": "The rude little robot just slammed the door in your face.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "הרובוט הקטן והגס רוחני טרק את הדלת לפניך.",
+      "notes": ""
+    },
+    {
+      "logicFile": "61.agilogic",
+      "messageNumber": 8,
+      "original": "You see no apparatus of any sort which would open the door.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "אינך רואה מכשיר מכל סוג שהוא שיכול לפתוח את הדלת.",
+      "notes": ""
+    },
+    {
+      "logicFile": "61.agilogic",
+      "messageNumber": 9,
+      "original": "The door is not impressed.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "הדלת לא מתרשמת.",
+      "notes": ""
+    },
+    {
+      "logicFile": "61.agilogic",
+      "messageNumber": 10,
+      "original": "The walls confirm your suspicion that Sariens have bad taste.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "הקירות מאשרים את החשד שלך שלסריאנים יש טעם גרוע.",
+      "notes": ""
+    },
+    {
+      "logicFile": "61.agilogic",
+      "messageNumber": 11,
+      "original": "The squat, little maintenance droid sure makes a disgusting array of noises, doesn't he?",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "הדרואיד הקטן והגוץ לתחזוקה בהחלט מפיק מערך מגעיל של רעשים, לא?",
+      "notes": ""
+    },
+    {
+      "logicFile": "61.agilogic",
+      "messageNumber": 12,
+      "original": "As you enter the Sarien ship, the airlock door seals itself behind you. You try to open it again, without any success. It appears that you are stuck here.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "בעודך נכנס לספינה הסריאנית, דלת תא האוויר נאטמת מאחוריך. אתה מנסה לפתוח אותה שוב, ללא הצלחה. נראה שאתה תקוע כאן.",
+      "notes": ""
+    }
+  ]
+}

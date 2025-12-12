@@ -1,0 +1,18 @@
+{
+  "room": "107",
+  "totalMessages": 2,
+  "messages": [
+    {
+      "logicFile": "107.agilogic",
+      "messageNumber": 1,
+      "original": "You have traveled a long way only to die by carelessly stepping to your death. What a clod!",
+      "translation": "נסעת דרך ארוכה רק כדי למות בצעד חסר זהירות אל מותך. איזה גולם!"
+    },
+    {
+      "logicFile": "107.agilogic",
+      "messageNumber": 2,
+      "original": "Lucky for you it was a short drop and you landed on an area of your body not sensitive to shock. You`d better be more careful in the future, %s1.",
+      "translation": "מזל לך שזו היתה נפילה קצרה ונחתת על אזור בגופך שאינו רגיש לזעזוע. כדאי שתהיה זהיר יותר בעתיד, %s1."
+    }
+  ]
+}

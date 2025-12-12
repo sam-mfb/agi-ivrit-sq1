@@ -1,0 +1,95 @@
+{
+  "room": "28",
+  "totalMessages": 12,
+  "messages": [
+    {
+      "logicFile": "28.agilogic",
+      "messageNumber": 1,
+      "original": "That can't be done from here.",
+      "matchType": "partial",
+      "suggestedTranslation": "אתה לא יכול לעשות את זה מכאן.",
+      "translation": "REVIEW: זה לא יכול להיעשות מכאן.",
+      "notes": "REVIEW: Partial match - passive form"
+    },
+    {
+      "logicFile": "28.agilogic",
+      "messageNumber": 2,
+      "original": "You don't have the glass.",
+      "matchType": "partial",
+      "suggestedTranslation": "מה זאת אומרת, הסולם לא אצלך?",
+      "translation": "REVIEW: אין לך את הזכוכית.",
+      "notes": "REVIEW: Partial match - different object"
+    },
+    {
+      "logicFile": "28.agilogic",
+      "messageNumber": 3,
+      "original": "You have quite cleverly turned the beam upon itself, frying it into inoperability.",
+      "matchType": "fuzzy",
+      "suggestedTranslation": "בחוכמתך כי רבה הסבת את האלומה כלפי עצמה, ובכך טיגנת והתכת אותה למצב של חוסר תפקוד.",
+      "translation": "בחוכמתך כי רבה הסבת את האלומה כלפי עצמה, ובכך טיגנת והתכת אותה למצב של חוסר תפקוד."
+    },
+    {
+      "logicFile": "28.agilogic",
+      "messageNumber": 4,
+      "original": "There is no need to do that now.",
+      "matchType": "partial",
+      "suggestedTranslation": "אין צורך לעשות זאת.",
+      "translation": "REVIEW: אין צורך לעשות את זה עכשיו.",
+      "notes": "REVIEW: Partial match - added 'now'"
+    },
+    {
+      "logicFile": "28.agilogic",
+      "messageNumber": 5,
+      "original": "The beams seem to form some sort of electronic barrier across the path.",
+      "matchType": "exact",
+      "suggestedTranslation": "האלומות יוצרות מעין מחסום אלקטרוני לרוחב הדרך.",
+      "translation": "האלומות יוצרות מעין מחסום אלקטרוני לרוחב הדרך."
+    },
+    {
+      "logicFile": "28.agilogic",
+      "messageNumber": 6,
+      "original": "There are no beams to look at.",
+      "translation": "אין אלומות להסתכל עליהן."
+    },
+    {
+      "logicFile": "28.agilogic",
+      "messageNumber": 7,
+      "original": "There are two metal units here which appear to be emitting beams of energy.",
+      "matchType": "fuzzy",
+      "suggestedTranslation": "יש כאן שתי יחידות מתכת %s פולטות קרני אנרגיה.",
+      "translation": "יש כאן שתי יחידות מתכת שנראה שפולטות קרני אנרגיה."
+    },
+    {
+      "logicFile": "28.agilogic",
+      "messageNumber": 8,
+      "original": "There are two metal units here which are no longer emitting beams of energy.",
+      "matchType": "fuzzy",
+      "suggestedTranslation": "יש כאן שתי יחידות מתכת %s פולטות קרני אנרגיה.",
+      "translation": "יש כאן שתי יחידות מתכת שכבר לא פולטות קרני אנרגיה."
+    },
+    {
+      "logicFile": "28.agilogic",
+      "messageNumber": 9,
+      "original": "You are in a large room in the cavern. There is a level area below. Standing toward the bottom are two odd-looking units emitting beams of light.",
+      "translation": "אתה בחדר גדול במערה. יש שטח מפולס למטה. מעמד לעבר התחתית עומדות שתי יחידות מוזרות הפולטות קרני אור."
+    },
+    {
+      "logicFile": "28.agilogic",
+      "messageNumber": 10,
+      "original": "You are in a large room in the cavern. There is a level area below. Standing toward the bottom are two odd-looking units.",
+      "translation": "אתה בחדר גדול במערה. יש שטח מפולס למטה. מעמד לעבר התחתית עומדות שתי יחידות מוזרות."
+    },
+    {
+      "logicFile": "28.agilogic",
+      "messageNumber": 11,
+      "original": "You are in a large room in the cavern. There is a pathway above. At the south end of the room are two odd-looking units emitting beams of light.",
+      "translation": "אתה בחדר גדול במערה. יש שביל למעלה. בקצה הדרומי של החדר עומדות שתי יחידות מוזרות הפולטות קרני אור."
+    },
+    {
+      "logicFile": "28.agilogic",
+      "messageNumber": 12,
+      "original": "You are in a large room in the cavern. There is a pathway above. At the south end of the room are two odd-looking units.",
+      "translation": "אתה בחדר גדול במערה. יש שביל למעלה. בקצה הדרומי של החדר עומדות שתי יחידות מוזרות."
+    }
+  ]
+}

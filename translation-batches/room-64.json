@@ -1,0 +1,601 @@
+{
+  "room": "64",
+  "totalMessages": 19,
+  "matchStats": {
+    "exact": 0,
+    "normalized": 0,
+    "fuzzy": 1,
+    "partial": 2,
+    "unmatched": 16
+  },
+  "csvContext": [
+    {
+      "original": "You can't shoot that from here.",
+      "translated": "אתה לא יכול לירות בו מכאן."
+    },
+    {
+      "original": "There's no need to use the remote now, the force field is already off.",
+      "translated": "אין צורך להשתמש כעת בשלט, שדה הכוח כבר כבוי ועומד."
+    },
+    {
+      "original": "There is a force field around the Star Generator. You will need to turn if off first.",
+      "translated": "סביב מחולל הכוכבים ישנו שדה כוח. תצטרך לכבות אותו תחילה."
+    },
+    {
+      "original": "The Star Generator is already set to blow, Roger! Maybe you oughtta do the same!",
+      "translated": "מחולל הכוכבים כבר מוכן לפיצוץ, רוג'ר! אולי תעשה גם אתה אותו דבר!"
+    },
+    {
+      "original": "You can't do that from up here.",
+      "translated": "אינך יכול לבצע זאת מלמעלה."
+    },
+    {
+      "original": "Don't you think you've gassed this guy enough?",
+      "translated": "אתה לא חושב שהרעלת אותו מספיק?"
+    },
+    {
+      "original": "You could drop the cartridge on his big ugly head, but you might damage the data. Better find something more suited to the task.",
+      "translated": "אתה יכול לזרוק את המחסנית על הראש הענק והמכוער שלו, אולם הנתונים יפגעו. כדאי למצוא משהו יותר מתאים למשימה."
+    },
+    {
+      "original": "You think he might be more interested in it if he were alive.",
+      "translated": "אתה חושב שהוא היה מביע עניין רב יותר אילו הוא היה בין החיים."
+    },
+    {
+      "original": "This is the biggest, toughest (not to mention ugliest) Sarien guard you have ever seen. At present he is diligently guarding the Star Generator from intruders such as yourself. He's wearing some sort of gadget on his belt, but from here you can't tell what its purpose might be.",
+      "translated": "זהו השומר הסרייאני הגדול, הקשוח (שלא לומר המכוער) ביותר שאי פעם ראית. נכון לעכשיו הוא שומר בקנאות על מחולל הכוכבים מפני פולשים בלתי רצויים כמוך. מכשיר מסוים חגור לחשב אפודתו, אך מכאן אינך מבחין מהי התכלית שלשמה הוא נועד."
+    },
+    {
+      "original": "He's also wondering what your doing back there.",
+      "translated": "גם הוא שואל את עצמו מה בדיוק אתה עושה שם."
+    },
+    {
+      "original": "You notice a remote control device on the guards belt.",
+      "translated": "אתה מבחין בשלט רחוק על חגורת השומר."
+    },
+    {
+      "original": "The guard lies in a red heap on the floor, overcome by the toxic gas from the grenade. Some kind of electronic gadget is hanging from his belt.",
+      "translated": "השומר מוטל בערימה אדומה על הרצפה, לאחר שהוכרע מהגז הרעיל שנדף מהרימון. סוג של מכשיר אלקטרוני משתלשל מחגורתו."
+    },
+    {
+      "original": "This is a guy of few words, none of them for you.",
+      "translated": "הבחור מקמץ במילים, וגם הם לא נועדו לאוזניך."
+    },
+    {
+      "original": "I can not answer any questions without proper ID.",
+      "translated": "לא אוכל לענות על שאלות ללא תעודת זהות תואמת."
+    },
+    {
+      "original": "This guy is more talkative dead than alive. He's dead silent.",
+      "translated": "הבחור הזה פטפטן יותר במותו מאשר בחייו. הוא שקט למוות."
+    },
+    {
+      "original": "If you touch him, he might touch you back.",
+      "translated": "אם תגע בו, הוא עלול לגעת בך בחזרה."
+    },
+    {
+      "original": "The guard has nothing else of interest.",
+      "translated": "לשומר אין שום דבר מעניין."
+    },
+    {
+      "original": "This is the biggest, toughest (not to mention ugliest) Sarien guard you have ever seen. At present he is diligently guarding the Star Generator from intruders such as yourself. He's wearing some sort of gadget on his belt, but from here you can't tell what its purpose might be.",
+      "translated": "זהו השומר הסרייאני הגדול, הקשוח (שלא לומר המכוער) ביותר שאי פעם ראית. נכון לעכשיו הוא שומר בקנאות על מחולל הכוכבים מפני פולשים בלתי רצויים כמוך. מכשיר מסוים חגור לחשב אפודתו, אך מכאן אינך מבחין מהי התכלית שלשמה הוא נועד."
+    },
+    {
+      "original": "You notice a remote control device on the guards belt.",
+      "translated": "אתה מבחין בשלט רחוק על חגורת השומר."
+    },
+    {
+      "original": "Oh no Roger! The guard has seen you and you're not wearing the helmet! You're in for it now Wilco!",
+      "translated": "אוי לא רוג'ר! השומר הבחין בך ואינך חובש קסדה! אתה תחטוף על זה עכשיו ווילקו!"
+    },
+    {
+      "original": "Boy, you're no Marshall Dillon, that's for sure. And you were so close. You'll need to react a little faster be little sharper than that. Well, throw a little bondo into that hole and get back in there.",
+      "translated": "בחיי, אתה לא מרשל דילון, זה בטוח. והיית ככה קרוב. תצטרך להגיב מהר יותר וחד יותר. ובכן, מלא את החור בקצת שפכטל ושוב אלינו בדחיפות."
+    },
+    {
+      "original": "The Sarien warrior is guarding the stolen Star Generator so intensly, he didn't notice the gas grenade exploding.",
+      "translated": "הלוחם הסרייאני שומר על מחולל הכוכבים הגנוב בכזה להט, שאינו שם לב לרימון הגז המתפוצץ."
+    },
+    {
+      "original": "Actually, his walkman is cranked up too high.",
+      "translated": "האמת שהווקמן שלו פשוט היה על ווליום גבוה מדי."
+    },
+    {
+      "original": "The dead Sarien guard might have noticed that, if he were alive.",
+      "translated": "השומר הסרייאני נוחו עדן היה שם לב לזה, אם הוא היה בחיים."
+    },
+    {
+      "original": "You remove the device from the guard's belt. It looks like you have found the remote control that turns off the force field around the Star Generator.",
+      "translated": "אתה תולש את המכשיר מחגורת השומר. נראה שמצאת את השלט הרחוק שמכבה את שדה הכוח סביב מחולל הכוכבים."
+    },
+    {
+      "original": "You press the stud on the remote and the force field around the Star Generator begins to deplete.",
+      "translated": "אתה לוחץ על הכפתור בשלט ושדה הכוח סביב המחולל מתחיל להתפוגג."
+    },
+    {
+      "original": "Ouch! That stings just a tad. You'll obviously need to disarm that baby before trying that again.",
+      "translated": "אאוץ'! זה שורף רק טיפה. חובה עליך לנטרל את החמוד הזה בטרם תנסה זאת שנית."
+    },
+    {
+      "original": "Sir, the destruct code is %d.",
+      "translated": "אדוני, קוד ההשמדה הוא %d."
+    },
+    {
+      "original": "It appears the shield is preventing you from getting to the Star Generator's control panel and boy is it hot. You'd better not try to get close to the Star Generator again.",
+      "translated": "נראה שהמגן חוסם את הגישה ללוח בקרת מחולל הכוכבים ובחיי, הוא רותח אש. תשתדל לא לגשת קרוב מדי למחולל הכוכבים."
+    },
+    {
+      "original": "The Star Generator is already set to blow Roger! You had better find someway to get a million miles from the Deltaur and quick!",
+      "translated": "מחולל הכוכבים כבר מוכן לפיצוץ, רוג'ר! כדאי שתמצא דרך לברוח למרחק מליוני קילומטרים מהדלטאור ויפה שעה אחת קודם!"
+    },
+    {
+      "original": "Oh No! Your rotten aim has attracted the attention of one of the patrol guards. You're in for it now!",
+      "translated": "אוי לא! כישורי הצליפה החלודים שלך משכו את תשומת הלב של אחד משומרי הסיור. זה הסוף שלך עכשיו!"
+    },
+    {
+      "original": "Boy, you're no Marshall Dillon, that's for sure. And you were so close. You'll need to react a little faster be little sharper than that. Well, throw a little bondo into that whole and get back in there.",
+      "translated": "בחיי, אתה לא מרשל דילון, זה בטוח. והיית מה זה קרוב. תצטרך להגיב מהר יותר וחד יותר. טוב, זרוק קצת שפכטל ותחזור מהר."
+    },
+    {
+      "original": "This is where the Sariens placed the Star Generator after lifting it from the Arcada.",
+      "translated": "כאן מיקמו הסרייאנים את מחולל הכוכבים לאחר גניבתו מהארקדה."
+    },
+    {
+      "original": "The left hand force field emitter, much like the right, radiates an unknown form of energy that keeps you from approaching the Star Generator.",
+      "translated": "מקרן שדה הכוח השמאלי, בדיוק כמו הימני, פולט צורת אנרגיה בלתי ידועה שמונעת ממך להתקרב למחולל הכוכבים."
+    },
+    {
+      "original": "The right hand force field emitter, in a fashion altogether similar to the left hand one, beams an inexplicable power into the vicinity of the Star Generator that makes it impossible to get near.",
+      "translated": "מקרן שדה הכוח הימני, באלגנטיות מושלמת בדומה לשמאלי, מקרין כוח בלתי מוסבר אל סביבת מחולל הכוכבים והופך את הגישה אליו לבלתי אפשרית."
+    },
+    {
+      "original": "Cowabunga, Wilco - this is IT! It's the unimaginably powerful Star Generator, which must not, at any cost, be allowed to remain in the hands of the evil Sariens! (but you knew that, right?)",
+      "translated": "קוואבנגה, ווילקו - הנה זה! מחולל הכוכבים רב העוצמה, שאין להשאירו, בכל מחיר שבעולם, בידי הסרייאנים המרושעים! (אבל כבר ידעת את זה, נכון?)"
+    },
+    {
+      "original": "The pulsing energy surging from the Star Generator tells you that it has been activated and you had better quit hanging around staring at the pretty colors.",
+      "translated": "האנרגיה הפועמת המתנחשלת ממחולל הכוכבים מלמדת אותך כי הוא הופעל ולטובתך כדאי שלא תעמוד כמו גולם ותבהה בצבעים היפים."
+    },
+    {
+      "original": "A receptor for somekind of remote control signal.",
+      "translated": "קולטן אותות משלט רחוק."
+    },
+    {
+      "original": "It's the used gas grenade.",
+      "translated": "זהו רימון גז משומש."
+    },
+    {
+      "original": "Da Cnythuk",
+      "translated": "דה סניטוק"
+    },
+    {
+      "original": "upper landing",
+      "translated": "מנחת עליון"
+    },
+    {
+      "original": "It's the walkway above the Star Generator.",
+      "translated": "מעבר החולף מעל מחולל הכוכבים."
+    },
+    {
+      "original": "force field emitter",
+      "translated": "מקרן שדה כוח_"
+    },
+    {
+      "original": "This is one of the force field's emitters.",
+      "translated": "זהו אחד ממקרני שדה הכוח."
+    },
+    {
+      "original": "The Wally Tubes look strangely empty without Thunder Agents in them.",
+      "translated": "שפופרות הריק נראות ריקות ולא מציאותיות ללא סוכני הרעם בתוכן."
+    },
+    {
+      "original": "outer space",
+      "translated": "החלל החיצון_"
+    },
+    {
+      "original": "Looking into the vast reaches of space gives you the curious illusion of being tiny, unimportant, insignificant, negligible, and totally irrelevant in the scheme of things. Then you realize it's not an illusion.",
+      "translated": "ההסתכלות אל תוך מרחבי החלל האינסופיים מעניקה לך אשליה מוזרה שאתה זעיר, לא חשוב, חסר משמעות, זניח, ולגמרי לא רלוונטי לתמונה הגדולה. ואז אתה מבין שזו לא אשליה."
+    },
+    {
+      "original": "You talk to yourself and, as usual, learn nothing that you didn't already know.",
+      "translated": "אתה מדבר אל עצמך, וכרגיל, לא לומד משהו שלא ידעת כבר."
+    },
+    {
+      "original": "Hey! One shouldn't attempt to manipulate one's self in a family game.",
+      "translated": "היי! אתה לא אמור להתעסק עם עצמך במשחק לכל המשפחה."
+    },
+    {
+      "original": "Better not. You're likely to get a fur ball.",
+      "translated": "מוטב שלא. אתה צפוי לבלוע כדור פרווה."
+    },
+    {
+      "original": "The odor you're producing causes you to regret skipping last month's shower.",
+      "translated": "הניחוח שאתה מפיק גורם לך להתחרט על שדילגת על המקלחת החודשית."
+    },
+    {
+      "original": "You're too busy right now.",
+      "translated": "אתה עסוק מדי עכשיו."
+    },
+    {
+      "original": "Better save it for when you're thirsty.",
+      "translated": "עדיף לשמור את זה לרגעים שתהיה צמא."
+    },
+    {
+      "original": "You don't want to do that here.",
+      "translated": "אתה לא רוצה לעשות את זה כאן."
+    },
+    {
+      "original": "You wisely strap on the jetpack to allow your self motion control.",
+      "translated": "אתה חוגר בתבונתך את תרמיל הריחוף כדי לאפשר לך בקרת תנועה עצמית."
+    },
+    {
+      "original": "The jetpack is useful only in Zero-G situations.",
+      "translated": "תרמיל הריחוף יעיל רק במצבי אפס כבידה."
+    },
+    {
+      "original": "Don't bother. This knife wouldn't cut hot lard.",
+      "translated": "אל תטרח. הסכין לא חותכת שומן רותח."
+    },
+    {
+      "original": "Isn't this just the most amazing waste of time?",
+      "translated": "האין זה בזבוז הזמן המדהים ביותר בעולם?"
+    },
+    {
+      "original": "You have to wonder why you're performing such a useless action.",
+      "translated": "עליך לשאול את עצמך מדוע הינך מבצע פעולות כל כך חסרות תועלת."
+    },
+    {
+      "original": "You wisely decide this is a serious waste of time and energy.",
+      "translated": "אתה מחליט בחוכמה שמדובר בבזבוז משווע של זמן ואנרגיה."
+    },
+    {
+      "original": "You ask yourself why you're doing this and are forced to reply that you just don't know.",
+      "translated": "אתה שואל את עצמך למה אתה עושה זה ועצמך עונה לך שאין לו מושג."
+    },
+    {
+      "original": "Even for you, this isn't bright.",
+      "translated": "אפילו במונחים שלך, זה לא רעיון מבריק."
+    },
+    {
+      "original": "Thank you for playing Space Quest I. You've been most entertaining.",
+      "translated": "תודה ששיחקתם מסע בחלל 1. בידרתם אותנו כמו שצריך."
+    },
+    {
+      "original": "Are you sure you want to restart?",
+      "translated": "בטוח שרוצים להתחיל מחדש?"
+    },
+    {
+      "original": "Memory fragmented.",
+      "translated": "קטעי זכרונות."
+    },
+    {
+      "original": "What did you expect them to do, reproduce?",
+      "translated": "מה ציפית מהם לעשות, להתרבות?"
+    },
+    {
+      "original": "You're far too busy for that now.",
+      "translated": "אתה עסוק מדי בשביל זה עכשיו."
+    },
+    {
+      "original": "You switch the gadget off to conserve its energy.",
+      "translated": "אתה מכבה את הגאדג'ט כדי לחסוך באנרגיה."
+    },
+    {
+      "original": "You switch the gadget on.",
+      "translated": "אתה מפעיל את הגאדג'ט."
+    },
+    {
+      "original": "You're far to busy for that now.",
+      "translated": "אתה עסוק מדי בשביל זה עכשיו."
+    },
+    {
+      "original": "You scrape that sticky goo from the bottom of the rock.",
+      "translated": "אתה מגרד את העיסה הדביקה מתחתית הסלע."
+    },
+    {
+      "original": "There is nothing you can do to the rock.",
+      "translated": "אין לך מה לעשות לסלע."
+    },
+    {
+      "original": "You've already opened the survival kit and removed its contents.",
+      "translated": "כבר פתחת את ערכת ההישרדות ורוקנת את תכולתה."
+    },
+    {
+      "original": "Upon opening the survival kit you discover a Xenon army knife and a canister of dehydrated water.",
+      "translated": "אתה פותח את ערכת ההישרדות ומוצא בתוכה סכין צבאי זנוני ומיכל מים מיובשים."
+    },
+    {
+      "original": "You have %d Buckazoid%s",
+      "translated": "יש לך %d זוזואידים"
+    },
+    {
+      "original": "Thank you for playing Space Quest I. Too bad you've failed miserably and doomed all of your people to a horrible death at the hands of the Sariens. You quickly glance about the room to see if anyone saw your silly mistake. Better luck next time.",
+      "translated": "תודה ששיחקת מסע בחלל 1. עצוב מאד שנחלת כישלון מחפיר וגזרת על אנשיך מוות מחריד בידי הסריינים. אתה מעיף מבט חטוף מסביב לחדר ובודק אם מישהו הבחין בטעות המגוחכת שלך. בהצלחה בפעם הבאה."
+    },
+    {
+      "original": "Score: %d of %d",
+      "translated": "ניקוד: %d מתוך %d"
+    },
+    {
+      "original": "Roger Wilco",
+      "translated": "רוג'ר ווילקו"
+    },
+    {
+      "original": "It's you, Roger Wilco, janitor sub-extraordinaire.",
+      "translated": "זה אתה, רוג'ר ווילקו, מנקה תת-מעולה."
+    },
+    {
+      "original": "This is your brain take-out container.",
+      "translated": "זה מיכל הוצאת המוח שלך."
+    },
+    {
+      "original": "Let me out of here!\\n(Quit)",
+      "translated": "תוציאו אותי מכאן!\\n(צא)"
+    },
+    {
+      "original": "I don't know WHAT\\nI was thinking.\\nLet's Play!",
+      "translated": "אני לא יודע *מה*\\nאני חשבתי.\\nבואו נשחק!"
+    },
+    {
+      "original": "Of course I'm sure!",
+      "translated": "ברור שאני בטוח!"
+    },
+    {
+      "original": "Changed My Mind.\\nLet's Play!",
+      "translated": "שיניתי את דעתי.\\nבואו נשחק!"
+    },
+    {
+      "original": "Who cares",
+      "translated": "למי אכפת"
+    },
+    {
+      "original": "Debug",
+      "translated": "דיבאג"
+    },
+    {
+      "original": "Select this Icon to close this window.",
+      "translated": "בחר בסמליל הזה כדי לסגור את החלון."
+    },
+    {
+      "original": "Select this Icon then select an inventory item you'd like a description of.",
+      "translated": "בחר בסמליל הזה ואז בחר פריט מהמלאי שאתה רוצה תיאור שלו."
+    },
+    {
+      "original": "This allows you to do something to an item.",
+      "translated": "זה מאפשר לך לעשות משהו לפריט."
+    },
+    {
+      "original": "This allows you to select an item.",
+      "translated": "זה מאפשר לך לבחור פריט."
+    },
+    {
+      "original": "It's a cartridge from the Arcada's Data Archive.",
+      "translated": "זו מחסנית מארכיב המידע של הארקדה."
+    },
+    {
+      "original": "This keycard fits an electronic lock someplace on the Arcada.",
+      "translated": "הכרטיס הזה מתאים למנעול אלקטרוני איפשהו בארקדה."
+    },
+    {
+      "original": "This is some sort of gadget. You're not sure what it does exactly, but it has a switch.",
+      "translated": "זה סוג של אביזר. אתה לא בטוח מה בדיוק זה עושה, אבל יש לזה מתג."
+    },
+    {
+      "original": "It's the cone shaped tip of a stalagmite.",
+      "translated": "זה הקצה החרוטי של זקיף."
+    },
+    {
+      "original": "A Survival Kit",
+      "translated": "ערכת הישרדות"
+    },
+    {
+      "original": "It's a Xenon Army knife",
+      "translated": "זה אולר צבא קסנוני"
+    },
+    {
+      "original": "The can label says Pelvitron Dehydrated Water (H2) - All you add is air! Makes 10 gallons! Caution - Do not attempt to open or rupture container! Misuse could result in personal injury and/or flash flooding.",
+      "translated": "על התווית של הפחית כתוב פלוויטרון מים מיובשים - נשאר רק להוסיף אוויר! טוב ל-40 ליטר! זהירות - אל תנסה לפתוח או לקרוע את המיכל! שימוש לקוי עלול להסתיים בפציעה ו/או הצפה פתאומית."
+    }
+  ],
+  "messages": [
+    {
+      "logicFile": "64.agilogic",
+      "messageNumber": 1,
+      "original": "Congratulations %s1, you've rid the universe of the evil Sariens and saved your people from certain doom. You're an all-around hero! You've made it home safely aboard the stolen Sarien craft, where you've encountered a cheering Xenon crowd. They have gathered together for a ceremony in your honor. The ceremony is already in progress.",
+      "placeholders": [
+        "%s"
+      ],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "64.agilogic",
+      "messageNumber": 2,
+      "original": "As a token of appreciation, you are presented with a golden mop. \\\"Thank you, %s1 for cleaning up our galaxy\\\", says the Xenon leader.",
+      "placeholders": [
+        "%s"
+      ],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "64.agilogic",
+      "messageNumber": 3,
+      "original": "Once a janitor always a janitor.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "64.agilogic",
+      "messageNumber": 4,
+      "original": "Thank you for playing Space Quest",
+      "placeholders": [],
+      "matchType": "partial",
+      "matchScore": 0.6666666666666666,
+      "suggestedTranslation": "תודה ששיחקתם מסע בחלל 1. בידרתם אותנו כמו שצריך.",
+      "csvMatch": "Thank you for playing Space Quest I. You've been most entertaining."
+    },
+    {
+      "logicFile": "64.agilogic",
+      "messageNumber": 5,
+      "original": "    Watch for Space Quest II",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "64.agilogic",
+      "messageNumber": 6,
+      "original": " ",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "64.agilogic",
+      "messageNumber": 7,
+      "original": "         Thank You",
+      "placeholders": [],
+      "matchType": "partial",
+      "matchScore": 0.6666666666666666,
+      "suggestedTranslation": "תודה לך, אדוני.",
+      "csvMatch": "Thank you, sir."
+    },
+    {
+      "logicFile": "64.agilogic",
+      "messageNumber": 8,
+      "original": "         Scott Murphy",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "64.agilogic",
+      "messageNumber": 9,
+      "original": "         Mark Crowe",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "64.agilogic",
+      "messageNumber": 10,
+      "original": "         Sol Ackerman",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "64.agilogic",
+      "messageNumber": 11,
+      "original": "         Ken Williams",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "64.agilogic",
+      "messageNumber": 12,
+      "original": "         Jeff Stephenson",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "64.agilogic",
+      "messageNumber": 13,
+      "original": "         Chris Iden",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "64.agilogic",
+      "messageNumber": 14,
+      "original": "         Sierra On-Line Inc.",
+      "placeholders": [],
+      "matchType": "fuzzy",
+      "matchScore": 1,
+      "suggestedTranslation": "\u0003 1991 סיירה און-ליין, בעמ",
+      "csvMatch": "\u0003 1991 Sierra On-Line, Inc."
+    },
+    {
+      "logicFile": "64.agilogic",
+      "messageNumber": 15,
+      "original": "         The Sarien Fleet",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "64.agilogic",
+      "messageNumber": 16,
+      "original": "         The Entire Human Race",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "64.agilogic",
+      "messageNumber": 17,
+      "original": " %s1, Galactic Warrior",
+      "placeholders": [
+        "%s"
+      ],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "64.agilogic",
+      "messageNumber": 18,
+      "original": " ",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "64.agilogic",
+      "messageNumber": 19,
+      "original": "Congratulations %s1, you've rid the universe of the evil Sariens and saved your people from certain doom. The Star Generator technology is safe inside the Data Cartridge. Now, a new Star Generator can be built and can carry out its original task - You're an all-around hero! You've made it home safely aboard the stolen Sarien craft, where you've encountered a cheering Xenon crowd. They have gathered together for a ceremony in your honor. The ceremony is already in progress.",
+      "placeholders": [
+        "%s"
+      ],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    }
+  ]
+}

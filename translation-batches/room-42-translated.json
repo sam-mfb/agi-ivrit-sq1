@@ -1,0 +1,14 @@
+{
+  "room": "42",
+  "totalMessages": 1,
+  "messages": [
+    {
+      "logicFile": "42.agilogic",
+      "messageNumber": 2,
+      "original": "That was mighty close!",
+      "matchType": "partial",
+      "translation": "REVIEW: זה היה קרוב מאוד!",
+      "notes": "REVIEW: Partial match - expanded from 'That was close'"
+    }
+  ]
+}

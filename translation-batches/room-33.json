@@ -1,0 +1,413 @@
+{
+  "room": "33",
+  "totalMessages": 10,
+  "matchStats": {
+    "exact": 0,
+    "normalized": 0,
+    "fuzzy": 1,
+    "partial": 0,
+    "unmatched": 9
+  },
+  "csvContext": [
+    {
+      "original": "Nothing to do there.",
+      "translated": "אין מה לעשות שם."
+    },
+    {
+      "original": "Having seen no other intelligent(?) being for so long, you decide to save your voice.",
+      "translated": "היות ולא נתקלת באף צורת חיים אינטיליגנטית(?) מזה תקופה ארוכה, אתה מחליט לשמור על הקול שלך."
+    },
+    {
+      "original": "You detect a bit of sulfur in the air from the adjoining chamber. Each inhalation packs a bit of an afterburn as an extra, added bonus.",
+      "translated": "אתה מזהה קמצוץ גופרית באוויר הנפלט מהתא הסמוך. כל נשימה מזכה אותך בנקודת צרבת נוספת כבונוס מיוחד."
+    },
+    {
+      "original": "Nothing worth tasting there.",
+      "translated": "אין שם משהו ששווה טעימה."
+    },
+    {
+      "original": "You have quite cleverly turned the beam upon itself, frying and fusing it into a state of inoperability.",
+      "translated": "בחוכמתך כי רבה הסבת את האלומה כלפי עצמה, ובכך טיגנת והתכת אותה למצב של חוסר תפקוד."
+    },
+    {
+      "original": "You've found quite a number of forms to transform yourself into. This is the first time you've been wafer-style.",
+      "translated": "עד עכשיו גילית מספר לא מועט של מצבי צבירה עצמית. אולם זו הפעם הראשונה שהפכת לצורת ופל."
+    },
+    {
+      "original": "Well, Scott, it looks like Roger has done it yet another time.",
+      "translated": "ובכן, סקוט, נראה שרוג'ר עשה זאת פעם נוספת."
+    },
+    {
+      "original": "It sure seems that way. For those who might have missed that last move by Roger, or if, like me, you just want another look at it, let's roll it again.",
+      "translated": "ככה זה נראה. עבור אותם שאולי פספסו את המהלך האחרון של רוג'ר, או לחילופין, אם סתם מתחשק לכם לצפות בזה שוב, כמוני למשל, בוא נחזיר את זה אחורה."
+    },
+    {
+      "original": "Instant Replay!!!",
+      "translated": "שידור חוזר!!!"
+    },
+    {
+      "original": "You've got to give some high marks for truly fine execution. We'll have to give it a strong 9.8.",
+      "translated": "תן לו ציון גבוה על הוצאה להורג משובחת במיוחד. מגיע על זה 9.8 אדום בוהק."
+    },
+    {
+      "original": "The beams seem to form some sort of electronic barrier across the path.",
+      "translated": "האלומות יוצרות מעין מחסום אלקטרוני לרוחב הדרך."
+    },
+    {
+      "original": "Somehow you get the impression that you shouldn't do that. If you really insist, however, try getting closer.",
+      "translated": "איכשהו אתה מקבל את הרושם שאתה לא אמור לעשות את זה. אולם אם אתה ממש מתעקש, נסה להתקרב יותר."
+    },
+    {
+      "original": "It's a good way to get that nose job you've often considered.",
+      "translated": "זוהי דרך טובה לעשות את ניתוח האף שתמיד רצית."
+    },
+    {
+      "original": "You're quite attached to your tongue and would like to keep it that way.",
+      "translated": "אתה די קשור ללשון שלך והיית רוצה שכך זה ישאר."
+    },
+    {
+      "original": "That doesn't seem like the thing to do here, try something else.",
+      "translated": "זה לא נראה כמו הדבר שנכון לעשותו, נסה משהו אחר."
+    },
+    {
+      "original": "No result.",
+      "translated": "אין תוצאות."
+    },
+    {
+      "original": "You are in left-most room of this cavern. Standing sentinel at the juncture of the lower and upper pathways are two odd-looking units obviously placed there on purpose. %s.",
+      "translated": "אתה בחדר השמאלי ביותר במערה הזו. כשהם עומדים זקופים בצומת השבילים התחתון והעליון נמצאים שתי יחידות משונות למראה שללא ספק הונחו שם בכוונה. %s"
+    },
+    {
+      "original": "They are no longer in operation thanks to you.",
+      "translated": "הם כבר לא פעילים הודות לך."
+    },
+    {
+      "original": "Something is being emitted by the devices.",
+      "translated": "המכשירים האלה פולטים משהו."
+    },
+    {
+      "original": "laser thing1",
+      "translated": "משהו לייזר1"
+    },
+    {
+      "original": "There are two metal units here which %s emitting beams of energy.",
+      "translated": "יש כאן שתי יחידות מתכת %s פולטות קרני אנרגיה."
+    },
+    {
+      "original": "are no longer",
+      "translated": "שכבר אינם"
+    },
+    {
+      "original": "appear to be",
+      "translated": "שעדיין"
+    },
+    {
+      "original": "laser thing2",
+      "translated": "משהו לייזר2"
+    },
+    {
+      "original": "You talk to yourself and, as usual, learn nothing that you didn't already know.",
+      "translated": "אתה מדבר אל עצמך, וכרגיל, לא לומד משהו שלא ידעת כבר."
+    },
+    {
+      "original": "Hey! One shouldn't attempt to manipulate one's self in a family game.",
+      "translated": "היי! אתה לא אמור להתעסק עם עצמך במשחק לכל המשפחה."
+    },
+    {
+      "original": "Better not. You're likely to get a fur ball.",
+      "translated": "מוטב שלא. אתה צפוי לבלוע כדור פרווה."
+    },
+    {
+      "original": "The odor you're producing causes you to regret skipping last month's shower.",
+      "translated": "הניחוח שאתה מפיק גורם לך להתחרט על שדילגת על המקלחת החודשית."
+    },
+    {
+      "original": "You're too busy right now.",
+      "translated": "אתה עסוק מדי עכשיו."
+    },
+    {
+      "original": "Better save it for when you're thirsty.",
+      "translated": "עדיף לשמור את זה לרגעים שתהיה צמא."
+    },
+    {
+      "original": "You don't want to do that here.",
+      "translated": "אתה לא רוצה לעשות את זה כאן."
+    },
+    {
+      "original": "You wisely strap on the jetpack to allow your self motion control.",
+      "translated": "אתה חוגר בתבונתך את תרמיל הריחוף כדי לאפשר לך בקרת תנועה עצמית."
+    },
+    {
+      "original": "The jetpack is useful only in Zero-G situations.",
+      "translated": "תרמיל הריחוף יעיל רק במצבי אפס כבידה."
+    },
+    {
+      "original": "Don't bother. This knife wouldn't cut hot lard.",
+      "translated": "אל תטרח. הסכין לא חותכת שומן רותח."
+    },
+    {
+      "original": "Isn't this just the most amazing waste of time?",
+      "translated": "האין זה בזבוז הזמן המדהים ביותר בעולם?"
+    },
+    {
+      "original": "You have to wonder why you're performing such a useless action.",
+      "translated": "עליך לשאול את עצמך מדוע הינך מבצע פעולות כל כך חסרות תועלת."
+    },
+    {
+      "original": "You wisely decide this is a serious waste of time and energy.",
+      "translated": "אתה מחליט בחוכמה שמדובר בבזבוז משווע של זמן ואנרגיה."
+    },
+    {
+      "original": "You ask yourself why you're doing this and are forced to reply that you just don't know.",
+      "translated": "אתה שואל את עצמך למה אתה עושה זה ועצמך עונה לך שאין לו מושג."
+    },
+    {
+      "original": "Even for you, this isn't bright.",
+      "translated": "אפילו במונחים שלך, זה לא רעיון מבריק."
+    },
+    {
+      "original": "Thank you for playing Space Quest I. You've been most entertaining.",
+      "translated": "תודה ששיחקתם מסע בחלל 1. בידרתם אותנו כמו שצריך."
+    },
+    {
+      "original": "Are you sure you want to restart?",
+      "translated": "בטוח שרוצים להתחיל מחדש?"
+    },
+    {
+      "original": "Memory fragmented.",
+      "translated": "קטעי זכרונות."
+    },
+    {
+      "original": "What did you expect them to do, reproduce?",
+      "translated": "מה ציפית מהם לעשות, להתרבות?"
+    },
+    {
+      "original": "You're far too busy for that now.",
+      "translated": "אתה עסוק מדי בשביל זה עכשיו."
+    },
+    {
+      "original": "You switch the gadget off to conserve its energy.",
+      "translated": "אתה מכבה את הגאדג'ט כדי לחסוך באנרגיה."
+    },
+    {
+      "original": "You switch the gadget on.",
+      "translated": "אתה מפעיל את הגאדג'ט."
+    },
+    {
+      "original": "You're far to busy for that now.",
+      "translated": "אתה עסוק מדי בשביל זה עכשיו."
+    },
+    {
+      "original": "You scrape that sticky goo from the bottom of the rock.",
+      "translated": "אתה מגרד את העיסה הדביקה מתחתית הסלע."
+    },
+    {
+      "original": "There is nothing you can do to the rock.",
+      "translated": "אין לך מה לעשות לסלע."
+    },
+    {
+      "original": "You've already opened the survival kit and removed its contents.",
+      "translated": "כבר פתחת את ערכת ההישרדות ורוקנת את תכולתה."
+    },
+    {
+      "original": "Upon opening the survival kit you discover a Xenon army knife and a canister of dehydrated water.",
+      "translated": "אתה פותח את ערכת ההישרדות ומוצא בתוכה סכין צבאי זנוני ומיכל מים מיובשים."
+    },
+    {
+      "original": "You have %d Buckazoid%s",
+      "translated": "יש לך %d זוזואידים"
+    },
+    {
+      "original": "Thank you for playing Space Quest I. Too bad you've failed miserably and doomed all of your people to a horrible death at the hands of the Sariens. You quickly glance about the room to see if anyone saw your silly mistake. Better luck next time.",
+      "translated": "תודה ששיחקת מסע בחלל 1. עצוב מאד שנחלת כישלון מחפיר וגזרת על אנשיך מוות מחריד בידי הסריינים. אתה מעיף מבט חטוף מסביב לחדר ובודק אם מישהו הבחין בטעות המגוחכת שלך. בהצלחה בפעם הבאה."
+    },
+    {
+      "original": "Score: %d of %d",
+      "translated": "ניקוד: %d מתוך %d"
+    },
+    {
+      "original": "Roger Wilco",
+      "translated": "רוג'ר ווילקו"
+    },
+    {
+      "original": "It's you, Roger Wilco, janitor sub-extraordinaire.",
+      "translated": "זה אתה, רוג'ר ווילקו, מנקה תת-מעולה."
+    },
+    {
+      "original": "This is your brain take-out container.",
+      "translated": "זה מיכל הוצאת המוח שלך."
+    },
+    {
+      "original": "Let me out of here!\\n(Quit)",
+      "translated": "תוציאו אותי מכאן!\\n(צא)"
+    },
+    {
+      "original": "I don't know WHAT\\nI was thinking.\\nLet's Play!",
+      "translated": "אני לא יודע *מה*\\nאני חשבתי.\\nבואו נשחק!"
+    },
+    {
+      "original": "Of course I'm sure!",
+      "translated": "ברור שאני בטוח!"
+    },
+    {
+      "original": "Changed My Mind.\\nLet's Play!",
+      "translated": "שיניתי את דעתי.\\nבואו נשחק!"
+    },
+    {
+      "original": "Who cares",
+      "translated": "למי אכפת"
+    },
+    {
+      "original": "Debug",
+      "translated": "דיבאג"
+    },
+    {
+      "original": "Select this Icon to close this window.",
+      "translated": "בחר בסמליל הזה כדי לסגור את החלון."
+    },
+    {
+      "original": "Select this Icon then select an inventory item you'd like a description of.",
+      "translated": "בחר בסמליל הזה ואז בחר פריט מהמלאי שאתה רוצה תיאור שלו."
+    },
+    {
+      "original": "This allows you to do something to an item.",
+      "translated": "זה מאפשר לך לעשות משהו לפריט."
+    },
+    {
+      "original": "This allows you to select an item.",
+      "translated": "זה מאפשר לך לבחור פריט."
+    },
+    {
+      "original": "It's a cartridge from the Arcada's Data Archive.",
+      "translated": "זו מחסנית מארכיב המידע של הארקדה."
+    },
+    {
+      "original": "This keycard fits an electronic lock someplace on the Arcada.",
+      "translated": "הכרטיס הזה מתאים למנעול אלקטרוני איפשהו בארקדה."
+    },
+    {
+      "original": "This is some sort of gadget. You're not sure what it does exactly, but it has a switch.",
+      "translated": "זה סוג של אביזר. אתה לא בטוח מה בדיוק זה עושה, אבל יש לזה מתג."
+    },
+    {
+      "original": "It's the cone shaped tip of a stalagmite.",
+      "translated": "זה הקצה החרוטי של זקיף."
+    },
+    {
+      "original": "A Survival Kit",
+      "translated": "ערכת הישרדות"
+    },
+    {
+      "original": "It's a Xenon Army knife",
+      "translated": "זה אולר צבא קסנוני"
+    },
+    {
+      "original": "The can label says Pelvitron Dehydrated Water (H2) - All you add is air! Makes 10 gallons! Caution - Do not attempt to open or rupture container! Misuse could result in personal injury and/or flash flooding.",
+      "translated": "על התווית של הפחית כתוב פלוויטרון מים מיובשים - נשאר רק להוסיף אוויר! טוב ל-40 ליטר! זהירות - אל תנסה לפתוח או לקרוע את המיכל! שימוש לקוי עלול להסתיים בפציעה ו/או הצפה פתאומית."
+    }
+  ],
+  "messages": [
+    {
+      "logicFile": "33.agilogic",
+      "messageNumber": 1,
+      "original": "Damage Report: Minor",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "33.agilogic",
+      "messageNumber": 2,
+      "original": "Damage Report: Moderate",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "33.agilogic",
+      "messageNumber": 3,
+      "original": "Damage Report: Serious!",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "33.agilogic",
+      "messageNumber": 4,
+      "original": "Warning: Damage Situation Critical!",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "33.agilogic",
+      "messageNumber": 5,
+      "original": "THUMP!!",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "33.agilogic",
+      "messageNumber": 6,
+      "original": " ",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "33.agilogic",
+      "messageNumber": 7,
+      "original": "No time to talk!",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "33.agilogic",
+      "messageNumber": 8,
+      "original": "Had you eaten a few less donuts during the mission, you might have cleared that rock, %s1.",
+      "placeholders": [
+        "%s"
+      ],
+      "matchType": "fuzzy",
+      "matchScore": 0.8666666666666667,
+      "suggestedTranslation": "אילו היית זולל פחות סופגניות במהלך המסע, היית מצליח לפנות את הסלע.",
+      "csvMatch": "Had you eaten a few less doughnuts during the mission, you might have cleared that rock."
+    },
+    {
+      "logicFile": "33.agilogic",
+      "messageNumber": 9,
+      "original": "The settlement the alien spoke of appears on the horizon.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "33.agilogic",
+      "messageNumber": 10,
+      "original": "Whew! That was pretty intense. You've managed to successfully navigate through the treacherous boulder field, and are quite relieved to see that you've reached the settlement.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    }
+  ]
+}

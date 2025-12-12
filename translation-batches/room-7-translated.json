@@ -1,0 +1,138 @@
+{
+  "room": "7",
+  "totalMessages": 15,
+  "matchStats": {
+    "exact": 1,
+    "normalized": 0,
+    "fuzzy": 0,
+    "partial": 1,
+    "unmatched": 13
+  },
+  "messages": [
+    {
+      "logicFile": "7.agilogic",
+      "messageNumber": 1,
+      "original": "This is one of the mid-level decks of the Arcada",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "זוהי אחת מהסיפונים באמצע הארקדה"
+    },
+    {
+      "logicFile": "7.agilogic",
+      "messageNumber": 2,
+      "original": "The elevator goes to another level. You have never used it due to its restricted access status.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "המעלית עולה לרמה אחרת. מעולם לא השתמשת בה בגלל מעמד הגישה המוגבל שלה."
+    },
+    {
+      "logicFile": "7.agilogic",
+      "messageNumber": 3,
+      "original": "You slide the keycard into its slot. You hear an audible click. You take the keycard back.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "אתה מכניס את כרטיס המפתח לחריץ שלו. אתה שומע קליק שמיע. אתה מחזיר את כרטיס המפתח."
+    },
+    {
+      "logicFile": "7.agilogic",
+      "messageNumber": 4,
+      "original": "You are too far away.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "אתה רחוק מדי."
+    },
+    {
+      "logicFile": "7.agilogic",
+      "messageNumber": 5,
+      "original": "You don't have that.",
+      "placeholders": [],
+      "matchType": "partial",
+      "translation": "אתה לא רוצה לעשות את זה כאן.",
+      "notes": "REVIEW: Partial match - context is 'have' not 'want to do'"
+    },
+    {
+      "logicFile": "7.agilogic",
+      "messageNumber": 6,
+      "original": "The walls are all nondescript except for a keycard unit near the elevator. It controls access to the level below.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "כל הקירות חסרי ייחוד מלבד יחידת כרטיס מפתח ליד המעלית. היא שולטת בגישה לרמה למטה."
+    },
+    {
+      "logicFile": "7.agilogic",
+      "messageNumber": 7,
+      "original": "One of your crewmates lies at your feet. He is non-functional.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "אחד מחברי הצוות שלך שוכב למרגלותיך. הוא לא פעיל."
+    },
+    {
+      "logicFile": "7.agilogic",
+      "messageNumber": 8,
+      "original": "%w1 %w2? I'm sorry, %s1. You can't do that. I question your mental fitness.",
+      "placeholders": [
+        "%w1",
+        "%w2",
+        "%s"
+      ],
+      "matchType": "unmatched",
+      "translation": "%w1 %w2? אני מצטער, %s1. אתה לא יכול לעשות את זה. אני מפקפק בכשירותך הנפשית."
+    },
+    {
+      "logicFile": "7.agilogic",
+      "messageNumber": 9,
+      "original": "You search the corpse and turn up. . .",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "אתה מחפש בגופה ומוצא..."
+    },
+    {
+      "logicFile": "7.agilogic",
+      "messageNumber": 10,
+      "original": "nothing.",
+      "placeholders": [],
+      "matchType": "exact",
+      "translation": "כלום."
+    },
+    {
+      "logicFile": "7.agilogic",
+      "messageNumber": 11,
+      "original": "The keycard unit is a small, sturdy box with a slot. Just above it is a display light which is not currently on.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "יחידת כרטיס המפתח היא קופסה קטנה וחזקה עם חריץ. ממש מעליה יש נורת תצוגה שכרגע לא דלוקה."
+    },
+    {
+      "logicFile": "7.agilogic",
+      "messageNumber": 12,
+      "original": "The keycard unit is a small, sturdy box with a slot. Just above it is a display light which is currently on.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "יחידת כרטיס המפתח היא קופסה קטנה וחזקה עם חריץ. ממש מעליה יש נורת תצוגה שכרגע דלוקה."
+    },
+    {
+      "logicFile": "7.agilogic",
+      "messageNumber": 13,
+      "original": "There is no keycard to get.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "אין כרטיס מפתח שניתן לקחת."
+    },
+    {
+      "logicFile": "7.agilogic",
+      "messageNumber": 14,
+      "original": "Alas, it does not open. You have adorned the door with a small circle of nose grease. Were you Karl Malden, it could have gotten ugly.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "אבוי, היא לא נפתחת. קישטת את הדלת במעגל קטן של שומן אף. לו היית קארל מלדן, זה יכול היה להפוך למכוער."
+    },
+    {
+      "logicFile": "7.agilogic",
+      "messageNumber": 15,
+      "original": "One can only wonder what your purpose for this action is. You can't undress the body. Allow him one last bit of dignity.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "אפשר רק לתהות מה המטרה שלך בפעולה הזאת. אתה לא יכול להפשיט את הגופה. תן לו מעט כבוד אחרון."
+    }
+  ]
+}

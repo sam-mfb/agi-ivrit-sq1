@@ -1,0 +1,36 @@
+{
+  "room": "77",
+  "totalMessages": 2,
+  "matchStats": {
+    "exact": 0,
+    "normalized": 0,
+    "fuzzy": 0,
+    "partial": 0,
+    "unmatched": 2
+  },
+  "csvContext": [],
+  "messages": [
+    {
+      "logicFile": "77.agilogic",
+      "messageNumber": 1,
+      "original": "Gosh, %s1.  It would appear you have met an untimely demise.  With the explosive destruction of the Arcada you become part of a fresh collection of space debris.",
+      "placeholders": ["%s"],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "אלוהים, %s1. נראה שנפגשת עם סופך בטרם עת. עם ההרס הנפיץ של הארקדה אתה הופך לחלק מאוסף רענן של פסולת חלל."
+    },
+    {
+      "logicFile": "77.agilogic",
+      "messageNumber": 2,
+      "original": "Despite your surprisingly valiant effort, you have been blown to eternity by the Star Generator itself.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "למרות המאמץ האמיץ המפתיע שלך, הופצצת אל הנצח על ידי מחולל הכוכבים עצמו."
+    }
+  ]
+}

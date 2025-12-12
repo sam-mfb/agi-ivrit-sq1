@@ -1,0 +1,36 @@
+{
+  "room": "73",
+  "totalMessages": 5,
+  "messages": [
+    {
+      "logicFile": "73.agilogic",
+      "messageNumber": 1,
+      "original": "You have this strange sinking feeling.",
+      "translation": "יש לך תחושת שקיעה מוזרה."
+    },
+    {
+      "logicFile": "73.agilogic",
+      "messageNumber": 2,
+      "original": "\\\"Ken? Did you hear something?\\\"",
+      "translation": "\\\"קן? שמעת משהו?\\\""
+    },
+    {
+      "logicFile": "73.agilogic",
+      "messageNumber": 3,
+      "original": "Through a strange quirk of fate (or was it?) you have stumbled into a place beyond time, space and dimension. You have entered...The Daventry Zone!! That's right, the land of King's Quest. This will not help you now since you are playing Space Quest.",
+      "translation": "באמצעות תופעה מוזרה של גורל (או שמא?) נתקלת במקום מעבר לזמן, חלל וממד. נכנסת...לאזור דייבנטרי!! נכון, ארץ מסע המלך. זה לא יעזור לך כעת מאחר ואתה משחק מסע בחלל."
+    },
+    {
+      "logicFile": "73.agilogic",
+      "messageNumber": 4,
+      "original": "",
+      "translation": ""
+    },
+    {
+      "logicFile": "73.agilogic",
+      "messageNumber": 5,
+      "original": "\\\"It was probably just the gators entertaining another Space Quest player. Go back to sleep, 'berta.\\\"",
+      "translation": "\\\"זה כנראה היה רק התנינים שמבדרים עוד שחקן מסע בחלל. תחזרי לישון, ברטה.\\\""
+    }
+  ]
+}

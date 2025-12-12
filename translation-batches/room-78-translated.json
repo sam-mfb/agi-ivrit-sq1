@@ -1,0 +1,31 @@
+{
+  "room": "78",
+  "totalMessages": 2,
+  "matchStats": {
+    "exact": 0,
+    "normalized": 0,
+    "fuzzy": 0,
+    "partial": 0,
+    "unmatched": 2
+  },
+  "messages": [
+    {
+      "logicFile": "78.agilogic",
+      "messageNumber": 1,
+      "original": "As you nervously hang on, the skimmer rises slowly to the surface of the planet via a secret passage.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "בעודך נאחז בחרדה, הרחפת עולה לאט אל פני השטח של הכוכב דרך מעבר סודי.",
+      "notes": ""
+    },
+    {
+      "logicFile": "78.agilogic",
+      "messageNumber": 2,
+      "original": "Upon reaching the surface, you throttle up and zoom off into the sunset.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "עם הגעתך אל השטח, אתה מגביר את המהירות וממריא אל השקיעה.",
+      "notes": ""
+    }
+  ]
+}

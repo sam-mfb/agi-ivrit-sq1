@@ -1,0 +1,733 @@
+{
+  "room": "57",
+  "totalMessages": 27,
+  "matchStats": {
+    "exact": 1,
+    "normalized": 0,
+    "fuzzy": 0,
+    "partial": 3,
+    "unmatched": 23
+  },
+  "csvContext": [
+    {
+      "original": "It's served its purpose already.",
+      "translated": "הוא כבר מילא את יעודו."
+    },
+    {
+      "original": "On the floor sits the trunk you rode here in.",
+      "translated": "על הקרקע מוטלת המזוודה שהרכיבה אותך הנה."
+    },
+    {
+      "original": "You don't need to mess with the trunk now.",
+      "translated": "אין צורך להתעסק עם המזוודה עכשיו."
+    },
+    {
+      "original": "The vent grill is open. Its pattern, however, is permanently engraved upon your memory and your foot.",
+      "translated": "סורג האוורור פתוח. הקימורים שלו, עם זאת, חקוקים לצמיתות בזכרונך ועל רגליך."
+    },
+    {
+      "original": "This is another vent grill.",
+      "translated": "זהו עוד סורג אוורור."
+    },
+    {
+      "original": "You don't need to bother with the vent now.",
+      "translated": "אתה לא צריך לטרוח עם תעלת האוורור כרגע."
+    },
+    {
+      "original": "The vent is already open.",
+      "translated": "תעלת האוורור כבר פתוחה."
+    },
+    {
+      "original": "Ahh! You've apparently acquired a taste for dust. I'll bet you're going to miss it when the game is over.",
+      "translated": "אהה! מסתבר שפיתחת חיבה לטעם של אבק. אני מניח שתתגעגע לזה כשהמשחק יסתיים."
+    },
+    {
+      "original": "It only makes you sneeze.",
+      "translated": "זה רק יגרום לך להתעטש."
+    },
+    {
+      "original": "Behind the glass door of the machine, you can see a load of dirty Sarien uniform components.",
+      "translated": "מאחורי דלתות הזכוכית, אתה רואה גיבוב של מדי סריאנים מטונפים."
+    },
+    {
+      "original": "In the machine area are your old duds. Good thing you got rid of them. You'd be awfully conspicuous in them.",
+      "translated": "באזור המכונה זרוקים בגדיך המרופטים. מזל שנפטרת מהם. היית נראה בהם מאד מחשיד."
+    },
+    {
+      "original": "No way would you consider repeating the experience.",
+      "translated": "אין סיכוי שאתה שוקל לשחזר את החוויה."
+    },
+    {
+      "original": "See the nose message.",
+      "translated": "ראה הודעת אף."
+    },
+    {
+      "original": "You're doing it again - clicking cursors on things to get funny messages. Stop that - this is a serious game!",
+      "translated": "עוד פעם אתה עושה את זה - מקליק סמנים על כל מיני דברים כדי לקבל הודעות מצחיקות. תפסיק עם זה - זה משחק רציני!"
+    },
+    {
+      "original": "That proves unfulfilling.",
+      "translated": "זה בלתי מספק בעליל."
+    },
+    {
+      "original": "You don't need those. When, or should I say if, you get home, you can buy some new ones.",
+      "translated": "אתה לא צריך אותם. כאשר, או יותר נכון אם, תגיע הביתה, תוכל לקנות כמה חדשים."
+    },
+    {
+      "original": "Old fabris softener sheets rest on the floor here.",
+      "translated": "דפי מרכך כביסה ישנים מפוזרים על הרצפה."
+    },
+    {
+      "original": "Old fabris softener sheets rest on the floor here. Hey! There's an ID card there also.",
+      "translated": "דפי מרכך כביסה ישנים מפוזרים על הרצפה. הי! יש שם גם תעודת זהות."
+    },
+    {
+      "original": "Your tongue is now wrinkle and static free.",
+      "translated": "הלשון שלך עכשיו מקומטת ונטולת חשמל סטטי."
+    },
+    {
+      "original": "They smell spring fresh.",
+      "translated": "יש להם ניחוח אביבי מרענן."
+    },
+    {
+      "original": "That of no use.",
+      "translated": "זה חסר תועלת."
+    },
+    {
+      "original": "You can't do that from in here.",
+      "translated": "אתה לא יכול לעשות את זה מכאן."
+    },
+    {
+      "original": "Now, this is truly unpleasant. You're definitely seeing more than you want to. Check out those incredibly ugly boxers!",
+      "translated": "עכשיו, זה באמת כבר לא נעים. אתה בהחלט רואה יותר ממה שהיית רוצה. תראה את התחתונים המכוערים האלה!"
+    },
+    {
+      "original": "Uh, oh! It's one of those Sarien dudes you saw on the Arcada monitors. You might be in deep stuff now.",
+      "translated": "הו הו! זהו אחד מברנשי הסריאנים שראית על מסכי הארקדה. אתה בטח בתסבוכת רצינית עכשיו."
+    },
+    {
+      "original": "There's no need to go through that again!",
+      "translated": "אין צורך לעבור את כל זה שוב!"
+    },
+    {
+      "original": "Another helmet sits in the washer.",
+      "translated": "עוד קסדה נמצאת במכונת הכביסה."
+    },
+    {
+      "original": "Ugh! It tastes like detergent.",
+      "translated": "אוח! יש לזה טעם חומר ניקוי."
+    },
+    {
+      "original": "You see a hint of scaley dandruff.",
+      "translated": "אתה רואה רמז לקשקשת קלה."
+    },
+    {
+      "original": "That's not helpful.",
+      "translated": "זה לא עוזר."
+    },
+    {
+      "original": "You can't do anything to it.",
+      "translated": "אינך יכול לעשות לו דבר."
+    },
+    {
+      "original": "A large vent shaft protrudes from the left wall of the laundry room.",
+      "translated": "פיר אוורור גדול בולט מן כותלו השמאלי של חדר הכביסה."
+    },
+    {
+      "original": "That's not a good idea.",
+      "translated": "זה לא רעיון טוב."
+    },
+    {
+      "original": "It's just a shadow.",
+      "translated": "זה רק צל."
+    },
+    {
+      "original": "Various pipes, ducts and other innocuous pieces of equipment form pronounced shadows throughout the room.",
+      "translated": "מגוון צינורות, תעלות ושאר חלקי ציוד בלתי מזיקים יוצרים משחק צללים ברחבי החדר."
+    },
+    {
+      "original": "The floor's nice and shiny. Even if it wasn't, you don't have the spare to work on it.",
+      "translated": "הרצפה נקיה ונוצצת. אפילו אם היא לא היתה, אין לך את הזמן לעבוד עליה."
+    },
+    {
+      "original": "The floor's nice and shiny.",
+      "translated": "הרצפה נקיה ונוצצת."
+    },
+    {
+      "original": "Just what you thought - waxey build-up. You'd be ashamed if you were in charge of this floor.",
+      "translated": "בדיוק מה שחשבת - הצטברות שעווה. היית מתבייש אם היית אחראי על הרצפה הזאת."
+    },
+    {
+      "original": "It smells waxey.",
+      "translated": "זה מסריח משעווה."
+    },
+    {
+      "original": "No result is forthcoming.",
+      "translated": "אין תוצאות."
+    },
+    {
+      "original": "This is almost certainly a cheap Sarien knock-off of the genuine Cleanse-O-Matic Rinse 'n Dip used to launder the crew uniforms aboard the Arcada.",
+      "translated": "לפנינו קרוב לודאי חיקוי סריאני זול של מכונת הטיהורומט שטוף וטבול שתפקידה הוא לכבס את מדי הצוות על סיפון הארקדה."
+    },
+    {
+      "original": "Quit goofing off and do something useful!",
+      "translated": "תפסיק להתבטל ותעשה משהו מועיל לשם שינוי!"
+    },
+    {
+      "original": "A faint miasma of Hijax liquid detergent hovers in the air near the machine.",
+      "translated": "אדים רעילים קלושים של חומר ניקוי נוזלי מרחפים באוויר הסמוך למכונה."
+    },
+    {
+      "original": "That's of no help.",
+      "translated": "זה חסר תועלת."
+    },
+    {
+      "original": "Whoa... what a ride!",
+      "translated": "וואו... איזו נסיעה!"
+    },
+    {
+      "original": "Uh, oh! You hear someone coming.",
+      "translated": "הו הו! אתה שומע מישהו מתקרב."
+    },
+    {
+      "original": "Darn static cling! Hey, look at that! By the most amazing stroke of luck, you've traded in your extremely conspicuous Xenon space suit for a Sarien officer's uniform complete with helmet.",
+      "translated": "חשמל סטטי ארור! הי, תראו את זה! עם הרבה מאד מזל, הצלחת להחליף את חליפת החלל הזנונית החשודה שלך בערכת מדי קצין סריאני מושלמת הכוללת קסדה."
+    },
+    {
+      "original": "Searching the pockets of your newly found disguise, you find the number of possessions you were packing has been greatly reduced. In fact, lost in that limbo void to where socks and baseballs disappear is everything but the data cartridge.",
+      "translated": "בתורך אחר מציאות בכיסי התחפושת החדשה, אתה מגלה כי חלק הארי של רכושך צומצם במידה ניכרת. למעשה, הכל הלך לאיבוד בתהום הנשיה בה נעלמים כדורי סל וגרביים מלבד מחסנית הנתונים."
+    },
+    {
+      "original": "Searching the pockets of your newly found disguise, you find the number of possessions you were packing has been greatly reduced. In fact, everything was lost in that limbo void to where socks and baseballs disappear except one lucky buckazoid.",
+      "translated": "בתורך אחר מציאות בכיסי התחפושת החדשה, אתה מגלה כי חלק הארי של רכושך צומצם במידה ניכרת. למעשה, הכל הלך לאיבוד בתהום הנשיה בה נעלמים כדורי סל וגרביים מלבד זוזואיד אחד בר מזל."
+    },
+    {
+      "original": "It sounds like someone is approaching this room!",
+      "translated": "נשמע שמישהו הולך וסוגר את המרחק בינו לבין החדר הזה!"
+    },
+    {
+      "original": "You hear footsteps approaching. You only have seconds to do something!",
+      "translated": "אתה שומע צעדים מתקרבים. יש לך שניות בודדות לעשות משהו!"
+    },
+    {
+      "original": "This vent is shut tight. You don't think anything short of kicking it from the other side could get it open.",
+      "translated": "פתח האוורור סגור בחוזקה. מלבד בעיטה מהצד השני שום דבר לא יצליח לפתוח אותו."
+    },
+    {
+      "original": "You can't seem to reach the vent from here",
+      "translated": "לא נראה שאתה מסוגל להגיע לפתח האוורור מכאן."
+    },
+    {
+      "original": "This room is similar to the storage room, with a large machine installed in one bulkhead.",
+      "translated": "החדר הזה דומה לחדר האחסון, עם מכונה גדולה מותקנת באחת הדפנות."
+    },
+    {
+      "original": "On the floor sits the trunk you rode here in.",
+      "translated": "על הקרקע מוטלת המזוודה שעליה רכבת הנה."
+    },
+    {
+      "original": "This is the protruding terminus of the vent shaft by which you entered.",
+      "translated": "זוהי התחנה הסופית של פיר האוורור שממנו נכנסת."
+    },
+    {
+      "original": "Behind the glass door of the machine, you can see a helmet that has been carelessly left inside after the dry cycle.",
+      "translated": "מאחורי דלת הזכוכית, אתה רואה קסדה שנותרה גלמודה לאחר הניקוי היבש."
+    },
+    {
+      "original": "vent shaft",
+      "translated": "פיר אוורור"
+    },
+    {
+      "original": "A large vent shaft protrudes from the left wall of the laundry room.",
+      "translated": "פיר אוורור גדול בולט מן כותלו השמאלי של חדר הכביסה."
+    },
+    {
+      "original": "Various pipes, ducts and other innocuous pieces of equipment form pronounced shadows throughout the room.",
+      "translated": "מגוון צינורות, תעלות ושאר פריטי ציוד בלתי מזיקים יוצרים משחק צללים ברחבי החדר."
+    },
+    {
+      "original": "storage room",
+      "translated": "חדר אחסון"
+    },
+    {
+      "original": "washing machine",
+      "translated": "מכונת כביסה"
+    },
+    {
+      "original": "This is almost certainly a cheap Sarien knock-off of the genuine Cleanse-O-Matic Rinse 'n Dip used to launder the crew uniforms aboard the Arcada.",
+      "translated": "לפנינו קרוב לודאי חיקוי סריאני זול של מכונת הטיהורומט שטוף וטבול שתפקידה הוא לכבס את מדי הצוות על סיפון הארקדה."
+    },
+    {
+      "original": "You talk to yourself and, as usual, learn nothing that you didn't already know.",
+      "translated": "אתה מדבר אל עצמך, וכרגיל, לא לומד משהו שלא ידעת כבר."
+    },
+    {
+      "original": "Hey! One shouldn't attempt to manipulate one's self in a family game.",
+      "translated": "היי! אתה לא אמור להתעסק עם עצמך במשחק לכל המשפחה."
+    },
+    {
+      "original": "Better not. You're likely to get a fur ball.",
+      "translated": "מוטב שלא. אתה צפוי לבלוע כדור פרווה."
+    },
+    {
+      "original": "The odor you're producing causes you to regret skipping last month's shower.",
+      "translated": "הניחוח שאתה מפיק גורם לך להתחרט על שדילגת על המקלחת החודשית."
+    },
+    {
+      "original": "You're too busy right now.",
+      "translated": "אתה עסוק מדי עכשיו."
+    },
+    {
+      "original": "Better save it for when you're thirsty.",
+      "translated": "עדיף לשמור את זה לרגעים שתהיה צמא."
+    },
+    {
+      "original": "You don't want to do that here.",
+      "translated": "אתה לא רוצה לעשות את זה כאן."
+    },
+    {
+      "original": "You wisely strap on the jetpack to allow your self motion control.",
+      "translated": "אתה חוגר בתבונתך את תרמיל הריחוף כדי לאפשר לך בקרת תנועה עצמית."
+    },
+    {
+      "original": "The jetpack is useful only in Zero-G situations.",
+      "translated": "תרמיל הריחוף יעיל רק במצבי אפס כבידה."
+    },
+    {
+      "original": "Don't bother. This knife wouldn't cut hot lard.",
+      "translated": "אל תטרח. הסכין לא חותכת שומן רותח."
+    },
+    {
+      "original": "Isn't this just the most amazing waste of time?",
+      "translated": "האין זה בזבוז הזמן המדהים ביותר בעולם?"
+    },
+    {
+      "original": "You have to wonder why you're performing such a useless action.",
+      "translated": "עליך לשאול את עצמך מדוע הינך מבצע פעולות כל כך חסרות תועלת."
+    },
+    {
+      "original": "You wisely decide this is a serious waste of time and energy.",
+      "translated": "אתה מחליט בחוכמה שמדובר בבזבוז משווע של זמן ואנרגיה."
+    },
+    {
+      "original": "You ask yourself why you're doing this and are forced to reply that you just don't know.",
+      "translated": "אתה שואל את עצמך למה אתה עושה זה ועצמך עונה לך שאין לו מושג."
+    },
+    {
+      "original": "Even for you, this isn't bright.",
+      "translated": "אפילו במונחים שלך, זה לא רעיון מבריק."
+    },
+    {
+      "original": "Thank you for playing Space Quest I. You've been most entertaining.",
+      "translated": "תודה ששיחקתם מסע בחלל 1. בידרתם אותנו כמו שצריך."
+    },
+    {
+      "original": "Are you sure you want to restart?",
+      "translated": "בטוח שרוצים להתחיל מחדש?"
+    },
+    {
+      "original": "Memory fragmented.",
+      "translated": "קטעי זכרונות."
+    },
+    {
+      "original": "What did you expect them to do, reproduce?",
+      "translated": "מה ציפית מהם לעשות, להתרבות?"
+    },
+    {
+      "original": "You're far too busy for that now.",
+      "translated": "אתה עסוק מדי בשביל זה עכשיו."
+    },
+    {
+      "original": "You switch the gadget off to conserve its energy.",
+      "translated": "אתה מכבה את הגאדג'ט כדי לחסוך באנרגיה."
+    },
+    {
+      "original": "You switch the gadget on.",
+      "translated": "אתה מפעיל את הגאדג'ט."
+    },
+    {
+      "original": "You're far to busy for that now.",
+      "translated": "אתה עסוק מדי בשביל זה עכשיו."
+    },
+    {
+      "original": "You scrape that sticky goo from the bottom of the rock.",
+      "translated": "אתה מגרד את העיסה הדביקה מתחתית הסלע."
+    },
+    {
+      "original": "There is nothing you can do to the rock.",
+      "translated": "אין לך מה לעשות לסלע."
+    },
+    {
+      "original": "You've already opened the survival kit and removed its contents.",
+      "translated": "כבר פתחת את ערכת ההישרדות ורוקנת את תכולתה."
+    },
+    {
+      "original": "Upon opening the survival kit you discover a Xenon army knife and a canister of dehydrated water.",
+      "translated": "אתה פותח את ערכת ההישרדות ומוצא בתוכה סכין צבאי זנוני ומיכל מים מיובשים."
+    },
+    {
+      "original": "You have %d Buckazoid%s",
+      "translated": "יש לך %d זוזואידים"
+    },
+    {
+      "original": "Thank you for playing Space Quest I. Too bad you've failed miserably and doomed all of your people to a horrible death at the hands of the Sariens. You quickly glance about the room to see if anyone saw your silly mistake. Better luck next time.",
+      "translated": "תודה ששיחקת מסע בחלל 1. עצוב מאד שנחלת כישלון מחפיר וגזרת על אנשיך מוות מחריד בידי הסריינים. אתה מעיף מבט חטוף מסביב לחדר ובודק אם מישהו הבחין בטעות המגוחכת שלך. בהצלחה בפעם הבאה."
+    },
+    {
+      "original": "Score: %d of %d",
+      "translated": "ניקוד: %d מתוך %d"
+    },
+    {
+      "original": "Roger Wilco",
+      "translated": "רוג'ר ווילקו"
+    },
+    {
+      "original": "It's you, Roger Wilco, janitor sub-extraordinaire.",
+      "translated": "זה אתה, רוג'ר ווילקו, מנקה תת-מעולה."
+    },
+    {
+      "original": "This is your brain take-out container.",
+      "translated": "זה מיכל הוצאת המוח שלך."
+    },
+    {
+      "original": "Let me out of here!\\n(Quit)",
+      "translated": "תוציאו אותי מכאן!\\n(צא)"
+    },
+    {
+      "original": "I don't know WHAT\\nI was thinking.\\nLet's Play!",
+      "translated": "אני לא יודע *מה*\\nאני חשבתי.\\nבואו נשחק!"
+    },
+    {
+      "original": "Of course I'm sure!",
+      "translated": "ברור שאני בטוח!"
+    },
+    {
+      "original": "Changed My Mind.\\nLet's Play!",
+      "translated": "שיניתי את דעתי.\\nבואו נשחק!"
+    },
+    {
+      "original": "Who cares",
+      "translated": "למי אכפת"
+    },
+    {
+      "original": "Debug",
+      "translated": "דיבאג"
+    },
+    {
+      "original": "Select this Icon to close this window.",
+      "translated": "בחר בסמליל הזה כדי לסגור את החלון."
+    },
+    {
+      "original": "Select this Icon then select an inventory item you'd like a description of.",
+      "translated": "בחר בסמליל הזה ואז בחר פריט מהמלאי שאתה רוצה תיאור שלו."
+    },
+    {
+      "original": "This allows you to do something to an item.",
+      "translated": "זה מאפשר לך לעשות משהו לפריט."
+    },
+    {
+      "original": "This allows you to select an item.",
+      "translated": "זה מאפשר לך לבחור פריט."
+    },
+    {
+      "original": "It's a cartridge from the Arcada's Data Archive.",
+      "translated": "זו מחסנית מארכיב המידע של הארקדה."
+    },
+    {
+      "original": "This keycard fits an electronic lock someplace on the Arcada.",
+      "translated": "הכרטיס הזה מתאים למנעול אלקטרוני איפשהו בארקדה."
+    },
+    {
+      "original": "This is some sort of gadget. You're not sure what it does exactly, but it has a switch.",
+      "translated": "זה סוג של אביזר. אתה לא בטוח מה בדיוק זה עושה, אבל יש לזה מתג."
+    },
+    {
+      "original": "It's the cone shaped tip of a stalagmite.",
+      "translated": "זה הקצה החרוטי של זקיף."
+    },
+    {
+      "original": "A Survival Kit",
+      "translated": "ערכת הישרדות"
+    },
+    {
+      "original": "It's a Xenon Army knife",
+      "translated": "זה אולר צבא קסנוני"
+    },
+    {
+      "original": "The can label says Pelvitron Dehydrated Water (H2) - All you add is air! Makes 10 gallons! Caution - Do not attempt to open or rupture container! Misuse could result in personal injury and/or flash flooding.",
+      "translated": "על התווית של הפחית כתוב פלוויטרון מים מיובשים - נשאר רק להוסיף אוויר! טוב ל-40 ליטר! זהירות - אל תנסה לפתוח או לקרוע את המיכל! שימוש לקוי עלול להסתיים בפציעה ו/או הצפה פתאומית."
+    }
+  ],
+  "messages": [
+    {
+      "logicFile": "57.agilogic",
+      "messageNumber": 1,
+      "original": "Be careful! You hear footsteps and muffled voices from beyond the door.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "57.agilogic",
+      "messageNumber": 2,
+      "original": "The sounds have temporarily gone away.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "57.agilogic",
+      "messageNumber": 6,
+      "original": "You can't do that from here.",
+      "placeholders": [],
+      "matchType": "exact",
+      "matchScore": 1,
+      "suggestedTranslation": "אתה לא יכול לעשות את זה מכאן.",
+      "csvMatch": "You can't do that from here."
+    },
+    {
+      "logicFile": "57.agilogic",
+      "messageNumber": 7,
+      "original": "You have no need to do that.",
+      "placeholders": [],
+      "matchType": "partial",
+      "matchScore": 0.5,
+      "suggestedTranslation": "אינך צריך לעשות זאת שוב.",
+      "csvMatch": "You don't need to do that again."
+    },
+    {
+      "logicFile": "57.agilogic",
+      "messageNumber": 8,
+      "original": "You peer through the small window in the door. You think you see someone standing in the hallway. Perhaps this isn't a good time to leave this part of the ship.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "57.agilogic",
+      "messageNumber": 9,
+      "original": "You peer through the doorway and see a Sarien guard standing in the hallway. He does not look too friendly.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "57.agilogic",
+      "messageNumber": 10,
+      "original": "You hear strange voices coming toward you!",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "57.agilogic",
+      "messageNumber": 11,
+      "original": "You climb into the trunk. The lid pounds shut above you.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "57.agilogic",
+      "messageNumber": 12,
+      "original": "You hear voices, muffled, then louder.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "57.agilogic",
+      "messageNumber": 13,
+      "original": "You suddenly feel the trunk lift off",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "57.agilogic",
+      "messageNumber": 14,
+      "original": "the deck and the sensation of",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "57.agilogic",
+      "messageNumber": 15,
+      "original": "movement.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "57.agilogic",
+      "messageNumber": 16,
+      "original": "After a few minutes, the trunk thuds to",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "57.agilogic",
+      "messageNumber": 17,
+      "original": "the floor, causing you to see stars in",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "57.agilogic",
+      "messageNumber": 18,
+      "original": "the darkness. The voices sound farther",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "57.agilogic",
+      "messageNumber": 19,
+      "original": "away, then gone.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "57.agilogic",
+      "messageNumber": 20,
+      "original": "You don't have that.",
+      "placeholders": [],
+      "matchType": "partial",
+      "matchScore": 0.5,
+      "suggestedTranslation": "אתה לא רוצה לעשות את זה כאן.",
+      "csvMatch": "You don't want to do that here."
+    },
+    {
+      "logicFile": "57.agilogic",
+      "messageNumber": 21,
+      "original": "You are standing in a large, empty room within the Sarien ship. On one wall is a vent.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "57.agilogic",
+      "messageNumber": 22,
+      "original": "You are standing in a large, empty room within the Sarien ship. On one wall is a vent. There is some sort of trunk on the floor.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "57.agilogic",
+      "messageNumber": 23,
+      "original": "Perhaps if you stood closer to the door.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "57.agilogic",
+      "messageNumber": 24,
+      "original": "Against the back wall are several large pipes. On the left wall is a vent.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "57.agilogic",
+      "messageNumber": 25,
+      "original": "You can't see into the vent from there.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "57.agilogic",
+      "messageNumber": 26,
+      "original": "It is completely dark on the other side of the vent.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "57.agilogic",
+      "messageNumber": 27,
+      "original": "There doesn't seem to be anything special about the container.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "57.agilogic",
+      "messageNumber": 28,
+      "original": "The door is tightly sealed.",
+      "placeholders": [],
+      "matchType": "partial",
+      "matchScore": 0.5,
+      "suggestedTranslation": "אטומות ומהודקות",
+      "csvMatch": "tightly sealed"
+    },
+    {
+      "logicFile": "57.agilogic",
+      "messageNumber": 29,
+      "original": "The door is not impressed.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "57.agilogic",
+      "messageNumber": 30,
+      "original": "It is too dark inside the trunk to see anything.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    }
+  ]
+}

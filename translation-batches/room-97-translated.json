@@ -1,0 +1,29 @@
+{
+  "room": "97",
+  "totalMessages": 2,
+  "matchStats": {
+    "exact": 0,
+    "normalized": 0,
+    "fuzzy": 0,
+    "partial": 0,
+    "unmatched": 2
+  },
+  "messages": [
+    {
+      "logicFile": "97.agilogic",
+      "messageNumber": 1,
+      "original": "Everything down here is composed of very hard rock. Everything has a slimey look and feel due to the humidity.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "כל מה שכאן למטה מורכב מסלע קשה מאוד. לכל דבר יש מראה ומרקם חלקלק בגלל הלחות."
+    },
+    {
+      "logicFile": "97.agilogic",
+      "messageNumber": 2,
+      "original": "Nothing can be climbed here. Things are either too slimey or too steep.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "אי אפשר לטפס על שום דבר כאן. הדברים חלקלקים מדי או תלולים מדי."
+    }
+  ]
+}

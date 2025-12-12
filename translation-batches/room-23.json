@@ -1,0 +1,401 @@
+{
+  "room": "23",
+  "totalMessages": 11,
+  "matchStats": {
+    "exact": 0,
+    "normalized": 0,
+    "fuzzy": 0,
+    "partial": 4,
+    "unmatched": 7
+  },
+  "csvContext": [
+    {
+      "original": "I'd say that the widening of those cracks is an excellent indication that this thing is not a truly stable unit. And don't you hate the way it makes your brain bounce around like a handball in all that spare cranial space?",
+      "translated": "הייתי אומר שהסדקים המתרחבים הינם אינדיקציה נהדרת לכך שהיחידה הזו אינה במצב יציב. ונכון שזה מרגיז איך שהמוח שלך מקפץ כמו כדור יד במרחבי החלל הגולגולתי?"
+    },
+    {
+      "original": "No doubt about it! There's going to be an accident (of one kind or another) on this shaky piece of calcium-rich matter.",
+      "translated": "אין ספק בעניין! תהיה תאונה (מסוג כזה או אחר) על פיסה עשירת סידן רעועה זו."
+    },
+    {
+      "original": "You've always got to push things to the limit, don't you? We warned you, but NO! YOU had to do it just one more time. Well, just wait 'til your father gets home!",
+      "translated": "תמיד אהבת למתוח את הגבולות, נכון? הזהרנו אותך, אבל לא! היית חייב לנסות עוד פעם אחת. טוב, חכה חכה עד שאבא שלך יגיע הביתה!"
+    },
+    {
+      "original": "If nothing else, it makes a pleasant thud.",
+      "translated": "לכל הפחות, זה גורם לחבטה נעימה."
+    },
+    {
+      "original": "It was not known that you are a master of the protrusion toss! That was a fine effort.",
+      "translated": "לא התפרסמת עד היום כאלוף בהטלת עקמות! כל הכבוד על הנסיון."
+    },
+    {
+      "original": "It's the snapped spinal protrusion you dislodged - resulting in its present position on the sand.",
+      "translated": "זו בליטת עמוד השדרה הסדוקה שחילצת - מופיעה בתצורתה הנוכחית על החול."
+    },
+    {
+      "original": "You've done all the relocation of this thing that your limited physique is capable of.",
+      "translated": "עשית את כל ההעתקות האפשריות לדבר הזה בהתאם למגבלות מבנה הגוף המצומצם שלך."
+    },
+    {
+      "original": "I'll bet that if you COULD reach it from here, you WOULD pull that sucker down on your very own head.",
+      "translated": "אני מתערב שאילו רק יכולת להגיע לשם מכאן, היית מושך את הדבר הזה על הראש שלך."
+    },
+    {
+      "original": "Hmm. It smells like a smashed vertebral protrusion. Of course, you're not a leading expert on the subject, so you might want a second opinion.",
+      "translated": "הממ. זה מריח כמו חוליה מרוסקת. כמובן, הרי אינך מומחה מוביל בתחום, אז מומלץ לקבל חוות דעת נוספת."
+    },
+    {
+      "original": "Hmm. It smells like a vertebral protrusion you once knew.",
+      "translated": "הממ. זה מריח כמו עמוד שדרה עקום שפעם הכרת."
+    },
+    {
+      "original": "Not much to report aurally.",
+      "translated": "אין הרבה מה לדווח באופן מילולי."
+    },
+    {
+      "original": "Gee! I thought everybody knew what sun-dried gigundasaurus bone smelled like.",
+      "translated": "אללי! חשבתי שכולם יודעים איזה ריח יש לעצם גרנדינוזאור מיובשת."
+    },
+    {
+      "original": "It would be like licking a dehydrated peach pit.",
+      "translated": "זה כמו ללקק גלעין אפרסק מיובש."
+    },
+    {
+      "original": "The only talking ribs you'll ever see are in fast-food commercials.",
+      "translated": "הצלעות המדברות היחידות שאי פעם תראה יהיו בפרסומות למזון מהיר."
+    },
+    {
+      "original": "This appears to be the thoracic area of the spinal column of this meatless beast. Other than an obviously defective vertebra, you've got more sand and crud.",
+      "translated": "נראה שזה אזור בית החזה של עמוד השדרה של חיה חסרת-בשר זו. מלבד חוליות פגומות באופן מובהק, יש פה עוד חול וטינופת."
+    },
+    {
+      "original": "bone bridge",
+      "translated": "גשר עצמות"
+    },
+    {
+      "original": "This genetically defective vertebra looks like it would be intolerant to much load bearing.",
+      "translated": "חוליות פגומות גנטית אלו נראות שהן לא יכולות לשאת יותר מדי משקל."
+    },
+    {
+      "original": "What started out at one time as mere hairline fractures are now clearly cracks in the imperfect vertebral module.",
+      "translated": "מה שהתחיל פעם בתור שבר דק הפך בבירור לסדקים במבנה החוליות הפגום."
+    },
+    {
+      "original": "strange plant pod",
+      "translated": "תרמיל צמח משונה"
+    },
+    {
+      "original": "You talk to yourself and, as usual, learn nothing that you didn't already know.",
+      "translated": "אתה מדבר אל עצמך, וכרגיל, לא לומד משהו שלא ידעת כבר."
+    },
+    {
+      "original": "Hey! One shouldn't attempt to manipulate one's self in a family game.",
+      "translated": "היי! אתה לא אמור להתעסק עם עצמך במשחק לכל המשפחה."
+    },
+    {
+      "original": "Better not. You're likely to get a fur ball.",
+      "translated": "מוטב שלא. אתה צפוי לבלוע כדור פרווה."
+    },
+    {
+      "original": "The odor you're producing causes you to regret skipping last month's shower.",
+      "translated": "הניחוח שאתה מפיק גורם לך להתחרט על שדילגת על המקלחת החודשית."
+    },
+    {
+      "original": "You're too busy right now.",
+      "translated": "אתה עסוק מדי עכשיו."
+    },
+    {
+      "original": "Better save it for when you're thirsty.",
+      "translated": "עדיף לשמור את זה לרגעים שתהיה צמא."
+    },
+    {
+      "original": "You don't want to do that here.",
+      "translated": "אתה לא רוצה לעשות את זה כאן."
+    },
+    {
+      "original": "You wisely strap on the jetpack to allow your self motion control.",
+      "translated": "אתה חוגר בתבונתך את תרמיל הריחוף כדי לאפשר לך בקרת תנועה עצמית."
+    },
+    {
+      "original": "The jetpack is useful only in Zero-G situations.",
+      "translated": "תרמיל הריחוף יעיל רק במצבי אפס כבידה."
+    },
+    {
+      "original": "Don't bother. This knife wouldn't cut hot lard.",
+      "translated": "אל תטרח. הסכין לא חותכת שומן רותח."
+    },
+    {
+      "original": "Isn't this just the most amazing waste of time?",
+      "translated": "האין זה בזבוז הזמן המדהים ביותר בעולם?"
+    },
+    {
+      "original": "You have to wonder why you're performing such a useless action.",
+      "translated": "עליך לשאול את עצמך מדוע הינך מבצע פעולות כל כך חסרות תועלת."
+    },
+    {
+      "original": "You wisely decide this is a serious waste of time and energy.",
+      "translated": "אתה מחליט בחוכמה שמדובר בבזבוז משווע של זמן ואנרגיה."
+    },
+    {
+      "original": "You ask yourself why you're doing this and are forced to reply that you just don't know.",
+      "translated": "אתה שואל את עצמך למה אתה עושה זה ועצמך עונה לך שאין לו מושג."
+    },
+    {
+      "original": "Even for you, this isn't bright.",
+      "translated": "אפילו במונחים שלך, זה לא רעיון מבריק."
+    },
+    {
+      "original": "Thank you for playing Space Quest I. You've been most entertaining.",
+      "translated": "תודה ששיחקתם מסע בחלל 1. בידרתם אותנו כמו שצריך."
+    },
+    {
+      "original": "Are you sure you want to restart?",
+      "translated": "בטוח שרוצים להתחיל מחדש?"
+    },
+    {
+      "original": "Memory fragmented.",
+      "translated": "קטעי זכרונות."
+    },
+    {
+      "original": "What did you expect them to do, reproduce?",
+      "translated": "מה ציפית מהם לעשות, להתרבות?"
+    },
+    {
+      "original": "You're far too busy for that now.",
+      "translated": "אתה עסוק מדי בשביל זה עכשיו."
+    },
+    {
+      "original": "You switch the gadget off to conserve its energy.",
+      "translated": "אתה מכבה את הגאדג'ט כדי לחסוך באנרגיה."
+    },
+    {
+      "original": "You switch the gadget on.",
+      "translated": "אתה מפעיל את הגאדג'ט."
+    },
+    {
+      "original": "You're far to busy for that now.",
+      "translated": "אתה עסוק מדי בשביל זה עכשיו."
+    },
+    {
+      "original": "You scrape that sticky goo from the bottom of the rock.",
+      "translated": "אתה מגרד את העיסה הדביקה מתחתית הסלע."
+    },
+    {
+      "original": "There is nothing you can do to the rock.",
+      "translated": "אין לך מה לעשות לסלע."
+    },
+    {
+      "original": "You've already opened the survival kit and removed its contents.",
+      "translated": "כבר פתחת את ערכת ההישרדות ורוקנת את תכולתה."
+    },
+    {
+      "original": "Upon opening the survival kit you discover a Xenon army knife and a canister of dehydrated water.",
+      "translated": "אתה פותח את ערכת ההישרדות ומוצא בתוכה סכין צבאי זנוני ומיכל מים מיובשים."
+    },
+    {
+      "original": "You have %d Buckazoid%s",
+      "translated": "יש לך %d זוזואידים"
+    },
+    {
+      "original": "Thank you for playing Space Quest I. Too bad you've failed miserably and doomed all of your people to a horrible death at the hands of the Sariens. You quickly glance about the room to see if anyone saw your silly mistake. Better luck next time.",
+      "translated": "תודה ששיחקת מסע בחלל 1. עצוב מאד שנחלת כישלון מחפיר וגזרת על אנשיך מוות מחריד בידי הסריינים. אתה מעיף מבט חטוף מסביב לחדר ובודק אם מישהו הבחין בטעות המגוחכת שלך. בהצלחה בפעם הבאה."
+    },
+    {
+      "original": "Score: %d of %d",
+      "translated": "ניקוד: %d מתוך %d"
+    },
+    {
+      "original": "Roger Wilco",
+      "translated": "רוג'ר ווילקו"
+    },
+    {
+      "original": "It's you, Roger Wilco, janitor sub-extraordinaire.",
+      "translated": "זה אתה, רוג'ר ווילקו, מנקה תת-מעולה."
+    },
+    {
+      "original": "This is your brain take-out container.",
+      "translated": "זה מיכל הוצאת המוח שלך."
+    },
+    {
+      "original": "Let me out of here!\\n(Quit)",
+      "translated": "תוציאו אותי מכאן!\\n(צא)"
+    },
+    {
+      "original": "I don't know WHAT\\nI was thinking.\\nLet's Play!",
+      "translated": "אני לא יודע *מה*\\nאני חשבתי.\\nבואו נשחק!"
+    },
+    {
+      "original": "Of course I'm sure!",
+      "translated": "ברור שאני בטוח!"
+    },
+    {
+      "original": "Changed My Mind.\\nLet's Play!",
+      "translated": "שיניתי את דעתי.\\nבואו נשחק!"
+    },
+    {
+      "original": "Who cares",
+      "translated": "למי אכפת"
+    },
+    {
+      "original": "Debug",
+      "translated": "דיבאג"
+    },
+    {
+      "original": "Select this Icon to close this window.",
+      "translated": "בחר בסמליל הזה כדי לסגור את החלון."
+    },
+    {
+      "original": "Select this Icon then select an inventory item you'd like a description of.",
+      "translated": "בחר בסמליל הזה ואז בחר פריט מהמלאי שאתה רוצה תיאור שלו."
+    },
+    {
+      "original": "This allows you to do something to an item.",
+      "translated": "זה מאפשר לך לעשות משהו לפריט."
+    },
+    {
+      "original": "This allows you to select an item.",
+      "translated": "זה מאפשר לך לבחור פריט."
+    },
+    {
+      "original": "It's a cartridge from the Arcada's Data Archive.",
+      "translated": "זו מחסנית מארכיב המידע של הארקדה."
+    },
+    {
+      "original": "This keycard fits an electronic lock someplace on the Arcada.",
+      "translated": "הכרטיס הזה מתאים למנעול אלקטרוני איפשהו בארקדה."
+    },
+    {
+      "original": "This is some sort of gadget. You're not sure what it does exactly, but it has a switch.",
+      "translated": "זה סוג של אביזר. אתה לא בטוח מה בדיוק זה עושה, אבל יש לזה מתג."
+    },
+    {
+      "original": "It's the cone shaped tip of a stalagmite.",
+      "translated": "זה הקצה החרוטי של זקיף."
+    },
+    {
+      "original": "A Survival Kit",
+      "translated": "ערכת הישרדות"
+    },
+    {
+      "original": "It's a Xenon Army knife",
+      "translated": "זה אולר צבא קסנוני"
+    },
+    {
+      "original": "The can label says Pelvitron Dehydrated Water (H2) - All you add is air! Makes 10 gallons! Caution - Do not attempt to open or rupture container! Misuse could result in personal injury and/or flash flooding.",
+      "translated": "על התווית של הפחית כתוב פלוויטרון מים מיובשים - נשאר רק להוסיף אוויר! טוב ל-40 ליטר! זהירות - אל תנסה לפתוח או לקרוע את המיכל! שימוש לקוי עלול להסתיים בפציעה ו/או הצפה פתאומית."
+    }
+  ],
+  "messages": [
+    {
+      "logicFile": "23.agilogic",
+      "messageNumber": 1,
+      "original": "You are in a desert cliff area.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "23.agilogic",
+      "messageNumber": 5,
+      "original": "It looks a lot like spinach. ",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "23.agilogic",
+      "messageNumber": 6,
+      "original": "You plant your teeth in the strange plant and take a large bite, only to find it tastes exquisitely bad. If you had your choice, you would choose any form of death over a meal of this.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "23.agilogic",
+      "messageNumber": 7,
+      "original": "You tear off a piece of the plant.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "23.agilogic",
+      "messageNumber": 8,
+      "original": "The Health Minister has determined that smoking is hazardous to your health.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "23.agilogic",
+      "messageNumber": 9,
+      "original": "You take a whiff of the plant and find it to be a regrettable experience.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    },
+    {
+      "logicFile": "23.agilogic",
+      "messageNumber": 10,
+      "original": "That is unreachable from here.",
+      "placeholders": [],
+      "matchType": "partial",
+      "matchScore": 0.5,
+      "suggestedTranslation": "אתה לא יכול לעשות את זה מכאן.",
+      "csvMatch": "You can't do that from in here."
+    },
+    {
+      "logicFile": "23.agilogic",
+      "messageNumber": 11,
+      "original": "You already have that.",
+      "placeholders": [],
+      "matchType": "partial",
+      "matchScore": 0.5,
+      "suggestedTranslation": "כבר יש לך את המפתחות.",
+      "csvMatch": "You already have the keys."
+    },
+    {
+      "logicFile": "23.agilogic",
+      "messageNumber": 12,
+      "original": "You don't have that.",
+      "placeholders": [],
+      "matchType": "partial",
+      "matchScore": 0.5,
+      "suggestedTranslation": "אתה לא רוצה לעשות את זה כאן.",
+      "csvMatch": "You don't want to do that here."
+    },
+    {
+      "logicFile": "23.agilogic",
+      "messageNumber": 13,
+      "original": "You are not near that.",
+      "placeholders": [],
+      "matchType": "partial",
+      "matchScore": 0.5,
+      "suggestedTranslation": "אתה לא עד כדי כך רעב.",
+      "csvMatch": "You're not that hungry."
+    },
+    {
+      "logicFile": "23.agilogic",
+      "messageNumber": 14,
+      "original": "Fortunately for you, the path here is not far above the ground. Your suffering is limited to a dull pain in the hindquarters.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": ""
+    }
+  ]
+}

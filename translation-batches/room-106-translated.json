@@ -1,0 +1,157 @@
+{
+  "room": "106",
+  "totalMessages": 16,
+  "matchStats": {
+    "exact": 9,
+    "normalized": 0,
+    "fuzzy": 0,
+    "partial": 0,
+    "unmatched": 7
+  },
+  "messages": [
+    {
+      "logicFile": "106.agilogic",
+      "messageNumber": 51,
+      "original": "0",
+      "translation": "0",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "notes": ""
+    },
+    {
+      "logicFile": "106.agilogic",
+      "messageNumber": 52,
+      "original": "1",
+      "translation": "1",
+      "placeholders": [],
+      "matchType": "exact",
+      "notes": ""
+    },
+    {
+      "logicFile": "106.agilogic",
+      "messageNumber": 53,
+      "original": "2",
+      "translation": "2",
+      "placeholders": [],
+      "matchType": "exact",
+      "notes": ""
+    },
+    {
+      "logicFile": "106.agilogic",
+      "messageNumber": 54,
+      "original": "3",
+      "translation": "3",
+      "placeholders": [],
+      "matchType": "exact",
+      "notes": ""
+    },
+    {
+      "logicFile": "106.agilogic",
+      "messageNumber": 55,
+      "original": "4",
+      "translation": "4",
+      "placeholders": [],
+      "matchType": "exact",
+      "notes": ""
+    },
+    {
+      "logicFile": "106.agilogic",
+      "messageNumber": 56,
+      "original": "5",
+      "translation": "5",
+      "placeholders": [],
+      "matchType": "exact",
+      "notes": ""
+    },
+    {
+      "logicFile": "106.agilogic",
+      "messageNumber": 57,
+      "original": "6",
+      "translation": "6",
+      "placeholders": [],
+      "matchType": "exact",
+      "notes": ""
+    },
+    {
+      "logicFile": "106.agilogic",
+      "messageNumber": 58,
+      "original": "7",
+      "translation": "7",
+      "placeholders": [],
+      "matchType": "exact",
+      "notes": ""
+    },
+    {
+      "logicFile": "106.agilogic",
+      "messageNumber": 59,
+      "original": "8",
+      "translation": "8",
+      "placeholders": [],
+      "matchType": "exact",
+      "notes": ""
+    },
+    {
+      "logicFile": "106.agilogic",
+      "messageNumber": 60,
+      "original": "9",
+      "translation": "9",
+      "placeholders": [],
+      "matchType": "exact",
+      "notes": ""
+    },
+    {
+      "logicFile": "106.agilogic",
+      "messageNumber": 61,
+      "original": " ",
+      "translation": " ",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "notes": ""
+    },
+    {
+      "logicFile": "106.agilogic",
+      "messageNumber": 62,
+      "original": ":",
+      "translation": ":",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "notes": ""
+    },
+    {
+      "logicFile": "106.agilogic",
+      "messageNumber": 63,
+      "original": "Time Till Detonation",
+      "translation": "זמן לפיצוץ",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "notes": ""
+    },
+    {
+      "logicFile": "106.agilogic",
+      "messageNumber": 64,
+      "original": ">>",
+      "translation": ">>",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "notes": ""
+    },
+    {
+      "logicFile": "106.agilogic",
+      "messageNumber": 65,
+      "original": "<<",
+      "translation": "<<",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "notes": ""
+    },
+    {
+      "logicFile": "106.agilogic",
+      "messageNumber": 66,
+      "original": "Hope your life insurance is paid up",
+      "translation": "מקווה שביטוח החיים שלך משולם",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "notes": ""
+    }
+  ]
+}

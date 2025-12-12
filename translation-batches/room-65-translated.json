@@ -1,0 +1,58 @@
+{
+  "room": "65",
+  "totalMessages": 5,
+  "matchStats": {
+    "exact": 0,
+    "normalized": 0,
+    "fuzzy": 0,
+    "partial": 1,
+    "unmatched": 4
+  },
+  "messages": [
+    {
+      "logicFile": "65.agilogic",
+      "messageNumber": 1,
+      "original": "........",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "........",
+      "notes": ""
+    },
+    {
+      "logicFile": "65.agilogic",
+      "messageNumber": 2,
+      "original": "  ",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "  ",
+      "notes": ""
+    },
+    {
+      "logicFile": "65.agilogic",
+      "messageNumber": 3,
+      "original": "F6 to Select Key",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "F6 לבחירת מקש",
+      "notes": ""
+    },
+    {
+      "logicFile": "65.agilogic",
+      "messageNumber": 4,
+      "original": "Invalid Code",
+      "placeholders": [],
+      "matchType": "partial",
+      "translation": "הוזן קוד שגוי",
+      "notes": "REVIEW: Partial match - suggested includes 'entered' which original doesn't have"
+    },
+    {
+      "logicFile": "65.agilogic",
+      "messageNumber": 5,
+      "original": "        ",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "        ",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "room": "22",
+  "totalMessages": 10,
+  "matchStats": {
+    "exact": 0,
+    "normalized": 0,
+    "fuzzy": 0,
+    "partial": 4,
+    "unmatched": 6
+  },
+  "messages": [
+    {
+      "logicFile": "22.agilogic",
+      "messageNumber": 1,
+      "original": "You are in a desert cliff area. There is a natural land bridge in the distance.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "אתה באזור צוקי מדבר. יש גשר אדמה טבעי במרחק.",
+      "notes": ""
+    },
+    {
+      "logicFile": "22.agilogic",
+      "messageNumber": 5,
+      "original": "It looks a lot like spinach. ",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "זה נראה מאוד כמו תרד. ",
+      "notes": ""
+    },
+    {
+      "logicFile": "22.agilogic",
+      "messageNumber": 6,
+      "original": "You plant your teeth in the strange plant and take a large bite, only to find it tastes exquisitely bad. If you had your choice, you would choose any form of death over a meal of this.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "אתה נועץ את שיניך בצמח המוזר ולוקח ביס גדול, רק כדי לגלות שטעמו גרוע להחריד. אם היתה לך ברירה, היית בוחר כל סוג של מוות על פני ארוחה מזה.",
+      "notes": ""
+    },
+    {
+      "logicFile": "22.agilogic",
+      "messageNumber": 7,
+      "original": "You tear off a piece of the plant.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "אתה תולש חתיכה מהצמח.",
+      "notes": ""
+    },
+    {
+      "logicFile": "22.agilogic",
+      "messageNumber": 8,
+      "original": "The Health Minister has determined that smoking is hazardous to your health.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "שר הבריאות קבע שעישון מזיק לבריאותך.",
+      "notes": ""
+    },
+    {
+      "logicFile": "22.agilogic",
+      "messageNumber": 9,
+      "original": "You take a whiff of the plant and find it to be a regrettable experience.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "אתה מריח את הצמח ומגלה שזו חוויה מצערת.",
+      "notes": ""
+    },
+    {
+      "logicFile": "22.agilogic",
+      "messageNumber": 10,
+      "original": "That is unreachable from here.",
+      "placeholders": [],
+      "matchType": "partial",
+      "translation": "אתה לא יכול לעשות את זה מכאן.",
+      "notes": "REVIEW: Partial match"
+    },
+    {
+      "logicFile": "22.agilogic",
+      "messageNumber": 11,
+      "original": "You already have that.",
+      "placeholders": [],
+      "matchType": "partial",
+      "translation": "כבר יש לך את המפתחות.",
+      "notes": "REVIEW: Partial match"
+    },
+    {
+      "logicFile": "22.agilogic",
+      "messageNumber": 12,
+      "original": "You don't have that.",
+      "placeholders": [],
+      "matchType": "partial",
+      "translation": "אתה לא רוצה לעשות את זה כאן.",
+      "notes": "REVIEW: Partial match"
+    },
+    {
+      "logicFile": "22.agilogic",
+      "messageNumber": 13,
+      "original": "You are not near that.",
+      "placeholders": [],
+      "matchType": "partial",
+      "translation": "אתה לא עד כדי כך רעב.",
+      "notes": "REVIEW: Partial match"
+    }
+  ]
+}

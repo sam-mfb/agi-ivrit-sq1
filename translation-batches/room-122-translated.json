@@ -1,0 +1,310 @@
+{
+  "room": "122",
+  "totalMessages": 33,
+  "matchStats": {
+    "exact": 0,
+    "normalized": 0,
+    "fuzzy": 0,
+    "partial": 1,
+    "unmatched": 32
+  },
+  "messages": [
+    {
+      "logicFile": "122.agilogic",
+      "messageNumber": 1,
+      "original": "\\\"Hey bud, what's with the helmet indoors?\\\" asks the curious guard.",
+      "translation": "\\\"הי חבר, מה הקטע עם הקסדה בפנים?\\\" שואל השומר הסקרן.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "notes": ""
+    },
+    {
+      "logicFile": "122.agilogic",
+      "messageNumber": 2,
+      "original": "Just as you begin to speak, the Sarien guard says, \\\"How many Analexians does it take to seduce a three-eared female sillovite.\\\"",
+      "translation": "בדיוק כשאתה מתחיל לדבר, שומר הסריאנים אומר, \\\"כמה אנלקסיאנים צריך כדי לפתות סילוביטית נקבה בעלת שלוש אוזניים.\\\"",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "notes": ""
+    },
+    {
+      "logicFile": "122.agilogic",
+      "messageNumber": 3,
+      "original": "\\\"Which way to the little boys room?\\\" you ask, hoping Sariens even do that sort of thing.",
+      "translation": "\\\"איפה השירותים לבנים?\\\" אתה שואל, בתקווה שלסריאנים יש בכלל דבר כזה.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "notes": ""
+    },
+    {
+      "logicFile": "122.agilogic",
+      "messageNumber": 4,
+      "original": "\\\"Is this the way to the Star Generator?\\\" you ask.",
+      "translation": "\\\"האם זו הדרך למחולל הכוכבים?\\\" אתה שואל.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "notes": ""
+    },
+    {
+      "logicFile": "122.agilogic",
+      "messageNumber": 5,
+      "original": "\\\"Have you played King's Quest III?\\\" you ask the Guard.",
+      "translation": "\\\"שיחקת במסע המלך III?\\\" אתה שואל את השומר.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "notes": ""
+    },
+    {
+      "logicFile": "122.agilogic",
+      "messageNumber": 6,
+      "original": "\\\"Are we having fun yet?\\\" you ask the guard.",
+      "translation": "\\\"כבר מתחילים להנות?\\\" אתה שואל את השומר.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "notes": ""
+    },
+    {
+      "logicFile": "122.agilogic",
+      "messageNumber": 7,
+      "original": "\\\"Gotta light?\\\" you query the guard.",
+      "translation": "\\\"יש אש?\\\" אתה שואל את השומר.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "notes": ""
+    },
+    {
+      "logicFile": "122.agilogic",
+      "messageNumber": 11,
+      "original": "\\\"Ssshh!\\\" you exclaim, \\\"I'm hiding from the boss.\\\" figuring you might confuse the guard.",
+      "translation": "\\\"שששש!\\\" אתה מכריז, \\\"אני מתחבא מהבוס.\\\" מתוך מחשבה שזה אולי יבלבל את השומר.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "notes": ""
+    },
+    {
+      "logicFile": "122.agilogic",
+      "messageNumber": 12,
+      "original": "After a reasonable period of silence at your end, the Guard answers his own joke, \\\"Two!!!\\\". He does not seem unduly impressed by your lack of laughter.",
+      "translation": "אחרי פרק זמן סביר של שתיקה מצדך, השומר עונה לבדיחה של עצמו, \\\"שניים!!!\\\" הוא לא נראה מאוד מרוצה מחוסר הצחוק שלך.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "notes": ""
+    },
+    {
+      "logicFile": "122.agilogic",
+      "messageNumber": 13,
+      "original": "The puzzled expression on the face of your new found friend confirms your worst fears.",
+      "translation": "ההבעה המבולבלת על פני החבר החדש שלך מאשרת את החשש הגרוע ביותר שלך.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "notes": ""
+    },
+    {
+      "logicFile": "122.agilogic",
+      "messageNumber": 14,
+      "original": "\\\"Don't ask me, I just work here,\\\" responds the unhelpful guard.",
+      "translation": "\\\"אל תשאל אותי, אני רק עובד כאן,\\\" עונה השומר חסר התועלת.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "notes": ""
+    },
+    {
+      "logicFile": "122.agilogic",
+      "messageNumber": 15,
+      "original": "\\\"Yes\\\" responds the surprised Guard, \\\"I just bought it last week. It was on sale for 128,000 buckazoids at Tiny's Holodisk Shop. What a bargain!!!\\\"",
+      "translation": "\\\"כן\\\" עונה השומר המופתע, \\\"קניתי אותו רק בשבוע שעבר. היה במבצע ב-128,000 זוזואידים בחנות הולודיסק של טייני. איזה מציאה!!!\\\"",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "notes": ""
+    },
+    {
+      "logicFile": "122.agilogic",
+      "messageNumber": 16,
+      "original": "\\\"This is the most fun I've had since the Hipoglopus ate my brother,\\\" responds the bored looking Sarien.",
+      "translation": "\\\"זה הכי כיף שהיה לי מאז שההיפוגלופוס אכל את אחי,\\\" עונה הסריאני שנראה משועמם.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "notes": ""
+    },
+    {
+      "logicFile": "122.agilogic",
+      "messageNumber": 17,
+      "original": "\\\"Sorry, don't drink.\\\"",
+      "translation": "\\\"סליחה, אני לא שותה.\\\"",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "notes": ""
+    },
+    {
+      "logicFile": "122.agilogic",
+      "messageNumber": 20,
+      "original": "The guard pretends not to notice you.",
+      "translation": "השומר מעמיד פנים שהוא לא שם לב אליך.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "notes": ""
+    },
+    {
+      "logicFile": "122.agilogic",
+      "messageNumber": 21,
+      "original": "Quiet! You don't want to accidentally blow your cover, do you?",
+      "translation": "שקט! אתה לא רוצה לחשוף את הכיסוי שלך במקרה, נכון?",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "notes": ""
+    },
+    {
+      "logicFile": "122.agilogic",
+      "messageNumber": 22,
+      "original": "Shouldn't you be trying to save your planet?",
+      "translation": "לא אמור אתה לנסות להציל את הכוכב שלך?",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "notes": ""
+    },
+    {
+      "logicFile": "122.agilogic",
+      "messageNumber": 23,
+      "original": "Talk, talk, talk, can't you find anything better to do?",
+      "translation": "אתה לא יכול לעשות לו דבר.",
+      "placeholders": [],
+      "matchType": "partial",
+      "notes": "REVIEW: Suggested translation from partial match"
+    },
+    {
+      "logicFile": "122.agilogic",
+      "messageNumber": 24,
+      "original": "The guard wrinkles his nose in disgust. \\\"Leave me alone!\\\" he exclaims. \\\"You smell like the ventricular portion of a Hypoglopus!\\\" Obviously, this guard has no taste at all.",
+      "translation": "השומר מקמט את אפו בגועל. \\\"עזוב אותי!\\\" הוא קורא. \\\"אתה מריח כמו החלק החדרי של היפוגלופוס!\\\" ברור שלשומר הזה אין כלל טעם.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "notes": ""
+    },
+    {
+      "logicFile": "122.agilogic",
+      "messageNumber": 25,
+      "original": "The guard looks at you as though you just questioned his mothers heritage. Perhaps you should not waste time conversing with the guards.",
+      "translation": "השומר מסתכל עליך כאילו הטלת ספק במוצא של אמו. אולי לא כדאי לך לבזבז זמן בשיחה עם השומרים.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "notes": ""
+    },
+    {
+      "logicFile": "122.agilogic",
+      "messageNumber": 26,
+      "original": "The guard talks back.",
+      "translation": "השומר משיב בחוצפה.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "notes": ""
+    },
+    {
+      "logicFile": "122.agilogic",
+      "messageNumber": 27,
+      "original": "The guard describes to you in graphic detail his previous evening's exploits.",
+      "translation": "השומר מתאר לך בפירוט גרפי את ההרפתקאות שלו מהערב הקודם.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "notes": ""
+    },
+    {
+      "logicFile": "122.agilogic",
+      "messageNumber": 28,
+      "original": "The guard outlines his favorite massacre, \\\"The Great Daventry Rout\\\" as he called it. You ponder the meaning of this for a while.",
+      "translation": "השומר משרטט את הטבח האהוב עליו, \\\"מסע הטבח הגדול בדייבנטרי\\\" כפי שהוא קורא לו. אתה מהרהר במשמעות הדבר לזמן מה.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "notes": ""
+    },
+    {
+      "logicFile": "122.agilogic",
+      "messageNumber": 29,
+      "original": "The guard looks at you as though you look different somehow.",
+      "translation": "השומר מסתכל עליך כאילו אתה נראה שונה איכשהו.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "notes": ""
+    },
+    {
+      "logicFile": "122.agilogic",
+      "messageNumber": 30,
+      "original": "Leave me alone. I am guarding the Star Generator.",
+      "translation": "עזוב אותי בשקט. אני שומר על מחולל הכוכבים.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "notes": ""
+    },
+    {
+      "logicFile": "122.agilogic",
+      "messageNumber": 31,
+      "original": "Kill him yourself.",
+      "translation": "תהרוג אותו בעצמך.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "notes": ""
+    },
+    {
+      "logicFile": "122.agilogic",
+      "messageNumber": 32,
+      "original": "As you pucker up your lips and lean close, you suddenly remember what your mother taught you about Sariens. In a rare moment of wisdom, you decide not to get anything started you're  unwilling to finish.",
+      "translation": "בעודך מצמצם את שפתייך ונוטה קדימה, אתה פתאום זוכר מה אמא שלך לימדה אותך על סריאנים. ברגע נדיר של חוכמה, אתה מחליט לא להתחיל משהו שאתה לא מוכן לסיים.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "notes": ""
+    },
+    {
+      "logicFile": "122.agilogic",
+      "messageNumber": 33,
+      "original": "He looks to be armed and dangerous. I wouldn't mess around with him.",
+      "translation": "הוא נראה חמוש ומסוכן. לא הייתי מתעסק איתו.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "notes": ""
+    },
+    {
+      "logicFile": "122.agilogic",
+      "messageNumber": 34,
+      "original": "You are too far away.",
+      "translation": "אתה רחוק מדי.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "notes": ""
+    },
+    {
+      "logicFile": "122.agilogic",
+      "messageNumber": 35,
+      "original": "\\\"Do you own King's Quest II?\\\" asks the nosy guard.",
+      "translation": "\\\"יש לך מסע המלך II?\\\" שואל השומר החטטן.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "notes": ""
+    },
+    {
+      "logicFile": "122.agilogic",
+      "messageNumber": 36,
+      "original": "\\\"Too Bad.\\\"",
+      "translation": "\\\"חבל.\\\"",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "notes": ""
+    },
+    {
+      "logicFile": "122.agilogic",
+      "messageNumber": 37,
+      "original": "\\\"Great!!!\\\" responds the guard. Pondering his interest you ask yourself whether or not this guy is getting a kickback from Sierra On-Line. Later you realize this is silly, what would a Sarien do with money from Coarsegold?",
+      "translation": "\\\"מעולה!!!\\\" עונה השומר. מהרהר בעניין שלו אתה שואל את עצמך אם הבחור הזה מקבל עמלה מסיירה און-ליין. אחר כך אתה מבין שזה מגוחך, מה סריאני יעשה עם כסף מקורזגולד?",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "notes": ""
+    },
+    {
+      "logicFile": "122.agilogic",
+      "messageNumber": 38,
+      "original": "Everyone gets their kicks in different ways. Yours is the strangest of which I am aware.",
+      "translation": "כל אחד מקבל את הסיפוקים שלו בדרכים שונות. שלך היא המוזרה ביותר שאני מכיר.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "notes": ""
+    }
+  ]
+}

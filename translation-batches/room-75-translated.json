@@ -1,0 +1,150 @@
+{
+  "room": "75",
+  "totalMessages": 24,
+  "messages": [
+    {
+      "logicFile": "75.agilogic",
+      "messageNumber": 1,
+      "original": "YOU LOSE, HOMEBOY!!!",
+      "translation": "הפסדת, חבוב!"
+    },
+    {
+      "logicFile": "75.agilogic",
+      "messageNumber": 2,
+      "original": "Enter Number > ",
+      "translation": "הזן מספר > "
+    },
+    {
+      "logicFile": "75.agilogic",
+      "messageNumber": 3,
+      "original": "1 = Skulls    2 = Cherries",
+      "translation": "1 = גולגולות    2 = דובדבנים"
+    },
+    {
+      "logicFile": "75.agilogic",
+      "messageNumber": 4,
+      "original": "3 = Diamonds  4 = Eyes",
+      "translation": "3 = יהלומים  4 = עיניים"
+    },
+    {
+      "logicFile": "75.agilogic",
+      "messageNumber": 5,
+      "original": " Wins 1   ",
+      "translation": " זוכה 1   "
+    },
+    {
+      "logicFile": "75.agilogic",
+      "messageNumber": 6,
+      "original": " Wins 3   ",
+      "translation": " זוכה 3   "
+    },
+    {
+      "logicFile": "75.agilogic",
+      "messageNumber": 7,
+      "original": " Wins 5   ",
+      "translation": " זוכה 5   "
+    },
+    {
+      "logicFile": "75.agilogic",
+      "messageNumber": 8,
+      "original": " Wins 20  ",
+      "translation": " זוכה 20  "
+    },
+    {
+      "logicFile": "75.agilogic",
+      "messageNumber": 9,
+      "original": " Wins 10  ",
+      "translation": " זוכה 10  "
+    },
+    {
+      "logicFile": "75.agilogic",
+      "messageNumber": 10,
+      "original": " = DEATH! ",
+      "translation": " = מוות! "
+    },
+    {
+      "logicFile": "75.agilogic",
+      "messageNumber": 13,
+      "original": "  To Cash In   ",
+      "translation": "  למזומן   "
+    },
+    {
+      "logicFile": "75.agilogic",
+      "messageNumber": 14,
+      "original": "  Press \\\"F10\\\"  ",
+      "translation": "  לחץ \\\"F10\\\"  "
+    },
+    {
+      "logicFile": "75.agilogic",
+      "messageNumber": 15,
+      "original": " ",
+      "translation": " "
+    },
+    {
+      "logicFile": "75.agilogic",
+      "messageNumber": 16,
+      "original": "You are presently standing in front of a slot machine.",
+      "translation": "אתה עומד כעת מול מכונת מזל."
+    },
+    {
+      "logicFile": "75.agilogic",
+      "messageNumber": 31,
+      "original": "You're broke!  Hit the road, freeloader!",
+      "translation": "אתה שבור! תסתלק מכאן, טפיל!"
+    },
+    {
+      "logicFile": "75.agilogic",
+      "messageNumber": 34,
+      "original": "Sorry, you don't have enough to bet that much.",
+      "translation": "מצטער, אין לך מספיק כדי להמר כל כך הרבה."
+    },
+    {
+      "logicFile": "75.agilogic",
+      "messageNumber": 48,
+      "original": "        ",
+      "translation": "        "
+    },
+    {
+      "logicFile": "75.agilogic",
+      "messageNumber": 49,
+      "original": "               ",
+      "translation": "               "
+    },
+    {
+      "logicFile": "75.agilogic",
+      "messageNumber": 59,
+      "original": "F10 To Quit",
+      "translation": "F10 ליציאה"
+    },
+    {
+      "logicFile": "75.agilogic",
+      "messageNumber": 60,
+      "original": " F4 Bets $1    F6 Bets $2    F8 Bets $3",
+      "translation": " F4 מהמר $1    F6 מהמר $2    F8 מהמר $3"
+    },
+    {
+      "logicFile": "75.agilogic",
+      "messageNumber": 61,
+      "original": "Bet           ",
+      "translation": "הימור           "
+    },
+    {
+      "logicFile": "75.agilogic",
+      "messageNumber": 62,
+      "original": " 1 = 1x Payoff",
+      "translation": " 1 = תשלום פי 1"
+    },
+    {
+      "logicFile": "75.agilogic",
+      "messageNumber": 63,
+      "original": " 2 = 2x   \\\"   ",
+      "translation": " 2 = פי 2   \\\"   "
+    },
+    {
+      "logicFile": "75.agilogic",
+      "messageNumber": 64,
+      "original": " 3 = 3x   \\\"   ",
+      "translation": " 3 = פי 3   \\\"   "
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "room": "69",
+  "totalMessages": 6,
+  "messages": [
+    {
+      "logicFile": "69.agilogic",
+      "messageNumber": 1,
+      "original": "Welcome Aboard Arcada",
+      "translation": "ברוכים הבאים על סיפון הארקדה"
+    },
+    {
+      "logicFile": "69.agilogic",
+      "messageNumber": 2,
+      "original": "To log on as a crew member",
+      "translation": "להתחבר כחבר צוות"
+    },
+    {
+      "logicFile": "69.agilogic",
+      "messageNumber": 3,
+      "original": "please enter your name below",
+      "translation": "נא להזין את שמך למטה"
+    },
+    {
+      "logicFile": "69.agilogic",
+      "messageNumber": 4,
+      "original": "(up to 18 characters):",
+      "translation": "(עד 18 תווים):"
+    },
+    {
+      "logicFile": "69.agilogic",
+      "messageNumber": 5,
+      "original": "First Name: ",
+      "translation": "שם פרטי: "
+    },
+    {
+      "logicFile": "69.agilogic",
+      "messageNumber": 6,
+      "original": "Roger Wilco",
+      "translation": "רוג'ר ווילקו"
+    }
+  ]
+}

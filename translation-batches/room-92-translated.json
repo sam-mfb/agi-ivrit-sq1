@@ -1,0 +1,184 @@
+{
+  "room": "92",
+  "totalMessages": 19,
+  "matchStats": {
+    "exact": 0,
+    "normalized": 0,
+    "fuzzy": 3,
+    "partial": 1,
+    "unmatched": 15
+  },
+  "messages": [
+    {
+      "logicFile": "92.agilogic",
+      "messageNumber": 1,
+      "original": "              SPACE QUEST",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "              מסע בחלל",
+      "notes": ""
+    },
+    {
+      "logicFile": "92.agilogic",
+      "messageNumber": 2,
+      "original": "                 Help",
+      "placeholders": [],
+      "matchType": "partial",
+      "translation": "זה חסר תועלת.",
+      "notes": "REVIEW: Partial match - suggested translation is 'that's of no help' while original is just 'Help'"
+    },
+    {
+      "logicFile": "92.agilogic",
+      "messageNumber": 3,
+      "original": "    F1 displays this message.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "    F1 מציג הודעה זו.",
+      "notes": ""
+    },
+    {
+      "logicFile": "92.agilogic",
+      "messageNumber": 4,
+      "original": "    F2 turns the sound off and on.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "    F2 מפעיל ומכבה את הקול.",
+      "notes": ""
+    },
+    {
+      "logicFile": "92.agilogic",
+      "messageNumber": 5,
+      "original": "    F3 retypes the last line typed.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "    F3 מקליד מחדש את השורה האחרונה.",
+      "notes": ""
+    },
+    {
+      "logicFile": "92.agilogic",
+      "messageNumber": 7,
+      "original": "    F5 saves your current game.",
+      "placeholders": [],
+      "matchType": "fuzzy",
+      "translation": "שומרת את המשחק הנוכחי שלך.",
+      "notes": ""
+    },
+    {
+      "logicFile": "92.agilogic",
+      "messageNumber": 9,
+      "original": "    F7 restores a saved game.",
+      "placeholders": [],
+      "matchType": "fuzzy",
+      "translation": "טוענת משחק שנשמר.",
+      "notes": ""
+    },
+    {
+      "logicFile": "92.agilogic",
+      "messageNumber": 11,
+      "original": "    F9 restarts the game.",
+      "placeholders": [],
+      "matchType": "fuzzy",
+      "translation": "מאתחלת את המשחק.",
+      "notes": ""
+    },
+    {
+      "logicFile": "92.agilogic",
+      "messageNumber": 13,
+      "original": "   TAB shows the status screen.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "   TAB מציג את מסך הסטטוס.",
+      "notes": ""
+    },
+    {
+      "logicFile": "92.agilogic",
+      "messageNumber": 14,
+      "original": "   ESC pops up menus.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "   ESC מציג תפריטים.",
+      "notes": ""
+    },
+    {
+      "logicFile": "92.agilogic",
+      "messageNumber": 15,
+      "original": "Ctrl-J sets up your joystick.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "Ctrl-J מגדיר את הג'ויסטיק שלך.",
+      "notes": ""
+    },
+    {
+      "logicFile": "92.agilogic",
+      "messageNumber": 16,
+      "original": "Ctrl-R toggles RGB monitor modes.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "Ctrl-R מחליף בין מצבי מסך RGB.",
+      "notes": ""
+    },
+    {
+      "logicFile": "92.agilogic",
+      "messageNumber": 17,
+      "original": "    F1 or HELP displays this message.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "    F1 או HELP מציג הודעה זו.",
+      "notes": ""
+    },
+    {
+      "logicFile": "92.agilogic",
+      "messageNumber": 18,
+      "original": "   TAB shows status screen. (see below)",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "   TAB מציג מסך סטטוס. (ראה להלן)",
+      "notes": ""
+    },
+    {
+      "logicFile": "92.agilogic",
+      "messageNumber": 19,
+      "original": "Double clicking joystick button or\\n right mouse button also shows status\\n screen. Single click pops up menus",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "לחיצה כפולה על כפתור הג'ויסטיק או\\n כפתור העכבר הימני מציג גם\\n מסך סטטוס. לחיצה בודדת מציגה תפריטים",
+      "notes": ""
+    },
+    {
+      "logicFile": "92.agilogic",
+      "messageNumber": 20,
+      "original": "    +  Increases volume.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "    +  מגביר עוצמת קול.",
+      "notes": ""
+    },
+    {
+      "logicFile": "92.agilogic",
+      "messageNumber": 21,
+      "original": "    -  Decreases volume.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "    -  מנמיך עוצמת קול.",
+      "notes": ""
+    },
+    {
+      "logicFile": "92.agilogic",
+      "messageNumber": 22,
+      "original": "    F6 to fire Pulseray.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "    F6 לירות Pulseray.",
+      "notes": ""
+    },
+    {
+      "logicFile": "92.agilogic",
+      "messageNumber": 23,
+      "original": "Ctrl-J sets up your controller.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "Ctrl-J מגדיר את הבקר שלך.",
+      "notes": ""
+    }
+  ]
+}

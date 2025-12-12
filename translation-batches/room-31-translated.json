@@ -1,0 +1,760 @@
+{
+  "room": "31",
+  "totalMessages": 83,
+  "matchStats": {
+    "exact": 8,
+    "normalized": 0,
+    "fuzzy": 6,
+    "partial": 5,
+    "unmatched": 64
+  },
+  "messages": [
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 1,
+      "original": "Please, don't be alarmed. We intend no harm. We are a peaceful race. We are cautious, however. Others don't share our way of life. Welcome to Kerona.",
+      "placeholders": [],
+      "matchType": "exact",
+      "translation": "בבקשה, לא להיבהל. אין לנו כוונה לפגוע. אנחנו גזע שוחר שלום. עם זאת, אנחנו זהירים. אחרים אינם חולקים את דרך חיינו. ברוך הבא לקרונה.",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 2,
+      "original": "You are standing in the power generation facility of our underground settlement. All power here is produced by steam. That is unimportant to you, however. We have promised you transportation.",
+      "placeholders": [],
+      "matchType": "exact",
+      "translation": "אתה עומד במתקן ייצור אנרגיה של המושבה התת-קרקעית שלנו. כל האנרגיה כאן מיוצרת על ידי אדים. עם זאת, זה לא חשוב עבורך. הבטחנו לך תחבורה.",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 3,
+      "original": "It is a Skimmer. It hovers approximately 1/2 meter above the traveling surface. This is very important because of Grell.",
+      "placeholders": [],
+      "matchType": "exact",
+      "translation": "זוהי רחפת. היא מרחפת בערך חצי מטר מעל משטחי המסע. זה מאוד חשוב בגלל גרל.",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 4,
+      "original": "Grell and his like dwell in caves below the sand. If you stand on the surface too long you chance becoming a rare moist meal for him.",
+      "placeholders": [],
+      "matchType": "fuzzy",
+      "translation": "גרל ודומיו שוכנים במערות מתחת לחול. אם תעמוד על השטח זמן רב מדי, אתה מסתכן בלהפוך לארוחה לחה ונדירה בשבילו.",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 5,
+      "original": "The skimmer is programmed to take you to a settlement on the other side of Kerona called Ulence Flats. You can make further travel arrangements there.",
+      "placeholders": [],
+      "matchType": "exact",
+      "translation": "הרחפת מתוכננת לקחת אותך למושבה בצד השני של קרונה שנקראת מישורי אולנס. תוכל להמשיך בסידורי המסע שלך שם.",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 6,
+      "original": "I am sorry this is all we can offer. I hope your trip is a safe one. Board the skimmer when you are ready to depart. Good luck, strange one.",
+      "placeholders": [],
+      "matchType": "exact",
+      "translation": "אני מתנצל שזה כל מה שנוכל להציע. אני מקווה שמסעך יהיה בטוח. עלה על הרחפת כשתהיה מוכן לצאת. בהצלחה, נוכרי.",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 7,
+      "original": "You don't have one.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "אין לך אחד כזה.",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 11,
+      "original": "  Whosoever shall read this:  My name",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "  כל הקורא זאת:  שמי",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 12,
+      "original": " is Dr. Slash Vohaul. I am a scientist",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": " הוא ד\"ר סלאש וואהול. אני מדען",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 13,
+      "original": " with The Star Generator Project aboard",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": " בפרויקט מחולל הכוכבים על סיפון",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 14,
+      "original": "         the Starlab Arcada.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "         מעבדת הכוכבים ארקדה.",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 15,
+      "original": "  We have just successfully completed",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "  זה עתה השלמנו בהצלחה",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 16,
+      "original": "  development and testing of The Star",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "  את הפיתוח והבדיקות של מחולל",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 17,
+      "original": "  Generator. During this time I have",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "  הכוכבים. במהלך זמן זה",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 18,
+      "original": " come to believe that our progress has",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": " התחלתי להאמין שההתקדמות שלנו",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 19,
+      "original": " been monitored by others. I fear that",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": " נוטרה על ידי אחרים. אני חושש ש",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 20,
+      "original": "  the Sariens may have learned of our",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "  הסריינים אולי נודע להם על",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 21,
+      "original": "               mission.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "               המשימה שלנו.",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 22,
+      "original": "   If my fears prove true, The Star",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "   אם חששותי מתגשמים, מחולל",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 23,
+      "original": "   Generator and the people of our",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "   הכוכבים ותושבי",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 24,
+      "original": "  universe are in serious jeopardy.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "  היקום שלנו נתונים בסכנה חמורה.",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 25,
+      "original": "  The Star Generator is a miraculous",
+      "placeholders": [],
+      "matchType": "partial",
+      "translation": "  מחולל הכוכבים הוא מכשיר",
+      "notes": "REVIEW: Partial match - adapted from 'walkway above the Star Generator' context"
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 26,
+      "original": "device. Used as intended, it will help",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "נפלא. אם ישמש כמתוכנן, הוא יעזור",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 27,
+      "original": " preserve life for eons to come.  Used",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": " לשמר חיים לעידנים הבאים.  אם ישמש",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 28,
+      "original": " as a device for evil, it would cause",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": " ככלי לרשע, הוא יגרום",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 29,
+      "original": " the destruction of millions of lives",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": " להשמדת מיליוני חיים",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 30,
+      "original": "      and enslave all who oppose",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "      וישעבד את כל המתנגדים",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 31,
+      "original": "             the Sariens.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "             לסריינים.",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 33,
+      "original": " Encoded within this cartridge are all",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": " מקודדים במחסנית זו כל",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 34,
+      "original": "   plans and specifications for the",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "   התוכניות והמפרטים לבניית",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 35,
+      "original": "  construction of the Star Generator.",
+      "placeholders": [],
+      "matchType": "partial",
+      "translation": "  מחולל הכוכבים.",
+      "notes": "REVIEW: Partial match - adapted from 'walkway above the Star Generator' context"
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 36,
+      "original": "  Should any disaster befall the Star",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "  במידה ופורענות תפקוד את מחולל",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 37,
+      "original": "  Generator project, scientists would",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "  הכוכבים, מדענים יוכלו",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 38,
+      "original": "  be able to create a duplicate of the",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "  ליצור עותק של מחולל",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 39,
+      "original": " Star Generator with this information.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": " הכוכבים בעזרת מידע זה.",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 40,
+      "original": "   Please guard this with your life.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "   אנא שמור על זה במחיר חייך.",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 41,
+      "original": " Return it to the Xenon ruling body as",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": " החזר זאת לגוף השלטוני של קסנון",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 42,
+      "original": "        quickly as is possible.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "        מהר ככל האפשר.",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 43,
+      "original": "  Important note: The Star Generator",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "  הערה חשובה: מחולל הכוכבים",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 44,
+      "original": "   is capable of self-destruction.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "   מסוגל להשמדה עצמית.",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 45,
+      "original": " This was introduced to the system as a",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": " תכונה זו הוכנסה למערכת כאמצעי",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 46,
+      "original": "     precaution. To activate it one",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "     זהירות. כדי להפעיל זאת יש",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 47,
+      "original": "          must enter the code:",
+      "placeholders": [],
+      "matchType": "partial",
+      "translation": "          להזין את הקוד:",
+      "notes": "REVIEW: Partial match - adapted from 'Enter Code:' context"
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 48,
+      "original": "                 6858",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "                 6858",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 50,
+      "original": "    A five minute timer will begin",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "    טיימר של חמש דקות יתחיל",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 51,
+      "original": " to count down. Beware - anyone within",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": " לספור לאחור. היזהר - כל מי שנמצא",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 52,
+      "original": " five kilometers of the Star Generator",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": " בטווח חמישה קילומטרים ממחולל הכוכבים",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 53,
+      "original": " will be in danger once the timer has",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": " יהיה בסכנה ברגע שהטיימר",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 54,
+      "original": "been initiated.  Please be careful and",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "יופעל.  אנא היה זהיר ו",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 55,
+      "original": "              good luck!",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "              בהצלחה!",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 60,
+      "original": "The cartridge snaps neatly into the slot and the screen comes alive.",
+      "placeholders": [],
+      "matchType": "exact",
+      "translation": "המחסנית שוקעת ברכות בחריץ והמסך מתעורר לחיים.",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 61,
+      "original": "You wisely retrieve the cartridge from its slot.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "אתה מוציא בחוכמה את המחסנית מהחריץ.",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 62,
+      "original": "There is nothing there.",
+      "placeholders": [],
+      "matchType": "fuzzy",
+      "translation": "אין מה לעשות שם.",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 63,
+      "original": "You turn the key and suddenly the jet turbines begin to whir. The skimmer begins to shake beneath you, as its platform slowly moves into the launch tube. You can't help but wonder what you've gotten yourself into this time.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "אתה מסובב את המפתח ופתאום טורבינות הסילון מתחילות לזמזם. הרחפת מתחילה לרעוד מתחתיך, כשהמשטח שלה זז לאט לתוך צינור השיגור. אתה לא יכול שלא לתהות לאיזו פרשה נכנסת הפעם.",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 64,
+      "original": "You must board the skimmmer before the key can be turned.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "עליך לעלות על הרחפת לפני שניתן לסובב את המפתח.",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 65,
+      "original": "You can't do that from here.",
+      "placeholders": [],
+      "matchType": "exact",
+      "translation": "אתה לא יכול לעשות את זה מכאן.",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 66,
+      "original": "The key is not in the keyhole.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "המפתח לא נמצא בחור המנעול.",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 67,
+      "original": "That thing is not here.",
+      "placeholders": [],
+      "matchType": "partial",
+      "translation": "אין לזה השפעה כאן.",
+      "notes": "REVIEW: Partial match - adapted from 'That's not effective here' context"
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 68,
+      "original": "This place is most interesting, indeed. A mixture of both old and new technologies. On one side of the chamber is a primitive steam generator. Its pistons, pounding rhythmically, turn steam into useful energy. On the other side is what appears to be a computer console.",
+      "placeholders": [],
+      "matchType": "fuzzy",
+      "translation": "המקום הזה מאוד מעניין, בהחלט. תערובת של טכנולוגיות ישנות וחדשות גורמות לך לתהות לגבי מקורו. או לפחות לגבי התמיכה הטכנית. מצד אחד של התא יש גנרטור אדים פרימיטיבי. הבוכנות שלו, הולמות בקצב, הופכות אדים לאנרגיה יעילה. בצד השני יש את מה שנראה כמו מסוף מחשב.",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 69,
+      "original": "There seems to be some steam escaping with each up stroke of the pistons.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "נראה שקצת אדים בורחים עם כל תנועה כלפי מעלה של הבוכנות.",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 70,
+      "original": "Catwalks have been built around the units to facilitate maintenance by the unique-looking Keronian workers. A few of them pop out occasionally to make critical adjustments.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "גשרים נבנו סביב היחידות כדי להקל על תחזוקה על ידי עובדי קרונה בעלי המראה הייחודי. כמה מהם צצים מדי פעם כדי לבצע התאמות קריטיות.",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 71,
+      "original": "The door you entered through is shut and apparently is controlled from another location.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "הדלת שנכנסת דרכה סגורה וכנראה נשלטת ממקום אחר.",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 72,
+      "original": "The console consists of a monitor and a cartridge slot. There are also some read-outs which indicate the status of some of the mechanisms in here.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "המסוף מורכב ממסך וחריץ למחסנית. יש גם כמה מחוונים המצביעים על מצב כמה מהמנגנונים כאן.",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 73,
+      "original": "The screen is dark.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "המסך חשוך.",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 74,
+      "original": "As described, it is a sand skimmer and it looks like it has skimmed quite a bit of sand in its time. On it is a panel which has a small readout, currently dark, and a keyhole with a key in it.",
+      "placeholders": [],
+      "matchType": "exact",
+      "translation": "כפי שתואר, זו רחפת חול ונראה שהיא הספיקה לרחף מעל הרבה חול. עליה יש לוח שיש לו צג קטן, חשוך כרגע, וחור מפתח עם מפתח בתוכו.",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 75,
+      "original": "These people of Kerona are an odd-looking lot. You can't pin it down but you are sure something is different about them.",
+      "placeholders": [],
+      "matchType": "fuzzy",
+      "translation": "אנשי קרונה הם בהחלט חבורה משונה למראה. אתה לא מצליח לדייק את זה, אבל אתה בטוח שמשהו שונה לגביהם.",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 76,
+      "original": "You remove the key from the skimmer.",
+      "placeholders": [],
+      "matchType": "fuzzy",
+      "translation": "אתה תולש את מפתחות הרחפת מלוח המחוונים.",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 77,
+      "original": "That has already been done.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "זה כבר נעשה.",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 78,
+      "original": "Done.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "בוצע.",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 79,
+      "original": "The walls are flat and featureless except for the back wall, which is partially covered by a console.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "הקירות שטוחים וחסרי מאפיינים למעט הקיר האחורי, המכוסה חלקית במסוף.",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 80,
+      "original": "You are already aboard.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "אתה כבר על הסיפון.",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 81,
+      "original": "That is not possible at this time.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "זה לא אפשרי כרגע.",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 82,
+      "original": "The being does not respond. He speaks only when it is his will to do so.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "היצור לא מגיב. הוא מדבר רק כשזה רצונו.",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 83,
+      "original": "The beings are busy working and have no time to chat.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "היצורים עסוקים בעבודה ואין להם זמן לשיחות.",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 84,
+      "original": "You need to be closer.",
+      "placeholders": [],
+      "matchType": "partial",
+      "translation": "תצטרך לגשת יותר קרוב בשביל זה.",
+      "notes": "REVIEW: Partial match - adapted from 'You'd need to be closer for that' context"
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 85,
+      "original": "As described, it is a sand skimmer and it looks like it has skimmed quite a bit of sand in its time. On it is a panel which has a small readout, currently dark, and an empty keyhole in it.",
+      "placeholders": [],
+      "matchType": "fuzzy",
+      "translation": "כפי שתואר, זו רחפת חול ונראה שהיא הספיקה לרחף מעל הרבה חול. עליה יש לוח שיש לו צג קטן, חשוך כרגע, וחור מפתח עם מפתח בתוכו.",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 86,
+      "original": "The panel has an ignition switch. There is a key in it.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "ללוח יש מתג הצתה. יש מפתח בתוכו.",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 87,
+      "original": "The panel has an ignition switch. There is no key in it.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "ללוח יש מתג הצתה. אין מפתח בתוכו.",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 88,
+      "original": "A few of the Keronians above you carry out their various tasks.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "כמה מהקרוניאנים מעליך מבצעים את משימותיהם השונות.",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 89,
+      "original": "You notice that the slot is just about the size of a data cartridge.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "אתה מבחין שהחריץ בדיוק בגודל של מחסנית מידע.",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 90,
+      "original": "You notice that the slot is just about the size of a data cartridge. In fact, there is one in there now.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "אתה מבחין שהחריץ בדיוק בגודל של מחסנית מידע. למעשה, יש אחת שם כרגע.",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 91,
+      "original": "The ignition switch has a hole for a key which is currently filled.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "למתג ההצתה יש חור למפתח שכרגע מלא.",
+      "notes": ""
+    },
+    {
+      "logicFile": "31.agilogic",
+      "messageNumber": 92,
+      "original": "The ignition switch has a hole for a key which is currently empty.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "למתג ההצתה יש חור למפתח שכרגע ריק.",
+      "notes": ""
+    }
+  ]
+}

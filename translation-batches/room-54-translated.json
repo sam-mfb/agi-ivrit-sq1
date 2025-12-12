@@ -1,0 +1,78 @@
+{
+  "room": "54",
+  "totalMessages": 8,
+  "matchStats": {
+    "exact": 0,
+    "normalized": 0,
+    "fuzzy": 0,
+    "partial": 1,
+    "unmatched": 7
+  },
+  "messages": [
+    {
+      "logicFile": "54.agilogic",
+      "messageNumber": 1,
+      "original": "It seems no different than all the other doors aboard this ship.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "היא נראית לא שונה מכל שאר הדלתות על הספינה הזאת."
+    },
+    {
+      "logicFile": "54.agilogic",
+      "messageNumber": 2,
+      "original": "It has a small sign on it.",
+      "placeholders": [],
+      "matchType": "partial",
+      "translation": "שלט פרסום קטן",
+      "notes": "REVIEW: Partial match - contextually this describes what's on the door, not the sign itself"
+    },
+    {
+      "logicFile": "54.agilogic",
+      "messageNumber": 3,
+      "original": "Out of Order.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "מחוץ לשירות."
+    },
+    {
+      "logicFile": "54.agilogic",
+      "messageNumber": 4,
+      "original": "How?",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "איך?"
+    },
+    {
+      "logicFile": "54.agilogic",
+      "messageNumber": 5,
+      "original": "Seen one door, seen them all.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "ראית דלת אחת, ראית את כולן."
+    },
+    {
+      "logicFile": "54.agilogic",
+      "messageNumber": 6,
+      "original": "Emergency Exit. Luckily for you, the elevator has been repaired.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "יציאת חירום. למזלך, המעלית תוקנה."
+    },
+    {
+      "logicFile": "54.agilogic",
+      "messageNumber": 7,
+      "original": "You are aboard the Sarien spaceship. There are two elevators here.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "אתה נמצא על חללית הסריאנים. יש כאן שתי מעליות."
+    },
+    {
+      "logicFile": "54.agilogic",
+      "messageNumber": 8,
+      "original": "There are two elevators along the back wall.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "translation": "יש שתי מעליות לאורך הקיר האחורי."
+    }
+  ]
+}

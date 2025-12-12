@@ -1,0 +1,328 @@
+{
+  "room": "8",
+  "totalMessages": 28,
+  "matchStats": {
+    "exact": 2,
+    "normalized": 0,
+    "fuzzy": 0,
+    "partial": 3,
+    "unmatched": 23
+  },
+  "messages": [
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 1,
+      "original": "This is the cavernous Vehicle Bay.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "זהו מפרץ הרכב המעורתי."
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 2,
+      "original": "This is one of the Arcada's escape pods. You vaguely remember receiving some orientation on these when you joined the crew.",
+      "placeholders": [],
+      "matchType": "partial",
+      "matchScore": 0.5333333333333333,
+      "suggestedTranslation": "זוהי אחת מחלליות המילוט של הארקדה. אתה זוכר במעורפל שקיבלת הדרכה כלשהי לגביהן כשהצטרפת לצוות. למרבה הצער, היית עסוק במחקר על שינה עם עיניים פקוחות, ולכן, לא זוכר הרבה.",
+      "csvMatch": "This is one of the Arcada's escape pods. You vaguely remember receiving some orientation on these when you joined the crew. Unfortunately, you were deep into research on sleeping with your eyes open and, hence, don't remember much.",
+      "translation": "זוהי אחת מחלליות המילוט של הארקדה. אתה זוכר במעורפל שקיבלת הדרכה כלשהי לגביהן כשהצטרפת לצוות.",
+      "notes": "REVIEW: Partial match - shortened version used"
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 3,
+      "original": "       Oops!      Forgot my suit.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "       אופס!      שכחתי את החליפה שלי."
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 4,
+      "original": "In the middle of the vehicle bay is a deep cargo shaft.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "באמצע מפרץ הרכב נמצא פיר מטען עמוק."
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 5,
+      "original": "Sorry, %s1.  You can't enter the Escape Pod when the Vehicle Bay doors are closed.",
+      "placeholders": [
+        "%s"
+      ],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "סליחה, %s1. אתה לא יכול להיכנס לחללית המילוט כאשר דלתות מפרץ הרכב סגורות."
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 6,
+      "original": "Looking at the console you see a button marked \\\"Platform\\\". There are also some gauges which don't interest you.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "מביט בקונסולה אתה רואה כפתור עם התווית \\\"פלטפורמה\\\". יש גם כמה מדדים שלא מעניינים אותך."
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 7,
+      "original": "The Vehicle Bay Door is quite large.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "דלת מפרץ הרכב די גדולה."
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 8,
+      "original": "The walls prove to be uninteresting.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "הקירות מתגלים כלא מעניינים."
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 9,
+      "original": "The massive bay doors are tightly sealed.",
+      "placeholders": [],
+      "matchType": "exact",
+      "matchScore": 1,
+      "suggestedTranslation": "דלתות המעגן העצומות אטומות ומהודקות.",
+      "csvMatch": "The massive bay doors are tightly sealed.",
+      "translation": "דלתות המעגן העצומות אטומות ומהודקות."
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 10,
+      "original": "Beyond the yawning doors lies the serenity of deep space.",
+      "placeholders": [],
+      "matchType": "exact",
+      "matchScore": 1,
+      "suggestedTranslation": "מעבר לדלתות העייפות הללו ממתינה השלווה העמוקה של החלל.",
+      "csvMatch": "Beyond the yawning doors lies the serenity of deep space.",
+      "translation": "מעבר לדלתות העייפות הללו ממתינה השלווה העמוקה של החלל."
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 11,
+      "original": "You see nothing special down there.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "אינך רואה שום דבר מיוחד למטה."
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 12,
+      "original": "It is dark down in the shaft but you can make out the silhouette of one of the Arcada's escape pods on a platform below.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "חשוך בפיר אך אתה יכול להבחין בצללית של אחת מחלליות המילוט של הארקדה על פלטפורמה למטה."
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 13,
+      "original": "You cannot perform that act from here.",
+      "placeholders": [],
+      "matchType": "partial",
+      "matchScore": 0.5,
+      "suggestedTranslation": "אתה לא יכול לעשות את זה מכאן.",
+      "csvMatch": "You can't do that from in here.",
+      "translation": "אינך יכול לבצע פעולה זו מכאן.",
+      "notes": "REVIEW: Partial match - adapted translation"
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 14,
+      "original": "There is nothing like that in sight.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "אין שום דבר כזה באופק."
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 15,
+      "original": "No can do, bud.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "לא יכול, חבר."
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 16,
+      "original": "For safety reasons the platform will not function with the bay doors closed.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "מסיבות בטיחות הפלטפורמה לא תפעל כאשר דלתות המפרץ סגורות."
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 17,
+      "original": "The bay door is open. The airlock door opens automatically.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "דלת המפרץ פתוחה. דלת מנעל האוויר נפתחת אוטומטית."
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 18,
+      "original": "The bay door is not opened from this room. The airlock door opens automatically.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "דלת המפרץ לא נפתחת מחדר זה. דלת מנעל האוויר נפתחת אוטומטית."
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 19,
+      "original": "There sure are a lot of them.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "בטוח יש הרבה מהם."
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 20,
+      "original": "You see stars to infinity.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "אתה רואה כוכבים עד אינסוף."
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 21,
+      "original": "The pod door is already open.",
+      "placeholders": [],
+      "matchType": "partial",
+      "matchScore": 0.5,
+      "suggestedTranslation": "תעלת האוורור כבר פתוחה ועומדת.",
+      "csvMatch": "The vent is already open.",
+      "translation": "דלת החללית כבר פתוחה.",
+      "notes": "REVIEW: Partial match - adapted translation"
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 22,
+      "original": "The escape pod moves slowly out",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "חללית המילוט זזה לאט החוצה"
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 23,
+      "original": "of the vehicle bay and into space.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "ממפרץ הרכב אל החלל."
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 24,
+      "original": "There is now an escape pod here.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "כעת נמצאת כאן חללית מילוט."
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 25,
+      "original": "There is no longer an escape pod here.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "אין יותר חללית מילוט כאן."
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 26,
+      "original": "You see a button marked \\\"Platform\\\".",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "אתה רואה כפתור עם התווית \\\"פלטפורמה\\\"."
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 27,
+      "original": "Congratulations, %s1.  You have found your way off the Arcada and escaped obvious danger.  Unfortunately, you will never be seen or heard from again as you float gracefully through the heavens for eternity.",
+      "placeholders": [
+        "%s"
+      ],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "ברכות, %s1. מצאת את דרכך מחוץ לארקדה ונמלטת מסכנה ברורה. לרוע המזל, לעולם לא יראו או ישמעו ממך שוב כשאתה צף בחן במרחבי השמיים לנצח."
+    },
+    {
+      "logicFile": "8.agilogic",
+      "messageNumber": 28,
+      "original": "You peer in through the open door but are unable to make out any detail.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "אתה מציץ פנימה דרך הדלת הפתוחה אך לא מצליח להבחין בפרטים."
+    }
+  ]
+}

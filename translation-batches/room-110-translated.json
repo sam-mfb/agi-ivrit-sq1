@@ -1,0 +1,24 @@
+{
+  "room": "110",
+  "totalMessages": 3,
+  "messages": [
+    {
+      "logicFile": "110.agilogic",
+      "messageNumber": 1,
+      "original": "Suddenly you see a large, black metal sphere falling out of the sky - a Sarien Spider Droid. Upon touching down on the planet's surface, it sprouts legs and begins its search for you. You recall from an article in Space Piston Magazine that this droid is designed to seek out organic life forms and self destruct when contact is made.",
+      "translation": "לפתע אתה רואה כדור מתכת שחור גדול נופל מהשמיים - רובוט עכביש סריאני. עם נגיעתו בפני הכוכב, הוא מצמיח רגליים ומתחיל לחפש אותך. אתה נזכר ממאמר במגזין פיסטון החלל שהרובוט הזה מתוכנן לחפש צורות חיים אורגניות ולהתפוצץ עצמית כאשר מתבצע מגע."
+    },
+    {
+      "logicFile": "110.agilogic",
+      "messageNumber": 2,
+      "original": "Not many tales are told of the spider droids due to a lack of live witnesses.",
+      "translation": "לא מסופרים סיפורים רבים על רובוטי העכביש בגלל מחסור בעדים חיים."
+    },
+    {
+      "logicFile": "110.agilogic",
+      "messageNumber": 3,
+      "original": "You have just been blown into bite-size chunks by a Sarien spider droid.",
+      "translation": "זה עתה פוצצת לנתחים בגודל ביס על ידי רובוט עכביש סריאני."
+    }
+  ]
+}

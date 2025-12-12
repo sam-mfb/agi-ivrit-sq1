@@ -1,0 +1,360 @@
+{
+  "room": "98",
+  "totalMessages": 31,
+  "matchStats": {
+    "exact": 0,
+    "normalized": 0,
+    "fuzzy": 0,
+    "partial": 0,
+    "unmatched": 31
+  },
+  "csvContext": [
+    {
+      "original": "You talk to yourself and, as usual, learn nothing that you didn't already know.",
+      "translated": "אתה מדבר אל עצמך, וכרגיל, לא לומד משהו שלא ידעת כבר."
+    }
+  ],
+  "messages": [
+    {
+      "logicFile": "98.agilogic",
+      "messageNumber": 1,
+      "original": "discard.view(%v18):%m30",
+      "placeholders": ["%v", "%m30"],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "discard.view(%v18):%m30"
+    },
+    {
+      "logicFile": "98.agilogic",
+      "messageNumber": 2,
+      "original": "set.view(%v18,_):%m26",
+      "placeholders": ["%v", "%m26"],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "set.view(%v18,_):%m26"
+    },
+    {
+      "logicFile": "98.agilogic",
+      "messageNumber": 3,
+      "original": "set.view(_,%v18):%m30",
+      "placeholders": ["%v", "%m30"],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "set.view(_,%v18):%m30"
+    },
+    {
+      "logicFile": "98.agilogic",
+      "messageNumber": 4,
+      "original": "set.loop(%v18,_):%m26",
+      "placeholders": ["%v", "%m26"],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "set.loop(%v18,_):%m26"
+    },
+    {
+      "logicFile": "98.agilogic",
+      "messageNumber": 5,
+      "original": "set.loop(%v18,_):\\nBad loop #.%m25",
+      "placeholders": ["%v", "%m25"],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "set.loop(%v18,_):\\nמספר לולאה שגוי.%m25"
+    },
+    {
+      "logicFile": "98.agilogic",
+      "messageNumber": 6,
+      "original": "set.loop(%v18,_):%m31",
+      "placeholders": ["%v", "%m31"],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "set.loop(%v18,_):%m31"
+    },
+    {
+      "logicFile": "98.agilogic",
+      "messageNumber": 7,
+      "original": "set.cel(%v18,_):%m26",
+      "placeholders": ["%v", "%m26"],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "set.cel(%v18,_):%m26"
+    },
+    {
+      "logicFile": "98.agilogic",
+      "messageNumber": 8,
+      "original": "set.cel(%v18,_):\\nBad cel #.%m25",
+      "placeholders": ["%v", "%m25"],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "set.cel(%v18,_):\\nמספר תא שגוי.%m25"
+    },
+    {
+      "logicFile": "98.agilogic",
+      "messageNumber": 9,
+      "original": "sound(%v18):\\nSound not loaded.%m25",
+      "placeholders": ["%v", "%m25"],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "sound(%v18):\\nצליל לא נטען.%m25"
+    },
+    {
+      "logicFile": "98.agilogic",
+      "messageNumber": 10,
+      "original": "set.cel(%v18,_):%m31",
+      "placeholders": ["%v", "%m31"],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "set.cel(%v18,_):%m31"
+    },
+    {
+      "logicFile": "98.agilogic",
+      "messageNumber": 11,
+      "original": "Script buffer overflow.\\nMaximum size = %v18%m25",
+      "placeholders": ["%v", "%m25"],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "גלישת מאגר תסריט.\\nגודל מקסימלי = %v18%m25"
+    },
+    {
+      "logicFile": "98.agilogic",
+      "messageNumber": 12,
+      "original": "erase(%v18):%m26",
+      "placeholders": ["%v", "%m26"],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "erase(%v18):%m26"
+    },
+    {
+      "logicFile": "98.agilogic",
+      "messageNumber": 13,
+      "original": "animate.obj(%v18):%m26",
+      "placeholders": ["%v", "%m26"],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "animate.obj(%v18):%m26"
+    },
+    {
+      "logicFile": "98.agilogic",
+      "messageNumber": 14,
+      "original": "stop.update(%v18):%m28",
+      "placeholders": ["%v", "%m28"],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "stop.update(%v18):%m28"
+    },
+    {
+      "logicFile": "98.agilogic",
+      "messageNumber": 15,
+      "original": "Bad test: %v18%m25",
+      "placeholders": ["%v", "%m25"],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "בדיקה שגויה: %v18%m25"
+    },
+    {
+      "logicFile": "98.agilogic",
+      "messageNumber": 16,
+      "original": "Bad action: %v18%m25",
+      "placeholders": ["%v", "%m25"],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "פעולה שגויה: %v18%m25"
+    },
+    {
+      "logicFile": "98.agilogic",
+      "messageNumber": 17,
+      "original": "start.update(%v18):%m28",
+      "placeholders": ["%v", "%m28"],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "start.update(%v18):%m28"
+    },
+    {
+      "logicFile": "98.agilogic",
+      "messageNumber": 18,
+      "original": "draw.pic(%v18):%m32",
+      "placeholders": ["%v", "%m32"],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "draw.pic(%v18):%m32"
+    },
+    {
+      "logicFile": "98.agilogic",
+      "messageNumber": 19,
+      "original": "draw(%v18):%m26",
+      "placeholders": ["%v", "%m26"],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "draw(%v18):%m26"
+    },
+    {
+      "logicFile": "98.agilogic",
+      "messageNumber": 20,
+      "original": "draw(%v18):%m31",
+      "placeholders": ["%v", "%m31"],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "draw(%v18):%m31"
+    },
+    {
+      "logicFile": "98.agilogic",
+      "messageNumber": 21,
+      "original": "discard.pic(%v18):%m32",
+      "placeholders": ["%v", "%m32"],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "discard.pic(%v18):%m32"
+    },
+    {
+      "logicFile": "98.agilogic",
+      "messageNumber": 22,
+      "original": "",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": ""
+    },
+    {
+      "logicFile": "98.agilogic",
+      "messageNumber": 23,
+      "original": "get(%v18) or put(%v18):%m26",
+      "placeholders": ["%v", "%m26"],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "get(%v18) or put(%v18):%m26"
+    },
+    {
+      "logicFile": "98.agilogic",
+      "messageNumber": 25,
+      "original": "\\nPress ESC to quit.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "\\nלחץ ESC כדי לצאת."
+    },
+    {
+      "logicFile": "98.agilogic",
+      "messageNumber": 26,
+      "original": "%m27.%m25",
+      "placeholders": ["%m27", "%m25"],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "%m27.%m25"
+    },
+    {
+      "logicFile": "98.agilogic",
+      "messageNumber": 27,
+      "original": "\\nBad object number",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "\\nמספר אובייקט שגוי"
+    },
+    {
+      "logicFile": "98.agilogic",
+      "messageNumber": 28,
+      "original": "%m27 or object not drawn.%m25",
+      "placeholders": ["%m27", "%m25"],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "%m27 או אובייקט לא מצוייר.%m25"
+    },
+    {
+      "logicFile": "98.agilogic",
+      "messageNumber": 29,
+      "original": "\\nView not ",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "\\nתצוגה לא "
+    },
+    {
+      "logicFile": "98.agilogic",
+      "messageNumber": 30,
+      "original": "%m29loaded.%m25",
+      "placeholders": ["%m29", "%m25"],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "%m29נטענה.%m25"
+    },
+    {
+      "logicFile": "98.agilogic",
+      "messageNumber": 31,
+      "original": "%m29set.%m25",
+      "placeholders": ["%m29", "%m25"],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "%m29מוגדרת.%m25"
+    },
+    {
+      "logicFile": "98.agilogic",
+      "messageNumber": 32,
+      "original": "Picture not loaded.%m25",
+      "placeholders": ["%m25"],
+      "matchType": "unmatched",
+      "matchScore": 0,
+      "suggestedTranslation": "",
+      "csvMatch": "",
+      "translation": "תמונה לא נטענה.%m25"
+    }
+  ]
+}

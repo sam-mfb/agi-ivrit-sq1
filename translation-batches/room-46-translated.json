@@ -1,0 +1,22 @@
+{
+  "room": "46",
+  "totalMessages": 1,
+  "matchStats": {
+    "exact": 0,
+    "normalized": 0,
+    "fuzzy": 0,
+    "partial": 0,
+    "unmatched": 1
+  },
+  "messages": [
+    {
+      "logicFile": "46.agilogic",
+      "messageNumber": 1,
+      "original": "The inhabitants of this vessel don't appear to appreciate your desire to sight-see. You have been transformed into space dust.",
+      "translation": "נראה שתושבי הכלי הזה לא מעריכים את הרצון שלך לסייר. הפכת לאבק חלל.",
+      "placeholders": [],
+      "matchType": "unmatched",
+      "notes": ""
+    }
+  ]
+}
