@@ -1,6 +1,14 @@
 --- /home/devuser/agivrit/project/tmp/src/logic/67.agilogic	2025-12-07 00:05:53.961529003 +0000
-+++ /tmp/67.agilogic.modified	2025-12-12 20:58:22.369384007 +0000
-@@ -21,7 +21,7 @@
++++ /tmp/67.agilogic.modified	2025-12-12 21:10:44.958848004 +0000
+@@ -12,6 +12,7 @@
+   load.view(204);
+   load.view(205);
+   load.view(206);
++  load.view(254);
+   load.sound(60);
+   animate.obj(o1);
+   set.view(o1, 200);
+@@ -21,7 +22,7 @@
    set.view(o2, 201);
    set.loop(o2, 0);
    set.cel(o2, 0);
@@ -9,7 +17,7 @@
    set.priority(o2, 15);
    animate.obj(o3);
    animate.obj(o4);
-@@ -71,7 +71,7 @@
+@@ -71,7 +72,7 @@
    v33 = 1;
    set.loop(o2, 0);
    set.cel(o2, 0);
@@ -18,7 +26,7 @@
    position(o1, 23, 23);
    draw.pic(v0);
    show.pic();
-@@ -108,7 +108,7 @@
+@@ -108,7 +109,7 @@
        set.cel(o2, 0);
        stop.cycling(o2);
        draw(o1);
@@ -27,7 +35,7 @@
      }
    
      if (f30) {
-@@ -131,7 +131,7 @@
+@@ -131,7 +132,7 @@
        reset(f32);
      
        if (v32 > 0) {
@@ -36,7 +44,24 @@
          draw(o1);
          move.obj(o1, 23, 23, 6, f30);
        }
-@@ -197,27 +197,27 @@
+@@ -168,10 +169,15 @@
+       erase(o8);
+       erase(o9);
+     
+-      if (v33 == 4) {
++      if (v33 == 5) {
+         set(f168);
+       }
+     
++      if (v33 == 4) {
++        v33 = 5;
++        set(f40);
++      }
++    
+       if (v33 == 3) {
+         v33 = 4;
+         set(f40);
+@@ -197,27 +203,27 @@
        set.view(o3, 202);
        set.loop(o3, 0);
        set.cel(o3, 0);
@@ -71,7 +96,7 @@
        }
        draw(o3);
        draw(o4);
-@@ -239,30 +239,30 @@
+@@ -239,30 +245,30 @@
        set.view(o3, 202);
        set.loop(o3, 3);
        set.cel(o3, 0);
@@ -109,7 +134,7 @@
        draw(o3);
        draw(o4);
        draw(o5);
-@@ -284,21 +284,21 @@
+@@ -284,21 +290,21 @@
        reset(f40);
        set.view(o3, 202);
        set.loop(o3, 1);
@@ -136,7 +161,7 @@
        draw(o3);
        draw(o4);
        draw(o5);
-@@ -320,13 +320,13 @@
+@@ -320,13 +326,13 @@
        reset(f40);
        set.view(o3, 202);
        set.loop(o3, 2);
@@ -153,3 +178,35 @@
        draw(o3);
        draw(o4);
        draw(o5);
+@@ -337,6 +343,31 @@
+       reset(f35);
+       v34 = 40;
+     }
++  
++    if (f40 && (v33 == 5)) {
++      reset(f40);
++      set.view(o3, 254);
++      set.loop(o3, 0);
++      set.cel(o3, 0);
++      position(o3, 66, 56);
++      stop.cycling(o3);
++      set.view(o4, 203);
++      position(o4, 65, 72);
++      stop.cycling(o4);
++      set.view(o5, 254);
++      set.loop(o5, 1);
++      set.cel(o5, 0);
++      position(o5, 60, 111);
++      draw(o3);
++      draw(o4);
++      draw(o5);
++      end.of.loop(o5, f35);
++    }
++  
++    if ((v33 == 5) && f35) {
++      reset(f35);
++      v34 = 40;
++    }
+   }
+ }
+ 
