@@ -1,5 +1,5 @@
---- project/tmp/src/logic/67.agilogic	2025-12-07 00:05:53.961529003 +0000
-+++ translations/sq1/logic/67.agilogic	2025-12-11 01:55:48.838831014 +0000
+--- /home/devuser/agivrit/project/tmp/src/logic/67.agilogic	2025-12-07 00:05:53.961529003 +0000
++++ /tmp/67.agilogic.modified	2025-12-12 20:26:39.025296001 +0000
 @@ -21,7 +21,7 @@
    set.view(o2, 201);
    set.loop(o2, 0);
@@ -36,3 +36,72 @@
          draw(o1);
          move.obj(o1, 23, 23, 6, f30);
        }
+@@ -200,24 +200,24 @@
+       position(o3, 45, 41);
+       set.view(o4, 203);
+       set.cel(o4, 0);
+-      position(o4, 94, 41);
++      position(o4, 45, 56);
+       set.view(o5, 204);
+       set.loop(o5, 0);
+       set.cel(o5, 0);
+       set.view(o6, 205);
+       set.cel(o6, 0);
+-      position(o6, 66, 79);
++      position(o6, 66, 94);
+       set.view(o7, 206);
+       set.loop(o7, 0);
+       set.cel(o7, 0);
+       random(1, 100, v126);
+     
+       if (v126 > 50) {
+-        position(o5, 46, 98);
+-        position(o7, 44, 61);
++        position(o5, 46, 113);
++        position(o7, 44, 76);
+       } else {
+-        position(o5, 46, 61);
+-        position(o7, 41, 98);
++        position(o5, 46, 76);
++        position(o7, 41, 113);
+       }
+       draw(o3);
+       draw(o4);
+@@ -286,19 +286,19 @@
+       set.loop(o3, 1);
+       position(o3, 41, 52);
+       set.view(o4, 203);
+-      position(o4, 109, 52);
++      position(o4, 41, 67);
+       set.view(o5, 206);
+       set.loop(o5, 0);
+       set.cel(o5, 0);
+-      position(o5, 46, 76);
++      position(o5, 46, 91);
+       set.view(o7, 206);
+       set.loop(o7, 2);
+       set.cel(o7, 0);
+-      position(o7, 45, 95);
++      position(o7, 45, 110);
+       set.view(o8, 204);
+       set.loop(o8, 2);
+       set.cel(o8, 0);
+-      position(o8, 47, 111);
++      position(o8, 47, 126);
+       draw(o3);
+       draw(o4);
+       draw(o5);
+@@ -322,11 +322,11 @@
+       set.loop(o3, 2);
+       position(o3, 45, 61);
+       set.view(o4, 203);
+-      position(o4, 95, 61);
++      position(o4, 45, 76);
+       set.view(o5, 204);
+       set.loop(o5, 0);
+       set.cel(o5, 0);
+-      position(o5, 47, 82);
++      position(o5, 47, 97);
+       draw(o3);
+       draw(o4);
+       draw(o5);
