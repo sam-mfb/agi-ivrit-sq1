@@ -5215,7 +5215,7 @@
       "logicFile": "31.agilogic",
       "messageNumber": 12,
       "original": " is Dr. Slash Vohaul. I am a scientist",
-      "translation": " הוא ד\"ר סלאש וואהול. אני מדען",
+      "translation": " הוא ד\\\"ר סלאש וואהול. אני מדען",
       "notes": "Translated by Claude",
       "placeholders": []
     },
