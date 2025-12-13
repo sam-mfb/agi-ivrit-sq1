@@ -1123,12 +1123,7 @@
       "wordNumber": 62,
       "word": "mem",
       "originalSynonyms": [],
-      "translatedSynonyms": [
-        "דרואיד",
-        "רובוט",
-        "דרואידים",
-        "רובוטים"
-      ],
+      "translatedSynonyms": [],
       "wordType": "noun",
       "notes": ""
     },
@@ -1308,7 +1303,12 @@
         "robot",
         "robots"
       ],
-      "translatedSynonyms": [],
+      "translatedSynonyms": [
+        "דרואיד",
+        "רובוט",
+        "דרואידים",
+        "רובוטים"
+      ],
       "wordType": "noun",
       "notes": ""
     },
@@ -1737,7 +1737,14 @@
         "tap",
         "touch"
       ],
-      "translatedSynonyms": [],
+      "translatedSynonyms": [
+        "לגעת",
+        "לטפוח",
+        "למשש",
+        "גע",
+        "טפח",
+        "ללטף"
+      ],
       "wordType": "noun",
       "notes": ""
     },
@@ -2289,7 +2296,11 @@
         "chest",
         "trunk"
       ],
-      "translatedSynonyms": [],
+      "translatedSynonyms": [
+        "ארגז",
+        "תיבה",
+        "מזוודה"
+      ],
       "wordType": "noun",
       "notes": ""
     },
@@ -2363,7 +2374,11 @@
         "get out",
         "leave"
       ],
-      "translatedSynonyms": [],
+      "translatedSynonyms": [
+        "רד",
+        "לרדת",
+        "תרד"
+      ],
       "wordType": "noun",
       "notes": ""
     },
@@ -2525,7 +2540,10 @@
       "wordNumber": 174,
       "word": "sesame",
       "originalSynonyms": [],
-      "translatedSynonyms": [],
+      "translatedSynonyms": [
+        "שומשום",
+        "סומסום"
+      ],
       "wordType": "noun",
       "notes": "Synced from sq2 (exact match, 100%)"
     },
@@ -2533,7 +2551,11 @@
       "wordNumber": 175,
       "word": "look under",
       "originalSynonyms": [],
-      "translatedSynonyms": [],
+      "translatedSynonyms": [
+        "הסתכל מתחת",
+        "תסתכל מתחת",
+        "בדוק מתחת"
+      ],
       "wordType": "noun",
       "notes": "Synced from sq2 (exact match, 100%)"
     },
@@ -2610,9 +2632,6 @@
         "unfasten"
       ],
       "translatedSynonyms": [
-        "רד",
-        "לרדת",
-        "תרד",
         "הסר",
         "להסיר",
         "תסיר",
@@ -2913,9 +2932,6 @@
         "עלה על",
         "לרכוב",
         "תרכב",
-        "עמוד",
-        "לעמוד",
-        "תעמוד",
         "רכב על",
         "טפס על"
       ],
@@ -3424,7 +3440,11 @@
       "wordNumber": 250,
       "word": "kick",
       "originalSynonyms": [],
-      "translatedSynonyms": [],
+      "translatedSynonyms": [
+        "בעט",
+        "לבעוט",
+        "בעיטה"
+      ],
       "wordType": "verb",
       "notes": ""
     },
@@ -3888,7 +3908,10 @@
       "wordNumber": 282,
       "word": "post",
       "originalSynonyms": [],
-      "translatedSynonyms": [],
+      "translatedSynonyms": [
+        "עמוד",
+        "מוט"
+      ],
       "wordType": "noun",
       "notes": ""
     },
@@ -3979,9 +4002,7 @@
       "originalSynonyms": [],
       "translatedSynonyms": [
         "בר",
-        "ברים",
-        "מוט",
-        "מוטות"
+        "ברים"
       ],
       "wordType": "noun",
       "notes": "NEEDS REVIEW: Synced from sq2 (partial match, 50%)"
@@ -4011,7 +4032,12 @@
         "musician",
         "musicians"
       ],
-      "translatedSynonyms": [],
+      "translatedSynonyms": [
+        "להקה",
+        "קבוצה",
+        "מוזיקאים",
+        "נגנים"
+      ],
       "wordType": "verb",
       "notes": ""
     },
