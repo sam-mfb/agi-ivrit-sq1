@@ -90,8 +90,7 @@
         "אתה",
         "עד"
       ],
-      "wordType": "other",
-      "notes": "Synced from sq2 (near match, 91%)"
+      "wordType": "other"
     },
     {
       "wordNumber": 1,
@@ -100,8 +99,7 @@
       "translatedSynonyms": [
         "anyword"
       ],
-      "wordType": "other",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "other"
     },
     {
       "wordNumber": 2,
@@ -135,8 +133,7 @@
         "לסרוק",
         "תסרוק"
       ],
-      "wordType": "verb",
-      "notes": "NEEDS REVIEW: Synced from sq2 (partial match, 50%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 3,
@@ -147,8 +144,7 @@
       "translatedSynonyms": [
         "מחסנית"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 4,
@@ -170,8 +166,7 @@
         "לבוא",
         "תבוא"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 5,
@@ -202,8 +197,7 @@
         "לתפוס",
         "תתפוס"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (near match, 89%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 6,
@@ -219,8 +213,7 @@
         "לעלות",
         "תעלה"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 7,
@@ -237,8 +230,7 @@
         "בקרות",
         "לוח"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 8,
@@ -254,8 +246,7 @@
         "כיפה",
         "כיפות"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 9,
@@ -267,8 +258,7 @@
         "עץ",
         "עצים"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 10,
@@ -277,8 +267,7 @@
       "translatedSynonyms": [
         "מקלדת"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 11,
@@ -299,8 +288,7 @@
         "צמח",
         "צמחים"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 12,
@@ -312,8 +300,7 @@
         "דרואיד טייס",
         "דרואיד טייס QR 7"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 13,
@@ -326,8 +313,7 @@
         "דבר",
         "תדבר"
       ],
-      "wordType": "verb",
-      "notes": ""
+      "wordType": "verb"
     },
     {
       "wordNumber": 14,
@@ -343,8 +329,7 @@
         "לאתר",
         "תאתר"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 15,
@@ -359,8 +344,7 @@
         "רח",
         "ריח"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 16,
@@ -381,8 +365,7 @@
         "מסכי מחשב",
         "מסך מחשב"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 17,
@@ -396,8 +379,7 @@
         "מעליות",
         "דלת מעלית"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 18,
@@ -406,8 +388,7 @@
       "translatedSynonyms": [
         "אסטרלי"
       ],
-      "wordType": "other",
-      "notes": ""
+      "wordType": "other"
     },
     {
       "wordNumber": 19,
@@ -418,8 +399,7 @@
         "לפתוח",
         "תפתח"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 20,
@@ -440,8 +420,7 @@
         "תהרוס",
         "הפיל"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 21,
@@ -459,8 +438,7 @@
         "בקתה",
         "חנות"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 22,
@@ -474,16 +452,14 @@
         "דלתות",
         "צוהר"
       ],
-      "wordType": "noun",
-      "notes": "NEEDS REVIEW: Synced from sq2 (partial match, 75%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 23,
       "word": "sp",
       "originalSynonyms": [],
       "translatedSynonyms": [],
-      "wordType": "other",
-      "notes": ""
+      "wordType": "other"
     },
     {
       "wordNumber": 24,
@@ -498,8 +474,7 @@
         "חלון",
         "חלונות"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 25,
@@ -508,16 +483,14 @@
       "translatedSynonyms": [
         "דלטאור"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 26,
       "word": "tp",
       "originalSynonyms": [],
       "translatedSynonyms": [],
-      "wordType": "other",
-      "notes": ""
+      "wordType": "other"
     },
     {
       "wordNumber": 27,
@@ -532,8 +505,7 @@
         "חור מפתח",
         "הצתה במפתח"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 28,
@@ -546,8 +518,7 @@
         "לסגור",
         "תסגור"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 29,
@@ -558,8 +529,7 @@
         "מחשבים",
         "קומפיוטר"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 30,
@@ -575,8 +545,7 @@
         "לצוד",
         "תצוד"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 31,
@@ -590,8 +559,7 @@
         "לאתחל",
         "תאתחל"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 32,
@@ -606,8 +574,7 @@
         "קרקע",
         "אדמה"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 33,
@@ -624,8 +591,7 @@
         "ערוץ",
         "ערוץ עמוק"
       ],
-      "wordType": "noun",
-      "notes": "NEEDS REVIEW: Synced from sq2 (partial match, 60%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 34,
@@ -636,8 +602,7 @@
         "סטטוס",
         "סטאטוס"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 35,
@@ -648,8 +613,7 @@
         "לשתות",
         "תשתה"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 36,
@@ -660,8 +624,7 @@
         "להשהות",
         "תשהה"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 37,
@@ -679,8 +642,7 @@
         "אבנים",
         "צור"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (near match, 80%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 38,
@@ -699,8 +661,7 @@
         "פיר",
         "כניסה"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 39,
@@ -719,8 +680,7 @@
         "להקיש",
         "תקיש"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 40,
@@ -747,8 +707,7 @@
         "למסור",
         "תמסור"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 41,
@@ -761,8 +720,7 @@
         "לנסות",
         "תנסה"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 42,
@@ -773,8 +731,7 @@
         "תנשק",
         "נשיקה"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 43,
@@ -795,8 +752,7 @@
         "מדי סריאן",
         "חליפת חלל"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 44,
@@ -813,8 +769,7 @@
         "לסיים",
         "תסיים"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 45,
@@ -827,8 +782,7 @@
         "עמדה",
         "פוזיציה"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 46,
@@ -858,8 +812,7 @@
         "מעבורת",
         "רכב"
       ],
-      "wordType": "noun",
-      "notes": "NEEDS REVIEW: Synced from sq2 (partial match, 71%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 47,
@@ -876,8 +829,7 @@
         "מקש",
         "מקשים"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 48,
@@ -898,8 +850,7 @@
         "פגרים",
         "נבלה"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (near match, 83%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 49,
@@ -910,8 +861,7 @@
         "פריט",
         "עצם"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 50,
@@ -925,8 +875,7 @@
         "גייזר קיטור",
         "קיטור"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 51,
@@ -938,8 +887,7 @@
         "מדף",
         "מדפים"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 52,
@@ -955,8 +903,7 @@
         "גברת",
         "בחורה"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 53,
@@ -971,8 +918,7 @@
         "רציף",
         "במה"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 54,
@@ -1000,8 +946,7 @@
         "לפגוע",
         "תפגע"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (near match, 83%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 55,
@@ -1017,8 +962,7 @@
         "כרזה",
         "כרזות"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 56,
@@ -1033,8 +977,7 @@
         "פיפי",
         "שירותים"
       ],
-      "wordType": "verb",
-      "notes": ""
+      "wordType": "verb"
     },
     {
       "wordNumber": 57,
@@ -1045,8 +988,7 @@
         "שלטים",
         "תמרור"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 58,
@@ -1080,8 +1022,7 @@
         "סריאני",
         "סריאנים"
       ],
-      "wordType": "noun",
-      "notes": "צריך יותר"
+      "wordType": "noun"
     },
     {
       "wordNumber": 59,
@@ -1091,8 +1032,7 @@
         "שמאל",
         "שמאלה"
       ],
-      "wordType": "other",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "other"
     },
     {
       "wordNumber": 60,
@@ -1102,8 +1042,7 @@
         "ימין",
         "ימינה"
       ],
-      "wordType": "other",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "other"
     },
     {
       "wordNumber": 61,
@@ -1116,24 +1055,21 @@
         "נפטר",
         "נפטרה"
       ],
-      "wordType": "other",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "other"
     },
     {
       "wordNumber": 62,
       "word": "mem",
       "originalSynonyms": [],
       "translatedSynonyms": [],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 63,
       "word": "pri",
       "originalSynonyms": [],
       "translatedSynonyms": [],
-      "wordType": "other",
-      "notes": ""
+      "wordType": "other"
     },
     {
       "wordNumber": 64,
@@ -1142,8 +1078,7 @@
       "translatedSynonyms": [
         "קדוש"
       ],
-      "wordType": "other",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "other"
     },
     {
       "wordNumber": 65,
@@ -1154,8 +1089,7 @@
         "חיי",
         "חייה"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 66,
@@ -1164,8 +1098,7 @@
       "translatedSynonyms": [
         "מי"
       ],
-      "wordType": "other",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "other"
     },
     {
       "wordNumber": 69,
@@ -1176,8 +1109,7 @@
       "translatedSynonyms": [
         "טייס אוטומטי"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 70,
@@ -1190,8 +1122,7 @@
         "לנוס",
         "להימלט"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 71,
@@ -1205,8 +1136,7 @@
         "לנצל",
         "תנצל"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 72,
@@ -1217,8 +1147,7 @@
       "translatedSynonyms": [
         "מנוף"
       ],
-      "wordType": "noun",
-      "notes": "NEEDS REVIEW: Synced from sq2 (partial match, 67%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 73,
@@ -1230,8 +1159,7 @@
         "לשחרר",
         "תשחרר"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 74,
@@ -1241,8 +1169,7 @@
         "חריץ",
         "שקע"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 75,
@@ -1257,8 +1184,7 @@
         "מפתח",
         "מפתחים"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 76,
@@ -1275,8 +1201,7 @@
         "תעודת זהות",
         "תז"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 77,
@@ -1290,8 +1215,7 @@
         "למלא",
         "תמלא"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 78,
@@ -1307,8 +1231,7 @@
         "דרואידים",
         "רובוטים"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 79,
@@ -1319,8 +1242,7 @@
         "לקרוא",
         "תקרא"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 80,
@@ -1335,8 +1257,7 @@
         "תיאבק",
         "קרב"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 81,
@@ -1345,8 +1266,7 @@
       "translatedSynonyms": [
         "חלל"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 82,
@@ -1362,8 +1282,7 @@
         "כוכב לכת",
         "כוכבי לכת"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 83,
@@ -1381,8 +1300,7 @@
         "תחפש",
         "חפש"
       ],
-      "wordType": "verb",
-      "notes": "NEEDS REVIEW: Synced from sq2 (partial match, 75%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 84,
@@ -1412,8 +1330,7 @@
         "קקי",
         "מזדיין"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (near match, 92%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 85,
@@ -1425,8 +1342,7 @@
         "אל תיגע",
         "אל תגע"
       ],
-      "wordType": "other",
-      "notes": ""
+      "wordType": "other"
     },
     {
       "wordNumber": 86,
@@ -1439,8 +1355,7 @@
         "רחפן חול",
         "רחפן"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 87,
@@ -1452,8 +1367,7 @@
         "סקוט",
         "סקוט מרפי"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 88,
@@ -1467,8 +1381,7 @@
         "לשקר",
         "תשקר"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 89,
@@ -1483,8 +1396,7 @@
         "נורה",
         "נורות"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 90,
@@ -1500,8 +1412,7 @@
         "תסתיים",
         "הסתיים"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 91,
@@ -1511,8 +1422,7 @@
         "ארונית",
         "ארון"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 92,
@@ -1525,8 +1435,7 @@
         "חשמל",
         "הפעלה"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 93,
@@ -1538,8 +1447,7 @@
         "ערש",
         "משכב"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 94,
@@ -1550,8 +1458,7 @@
       "translatedSynonyms": [
         "לוקר"
       ],
-      "wordType": "noun",
-      "notes": "NEEDS REVIEW: Synced from sq2 (partial match, 67%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 95,
@@ -1566,8 +1473,7 @@
         "מדרגה",
         "צעדים"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 96,
@@ -1581,8 +1487,7 @@
         "ראי",
         "שמשה"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 97,
@@ -1595,8 +1500,7 @@
         "קירות",
         "חומה"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 98,
@@ -1613,8 +1517,7 @@
         "לפתור",
         "תפתור"
       ],
-      "wordType": "verb",
-      "notes": "NEEDS REVIEW: Synced from sq2 (partial match, 50%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 99,
@@ -1637,8 +1540,7 @@
         "לצרוך",
         "תצרוך"
       ],
-      "wordType": "verb",
-      "notes": "NEEDS REVIEW: Synced from sq2 (partial match, 75%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 101,
@@ -1660,8 +1562,7 @@
         "קטעים",
         "חלק"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 102,
@@ -1670,8 +1571,7 @@
       "translatedSynonyms": [
         "הגה"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 103,
@@ -1682,8 +1582,7 @@
         "שולחנות",
         "שלחן"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 104,
@@ -1697,8 +1596,7 @@
         "להעיר",
         "תעיר"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 105,
@@ -1711,16 +1609,14 @@
         "הכה",
         "תכה"
       ],
-      "wordType": "verb",
-      "notes": ""
+      "wordType": "verb"
     },
     {
       "wordNumber": 106,
       "word": "var",
       "originalSynonyms": [],
       "translatedSynonyms": [],
-      "wordType": "other",
-      "notes": ""
+      "wordType": "other"
     },
     {
       "wordNumber": 108,
@@ -1730,8 +1626,7 @@
         "לרמות",
         "תרמה"
       ],
-      "wordType": "other",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "other"
     },
     {
       "wordNumber": 109,
@@ -1753,8 +1648,7 @@
         "טפח",
         "ללטף"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 110,
@@ -1767,8 +1661,7 @@
         "מה זאת",
         "מה"
       ],
-      "wordType": "other",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "other"
     },
     {
       "wordNumber": 111,
@@ -1787,8 +1680,7 @@
         "אייל",
         "אייל קיראוני"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 112,
@@ -1799,8 +1691,7 @@
         "שקטה",
         "שקטים"
       ],
-      "wordType": "other",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "other"
     },
     {
       "wordNumber": 113,
@@ -1810,8 +1701,7 @@
         "שם",
         "שמות"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 114,
@@ -1829,8 +1719,7 @@
         "אשראי",
         "קרדיט"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 115,
@@ -1844,8 +1733,7 @@
         "כיסי",
         "כיסך"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 116,
@@ -1856,8 +1744,7 @@
         "לטעון",
         "תטען"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 117,
@@ -1870,8 +1757,7 @@
         "לכסות",
         "תכסה"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 118,
@@ -1880,8 +1766,7 @@
       "translatedSynonyms": [
         "כרטיס"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 119,
@@ -1894,8 +1779,7 @@
         "כרטיס אשראי",
         "כרטיס מפתח"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 122,
@@ -1910,8 +1794,7 @@
         "באקזואידים",
         "באקס"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 123,
@@ -1926,8 +1809,7 @@
         "תבשל",
         "הכן משקה"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 124,
@@ -1943,8 +1825,7 @@
         "תעזור",
         "עזרה"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 125,
@@ -1957,8 +1838,7 @@
         "ללבוש",
         "תלבש"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 126,
@@ -1969,8 +1849,7 @@
         "להאכיל",
         "תאכיל"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 127,
@@ -1988,8 +1867,7 @@
         "מכונות מזל",
         "מכונות הימורים"
       ],
-      "wordType": "noun",
-      "notes": "NEEDS REVIEW: Synced from sq2 (partial match, 75%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 128,
@@ -2004,8 +1882,7 @@
         "דלתות מפרץ",
         "דלת המטען"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 129,
@@ -2021,8 +1898,7 @@
         "דלתות תא",
         "דלתות תא אוויר"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 130,
@@ -2032,8 +1908,7 @@
         "ידית",
         "ידיות"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 131,
@@ -2044,8 +1919,7 @@
         "להתפלל",
         "תתפלל"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 132,
@@ -2059,8 +1933,7 @@
         "הפעל",
         "להפעיל"
       ],
-      "wordType": "verb",
-      "notes": ""
+      "wordType": "verb"
     },
     {
       "wordNumber": 133,
@@ -2071,8 +1944,7 @@
         "לכרוע",
         "תכרע"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 135,
@@ -2082,8 +1954,7 @@
         "קשור",
         "תקשור"
       ],
-      "wordType": "verb",
-      "notes": ""
+      "wordType": "verb"
     },
     {
       "wordNumber": 136,
@@ -2093,8 +1964,7 @@
         "סולם",
         "סולמות"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 137,
@@ -2125,8 +1995,7 @@
         "אזור",
         "מקום"
       ],
-      "wordType": "noun",
-      "notes": "NEEDS REVIEW: Synced from sq2 (partial match, 73%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 138,
@@ -2137,8 +2006,7 @@
         "היה",
         "תהיה"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 139,
@@ -2157,8 +2025,7 @@
         "להטיל",
         "תטיל"
       ],
-      "wordType": "verb",
-      "notes": "NEEDS REVIEW: Synced from sq2 (partial match, 75%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 140,
@@ -2173,8 +2040,7 @@
         "תפיל",
         "לשים"
       ],
-      "wordType": "verb",
-      "notes": "NEEDS REVIEW: Synced from sq2 (partial match, 50%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 141,
@@ -2187,8 +2053,7 @@
         "להציל",
         "תציל"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 142,
@@ -2201,8 +2066,7 @@
         "זר",
         "חייזרים"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 143,
@@ -2211,8 +2075,7 @@
       "translatedSynonyms": [
         "אורט"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 144,
@@ -2227,8 +2090,7 @@
         "מצוק",
         "צוקים"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 146,
@@ -2238,8 +2100,7 @@
         "משחק",
         "משחקים"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 147,
@@ -2250,8 +2111,7 @@
         "לשחזר",
         "תשחזר"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 148,
@@ -2265,8 +2125,7 @@
         "לחצוב",
         "תחצוב"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 149,
@@ -2281,8 +2140,7 @@
         "שלום לך",
         "אהלן"
       ],
-      "wordType": "other",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "other"
     },
     {
       "wordNumber": 150,
@@ -2293,8 +2151,7 @@
         "לדפוק",
         "תדפוק"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 151,
@@ -2306,8 +2163,7 @@
         "מים מיובשים",
         "מים"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 152,
@@ -2321,8 +2177,7 @@
         "תיבה",
         "מזוודה"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 153,
@@ -2338,8 +2193,7 @@
         "מכשול",
         "חסימה"
       ],
-      "wordType": "noun",
-      "notes": "NEEDS REVIEW: Synced from sq2 (partial match, 67%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 154,
@@ -2350,8 +2204,7 @@
         "לעקוב",
         "תעקוב"
       ],
-      "wordType": "verb",
-      "notes": "NEEDS REVIEW: Synced from sq2 (partial match, 50%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 155,
@@ -2367,8 +2220,7 @@
         "להתיישב",
         "תתיישב"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 156,
@@ -2382,8 +2234,7 @@
         "לחתוך",
         "תחתוך"
       ],
-      "wordType": "verb",
-      "notes": "NEEDS REVIEW: Synced from sq2 (partial match, 75%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 157,
@@ -2399,8 +2250,7 @@
         "לרדת",
         "תרד"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 158,
@@ -2411,8 +2261,7 @@
         "לצלול",
         "תצלול"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 159,
@@ -2423,8 +2272,7 @@
         "נורמלי",
         "רגילה"
       ],
-      "wordType": "other",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "other"
     },
     {
       "wordNumber": 160,
@@ -2435,8 +2283,7 @@
         "מהירה",
         "מהר"
       ],
-      "wordType": "other",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "other"
     },
     {
       "wordNumber": 161,
@@ -2447,8 +2294,7 @@
         "לאט",
         "איטית"
       ],
-      "wordType": "other",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "other"
     },
     {
       "wordNumber": 163,
@@ -2466,8 +2312,7 @@
         "רימון",
         "פצצות"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 164,
@@ -2483,8 +2328,7 @@
         "תעוף משם",
         "עוף הרחק"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 165,
@@ -2495,8 +2339,7 @@
         "הביתה",
         "בתים"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 167,
@@ -2507,8 +2350,7 @@
         "אקסלקס",
         "תרופת משלשלים"
       ],
-      "wordType": "other",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "other"
     },
     {
       "wordNumber": 168,
@@ -2526,8 +2368,7 @@
         "תמשוך",
         "לדחף"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 172,
@@ -2539,8 +2380,7 @@
         "תפרוץ",
         "לתחוב"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 173,
@@ -2553,8 +2393,7 @@
         "סורג",
         "סורגים"
       ],
-      "wordType": "noun",
-      "notes": "NEEDS REVIEW: Synced from sq2 (partial match, 60%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 174,
@@ -2564,8 +2403,7 @@
         "שומשום",
         "סומסום"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 175,
@@ -2576,8 +2414,7 @@
         "תסתכל מתחת",
         "בדוק מתחת"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 177,
@@ -2587,8 +2424,7 @@
         "השם שלי",
         "קוראים לי"
       ],
-      "wordType": "other",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "other"
     },
     {
       "wordNumber": 180,
@@ -2597,8 +2433,7 @@
         "yes"
       ],
       "translatedSynonyms": [],
-      "wordType": "other",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "other"
     },
     {
       "wordNumber": 181,
@@ -2607,8 +2442,7 @@
         "no"
       ],
       "translatedSynonyms": [],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 182,
@@ -2621,8 +2455,7 @@
         "לקנות",
         "תקנה"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 183,
@@ -2633,8 +2466,7 @@
         "לגנוב",
         "תגנוב"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 185,
@@ -2654,8 +2486,7 @@
         "להוריד",
         "תוריד"
       ],
-      "wordType": "verb",
-      "notes": ""
+      "wordType": "verb"
     },
     {
       "wordNumber": 186,
@@ -2665,8 +2496,7 @@
         "ספריה",
         "מדף ספרים"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 187,
@@ -2683,8 +2513,7 @@
         "לפוצץ",
         "תפוצץ"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 188,
@@ -2694,8 +2523,7 @@
         "קובייה",
         "קוביה"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 189,
@@ -2705,16 +2533,14 @@
         "חוט",
         "כבל"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 190,
       "word": "lid",
       "originalSynonyms": [],
       "translatedSynonyms": [],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 191,
@@ -2723,8 +2549,7 @@
       "translatedSynonyms": [
         "אש"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 192,
@@ -2737,8 +2562,7 @@
         "להגביה",
         "תגביה"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 193,
@@ -2748,8 +2572,7 @@
         "אחורה",
         "גב"
       ],
-      "wordType": "other",
-      "notes": "NEEDS REVIEW: Synced from sq2 (partial match, 50%)"
+      "wordType": "other"
     },
     {
       "wordNumber": 194,
@@ -2760,8 +2583,7 @@
         "מגזר",
         "גזרה"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 195,
@@ -2778,16 +2600,14 @@
         "מכבסה",
         "מכונת כביסה"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 196,
       "word": "hh",
       "originalSynonyms": [],
       "translatedSynonyms": [],
-      "wordType": "other",
-      "notes": ""
+      "wordType": "other"
     },
     {
       "wordNumber": 197,
@@ -2801,8 +2621,7 @@
         "להגיד",
         "תגיד"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 198,
@@ -2813,8 +2632,7 @@
         "מחבר",
         "סופר"
       ],
-      "wordType": "other",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "other"
     },
     {
       "wordNumber": 199,
@@ -2832,8 +2650,7 @@
         "מכשיר אלקטרוני",
         "גאדג'ט"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 200,
@@ -2843,8 +2660,7 @@
         "הסתכל למטה",
         "להסתכל למטה"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 201,
@@ -2859,8 +2675,7 @@
         "תכוון",
         "נקודה"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 202,
@@ -2874,8 +2689,7 @@
         "לאפשר",
         "תאפשר"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 203,
@@ -2888,8 +2702,7 @@
         "הסתכל פנימה",
         "להסתכל פנימה"
       ],
-      "wordType": "verb",
-      "notes": "NEEDS REVIEW: Synced from sq2 (partial match, 60%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 204,
@@ -2905,8 +2718,7 @@
         "להודות",
         "תודות"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 206,
@@ -2917,8 +2729,7 @@
         "מכוניות",
         "אוטו"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 208,
@@ -2929,8 +2740,7 @@
         "מזחלות",
         "גלשן"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 209,
@@ -2947,8 +2757,7 @@
         "רכב על",
         "טפס על"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (near match, 80%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 210,
@@ -2962,8 +2771,7 @@
         "לפרמט",
         "תפרמט"
       ],
-      "wordType": "verb",
-      "notes": ""
+      "wordType": "verb"
     },
     {
       "wordNumber": 211,
@@ -2973,8 +2781,7 @@
         "דיסק",
         "דיסקים"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 212,
@@ -2985,8 +2792,7 @@
         "כובעים",
         "מצחייה"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 213,
@@ -3001,8 +2807,7 @@
         "תביט מעבר",
         "ראה מעבר"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 214,
@@ -3012,8 +2817,7 @@
         "מפל",
         "מפל מים"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 215,
@@ -3028,8 +2832,7 @@
         "אבק כיס",
         "צמר גפן"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 216,
@@ -3040,8 +2843,7 @@
         "אחת",
         "יחיד"
       ],
-      "wordType": "other",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "other"
     },
     {
       "wordNumber": 217,
@@ -3053,8 +2855,7 @@
         "הם",
         "הן"
       ],
-      "wordType": "other",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "other"
     },
     {
       "wordNumber": 218,
@@ -3067,8 +2868,7 @@
         "שני",
         "שתי"
       ],
-      "wordType": "other",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "other"
     },
     {
       "wordNumber": 219,
@@ -3083,8 +2883,7 @@
         "מושבים",
         "כסא"
       ],
-      "wordType": "noun",
-      "notes": "NEEDS REVIEW: Synced from sq2 (partial match, 50%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 220,
@@ -3097,8 +2896,7 @@
         "שיגור",
         "התחל מסע"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 221,
@@ -3108,8 +2906,7 @@
         "מגירה",
         "מגירות"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 222,
@@ -3120,8 +2917,7 @@
         "כבש",
         "רמפות"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 224,
@@ -3136,8 +2932,7 @@
         "תזנוק",
         "קפיצה"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 226,
@@ -3149,8 +2944,7 @@
         "צלצול",
         "פעמונית"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 227,
@@ -3160,8 +2954,7 @@
         "לרוחב",
         "על פני"
       ],
-      "wordType": "other",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "other"
     },
     {
       "wordNumber": 228,
@@ -3176,8 +2969,7 @@
         "גנרטור כוכבים",
         "מחולל כוכבים"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 229,
@@ -3187,16 +2979,14 @@
         "עדיפות",
         "קדימות"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 230,
       "word": "a6969",
       "originalSynonyms": [],
       "translatedSynonyms": [],
-      "wordType": "other",
-      "notes": ""
+      "wordType": "other"
     },
     {
       "wordNumber": 231,
@@ -3211,8 +3001,7 @@
         "תביט למעלה",
         "ראה למעלה"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 232,
@@ -3222,8 +3011,7 @@
         "שמיים",
         "שמים"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 233,
@@ -3239,8 +3027,7 @@
         "חגורת בטיחות",
         "רצועה"
       ],
-      "wordType": "noun",
-      "notes": "NEEDS REVIEW: Synced from sq2 (partial match, 75%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 234,
@@ -3251,8 +3038,7 @@
         "צעק",
         "תצעק"
       ],
-      "wordType": "verb",
-      "notes": ""
+      "wordType": "verb"
     },
     {
       "wordNumber": 235,
@@ -3269,8 +3055,7 @@
         "להאזין",
         "תאזין"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 236,
@@ -3284,8 +3069,7 @@
         "תחגור",
         "לקשור"
       ],
-      "wordType": "verb",
-      "notes": ""
+      "wordType": "verb"
     },
     {
       "wordNumber": 237,
@@ -3298,8 +3082,7 @@
         "תאהב",
         "אוהב"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 238,
@@ -3311,8 +3094,7 @@
         "כובע מגן",
         "קסדת מגן"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 239,
@@ -3326,8 +3108,7 @@
         "עפר",
         "אבק"
       ],
-      "wordType": "noun",
-      "notes": "NEEDS REVIEW: Synced from sq2 (partial match, 67%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 240,
@@ -3338,8 +3119,7 @@
         "חפצים",
         "חומר"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 241,
@@ -3355,8 +3135,7 @@
         "ריחוף",
         "תרמיל ריחוף"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 242,
@@ -3368,8 +3147,7 @@
         "לפסוע",
         "תפסע"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 243,
@@ -3381,8 +3159,7 @@
         "מטה",
         "כלפי מטה"
       ],
-      "wordType": "other",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "other"
     },
     {
       "wordNumber": 245,
@@ -3393,8 +3170,7 @@
         "להקליד",
         "תקליד"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 246,
@@ -3405,8 +3181,7 @@
         "קול",
         "צלילים"
       ],
-      "wordType": "noun",
-      "notes": "NEEDS REVIEW: Synced from sq2 (partial match, 50%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 247,
@@ -3418,8 +3193,7 @@
         "התראה",
         "שעון מעורר"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 248,
@@ -3434,8 +3208,7 @@
         "פסיעות",
         "קול צעדים"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 249,
@@ -3445,8 +3218,7 @@
         "תקרה",
         "תקרות"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 250,
@@ -3457,8 +3229,7 @@
         "לבעוט",
         "בעיטה"
       ],
-      "wordType": "verb",
-      "notes": ""
+      "wordType": "verb"
     },
     {
       "wordNumber": 251,
@@ -3478,8 +3249,7 @@
         "יחידת אחזור מחסניות",
         "יחידת דגם DX"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 252,
@@ -3494,8 +3264,7 @@
         "מסילות",
         "מעקה בטיחות"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 253,
@@ -3510,8 +3279,7 @@
         "דלת ארון",
         "מחסן"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 254,
@@ -3521,8 +3289,7 @@
         "חוגה",
         "כפתור סיבוב"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 255,
@@ -3537,8 +3304,7 @@
         "לעשן",
         "תעשן"
       ],
-      "wordType": "noun",
-      "notes": "NEEDS REVIEW: Synced from sq2 (partial match, 50%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 256,
@@ -3554,8 +3320,7 @@
         "גליל",
         "לגלול"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 257,
@@ -3568,8 +3333,7 @@
         "תשאף",
         "נחירה"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 258,
@@ -3583,8 +3347,7 @@
         "לטמון",
         "תטמון"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 259,
@@ -3596,8 +3359,7 @@
         "גשר פיקוד",
         "חדר פיקוד"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 260,
@@ -3612,8 +3374,7 @@
         "שער קשת",
         "קמרון"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 261,
@@ -3627,8 +3388,7 @@
         "רובוט עכביש",
         "דרואיד עכביש"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 262,
@@ -3645,8 +3405,7 @@
         "מגדלים",
         "מגדל שידור"
       ],
-      "wordType": "noun",
-      "notes": "NEEDS REVIEW: Synced from sq2 (partial match, 50%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 263,
@@ -3659,8 +3418,7 @@
         "קצה התהום",
         "סף"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 264,
@@ -3676,8 +3434,7 @@
         "הישרדות",
         "ערכת הישרדות"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 266,
@@ -3695,8 +3452,7 @@
         "נשק",
         "כלי ירי"
       ],
-      "wordType": "noun",
-      "notes": "NEEDS REVIEW: Synced from sq2 (partial match, 50%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 267,
@@ -3712,8 +3468,7 @@
         "שלוט",
         "לשלוט"
       ],
-      "wordType": "noun",
-      "notes": "NEEDS REVIEW: Synced from sq2 (partial match, 75%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 268,
@@ -3727,8 +3482,7 @@
         "סכין",
         "סכין צבא קסנון"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 269,
@@ -3741,8 +3495,7 @@
         "פחית",
         "מיכל"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 270,
@@ -3751,8 +3504,7 @@
       "translatedSynonyms": [
         "כיסא"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 271,
@@ -3768,8 +3520,7 @@
         "תקן",
         "לתקן"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 272,
@@ -3785,8 +3536,7 @@
         "תגית",
         "מדבקה"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 273,
@@ -3802,8 +3552,7 @@
         "מכתב",
         "מכתבים"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 274,
@@ -3813,8 +3562,7 @@
         "חומצה",
         "חומצות"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 275,
@@ -3829,8 +3577,7 @@
         "תמיסה",
         "נוזל"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 276,
@@ -3845,8 +3592,7 @@
         "שלוליות",
         "מאגר"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 277,
@@ -3864,8 +3610,7 @@
         "לטפטף",
         "תטפטף"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 278,
@@ -3885,8 +3630,7 @@
         "לייזר",
         "קרן לייזר"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 279,
@@ -3900,8 +3644,7 @@
         "בוכנות",
         "מחולל קיטור"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 281,
@@ -3913,8 +3656,7 @@
         "גשר הליכה",
         "מעבר"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 282,
@@ -3924,8 +3666,7 @@
         "עמוד",
         "מוט"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 284,
@@ -3937,8 +3678,7 @@
         "דיונה",
         "דיונות"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 285,
@@ -3960,8 +3700,7 @@
         "חיית לאביון",
         "חיית טרור"
       ],
-      "wordType": "noun",
-      "notes": "NEEDS REVIEW: Synced from sq2 (partial match, 50%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 286,
@@ -3973,8 +3712,7 @@
         "זעירה",
         "זעירי"
       ],
-      "wordType": "other",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "other"
     },
     {
       "wordNumber": 287,
@@ -3985,8 +3723,7 @@
         "ירה",
         "תירה"
       ],
-      "wordType": "verb",
-      "notes": ""
+      "wordType": "verb"
     },
     {
       "wordNumber": 288,
@@ -4006,8 +3743,7 @@
         "מישור",
         "דירות"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (near match, 80%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 289,
@@ -4017,8 +3753,7 @@
         "בר",
         "ברים"
       ],
-      "wordType": "noun",
-      "notes": "NEEDS REVIEW: Synced from sq2 (partial match, 50%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 290,
@@ -4033,8 +3768,7 @@
         "ערימות",
         "גבעון"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 291,
@@ -4051,8 +3785,7 @@
         "מוזיקאים",
         "נגנים"
       ],
-      "wordType": "verb",
-      "notes": ""
+      "wordType": "verb"
     },
     {
       "wordNumber": 292,
@@ -4065,8 +3798,7 @@
         "ברמן",
         "שמש"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 293,
@@ -4083,8 +3815,7 @@
         "קונים",
         "פטרון"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 294,
@@ -4094,8 +3825,7 @@
         "מטאטא",
         "מנקה"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 295,
@@ -4105,8 +3835,7 @@
         "דבר מה",
         "משהו"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 296,
@@ -4118,8 +3847,7 @@
         "איש מכירות",
         "מוכר"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 297,
@@ -4132,8 +3860,7 @@
         "נקה אבק",
         "לנקות אבק"
       ],
-      "wordType": "noun",
-      "notes": "NEEDS REVIEW: Synced from sq2 (partial match, 50%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 298,
@@ -4145,8 +3872,7 @@
         "מונה",
         "מוֹנה"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 300,
@@ -4159,8 +3885,7 @@
         "הסר ברגים",
         "פתח ברגים"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 301,
@@ -4174,8 +3899,7 @@
         "תנו לי",
         "הבא לי"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 302,
@@ -4187,8 +3911,7 @@
         "יין",
         "קולר יין"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 303,
@@ -4206,8 +3929,7 @@
         "תתפשט",
         "הסר בגדים"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 304,
@@ -4222,8 +3944,7 @@
         "פקק",
         "פקקים"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 305,
@@ -4233,8 +3954,7 @@
         "קרונה",
         "כרונה"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 306,
@@ -4247,8 +3967,7 @@
         "התחלה",
         "פתיחה"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 307,
@@ -4259,8 +3978,7 @@
         "החזק",
         "תחזיק"
       ],
-      "wordType": "verb",
-      "notes": ""
+      "wordType": "verb"
     },
     {
       "wordNumber": 308,
@@ -4270,8 +3988,7 @@
         "שים",
         "תשים"
       ],
-      "wordType": "verb",
-      "notes": ""
+      "wordType": "verb"
     },
     {
       "wordNumber": 309,
@@ -4284,8 +4001,7 @@
         "לחסום",
         "תחסום"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 310,
@@ -4296,8 +4012,7 @@
         "שעונים",
         "שעון קיר"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 311,
@@ -4307,8 +4022,7 @@
         "זרבובית",
         "פיה"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 312,
@@ -4321,8 +4035,7 @@
         "שאב",
         "תשאוב"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 313,
@@ -4335,8 +4048,7 @@
         "מווסתים",
         "מסדיר"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 314,
@@ -4350,8 +4062,7 @@
         "לשרטט",
         "תשרטט"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 315,
@@ -4363,8 +4074,7 @@
         "שלב",
         "שלבים"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 316,
@@ -4377,8 +4087,7 @@
         "שמשות קדמיות",
         "מגן רוח"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 325,
@@ -4387,8 +4096,7 @@
       "translatedSynonyms": [
         "מנהיגים"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 326,
@@ -4401,8 +4109,7 @@
         "שובר",
         "קופונים"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 327,
@@ -4415,8 +4122,7 @@
         "ריצה",
         "תפעיל"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 328,
@@ -4431,8 +4137,7 @@
         "תושיט",
         "טווח הגעה"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 329,
@@ -4445,8 +4150,7 @@
         "תפנה",
         "התקדם"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 330,
@@ -4465,8 +4169,7 @@
         "לישון",
         "תישן"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 331,
@@ -4482,8 +4185,7 @@
         "חזרה",
         "שיבה"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 332,
@@ -4498,8 +4200,7 @@
         "מפרץ רכב",
         "מוסך"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 333,
@@ -4513,8 +4214,7 @@
         "תא תפעול",
         "קוקפיט"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 334,
@@ -4527,8 +4227,7 @@
         "בחוץ ל",
         "מבחוץ"
       ],
-      "wordType": "other",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "other"
     },
     {
       "wordNumber": 335,
@@ -4540,8 +4239,7 @@
         "שממה",
         "ערבה"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 336,
@@ -4555,8 +4253,7 @@
         "מנעולים",
         "נעילה"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 337,
@@ -4566,8 +4263,7 @@
         "ארקדה",
         "Arcada"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 338,
@@ -4582,8 +4278,7 @@
         "תחביא",
         "להסתיר"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 339,
@@ -4602,8 +4297,7 @@
         "ספרים",
         "ארכיון נתונים"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 340,
@@ -4612,8 +4306,7 @@
       "translatedSynonyms": [
         "מחסניות"
       ],
-      "wordType": "noun",
-      "notes": ""
+      "wordType": "noun"
     },
     {
       "wordNumber": 341,
@@ -4627,8 +4320,7 @@
         "הבא בתור",
         "לאחר מכן"
       ],
-      "wordType": "other",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "other"
     },
     {
       "wordNumber": 342,
@@ -4643,8 +4335,7 @@
         "שבילים",
         "מדרך צר"
       ],
-      "wordType": "noun",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "noun"
     },
     {
       "wordNumber": 343,
@@ -4659,8 +4350,7 @@
         "תירק",
         "רוק"
       ],
-      "wordType": "verb",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "verb"
     },
     {
       "wordNumber": 344,
@@ -4672,8 +4362,7 @@
         "מהירות מרבית",
         "הכי מהר"
       ],
-      "wordType": "other",
-      "notes": "Synced from sq2 (exact match, 100%)"
+      "wordType": "other"
     },
     {
       "wordNumber": 345,
@@ -4685,8 +4374,7 @@
         "מחזיר אור",
         "רפלקטיבי"
       ],
-      "wordType": "other",
-      "notes": ""
+      "wordType": "other"
     }
   ]
 }
