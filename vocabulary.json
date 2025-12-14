@@ -481,9 +481,7 @@
       "wordNumber": 23,
       "word": "sp",
       "originalSynonyms": [],
-      "translatedSynonyms": [
-        "SP"
-      ],
+      "translatedSynonyms": [],
       "wordType": "other",
       "notes": ""
     },
@@ -517,9 +515,7 @@
       "wordNumber": 26,
       "word": "tp",
       "originalSynonyms": [],
-      "translatedSynonyms": [
-        "TP"
-      ],
+      "translatedSynonyms": [],
       "wordType": "other",
       "notes": ""
     },
@@ -607,7 +603,8 @@
       "translatedSynonyms": [
         "רצפה",
         "דשא",
-        "קרקע"
+        "קרקע",
+        "אדמה"
       ],
       "wordType": "noun",
       "notes": ""
@@ -859,8 +856,6 @@
         "רחפות",
         "טיל",
         "מעבורת",
-        "תרמילים",
-        "תרמיל בריחה",
         "רכב"
       ],
       "wordType": "noun",
@@ -927,7 +922,8 @@
       ],
       "translatedSynonyms": [
         "גייזר",
-        "גייזר קיטור"
+        "גייזר קיטור",
+        "קיטור"
       ],
       "wordType": "noun",
       "notes": ""
@@ -972,7 +968,8 @@
       "translatedSynonyms": [
         "בסיס",
         "פלטפורמה",
-        "רציף"
+        "רציף",
+        "במה"
       ],
       "wordType": "noun",
       "notes": "Synced from sq2 (exact match, 100%)"
@@ -1078,10 +1075,13 @@
         "יצור",
         "יצורים",
         "איש צוות",
-        "חבר צוות"
+        "חבר צוות",
+        "סריאן",
+        "סריאני",
+        "סריאנים"
       ],
       "wordType": "noun",
-      "notes": ""
+      "notes": "צריך יותר"
     },
     {
       "wordNumber": 59,
@@ -1131,9 +1131,7 @@
       "wordNumber": 63,
       "word": "pri",
       "originalSynonyms": [],
-      "translatedSynonyms": [
-        "PRI"
-      ],
+      "translatedSynonyms": [],
       "wordType": "other",
       "notes": ""
     },
@@ -1176,9 +1174,7 @@
         "autopilot"
       ],
       "translatedSynonyms": [
-        "סריאן",
-        "סריאני",
-        "סריאנים"
+        "טייס אוטומטי"
       ],
       "wordType": "noun",
       "notes": ""
@@ -1257,7 +1253,9 @@
       ],
       "translatedSynonyms": [
         "מכונת מזל",
-        "מכונה"
+        "מכונה",
+        "מפתח",
+        "מפתחים"
       ],
       "wordType": "noun",
       "notes": ""
@@ -1378,7 +1376,10 @@
       "translatedSynonyms": [
         "חקור",
         "לחקור",
-        "תחקור"
+        "תחקור",
+        "לחפש",
+        "תחפש",
+        "חפש"
       ],
       "wordType": "verb",
       "notes": "NEEDS REVIEW: Synced from sq2 (partial match, 75%)"
@@ -1478,7 +1479,9 @@
       ],
       "translatedSynonyms": [
         "אור",
-        "אורות"
+        "אורות",
+        "נורה",
+        "נורות"
       ],
       "wordType": "noun",
       "notes": ""
@@ -1489,7 +1492,13 @@
       "originalSynonyms": [],
       "translatedSynonyms": [
         "גמר",
-        "גמור"
+        "גמור",
+        "לגמור",
+        "לסיים",
+        "סיים",
+        "להסתיים",
+        "תסתיים",
+        "הסתיים"
       ],
       "wordType": "verb",
       "notes": "Synced from sq2 (exact match, 100%)"
@@ -1499,7 +1508,8 @@
       "word": "cabinet",
       "originalSynonyms": [],
       "translatedSynonyms": [
-        "ארונית"
+        "ארונית",
+        "ארון"
       ],
       "wordType": "noun",
       "notes": ""
@@ -1708,9 +1718,7 @@
       "wordNumber": 106,
       "word": "var",
       "originalSynonyms": [],
-      "translatedSynonyms": [
-        "VAR"
-      ],
+      "translatedSynonyms": [],
       "wordType": "other",
       "notes": ""
     },
@@ -1756,7 +1764,8 @@
         "מה זה",
         "מהו",
         "מהי",
-        "מה זאת"
+        "מה זאת",
+        "מה"
       ],
       "wordType": "other",
       "notes": "Synced from sq2 (exact match, 100%)"
@@ -1772,7 +1781,11 @@
       "translatedSynonyms": [
         "שלד",
         "שלדים",
-        "עצמות"
+        "עצמות",
+        "בירה",
+        "בירות",
+        "אייל",
+        "אייל קיראוני"
       ],
       "wordType": "noun",
       "notes": ""
@@ -1968,7 +1981,12 @@
         "slots"
       ],
       "translatedSynonyms": [
-        "אורח"
+        "חריץ מחסנית",
+        "חריץ",
+        "מכונת מזל",
+        "מכונת הימורים",
+        "מכונות מזל",
+        "מכונות הימורים"
       ],
       "wordType": "noun",
       "notes": "NEEDS REVIEW: Synced from sq2 (partial match, 75%)"
@@ -1984,9 +2002,7 @@
       "translatedSynonyms": [
         "דלת מפרץ",
         "דלתות מפרץ",
-        "דלת המטען",
-        "דלת תא",
-        "דלתות תא"
+        "דלת המטען"
       ],
       "wordType": "noun",
       "notes": "Synced from sq2 (exact match, 100%)"
@@ -1999,7 +2015,11 @@
       ],
       "translatedSynonyms": [
         "תא אוויר",
-        "תאי אוויר"
+        "תאי אוויר",
+        "דלת תא",
+        "דלת תא אוויר",
+        "דלתות תא",
+        "דלתות תא אוויר"
       ],
       "wordType": "noun",
       "notes": "Synced from sq2 (exact match, 100%)"
@@ -2576,9 +2596,7 @@
       "originalSynonyms": [
         "yes"
       ],
-      "translatedSynonyms": [
-        "אדום"
-      ],
+      "translatedSynonyms": [],
       "wordType": "other",
       "notes": "Synced from sq2 (exact match, 100%)"
     },
@@ -2588,10 +2606,7 @@
       "originalSynonyms": [
         "no"
       ],
-      "translatedSynonyms": [
-        "קולט מחסנית",
-        "שקע מחסנית"
-      ],
+      "translatedSynonyms": [],
       "wordType": "noun",
       "notes": "Synced from sq2 (exact match, 100%)"
     },
@@ -2706,8 +2721,7 @@
       "word": "fire",
       "originalSynonyms": [],
       "translatedSynonyms": [
-        "פתח אוורור",
-        "פירור"
+        "אש"
       ],
       "wordType": "noun",
       "notes": ""
@@ -2771,9 +2785,7 @@
       "wordNumber": 196,
       "word": "hh",
       "originalSynonyms": [],
-      "translatedSynonyms": [
-        "HH"
-      ],
+      "translatedSynonyms": [],
       "wordType": "other",
       "notes": ""
     },
@@ -3182,9 +3194,7 @@
       "wordNumber": 230,
       "word": "a6969",
       "originalSynonyms": [],
-      "translatedSynonyms": [
-        "A6969"
-      ],
+      "translatedSynonyms": [],
       "wordType": "other",
       "notes": ""
     },
@@ -3341,7 +3351,9 @@
         "תרמיל סילון",
         "ג'ט-פאק",
         "מנוע סילון",
-        "תרמיל דחף"
+        "תרמיל דחף",
+        "ריחוף",
+        "תרמיל ריחוף"
       ],
       "wordType": "noun",
       "notes": "Synced from sq2 (exact match, 100%)"
@@ -3737,7 +3749,7 @@
       "word": "seat",
       "originalSynonyms": [],
       "translatedSynonyms": [
-        "רוג'ר"
+        "כיסא"
       ],
       "wordType": "noun",
       "notes": ""
@@ -3958,7 +3970,8 @@
       "translatedSynonyms": [
         "זעיר",
         "קטן",
-        "זעירה"
+        "זעירה",
+        "זעירי"
       ],
       "wordType": "other",
       "notes": "Synced from sq2 (exact match, 100%)"
