@@ -764,10 +764,7 @@
         "תצא",
         "עזוב",
         "לעזוב",
-        "תעזוב",
-        "סיים",
-        "לסיים",
-        "תסיים"
+        "תעזוב"
       ],
       "wordType": "verb"
     },
@@ -916,8 +913,7 @@
       "translatedSynonyms": [
         "בסיס",
         "פלטפורמה",
-        "רציף",
-        "במה"
+        "רציף"
       ],
       "wordType": "noun"
     },
@@ -1186,8 +1182,8 @@
       "word": "inscription",
       "originalSynonyms": [],
       "translatedSynonyms": [
-        "חריץ",
-        "שקע"
+        "שקע",
+        "כתובת"
       ],
       "wordType": "noun"
     },
@@ -1199,8 +1195,6 @@
         "skimmer key"
       ],
       "translatedSynonyms": [
-        "מכונת מזל",
-        "מכונה",
         "מפתח",
         "מפתחים"
       ],
@@ -1439,8 +1433,7 @@
       "word": "cabinet",
       "originalSynonyms": [],
       "translatedSynonyms": [
-        "ארונית",
-        "ארון"
+        "ארונית"
       ],
       "wordType": "noun"
     },
@@ -2905,8 +2898,6 @@
       "translatedSynonyms": [
         "כיסא",
         "כיסאות",
-        "מושב",
-        "מושבים",
         "כסא"
       ],
       "wordType": "noun"
@@ -3323,10 +3314,8 @@
       "originalSynonyms": [],
       "translatedSynonyms": [
         "עשן",
-        "קיטור",
         "אדים",
         "ענן עשן",
-        "עשן",
         "לעשן",
         "תעשן"
       ],
@@ -3343,7 +3332,6 @@
         "התגלגל",
         "להתגלגל",
         "תתגלגל",
-        "גליל",
         "לגלול"
       ],
       "wordType": "verb"
@@ -3529,7 +3517,8 @@
       "word": "seat",
       "originalSynonyms": [],
       "translatedSynonyms": [
-        "כיסא"
+        "מושב",
+        "מושבים"
       ],
       "wordType": "noun"
     },
