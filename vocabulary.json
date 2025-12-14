@@ -1164,7 +1164,8 @@
         "throttle"
       ],
       "translatedSynonyms": [
-        "מנוף"
+        "מנוף",
+        "מצערת"
       ],
       "wordType": "noun"
     },
@@ -1475,9 +1476,10 @@
         "wrote"
       ],
       "translatedSynonyms": [
-        "לוקר"
+        "תכנת",
+        "כתב"
       ],
-      "wordType": "noun"
+      "wordType": "verb"
     },
     {
       "wordNumber": 95,
@@ -2329,7 +2331,10 @@
       "translatedSynonyms": [
         "פצצה",
         "רימון",
-        "פצצות"
+        "פצצות",
+        "רימון גז",
+        "רימון עשן",
+        "פצצת גז"
       ],
       "wordType": "noun"
     },
@@ -2410,7 +2415,9 @@
       ],
       "translatedSynonyms": [
         "סורג",
-        "סורגים"
+        "סורגים",
+        "פתח אוורור",
+        "אוורור"
       ],
       "wordType": "noun"
     },
@@ -3512,7 +3519,8 @@
       ],
       "translatedSynonyms": [
         "פחית",
-        "מיכל"
+        "מיכל",
+        "גליל"
       ],
       "wordType": "noun"
     },
