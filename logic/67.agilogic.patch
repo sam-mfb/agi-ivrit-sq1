@@ -1,6 +1,6 @@
 --- /home/devuser/agivrit/project/tmp/src/logic/67.agilogic	2025-12-07 00:05:53.961529003 +0000
-+++ /tmp/67.agilogic.modified	2025-12-12 21:17:12.214677002 +0000
-@@ -12,6 +12,7 @@
++++ /tmp/67.agilogic.modified	2025-12-16 02:52:44.549123011 +0000
+@@ -12,10 +12,11 @@
    load.view(204);
    load.view(205);
    load.view(206);
@@ -8,6 +8,29 @@
    load.sound(60);
    animate.obj(o1);
    set.view(o1, 200);
+-  position(o1, 23, 23);
++  position(o1, 23, 8);
+   set.priority(o1, 10);
+   animate.obj(o2);
+   set.view(o2, 201);
+@@ -72,7 +73,7 @@
+   set.loop(o2, 0);
+   set.cel(o2, 0);
+   position(o2, 45, 146);
+-  position(o1, 23, 23);
++  position(o1, 23, 8);
+   draw.pic(v0);
+   show.pic();
+   graphics();
+@@ -133,7 +134,7 @@
+       if (v32 > 0) {
+         position(o1, 23, 137);
+         draw(o1);
+-        move.obj(o1, 23, 23, 6, f30);
++        move.obj(o1, 23, 8, 6, f30);
+       }
+     
+       if (!(v32 > 0)) {
 @@ -168,10 +169,15 @@
        erase(o8);
        erase(o9);
