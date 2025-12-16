@@ -8,6 +8,42 @@
    load.sound(60);
    animate.obj(o1);
    set.view(o1, 200);
+@@ -21,7 +22,7 @@
+   set.view(o2, 201);
+   set.loop(o2, 0);
+   set.cel(o2, 0);
+-  position(o2, 45, 146);
++  position(o2, 47, 161);
+   set.priority(o2, 15);
+   animate.obj(o3);
+   animate.obj(o4);
+@@ -71,7 +72,7 @@
+   v33 = 1;
+   set.loop(o2, 0);
+   set.cel(o2, 0);
+-  position(o2, 45, 146);
++  position(o2, 47, 161);
+   position(o1, 23, 23);
+   draw.pic(v0);
+   show.pic();
+@@ -108,7 +109,7 @@
+       set.cel(o2, 0);
+       stop.cycling(o2);
+       draw(o1);
+-      move.obj(o1, 23, 137, 6, f30);
++      move.obj(o1, 23, 152, 6, f30);
+     }
+   
+     if (f30) {
+@@ -131,7 +132,7 @@
+       reset(f32);
+     
+       if (v32 > 0) {
+-        position(o1, 23, 137);
++        position(o1, 23, 152);
+         draw(o1);
+         move.obj(o1, 23, 23, 6, f30);
+       }
 @@ -168,10 +169,15 @@
        erase(o8);
        erase(o9);
