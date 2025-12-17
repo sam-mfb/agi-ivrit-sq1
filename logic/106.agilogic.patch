@@ -1,21 +1,28 @@
 --- project/tmp/src/logic/106.agilogic	2025-12-07 00:05:53.865529003 +0000
-+++ translations/sq1/logic/106.agilogic.tmp	2025-12-17 11:48:14.300257002 +0000
++++ translations/sq1/logic/106.agilogic.tmp	2025-12-17 12:07:06.384087012 +0000
 @@ -3,7 +3,7 @@
    return();
  } else {
    if (!(v76 > 0) && f50) {
 -    display(16, 10, m63);
-+    display(16, 15, m63);
++    display(16, 14, m63);
    
      if (f230) {
        reset(f230);
-@@ -16,24 +16,24 @@
-     display(17, 23, m65);
+@@ -12,28 +12,28 @@
+       set(f230);
+       set.text.attribute(3, 0);
+     }
+-    display(17, 14, m64);
+-    display(17, 23, m65);
++    display(17, 15, m64);
++    display(17, 24, m65);
      v63 = 17;
-     v62 = 17;
+-    v62 = 17;
 -    v77 += 51;
 -    display.v(v63, v62, v77);
 -    v77 -= 51;
++    v62 = 18;
 +    v75 += 51;
 +    display.v(v63, v62, v75);
 +    v75 -= 51;
