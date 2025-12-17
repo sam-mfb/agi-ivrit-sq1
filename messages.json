@@ -1152,14 +1152,14 @@
       "messageNumber": 1,
       "original": "This is the Arcada's data archive.  Many volumes of information are stored on data cartridges.  There is a computer console here.",
       "translation": "זהו ארכיון המידע של הארקדה. כמויות אדירות של מידע מאוחסנות על מחסניות נתונים. ישנה כאן קונסולת מחשב.",
-      "notes": "",
+      "notes": "\"קונסולת מחשב״ באוצר מילים?",
       "placeholders": []
     },
     {
       "logicFile": "1.agilogic",
       "messageNumber": 2,
       "original": "This is a data storage cartridge.  On it are the words \\\"Astral Body Formation: The Untold Story.\\\"",
-      "translation": "זוהי מחסנית אחסון נתונים. עליה כתובות המילים \\\"גיבוש גוף אסטרלי: הסיפור שלא סופר\\\".",
+      "translation": "זוהי מחסנית נתונים. עליה כתובות המילים \\\"גיבוש גוף אסטרלי: הסיפור שלא סופר\\\".",
       "notes": "",
       "placeholders": []
     },
@@ -1175,7 +1175,7 @@
       "logicFile": "1.agilogic",
       "messageNumber": 4,
       "original": "The screen says \\\"Type the word `find` followed by the first name of the desired cartridge title.\\\"",
-      "translation": "על המסך כתוב \\\"הקלד את המילה `find` ואחריה את המילה הראשונה מכותרת המחסנית הרצויה\\\".",
+      "translation": "על המסך כתוב \\\"הקלד את המילה `למצוא` ואחריה את המילה הראשונה מכותרת המחסנית הרצויה\\\".",
       "notes": "",
       "placeholders": []
     },
@@ -1183,7 +1183,7 @@
       "logicFile": "1.agilogic",
       "messageNumber": 5,
       "original": "The keyboard has the usual keys found on a Xenon keyboard.  Above it are the words \\\"Arcada Data Archive.\\\"",
-      "translation": "במקלדת יש את המקשים הרגילים המצויים במקלדת זנונית. מעליה כתובות המילים \\\"ארכיון מידע ארקדה\\\".",
+      "translation": "במקלדת יש את המקשים הרגילים המצויים במקלדת קסנונית. מעליה כתובות המילים \\\"ארכיון מידע ארקדה\\\".",
       "notes": "",
       "placeholders": []
     },
@@ -1215,7 +1215,7 @@
       "logicFile": "1.agilogic",
       "messageNumber": 9,
       "original": "After only a few steps he slumps to the floor.",
-      "translation": "לאחר מספר צעדים, הוא פוגש את הרצפה בקול חבטה עמום.",
+      "translation": "לאחר מספר צעדים, הוא צונח על הרצפה.",
       "notes": "",
       "placeholders": []
     },
@@ -1231,7 +1231,7 @@
       "logicFile": "1.agilogic",
       "messageNumber": 11,
       "original": "He tells you the Arcada is under attack and that the Star Generator is in danger. You had better leave if you value your life.",
-      "translation": "מחולל הכוכבים בסכנה! הארקדה תחת מתקפה! כדאי לך להסתלק מהמכולה הזאת באם חייך יקרים לך, ווילקו.",
+      "translation": "הוא אומר לך שהארקדה תחת מתקפה ושמחולל הכוכבים בסכנה. כדאי לך לעזוב אם אתה מעריך את חייך.",
       "notes": "",
       "placeholders": []
     },
@@ -1287,7 +1287,7 @@
       "logicFile": "1.agilogic",
       "messageNumber": 20,
       "original": "Arcada Data Archive",
-      "translation": "זו מחסנית מארכיב המידע של הארקדה.",
+      "translation": "לארכיון המידע של הארקדה",
       "notes": "",
       "placeholders": []
     },
@@ -1487,7 +1487,7 @@
       "logicFile": "1.agilogic",
       "messageNumber": 45,
       "original": "only some heat-fused chunks of varying sizes which were probably melted by a pulseray blast. Nothing to waste time on.",
-      "translation": "רק כמה נתחים מותכים מחום בגדלים שונים שכנראה נמסו מפיצוץ של קרן פולס. אין על מה לבזבז זמן.",
+      "translation": "רק כמה נתחים מותכים מחום בגדלים שונים שכנראה נמסו מפיצוץ של קרן פעימה. אין על מה לבזבז זמן.",
       "notes": "",
       "placeholders": []
     },
@@ -1559,7 +1559,7 @@
       "logicFile": "1.agilogic",
       "messageNumber": 54,
       "original": "You see a man dressed in a lab coat. He appears to be ailing.",
-      "translation": "אתה רואה אדם לבוש בחלוק מעבדה. הוא נראה פצוע קשה.",
+      "translation": "אתה רואה אדם לבוש בחלוק מעבדה. נראה שהוא חולה.",
       "notes": "",
       "placeholders": []
     },
@@ -1584,7 +1584,7 @@
       "messageNumber": 57,
       "original": "It is a Model DX Cartridge Retrieval Unit. It is used to retrieve cartridges. It is currently empty.",
       "translation": "זוהי יחידת שליפת מחסניות דגם DX. היא משמשת לשליפת מחסניות. כרגע היא ריקה.",
-      "notes": "",
+      "notes": "״יחידת שליפת״ באוצר מילים",
       "placeholders": []
     },
     {
@@ -1663,7 +1663,7 @@
       "logicFile": "2.agilogic",
       "messageNumber": 7,
       "original": ">",
-      "translation": ">",
+      "translation": "<",
       "notes": "",
       "placeholders": []
     },
@@ -3675,7 +3675,7 @@
       "logicFile": "14.agilogic",
       "messageNumber": 20,
       "original": ">",
-      "translation": ">",
+      "translation": "<",
       "notes": "",
       "placeholders": []
     },
@@ -6503,7 +6503,7 @@
       "logicFile": "35.agilogic",
       "messageNumber": 40,
       "original": ">",
-      "translation": ">",
+      "translation": "<",
       "notes": "",
       "placeholders": []
     },
@@ -8735,7 +8735,7 @@
       "logicFile": "61.agilogic",
       "messageNumber": 1,
       "original": ">",
-      "translation": ">",
+      "translation": "<",
       "notes": "",
       "placeholders": []
     },
@@ -9871,7 +9871,7 @@
       "logicFile": "70.agilogic",
       "messageNumber": 40,
       "original": ">",
-      "translation": ">",
+      "translation": "<",
       "notes": "",
       "placeholders": []
     },
@@ -10255,7 +10255,7 @@
       "logicFile": "75.agilogic",
       "messageNumber": 2,
       "original": "Enter Number > ",
-      "translation": "הזן מספר > ",
+      "translation": " < הזן מספר",
       "notes": "",
       "placeholders": []
     },
@@ -12666,7 +12666,7 @@
       "logicFile": "99.agilogic",
       "messageNumber": 17,
       "original": "You Have $%v124. Enter New Total-> ",
-      "translation": "יש לך $%v124. הזן סכום חדש-> ",
+      "translation": " <-יש לך $%v124. הזן סכום חדש",
       "notes": "",
       "placeholders": [
         "%v"
@@ -12882,7 +12882,7 @@
       "logicFile": "104.agilogic",
       "messageNumber": 1,
       "original": ">",
-      "translation": ">",
+      "translation": "<",
       "notes": "",
       "placeholders": []
     },
@@ -13018,7 +13018,7 @@
       "logicFile": "106.agilogic",
       "messageNumber": 64,
       "original": ">>",
-      "translation": ">>",
+      "translation": "<<",
       "notes": "",
       "placeholders": []
     },
