@@ -1,5 +1,5 @@
 --- project/tmp/src/logic/1.agilogic	2025-12-07 00:05:53.856529003 +0000
-+++ translations/sq1/logic/1.agilogic.tmp	2025-12-17 03:07:45.670247006 +0000
++++ translations/sq1/logic/1.agilogic.tmp	2025-12-17 03:32:00.922449014 +0000
 @@ -311,7 +311,7 @@
      open.dialogue();
      set.string(s2, m31);
@@ -9,3 +9,14 @@
      parse(s2);
    
      if (!f2) {
+@@ -661,8 +661,8 @@
+       status.line.off();
+       prevent.input();
+       text.screen();
+-      display(2, 13, m19);
+-      display(3, 11, m20);
++      display(2, 2, m19);
++      display(3, 2, m20);
+       display(5, 2, m21);
+       display(8, 2, m22);
+       display(9, 3, m23);
