@@ -1631,7 +1631,7 @@
       "logicFile": "2.agilogic",
       "messageNumber": 3,
       "original": "You have just stumbled into a small, dark, and very cluttered utility closet.  Many things fall, most of them landing on you. Doesn't say much for your cleaning prowess.",
-      "translation": "זה עתה מעדת לתוך ארון שירות קטן, חשוך, ומבולגן. דברים רבים נופלים ורובם נוחתים עליך. זה לא אומר הרבה על מיומנות הניקיון שלך.",
+      "translation": "כרגע מעדת לתוך ארון שירות קטן, חשוך, ומבולגן. דברים רבים נופלים ורובם נוחתים עליך. זה לא אומר הרבה על מיומנות הניקיון שלך.",
       "notes": "",
       "placeholders": []
     },
@@ -1639,7 +1639,7 @@
       "logicFile": "2.agilogic",
       "messageNumber": 4,
       "original": "You can't see anything in here because it is dark.",
-      "translation": "אינך רואה דבר מכאן למעלה.",
+      "translation": "אי אפשר לראות פה כלום כי חשוך.",
       "notes": "",
       "placeholders": []
     },
@@ -1647,7 +1647,7 @@
       "logicFile": "2.agilogic",
       "messageNumber": 5,
       "original": "This is an elevator to one of the lower levels.",
-      "translation": "מעלית זו יורדת אל אחד מהמפלסים התחתונים.",
+      "translation": "מעלית זו יורדת אל אחד מהקומות התחתונות.",
       "notes": "",
       "placeholders": []
     },
@@ -1679,7 +1679,7 @@
       "logicFile": "2.agilogic",
       "messageNumber": 9,
       "original": "The doors here are not particularly interesting.",
-      "translation": "הדלתות כאן לא מיוחדות במיוחד.",
+      "translation": "הדלתות כאן לא מעניינות במיוחד.",
       "notes": "",
       "placeholders": []
     },
@@ -1703,7 +1703,7 @@
       "logicFile": "2.agilogic",
       "messageNumber": 12,
       "original": "A quick search of the body turns up nothing.",
-      "translation": "החיפוש על הגופה אינו מניב תוצאות.",
+      "translation": "חיפוש מהיר של הגופה לא העלה דבר.",
       "notes": "",
       "placeholders": []
     },
@@ -1719,7 +1719,7 @@
       "logicFile": "2.agilogic",
       "messageNumber": 15,
       "original": "One can only wonder what your purpose for this action is. You can't undress the body. Allow him one last bit of dignity.",
-      "translation": "אפשר רק לתהות מה מטרתך בפעולה זו. אתה לא יכול להפשיט את הגופה. תן לו שמץ אחרון של כבוד.",
+      "translation": "רק אפשר לתהות מה המטרה שלך בפעולה זו. אתה לא יכול להפשיט את הגופה. אפשר לו מעט כבוד אחרון.",
       "notes": "",
       "placeholders": []
     },
@@ -1727,7 +1727,7 @@
       "logicFile": "2.agilogic",
       "messageNumber": 16,
       "original": "Dave?  Dave's not here!",
-      "translation": "לא מכאן.",
+      "translation": "דייב? דייב לא כאן!",
       "notes": "",
       "placeholders": []
     },
@@ -1735,7 +1735,7 @@
       "logicFile": "2.agilogic",
       "messageNumber": 17,
       "original": "That is not seen easily from here.",
-      "translation": "זה לא אפשרי כאן מלמעלה.",
+      "translation": "זה לא נראה בקלות מכאן.",
       "notes": "",
       "placeholders": []
     },
@@ -1935,7 +1935,7 @@
       "logicFile": "4.agilogic",
       "messageNumber": 6,
       "original": "You see nothing that catches your eye.",
-      "translation": "אתה לא רואה דבר שמושך את תשומת ליבך.",
+      "translation": "אינך רואה דבר שמושך את עינך.",
       "notes": "",
       "placeholders": []
     },
@@ -1959,7 +1959,7 @@
       "logicFile": "4.agilogic",
       "messageNumber": 9,
       "original": "Your search of the body reveals nothing.",
-      "translation": "החיפוש על הגופה אינו מניב תוצאות.",
+      "translation": "החיפוש שלך אחר הגופה לא מגלה דבר.",
       "notes": "",
       "placeholders": []
     },
@@ -1975,7 +1975,7 @@
       "logicFile": "4.agilogic",
       "messageNumber": 11,
       "original": "Good grief, man! You are a bit twisted, I must say.?",
-      "translation": "בחיי, בנאדם! אתה קצת מעוות, אני חייב לומר.?",
+      "translation": "בחיי, בנאדם! אתה קצת מעוות, אני חייב לומר.",
       "notes": "",
       "placeholders": []
     },
@@ -1999,7 +1999,7 @@
       "logicFile": "4.agilogic",
       "messageNumber": 15,
       "original": "One can only wonder what your purpose for this action is. You can't undress the body. Allow him one last bit of dignity.",
-      "translation": "אפשר רק לתהות מה המטרה שלך בפעולה הזו. אתה לא יכול להפשיט את הגופה. תן לו שמץ אחרון של כבוד.",
+      "translation": "רק אפשר לתהות מה המטרה שלך בפעולה זו. אתה לא יכול להפשיט את הגופה. אפשר לו מעט כבוד אחרון.",
       "notes": "",
       "placeholders": []
     },
@@ -2031,7 +2031,7 @@
       "logicFile": "5.agilogic",
       "messageNumber": 2,
       "original": "The elevator leads to one of the upper levels.",
-      "translation": "מעלית זו עולה אל אחד מהמפלסים העליונים.",
+      "translation": "מעלית זו עולה אל אחד מהקומות העליונות.",
       "notes": "",
       "placeholders": []
     },
@@ -2087,7 +2087,7 @@
       "logicFile": "5.agilogic",
       "messageNumber": 9,
       "original": "Nothing interesting is to be seen there.",
-      "translation": "אין מה לראות שם.",
+      "translation": "שום דבר מעניין לא נראה שם.",
       "notes": "",
       "placeholders": []
     },
@@ -2127,7 +2127,7 @@
       "logicFile": "6.agilogic",
       "messageNumber": 4,
       "original": "You can't see it from here.",
-      "translation": "אינך רואה דבר מכאן למעלה.",
+      "translation": "אי אפשר לראות את זה מכאן.",
       "notes": "",
       "placeholders": []
     },
@@ -2183,7 +2183,7 @@
       "logicFile": "6.agilogic",
       "messageNumber": 11,
       "original": "Here lies another heap of fried humanity. The attackers have proven to be very thorough thus far.  There's something to be said for not being the hero type, you rationalize.",
-      "translation": "כאן מוטלת ערימה נוספת של אנושות מטוגנת. התוקפים הוכיחו את עצמם כיסודיים מאוד עד כה. יש משהו לומר בעד זה שלא להיות טיפוס גיבור, אתה מנמק לעצמך.",
+      "translation": "כאן מוטלת ערימה נוספת של אנושות מטוגנת. התוקפים הוכיחו את עצמם כיסודיים מאוד עד כה. יש משהו לומר בעד זה שלא להיות גיבור, אתה מנמק לעצמך.",
       "notes": "",
       "placeholders": []
     },
@@ -2199,7 +2199,7 @@
       "logicFile": "6.agilogic",
       "messageNumber": 13,
       "original": "Nothing of interest there.",
-      "translation": "אין מה לעשות שם.",
+      "translation": "אין שם שום דבר מעניין.",
       "notes": "",
       "placeholders": []
     },
@@ -2255,7 +2255,7 @@
       "logicFile": "7.agilogic",
       "messageNumber": 1,
       "original": "This is one of the mid-level decks of the Arcada",
-      "translation": "זוהי אחת מהסיפונים באמצע הארקדה",
+      "translation": "זוהי אחת מהסיפונים באמצע הארקדה.",
       "notes": "",
       "placeholders": []
     },
@@ -2263,7 +2263,7 @@
       "logicFile": "7.agilogic",
       "messageNumber": 2,
       "original": "The elevator goes to another level. You have never used it due to its restricted access status.",
-      "translation": "המעלית עולה לרמה אחרת. מעולם לא השתמשת בה בגלל מעמד הגישה המוגבל שלה.",
+      "translation": "המעלית עולה לקומה אחרת. מעולם לא השתמשת בה בגלל מעמד הגישה המוגבל שלה.",
       "notes": "",
       "placeholders": []
     },
@@ -2271,7 +2271,7 @@
       "logicFile": "7.agilogic",
       "messageNumber": 3,
       "original": "You slide the keycard into its slot. You hear an audible click. You take the keycard back.",
-      "translation": "אתה מכניס את כרטיס המפתח לחריץ שלו. אתה שומע קליק שמיע. אתה מחזיר את כרטיס המפתח.",
+      "translation": "אתה מכניס את כרטיס המגנטי לחריץ שלו. אתה שומע קליק שמיע. אתה מחזיר את כרטיס המגנטי.",
       "notes": "",
       "placeholders": []
     },
@@ -2287,7 +2287,7 @@
       "logicFile": "7.agilogic",
       "messageNumber": 5,
       "original": "You don't have that.",
-      "translation": "אתה לא רוצה לעשות את זה כאן.",
+      "translation": "אין לך את זה.",
       "notes": "",
       "placeholders": []
     },
@@ -2295,7 +2295,7 @@
       "logicFile": "7.agilogic",
       "messageNumber": 6,
       "original": "The walls are all nondescript except for a keycard unit near the elevator. It controls access to the level below.",
-      "translation": "כל הקירות חסרי ייחוד מלבד יחידת כרטיס מפתח ליד המעלית. היא שולטת בגישה לרמה למטה.",
+      "translation": "כל הקירות חסרי ייחוד מלבד יחידת כרטיס מגנטי ליד המעלית. היא שולטת בגישה לקומה למטה.",
       "notes": "",
       "placeholders": []
     },
@@ -2339,7 +2339,7 @@
       "logicFile": "7.agilogic",
       "messageNumber": 11,
       "original": "The keycard unit is a small, sturdy box with a slot. Just above it is a display light which is not currently on.",
-      "translation": "יחידת כרטיס המפתח היא קופסה קטנה וחזקה עם חריץ. ממש מעליה יש נורת תצוגה שכרגע לא דלוקה.",
+      "translation": "יחידת כרטיס המגנטי היא קופסה קטנה וחזקה עם חריץ. ממש מעליה יש נורת תצוגה שכרגע לא דלוקה.",
       "notes": "",
       "placeholders": []
     },
@@ -2347,7 +2347,7 @@
       "logicFile": "7.agilogic",
       "messageNumber": 12,
       "original": "The keycard unit is a small, sturdy box with a slot. Just above it is a display light which is currently on.",
-      "translation": "יחידת כרטיס המפתח היא קופסה קטנה וחזקה עם חריץ. ממש מעליה יש נורת תצוגה שכרגע דלוקה.",
+      "translation": "יחידת כרטיס המגנטי היא קופסה קטנה וחזקה עם חריץ. ממש מעליה יש נורת תצוגה שכרגע דלוקה.",
       "notes": "",
       "placeholders": []
     },
@@ -2355,7 +2355,7 @@
       "logicFile": "7.agilogic",
       "messageNumber": 13,
       "original": "There is no keycard to get.",
-      "translation": "אין כרטיס מפתח שניתן לקחת.",
+      "translation": "אין כרטיס מגנטי שניתן לקחת.",
       "notes": "",
       "placeholders": []
     },
@@ -2363,7 +2363,7 @@
       "logicFile": "7.agilogic",
       "messageNumber": 14,
       "original": "Alas, it does not open. You have adorned the door with a small circle of nose grease. Were you Karl Malden, it could have gotten ugly.",
-      "translation": "אבוי, היא לא נפתחת. קישטת את הדלת במעגל קטן של שומן אף. לו היית קארל מלדן, זה יכול היה להפוך למכוער.",
+      "translation": "אבוי, היא לא נפתחת. קישטת את הדלת במעגל קטן של שומן אף. אם היית חיים טופול, זה יכול היה להפוך למכוער.",
       "notes": "",
       "placeholders": []
     },
