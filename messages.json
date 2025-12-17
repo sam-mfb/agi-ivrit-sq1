@@ -1279,7 +1279,7 @@
       "logicFile": "1.agilogic",
       "messageNumber": 19,
       "original": "Welcome to the",
-      "translation": "ברוכים הבאים",
+      "translation": "            ברוכים הבאים",
       "notes": "",
       "placeholders": []
     },
@@ -1287,7 +1287,7 @@
       "logicFile": "1.agilogic",
       "messageNumber": 20,
       "original": "Arcada Data Archive",
-      "translation": "לארכיון המידע של הארקדה",
+      "translation": "       לארכיון המידע של הארקדה",
       "notes": "",
       "placeholders": []
     },
@@ -1295,7 +1295,7 @@
       "logicFile": "1.agilogic",
       "messageNumber": 21,
       "original": "Model DX Storage and Retrieval System",
-      "translation": "       מערכת אחסון ושליפה דגם DX",
+      "translation": "      מערכת אחסון ושליפה דגם DX",
       "notes": "",
       "placeholders": []
     },
@@ -1535,7 +1535,7 @@
       "logicFile": "1.agilogic",
       "messageNumber": 51,
       "original": "Done.",
-      "translation": "בוצע.",
+      "translation": "נעשה.",
       "notes": "",
       "placeholders": []
     },
