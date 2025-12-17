@@ -90,7 +90,8 @@
         "אתה",
         "עד"
       ],
-      "wordType": "other"
+      "wordType": "other",
+      "notes": ""
     },
     {
       "wordNumber": 1,
@@ -99,7 +100,8 @@
       "translatedSynonyms": [
         "anyword"
       ],
-      "wordType": "other"
+      "wordType": "other",
+      "notes": ""
     },
     {
       "wordNumber": 2,
@@ -133,7 +135,8 @@
         "לסרוק",
         "תסרוק"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 3,
@@ -144,7 +147,8 @@
       "translatedSynonyms": [
         "מחסנית"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 4,
@@ -166,7 +170,8 @@
         "לבוא",
         "תבוא"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 5,
@@ -197,7 +202,8 @@
         "לתפוס",
         "תתפוס"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 6,
@@ -213,7 +219,8 @@
         "לעלות",
         "תעלה"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 7,
@@ -230,7 +237,8 @@
         "בקרות",
         "לוח"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 8,
@@ -246,7 +254,8 @@
         "כיפה",
         "כיפות"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 9,
@@ -258,7 +267,8 @@
         "עץ",
         "עצים"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 10,
@@ -267,7 +277,8 @@
       "translatedSynonyms": [
         "מקלדת"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 11,
@@ -288,7 +299,8 @@
         "צמח",
         "צמחים"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 12,
@@ -300,7 +312,8 @@
         "דרואיד טייס",
         "דרואיד טייס QR 7"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 13,
@@ -313,7 +326,8 @@
         "דבר",
         "תדבר"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 14,
@@ -329,7 +343,8 @@
         "לאתר",
         "תאתר"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 15,
@@ -344,7 +359,8 @@
         "רח",
         "ריח"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 16,
@@ -365,7 +381,8 @@
         "מסכי מחשב",
         "מסך מחשב"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 17,
@@ -379,7 +396,8 @@
         "מעליות",
         "דלת מעלית"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 18,
@@ -388,7 +406,8 @@
       "translatedSynonyms": [
         "אסטרלי"
       ],
-      "wordType": "other"
+      "wordType": "other",
+      "notes": ""
     },
     {
       "wordNumber": 19,
@@ -399,7 +418,8 @@
         "לפתוח",
         "תפתח"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 20,
@@ -420,7 +440,8 @@
         "תהרוס",
         "הפיל"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 21,
@@ -438,7 +459,8 @@
         "בקתה",
         "חנות"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 22,
@@ -452,14 +474,16 @@
         "דלתות",
         "צוהר"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 23,
       "word": "sp",
       "originalSynonyms": [],
       "translatedSynonyms": [],
-      "wordType": "other"
+      "wordType": "other",
+      "notes": ""
     },
     {
       "wordNumber": 24,
@@ -474,7 +498,8 @@
         "חלון",
         "חלונות"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 25,
@@ -483,14 +508,16 @@
       "translatedSynonyms": [
         "דלטאור"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 26,
       "word": "tp",
       "originalSynonyms": [],
       "translatedSynonyms": [],
-      "wordType": "other"
+      "wordType": "other",
+      "notes": ""
     },
     {
       "wordNumber": 27,
@@ -505,7 +532,8 @@
         "חור מפתח",
         "הצתה במפתח"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 28,
@@ -518,7 +546,8 @@
         "לסגור",
         "תסגור"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 29,
@@ -529,7 +558,8 @@
         "מחשבים",
         "קומפיוטר"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 30,
@@ -545,7 +575,8 @@
         "לצוד",
         "תצוד"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 31,
@@ -559,7 +590,8 @@
         "לאתחל",
         "תאתחל"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 32,
@@ -574,7 +606,8 @@
         "קרקע",
         "אדמה"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 33,
@@ -591,7 +624,8 @@
         "ערוץ",
         "ערוץ עמוק"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 34,
@@ -602,7 +636,8 @@
         "סטטוס",
         "סטאטוס"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 35,
@@ -613,7 +648,8 @@
         "לשתות",
         "תשתה"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 36,
@@ -624,7 +660,8 @@
         "להשהות",
         "תשהה"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 37,
@@ -642,7 +679,8 @@
         "אבנים",
         "צור"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 38,
@@ -661,7 +699,8 @@
         "פיר",
         "כניסה"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 39,
@@ -680,7 +719,8 @@
         "להקיש",
         "תקיש"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 40,
@@ -707,7 +747,8 @@
         "למסור",
         "תמסור"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 41,
@@ -720,7 +761,8 @@
         "לנסות",
         "תנסה"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 42,
@@ -731,7 +773,8 @@
         "תנשק",
         "נשיקה"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 43,
@@ -752,7 +795,8 @@
         "מדי סריאן",
         "חליפת חלל"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 44,
@@ -766,7 +810,8 @@
         "לעזוב",
         "תעזוב"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 45,
@@ -779,7 +824,8 @@
         "עמדה",
         "פוזיציה"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 46,
@@ -809,7 +855,8 @@
         "מעבורת",
         "רכב"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 47,
@@ -826,7 +873,8 @@
         "מקש",
         "מקשים"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 48,
@@ -848,7 +896,8 @@
         "נבלה",
         "גופים"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 49,
@@ -859,7 +908,8 @@
         "פריט",
         "עצם"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 50,
@@ -873,7 +923,8 @@
         "גייזר קיטור",
         "קיטור"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 51,
@@ -885,7 +936,8 @@
         "מדף",
         "מדפים"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 52,
@@ -901,7 +953,8 @@
         "גברת",
         "בחורה"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 53,
@@ -915,7 +968,8 @@
         "פלטפורמה",
         "רציף"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 54,
@@ -943,7 +997,8 @@
         "לפגוע",
         "תפגע"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 55,
@@ -959,7 +1014,8 @@
         "כרזה",
         "כרזות"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 56,
@@ -974,7 +1030,8 @@
         "פיפי",
         "שירותים"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 57,
@@ -985,7 +1042,8 @@
         "שלטים",
         "תמרור"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 58,
@@ -1037,7 +1095,8 @@
         "שומרים",
         "מאבטח"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 59,
@@ -1047,7 +1106,8 @@
         "שמאל",
         "שמאלה"
       ],
-      "wordType": "other"
+      "wordType": "other",
+      "notes": ""
     },
     {
       "wordNumber": 60,
@@ -1057,7 +1117,8 @@
         "ימין",
         "ימינה"
       ],
-      "wordType": "other"
+      "wordType": "other",
+      "notes": ""
     },
     {
       "wordNumber": 61,
@@ -1070,21 +1131,24 @@
         "נפטר",
         "נפטרה"
       ],
-      "wordType": "other"
+      "wordType": "other",
+      "notes": ""
     },
     {
       "wordNumber": 62,
       "word": "mem",
       "originalSynonyms": [],
       "translatedSynonyms": [],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 63,
       "word": "pri",
       "originalSynonyms": [],
       "translatedSynonyms": [],
-      "wordType": "other"
+      "wordType": "other",
+      "notes": ""
     },
     {
       "wordNumber": 64,
@@ -1093,7 +1157,8 @@
       "translatedSynonyms": [
         "קדוש"
       ],
-      "wordType": "other"
+      "wordType": "other",
+      "notes": ""
     },
     {
       "wordNumber": 65,
@@ -1104,7 +1169,8 @@
         "חיי",
         "חייה"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 66,
@@ -1113,7 +1179,8 @@
       "translatedSynonyms": [
         "מי"
       ],
-      "wordType": "other"
+      "wordType": "other",
+      "notes": ""
     },
     {
       "wordNumber": 69,
@@ -1124,7 +1191,8 @@
       "translatedSynonyms": [
         "טייס אוטומטי"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 70,
@@ -1137,7 +1205,8 @@
         "לנוס",
         "להימלט"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 71,
@@ -1151,7 +1220,8 @@
         "לנצל",
         "תנצל"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 72,
@@ -1163,7 +1233,8 @@
         "מנוף",
         "מצערת"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 73,
@@ -1175,7 +1246,8 @@
         "לשחרר",
         "תשחרר"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 74,
@@ -1185,7 +1257,8 @@
         "שקע",
         "כתובת"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 75,
@@ -1198,7 +1271,8 @@
         "מפתח",
         "מפתחים"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 76,
@@ -1215,7 +1289,8 @@
         "תעודת זהות",
         "תז"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 77,
@@ -1229,7 +1304,8 @@
         "למלא",
         "תמלא"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 78,
@@ -1245,7 +1321,8 @@
         "דרואידים",
         "רובוטים"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 79,
@@ -1256,7 +1333,8 @@
         "לקרוא",
         "תקרא"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 80,
@@ -1271,7 +1349,8 @@
         "תיאבק",
         "קרב"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 81,
@@ -1280,7 +1359,8 @@
       "translatedSynonyms": [
         "חלל"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 82,
@@ -1296,7 +1376,8 @@
         "כוכב לכת",
         "כוכבי לכת"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 83,
@@ -1314,7 +1395,8 @@
         "תחפש",
         "חפש"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 84,
@@ -1344,7 +1426,8 @@
         "קקי",
         "מזדיין"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 85,
@@ -1356,7 +1439,8 @@
         "אל תיגע",
         "אל תגע"
       ],
-      "wordType": "other"
+      "wordType": "other",
+      "notes": ""
     },
     {
       "wordNumber": 86,
@@ -1369,7 +1453,8 @@
         "רחפן חול",
         "רחפן"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 87,
@@ -1381,7 +1466,8 @@
         "סקוט",
         "סקוט מרפי"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 88,
@@ -1395,7 +1481,8 @@
         "לשקר",
         "תשקר"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 89,
@@ -1410,7 +1497,8 @@
         "נורה",
         "נורות"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 90,
@@ -1426,7 +1514,8 @@
         "תסתיים",
         "הסתיים"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 91,
@@ -1435,7 +1524,8 @@
       "translatedSynonyms": [
         "ארונית"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 92,
@@ -1448,7 +1538,8 @@
         "חשמל",
         "הפעלה"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 93,
@@ -1460,7 +1551,8 @@
         "ערש",
         "משכב"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 94,
@@ -1472,7 +1564,8 @@
         "תכנת",
         "כתב"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 95,
@@ -1487,7 +1580,8 @@
         "מדרגה",
         "צעדים"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 96,
@@ -1501,7 +1595,8 @@
         "ראי",
         "שמשה"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 97,
@@ -1514,7 +1609,8 @@
         "קירות",
         "חומה"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 98,
@@ -1531,7 +1627,8 @@
         "לפתור",
         "תפתור"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 99,
@@ -1554,7 +1651,8 @@
         "לצרוך",
         "תצרוך"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 101,
@@ -1576,7 +1674,8 @@
         "קטעים",
         "חלק"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 102,
@@ -1585,7 +1684,8 @@
       "translatedSynonyms": [
         "הגה"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 103,
@@ -1596,7 +1696,8 @@
         "שולחנות",
         "שלחן"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 104,
@@ -1610,7 +1711,8 @@
         "להעיר",
         "תעיר"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 105,
@@ -1623,14 +1725,16 @@
         "הכה",
         "תכה"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 106,
       "word": "var",
       "originalSynonyms": [],
       "translatedSynonyms": [],
-      "wordType": "other"
+      "wordType": "other",
+      "notes": ""
     },
     {
       "wordNumber": 108,
@@ -1640,7 +1744,8 @@
         "לרמות",
         "תרמה"
       ],
-      "wordType": "other"
+      "wordType": "other",
+      "notes": ""
     },
     {
       "wordNumber": 109,
@@ -1662,7 +1767,8 @@
         "טפח",
         "ללטף"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 110,
@@ -1675,7 +1781,8 @@
         "מה זאת",
         "מה"
       ],
-      "wordType": "other"
+      "wordType": "other",
+      "notes": ""
     },
     {
       "wordNumber": 111,
@@ -1694,7 +1801,8 @@
         "אייל",
         "אייל קיראוני"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 112,
@@ -1705,7 +1813,8 @@
         "שקטה",
         "שקטים"
       ],
-      "wordType": "other"
+      "wordType": "other",
+      "notes": ""
     },
     {
       "wordNumber": 113,
@@ -1715,7 +1824,8 @@
         "שם",
         "שמות"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 114,
@@ -1733,7 +1843,8 @@
         "אשראי",
         "קרדיט"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 115,
@@ -1747,7 +1858,8 @@
         "כיסי",
         "כיסך"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 116,
@@ -1758,7 +1870,8 @@
         "לטעון",
         "תטען"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 117,
@@ -1771,7 +1884,8 @@
         "לכסות",
         "תכסה"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 118,
@@ -1780,7 +1894,8 @@
       "translatedSynonyms": [
         "כרטיס"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 119,
@@ -1793,7 +1908,8 @@
         "כרטיס אשראי",
         "כרטיס מפתח"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 122,
@@ -1808,7 +1924,8 @@
         "באקזואידים",
         "באקס"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 123,
@@ -1823,7 +1940,8 @@
         "תבשל",
         "הכן משקה"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 124,
@@ -1839,7 +1957,8 @@
         "תעזור",
         "עזרה"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 125,
@@ -1852,7 +1971,8 @@
         "ללבוש",
         "תלבש"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 126,
@@ -1863,7 +1983,8 @@
         "להאכיל",
         "תאכיל"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 127,
@@ -1881,7 +2002,8 @@
         "מכונות מזל",
         "מכונות הימורים"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 128,
@@ -1896,7 +2018,8 @@
         "דלתות מפרץ",
         "דלת המטען"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 129,
@@ -1912,7 +2035,8 @@
         "דלתות תא",
         "דלתות תא אוויר"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 130,
@@ -1922,7 +2046,8 @@
         "ידית",
         "ידיות"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 131,
@@ -1933,7 +2058,8 @@
         "להתפלל",
         "תתפלל"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 132,
@@ -1947,7 +2073,8 @@
         "הפעל",
         "להפעיל"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 133,
@@ -1958,7 +2085,8 @@
         "לכרוע",
         "תכרע"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 135,
@@ -1968,7 +2096,8 @@
         "קשור",
         "תקשור"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 136,
@@ -1978,7 +2107,8 @@
         "סולם",
         "סולמות"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 137,
@@ -2009,7 +2139,8 @@
         "אזור",
         "מקום"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 138,
@@ -2020,7 +2151,8 @@
         "היה",
         "תהיה"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 139,
@@ -2039,7 +2171,8 @@
         "להטיל",
         "תטיל"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 140,
@@ -2054,7 +2187,8 @@
         "תפיל",
         "לשים"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 141,
@@ -2067,7 +2201,8 @@
         "להציל",
         "תציל"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 142,
@@ -2080,7 +2215,8 @@
         "זר",
         "חייזרים"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 143,
@@ -2089,7 +2225,8 @@
       "translatedSynonyms": [
         "אורט"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 144,
@@ -2104,7 +2241,8 @@
         "מצוק",
         "צוקים"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 146,
@@ -2114,7 +2252,8 @@
         "משחק",
         "משחקים"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 147,
@@ -2125,7 +2264,8 @@
         "לשחזר",
         "תשחזר"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 148,
@@ -2139,7 +2279,8 @@
         "לחצוב",
         "תחצוב"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 149,
@@ -2154,7 +2295,8 @@
         "שלום לך",
         "אהלן"
       ],
-      "wordType": "other"
+      "wordType": "other",
+      "notes": ""
     },
     {
       "wordNumber": 150,
@@ -2165,7 +2307,8 @@
         "לדפוק",
         "תדפוק"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 151,
@@ -2177,7 +2320,8 @@
         "מים מיובשים",
         "מים"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 152,
@@ -2191,7 +2335,8 @@
         "תיבה",
         "מזוודה"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 153,
@@ -2207,7 +2352,8 @@
         "מכשול",
         "חסימה"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 154,
@@ -2218,7 +2364,8 @@
         "לעקוב",
         "תעקוב"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 155,
@@ -2234,7 +2381,8 @@
         "להתיישב",
         "תתיישב"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 156,
@@ -2248,7 +2396,8 @@
         "לחתוך",
         "תחתוך"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 157,
@@ -2264,7 +2413,8 @@
         "לרדת",
         "תרד"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 158,
@@ -2275,7 +2425,8 @@
         "לצלול",
         "תצלול"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 159,
@@ -2286,7 +2437,8 @@
         "נורמלי",
         "רגילה"
       ],
-      "wordType": "other"
+      "wordType": "other",
+      "notes": ""
     },
     {
       "wordNumber": 160,
@@ -2297,7 +2449,8 @@
         "מהירה",
         "מהר"
       ],
-      "wordType": "other"
+      "wordType": "other",
+      "notes": ""
     },
     {
       "wordNumber": 161,
@@ -2308,7 +2461,8 @@
         "לאט",
         "איטית"
       ],
-      "wordType": "other"
+      "wordType": "other",
+      "notes": ""
     },
     {
       "wordNumber": 163,
@@ -2329,7 +2483,8 @@
         "רימון עשן",
         "פצצת גז"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 164,
@@ -2345,7 +2500,8 @@
         "תעוף משם",
         "עוף הרחק"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 165,
@@ -2356,7 +2512,8 @@
         "הביתה",
         "בתים"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 167,
@@ -2367,7 +2524,8 @@
         "אקסלקס",
         "תרופת משלשלים"
       ],
-      "wordType": "other"
+      "wordType": "other",
+      "notes": ""
     },
     {
       "wordNumber": 168,
@@ -2385,7 +2543,8 @@
         "תמשוך",
         "לדחף"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 172,
@@ -2397,7 +2556,8 @@
         "תפרוץ",
         "לתחוב"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 173,
@@ -2412,7 +2572,8 @@
         "פתח אוורור",
         "אוורור"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 174,
@@ -2422,7 +2583,8 @@
         "שומשום",
         "סומסום"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 175,
@@ -2433,7 +2595,8 @@
         "תסתכל מתחת",
         "בדוק מתחת"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 177,
@@ -2443,7 +2606,8 @@
         "השם שלי",
         "קוראים לי"
       ],
-      "wordType": "other"
+      "wordType": "other",
+      "notes": ""
     },
     {
       "wordNumber": 180,
@@ -2452,7 +2616,8 @@
         "yes"
       ],
       "translatedSynonyms": [],
-      "wordType": "other"
+      "wordType": "other",
+      "notes": ""
     },
     {
       "wordNumber": 181,
@@ -2461,7 +2626,8 @@
         "no"
       ],
       "translatedSynonyms": [],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 182,
@@ -2474,7 +2640,8 @@
         "לקנות",
         "תקנה"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 183,
@@ -2485,7 +2652,8 @@
         "לגנוב",
         "תגנוב"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 185,
@@ -2505,7 +2673,8 @@
         "להוריד",
         "תוריד"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 186,
@@ -2515,7 +2684,8 @@
         "ספריה",
         "מדף ספרים"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 187,
@@ -2532,7 +2702,8 @@
         "לפוצץ",
         "תפוצץ"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 188,
@@ -2542,7 +2713,8 @@
         "קובייה",
         "קוביה"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 189,
@@ -2552,14 +2724,16 @@
         "חוט",
         "כבל"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 190,
       "word": "lid",
       "originalSynonyms": [],
       "translatedSynonyms": [],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 191,
@@ -2568,7 +2742,8 @@
       "translatedSynonyms": [
         "אש"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 192,
@@ -2581,7 +2756,8 @@
         "להגביה",
         "תגביה"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 193,
@@ -2591,7 +2767,8 @@
         "אחורה",
         "גב"
       ],
-      "wordType": "other"
+      "wordType": "other",
+      "notes": ""
     },
     {
       "wordNumber": 194,
@@ -2602,7 +2779,8 @@
         "מגזר",
         "גזרה"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 195,
@@ -2619,14 +2797,16 @@
         "מכבסה",
         "מכונת כביסה"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 196,
       "word": "hh",
       "originalSynonyms": [],
       "translatedSynonyms": [],
-      "wordType": "other"
+      "wordType": "other",
+      "notes": ""
     },
     {
       "wordNumber": 197,
@@ -2640,7 +2820,8 @@
         "להגיד",
         "תגיד"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 198,
@@ -2651,7 +2832,8 @@
         "מחבר",
         "סופר"
       ],
-      "wordType": "other"
+      "wordType": "other",
+      "notes": ""
     },
     {
       "wordNumber": 199,
@@ -2669,7 +2851,8 @@
         "מכשיר אלקטרוני",
         "גאדג'ט"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 200,
@@ -2679,7 +2862,8 @@
         "הסתכל למטה",
         "להסתכל למטה"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 201,
@@ -2694,7 +2878,8 @@
         "תכוון",
         "נקודה"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 202,
@@ -2708,7 +2893,8 @@
         "לאפשר",
         "תאפשר"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 203,
@@ -2721,7 +2907,8 @@
         "הסתכל פנימה",
         "להסתכל פנימה"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 204,
@@ -2737,7 +2924,8 @@
         "להודות",
         "תודות"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 206,
@@ -2748,7 +2936,8 @@
         "מכוניות",
         "אוטו"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 208,
@@ -2759,7 +2948,8 @@
         "מזחלות",
         "גלשן"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 209,
@@ -2776,7 +2966,8 @@
         "רכב על",
         "טפס על"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 210,
@@ -2790,7 +2981,8 @@
         "לפרמט",
         "תפרמט"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 211,
@@ -2800,7 +2992,8 @@
         "דיסק",
         "דיסקים"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 212,
@@ -2811,7 +3004,8 @@
         "כובעים",
         "מצחייה"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 213,
@@ -2826,7 +3020,8 @@
         "תביט מעבר",
         "ראה מעבר"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 214,
@@ -2836,7 +3031,8 @@
         "מפל",
         "מפל מים"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 215,
@@ -2851,7 +3047,8 @@
         "אבק כיס",
         "צמר גפן"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 216,
@@ -2862,7 +3059,8 @@
         "אחת",
         "יחיד"
       ],
-      "wordType": "other"
+      "wordType": "other",
+      "notes": ""
     },
     {
       "wordNumber": 217,
@@ -2874,7 +3072,8 @@
         "הם",
         "הן"
       ],
-      "wordType": "other"
+      "wordType": "other",
+      "notes": ""
     },
     {
       "wordNumber": 218,
@@ -2887,7 +3086,8 @@
         "שני",
         "שתי"
       ],
-      "wordType": "other"
+      "wordType": "other",
+      "notes": ""
     },
     {
       "wordNumber": 219,
@@ -2900,7 +3100,8 @@
         "כיסאות",
         "כסא"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 220,
@@ -2913,7 +3114,8 @@
         "שיגור",
         "התחל מסע"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 221,
@@ -2923,7 +3125,8 @@
         "מגירה",
         "מגירות"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 222,
@@ -2934,7 +3137,8 @@
         "כבש",
         "רמפות"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 224,
@@ -2949,7 +3153,8 @@
         "תזנוק",
         "קפיצה"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 226,
@@ -2961,7 +3166,8 @@
         "צלצול",
         "פעמונית"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 227,
@@ -2971,7 +3177,8 @@
         "לרוחב",
         "על פני"
       ],
-      "wordType": "other"
+      "wordType": "other",
+      "notes": ""
     },
     {
       "wordNumber": 228,
@@ -2986,7 +3193,8 @@
         "גנרטור כוכבים",
         "מחולל כוכבים"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 229,
@@ -2996,14 +3204,16 @@
         "עדיפות",
         "קדימות"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 230,
       "word": "a6969",
       "originalSynonyms": [],
       "translatedSynonyms": [],
-      "wordType": "other"
+      "wordType": "other",
+      "notes": ""
     },
     {
       "wordNumber": 231,
@@ -3018,7 +3228,8 @@
         "תביט למעלה",
         "ראה למעלה"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 232,
@@ -3028,7 +3239,8 @@
         "שמיים",
         "שמים"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 233,
@@ -3044,7 +3256,8 @@
         "חגורת בטיחות",
         "רצועה"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 234,
@@ -3055,7 +3268,8 @@
         "צעק",
         "תצעק"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 235,
@@ -3072,7 +3286,8 @@
         "להאזין",
         "תאזין"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 236,
@@ -3086,7 +3301,8 @@
         "תחגור",
         "לקשור"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 237,
@@ -3099,7 +3315,8 @@
         "תאהב",
         "אוהב"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 238,
@@ -3111,7 +3328,8 @@
         "כובע מגן",
         "קסדת מגן"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 239,
@@ -3125,7 +3343,8 @@
         "עפר",
         "אבק"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 240,
@@ -3136,7 +3355,8 @@
         "חפצים",
         "חומר"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 241,
@@ -3152,7 +3372,8 @@
         "ריחוף",
         "תרמיל ריחוף"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 242,
@@ -3164,7 +3385,8 @@
         "לפסוע",
         "תפסע"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 243,
@@ -3176,7 +3398,8 @@
         "מטה",
         "כלפי מטה"
       ],
-      "wordType": "other"
+      "wordType": "other",
+      "notes": ""
     },
     {
       "wordNumber": 245,
@@ -3187,7 +3410,8 @@
         "להקליד",
         "תקליד"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 246,
@@ -3198,7 +3422,8 @@
         "קול",
         "צלילים"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 247,
@@ -3210,7 +3435,8 @@
         "התראה",
         "שעון מעורר"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 248,
@@ -3225,7 +3451,8 @@
         "פסיעות",
         "קול צעדים"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 249,
@@ -3235,7 +3462,8 @@
         "תקרה",
         "תקרות"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 250,
@@ -3246,7 +3474,8 @@
         "לבעוט",
         "בעיטה"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 251,
@@ -3266,7 +3495,8 @@
         "יחידת אחזור מחסניות",
         "יחידת דגם DX"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 252,
@@ -3281,7 +3511,8 @@
         "מסילות",
         "מעקה בטיחות"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 253,
@@ -3296,7 +3527,8 @@
         "דלת ארון",
         "מחסן"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 254,
@@ -3306,7 +3538,8 @@
         "חוגה",
         "כפתור סיבוב"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 255,
@@ -3319,7 +3552,8 @@
         "לעשן",
         "תעשן"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 256,
@@ -3334,7 +3568,8 @@
         "תתגלגל",
         "לגלול"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 257,
@@ -3347,7 +3582,8 @@
         "תשאף",
         "נחירה"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 258,
@@ -3361,7 +3597,8 @@
         "לטמון",
         "תטמון"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 259,
@@ -3373,7 +3610,8 @@
         "גשר פיקוד",
         "חדר פיקוד"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 260,
@@ -3388,7 +3626,8 @@
         "שער קשת",
         "קמרון"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 261,
@@ -3402,7 +3641,8 @@
         "רובוט עכביש",
         "דרואיד עכביש"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 262,
@@ -3419,7 +3659,8 @@
         "מגדלים",
         "מגדל שידור"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 263,
@@ -3432,7 +3673,8 @@
         "קצה התהום",
         "סף"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 264,
@@ -3448,7 +3690,8 @@
         "הישרדות",
         "ערכת הישרדות"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 266,
@@ -3466,7 +3709,8 @@
         "נשק",
         "כלי ירי"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 267,
@@ -3482,7 +3726,8 @@
         "שלוט",
         "לשלוט"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 268,
@@ -3496,7 +3741,8 @@
         "סכין",
         "סכין צבא קסנון"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 269,
@@ -3510,7 +3756,8 @@
         "מיכל",
         "גליל"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 270,
@@ -3520,7 +3767,8 @@
         "מושב",
         "מושבים"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 271,
@@ -3536,7 +3784,8 @@
         "תקן",
         "לתקן"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 272,
@@ -3552,7 +3801,8 @@
         "תגית",
         "מדבקה"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 273,
@@ -3568,7 +3818,8 @@
         "מכתב",
         "מכתבים"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 274,
@@ -3578,7 +3829,8 @@
         "חומצה",
         "חומצות"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 275,
@@ -3593,7 +3845,8 @@
         "תמיסה",
         "נוזל"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 276,
@@ -3608,7 +3861,8 @@
         "שלוליות",
         "מאגר"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 277,
@@ -3626,7 +3880,8 @@
         "לטפטף",
         "תטפטף"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 278,
@@ -3646,7 +3901,8 @@
         "לייזר",
         "קרן לייזר"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 279,
@@ -3660,7 +3916,8 @@
         "בוכנות",
         "מחולל קיטור"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 281,
@@ -3672,7 +3929,8 @@
         "גשר הליכה",
         "מעבר"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 282,
@@ -3682,7 +3940,8 @@
         "עמוד",
         "מוט"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 284,
@@ -3694,7 +3953,8 @@
         "דיונה",
         "דיונות"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 285,
@@ -3716,7 +3976,8 @@
         "חיית לאביון",
         "חיית טרור"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 286,
@@ -3728,7 +3989,8 @@
         "זעירה",
         "זעירי"
       ],
-      "wordType": "other"
+      "wordType": "other",
+      "notes": ""
     },
     {
       "wordNumber": 287,
@@ -3739,7 +4001,8 @@
         "ירה",
         "תירה"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 288,
@@ -3759,7 +4022,8 @@
         "מישור",
         "דירות"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 289,
@@ -3769,7 +4033,8 @@
         "בר",
         "ברים"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 290,
@@ -3784,7 +4049,8 @@
         "ערימות",
         "גבעון"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 291,
@@ -3801,7 +4067,8 @@
         "מוזיקאים",
         "נגנים"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 292,
@@ -3814,7 +4081,8 @@
         "ברמן",
         "שמש"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 293,
@@ -3831,7 +4099,8 @@
         "קונים",
         "פטרון"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 294,
@@ -3841,7 +4110,8 @@
         "מטאטא",
         "מנקה"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 295,
@@ -3851,7 +4121,8 @@
         "דבר מה",
         "משהו"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 296,
@@ -3863,7 +4134,8 @@
         "איש מכירות",
         "מוכר"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 297,
@@ -3876,7 +4148,8 @@
         "נקה אבק",
         "לנקות אבק"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 298,
@@ -3888,7 +4161,8 @@
         "מונה",
         "מוֹנה"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 300,
@@ -3901,7 +4175,8 @@
         "הסר ברגים",
         "פתח ברגים"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 301,
@@ -3915,7 +4190,8 @@
         "תנו לי",
         "הבא לי"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 302,
@@ -3927,7 +4203,8 @@
         "יין",
         "קולר יין"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 303,
@@ -3945,7 +4222,8 @@
         "תתפשט",
         "הסר בגדים"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 304,
@@ -3960,7 +4238,8 @@
         "פקק",
         "פקקים"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 305,
@@ -3970,7 +4249,8 @@
         "קרונה",
         "כרונה"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 306,
@@ -3983,7 +4263,8 @@
         "התחלה",
         "פתיחה"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 307,
@@ -3994,7 +4275,8 @@
         "החזק",
         "תחזיק"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 308,
@@ -4004,7 +4286,8 @@
         "שים",
         "תשים"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 309,
@@ -4017,7 +4300,8 @@
         "לחסום",
         "תחסום"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 310,
@@ -4028,7 +4312,8 @@
         "שעונים",
         "שעון קיר"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 311,
@@ -4038,7 +4323,8 @@
         "זרבובית",
         "פיה"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 312,
@@ -4051,7 +4337,8 @@
         "שאב",
         "תשאוב"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 313,
@@ -4064,7 +4351,8 @@
         "מווסתים",
         "מסדיר"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 314,
@@ -4078,7 +4366,8 @@
         "לשרטט",
         "תשרטט"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 315,
@@ -4090,7 +4379,8 @@
         "שלב",
         "שלבים"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 316,
@@ -4103,7 +4393,8 @@
         "שמשות קדמיות",
         "מגן רוח"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 325,
@@ -4112,7 +4403,8 @@
       "translatedSynonyms": [
         "מנהיגים"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 326,
@@ -4125,7 +4417,8 @@
         "שובר",
         "קופונים"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 327,
@@ -4138,7 +4431,8 @@
         "ריצה",
         "תפעיל"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 328,
@@ -4153,7 +4447,8 @@
         "תושיט",
         "טווח הגעה"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 329,
@@ -4163,7 +4458,8 @@
         "ראש",
         "ראשים"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 330,
@@ -4182,7 +4478,8 @@
         "לישון",
         "תישן"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 331,
@@ -4198,7 +4495,8 @@
         "חזרה",
         "שיבה"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 332,
@@ -4213,7 +4511,8 @@
         "מפרץ רכב",
         "מוסך"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 333,
@@ -4227,7 +4526,8 @@
         "תא תפעול",
         "קוקפיט"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 334,
@@ -4240,7 +4540,8 @@
         "בחוץ ל",
         "מבחוץ"
       ],
-      "wordType": "other"
+      "wordType": "other",
+      "notes": ""
     },
     {
       "wordNumber": 335,
@@ -4252,7 +4553,8 @@
         "שממה",
         "ערבה"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 336,
@@ -4266,7 +4568,8 @@
         "מנעולים",
         "נעילה"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 337,
@@ -4276,7 +4579,8 @@
         "ארקדה",
         "Arcada"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 338,
@@ -4292,7 +4596,8 @@
         "להסתיר",
         "הסתתר"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 339,
@@ -4311,7 +4616,8 @@
         "ספרים",
         "ארכיון נתונים"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 340,
@@ -4320,7 +4626,8 @@
       "translatedSynonyms": [
         "מחסניות"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 341,
@@ -4334,7 +4641,8 @@
         "הבא בתור",
         "לאחר מכן"
       ],
-      "wordType": "other"
+      "wordType": "other",
+      "notes": ""
     },
     {
       "wordNumber": 342,
@@ -4349,7 +4657,8 @@
         "שבילים",
         "מדרך צר"
       ],
-      "wordType": "noun"
+      "wordType": "noun",
+      "notes": ""
     },
     {
       "wordNumber": 343,
@@ -4364,7 +4673,8 @@
         "תירק",
         "רוק"
       ],
-      "wordType": "verb"
+      "wordType": "verb",
+      "notes": ""
     },
     {
       "wordNumber": 344,
@@ -4376,7 +4686,8 @@
         "מהירות מרבית",
         "הכי מהר"
       ],
-      "wordType": "other"
+      "wordType": "other",
+      "notes": ""
     },
     {
       "wordNumber": 345,
@@ -4388,7 +4699,8 @@
         "מחזיר אור",
         "רפלקטיבי"
       ],
-      "wordType": "other"
+      "wordType": "other",
+      "notes": ""
     }
   ]
 }
