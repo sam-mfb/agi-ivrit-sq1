@@ -1,0 +1,48 @@
+--- project/tmp/src/logic/106.agilogic	2025-12-07 00:05:53.865529003 +0000
++++ translations/sq1/logic/106.agilogic.tmp	2025-12-17 11:48:14.300257002 +0000
+@@ -3,7 +3,7 @@
+   return();
+ } else {
+   if (!(v76 > 0) && f50) {
+-    display(16, 10, m63);
++    display(16, 15, m63);
+   
+     if (f230) {
+       reset(f230);
+@@ -16,24 +16,24 @@
+     display(17, 23, m65);
+     v63 = 17;
+     v62 = 17;
+-    v77 += 51;
+-    display.v(v63, v62, v77);
+-    v77 -= 51;
++    v75 += 51;
++    display.v(v63, v62, v75);
++    v75 -= 51;
+     v62++;
+-    v73 += 51;
+-    display.v(v63, v62, v73);
+-    v73 -= 51;
++    v74 += 51;
++    display.v(v63, v62, v74);
++    v74 -= 51;
+     v62++;
+     v78 = 62;
+     display.v(v63, v62, v78);
+     v62++;
+-    v74 += 51;
+-    display.v(v63, v62, v74);
+-    v74 -= 51;
++    v73 += 51;
++    display.v(v63, v62, v73);
++    v73 -= 51;
+     v62++;
+-    v75 += 51;
+-    display.v(v63, v62, v75);
+-    v75 -= 51;
++    v77 += 51;
++    display.v(v63, v62, v77);
++    v77 -= 51;
+   }
+   goto(Address111);
+ }

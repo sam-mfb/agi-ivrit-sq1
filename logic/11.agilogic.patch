@@ -1,0 +1,17 @@
+--- project/tmp/src/logic/11.agilogic	2025-12-07 00:05:53.868529003 +0000
++++ translations/sq1/logic/11.agilogic.tmp	2025-12-17 11:49:43.520354002 +0000
+@@ -80,10 +80,10 @@
+             status.line.off();
+             v19 = 0;
+             text.screen();
+-            display(2, 10, m1);
+-            display(4, 1, m2);
+-            display(6, 7, m3);
+-            display(8, 8, m4);
++            display(2, 11, m1);
++            display(4, 6, m2);
++            display(6, 11, m3);
++            display(8, 12, m4);
+           }
+         } else {
+           if (obj.in.box(o0, 0, 89, 53, 137) || obj.in.box(o0, 105, 89, 159, 137)) {

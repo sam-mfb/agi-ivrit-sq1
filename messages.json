@@ -3271,7 +3271,7 @@
       "logicFile": "11.agilogic",
       "messageNumber": 1,
       "original": ". . . .WARNING. . . .",
-      "translation": "אור אזהרה",
+      "translation": ". . . .אזהרה. . . .",
       "notes": "",
       "placeholders": []
     },
@@ -13026,7 +13026,7 @@
       "logicFile": "106.agilogic",
       "messageNumber": 65,
       "original": "<<",
-      "translation": "<<",
+      "translation": ">>",
       "notes": "",
       "placeholders": []
     },
