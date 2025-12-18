@@ -34,7 +34,7 @@
     {
       "index": 3,
       "original": "Gadget",
-      "translation": "גאדג'ט",
+      "translation": "מכשיר",
       "startingRoom": 0,
       "notes": ""
     },
@@ -83,7 +83,7 @@
     {
       "index": 10,
       "original": "Buckazoid(s)",
-      "translation": "באקזואיד",
+      "translation": "באקזואיד(ים)",
       "startingRoom": 0,
       "notes": ""
     },
@@ -111,14 +111,14 @@
     {
       "index": 14,
       "original": "Pulseray",
-      "translation": "פולסריי",
+      "translation": "קרן פעימה",
       "startingRoom": 0,
       "notes": ""
     },
     {
       "index": 15,
       "original": "Gas Grenade",
-      "translation": "רימון עשן",
+      "translation": "רימון גז",
       "startingRoom": 0,
       "notes": ""
     },
@@ -153,7 +153,7 @@
     {
       "index": 21,
       "original": "Control",
-      "translation": "שליטה",
+      "translation": "בקרה",
       "startingRoom": 0,
       "notes": ""
     },
