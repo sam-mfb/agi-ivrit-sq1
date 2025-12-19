@@ -2271,7 +2271,7 @@
       "logicFile": "7.agilogic",
       "messageNumber": 3,
       "original": "You slide the keycard into its slot. You hear an audible click. You take the keycard back.",
-      "translation": "אתה מכניס את כרטיס המגנטי לחריץ שלו. אתה שומע קליק שמיע. אתה מחזיר את כרטיס המגנטי.",
+      "translation": "אתה מכניס את כרטיס המגנטי לחריץ שלו. אתה שומע קליק. אתה לוקח את כרטיס המגנטי בחזרה.",
       "notes": "",
       "placeholders": []
     },
@@ -2379,7 +2379,7 @@
       "logicFile": "8.agilogic",
       "messageNumber": 1,
       "original": "This is the cavernous Vehicle Bay.",
-      "translation": "זהו מפרץ הרכב המעורתי.",
+      "translation": "זהו מסוף הרכב הענק.",
       "notes": "",
       "placeholders": []
     },
@@ -2395,7 +2395,7 @@
       "logicFile": "8.agilogic",
       "messageNumber": 3,
       "original": "       Oops!      Forgot my suit.",
-      "translation": "       אופס!      שכחתי את החליפה שלי.",
+      "translation": "אופס! שכחתי את החליפה שלי.",
       "notes": "",
       "placeholders": []
     },
@@ -2403,7 +2403,7 @@
       "logicFile": "8.agilogic",
       "messageNumber": 4,
       "original": "In the middle of the vehicle bay is a deep cargo shaft.",
-      "translation": "באמצע מפרץ הרכב נמצא פיר מטען עמוק.",
+      "translation": "באמצע מסוף הרכב נמצא פיר מטען עמוק.",
       "notes": "",
       "placeholders": []
     },
@@ -2411,7 +2411,7 @@
       "logicFile": "8.agilogic",
       "messageNumber": 5,
       "original": "Sorry, %s1.  You can't enter the Escape Pod when the Vehicle Bay doors are closed.",
-      "translation": "סליחה, %s1. אתה לא יכול להיכנס לחללית המילוט כאשר דלתות מפרץ הרכב סגורות.",
+      "translation": "סליחה, %s1. אתה לא יכול להיכנס לחללית המילוט כאשר דלתות מסוף הרכב סגורות.",
       "notes": "",
       "placeholders": [
         "%s"
@@ -2421,7 +2421,7 @@
       "logicFile": "8.agilogic",
       "messageNumber": 6,
       "original": "Looking at the console you see a button marked \\\"Platform\\\". There are also some gauges which don't interest you.",
-      "translation": "מביט בקונסולה אתה רואה כפתור עם התווית \\\"פלטפורמה\\\". יש גם כמה מדדים שלא מעניינים אותך.",
+      "translation": "מביט בלוח הבקרה אתה רואה כפתור מסומן \\\"רציף\\\". יש גם כמה מדדים שלא מעניינים אותך.",
       "notes": "",
       "placeholders": []
     },
@@ -2429,7 +2429,7 @@
       "logicFile": "8.agilogic",
       "messageNumber": 7,
       "original": "The Vehicle Bay Door is quite large.",
-      "translation": "דלת מפרץ הרכב די גדולה.",
+      "translation": "דלת מסוף הרכב די גדולה.",
       "notes": "",
       "placeholders": []
     },
@@ -2445,7 +2445,7 @@
       "logicFile": "8.agilogic",
       "messageNumber": 9,
       "original": "The massive bay doors are tightly sealed.",
-      "translation": "דלתות המעגן העצומות אטומות ומהודקות.",
+      "translation": "דלתות המסוף העצומות אטומות ומהודקות.",
       "notes": "",
       "placeholders": []
     },
@@ -2453,7 +2453,7 @@
       "logicFile": "8.agilogic",
       "messageNumber": 10,
       "original": "Beyond the yawning doors lies the serenity of deep space.",
-      "translation": "מעבר לדלתות העייפות הללו ממתינה השלווה העמוקה של החלל.",
+      "translation": "מעבר לדלתות הענקות הללו מחכה שלוות החלל העמוק.",
       "notes": "",
       "placeholders": []
     },
@@ -2469,7 +2469,7 @@
       "logicFile": "8.agilogic",
       "messageNumber": 12,
       "original": "It is dark down in the shaft but you can make out the silhouette of one of the Arcada's escape pods on a platform below.",
-      "translation": "חשוך בפיר אך אתה יכול להבחין בצללית של אחת מחלליות המילוט של הארקדה על פלטפורמה למטה.",
+      "translation": "חשוך בפיר אך אתה יכול להבחין בצללית של אחת מחלליות המילוט של הארקדה על רציף למטה.",
       "notes": "",
       "placeholders": []
     },
@@ -2493,7 +2493,7 @@
       "logicFile": "8.agilogic",
       "messageNumber": 15,
       "original": "No can do, bud.",
-      "translation": "לא יכול, חבר.",
+      "translation": "לא יכול, אחי.",
       "notes": "",
       "placeholders": []
     },
@@ -2501,7 +2501,7 @@
       "logicFile": "8.agilogic",
       "messageNumber": 16,
       "original": "For safety reasons the platform will not function with the bay doors closed.",
-      "translation": "מסיבות בטיחות הפלטפורמה לא תפעל כאשר דלתות המפרץ סגורות.",
+      "translation": "מסיבות בטיחות רציף לא תפעל כאשר דלתות המסוף סגורות.",
       "notes": "",
       "placeholders": []
     },
@@ -2509,7 +2509,7 @@
       "logicFile": "8.agilogic",
       "messageNumber": 17,
       "original": "The bay door is open. The airlock door opens automatically.",
-      "translation": "דלת המפרץ פתוחה. דלת מנעל האוויר נפתחת אוטומטית.",
+      "translation": "דלת המסוף פתוחה. דלת מנעל האוויר נפתחת אוטומטית.",
       "notes": "",
       "placeholders": []
     },
@@ -2517,7 +2517,7 @@
       "logicFile": "8.agilogic",
       "messageNumber": 18,
       "original": "The bay door is not opened from this room. The airlock door opens automatically.",
-      "translation": "דלת המפרץ לא נפתחת מחדר זה. דלת מנעל האוויר נפתחת אוטומטית.",
+      "translation": "דלת המסוף לא נפתחת מחדר זה. דלת מנעל האוויר נפתחת אוטומטית.",
       "notes": "",
       "placeholders": []
     },
@@ -2525,7 +2525,7 @@
       "logicFile": "8.agilogic",
       "messageNumber": 19,
       "original": "There sure are a lot of them.",
-      "translation": "בטוח יש הרבה מהם.",
+      "translation": "בוודאי יש הרבה מהם.",
       "notes": "",
       "placeholders": []
     },
@@ -2557,7 +2557,7 @@
       "logicFile": "8.agilogic",
       "messageNumber": 23,
       "original": "of the vehicle bay and into space.",
-      "translation": "ממפרץ הרכב אל החלל.",
+      "translation": "ממסוף הרכב אל החלל.",
       "notes": "",
       "placeholders": []
     },
@@ -2581,7 +2581,7 @@
       "logicFile": "8.agilogic",
       "messageNumber": 26,
       "original": "You see a button marked \\\"Platform\\\".",
-      "translation": "אתה רואה כפתור עם התווית \\\"פלטפורמה\\\".",
+      "translation": "אתה רואה כפתור עם התווית \\\"רציף\\\".",
       "notes": "",
       "placeholders": []
     },
@@ -2589,7 +2589,7 @@
       "logicFile": "8.agilogic",
       "messageNumber": 27,
       "original": "Congratulations, %s1.  You have found your way off the Arcada and escaped obvious danger.  Unfortunately, you will never be seen or heard from again as you float gracefully through the heavens for eternity.",
-      "translation": "ברכות, %s1. מצאת את דרכך מחוץ לארקדה ונמלטת מסכנה ברורה. לרוע המזל, לעולם לא יראו או ישמעו ממך שוב כשאתה צף בחן במרחבי השמיים לנצח.",
+      "translation": "כל הכבוד, %s1. מצאת את דרכך מחוץ לארקדה ונמלטת מסכנה ברורה. לרוע המזל, לעולם לא יראו או ישמעו ממך שוב כשאתה צף בחן במרחבי השמיים לנצח.",
       "notes": "",
       "placeholders": [
         "%s"
@@ -2631,7 +2631,7 @@
       "logicFile": "9.agilogic",
       "messageNumber": 4,
       "original": "That is not here to be seen.",
-      "translation": "אין לזה השפעה כאן.",
+      "translation": "זה לא כאן כדי להיראות.",
       "notes": "",
       "placeholders": []
     },
@@ -2671,7 +2671,7 @@
       "logicFile": "9.agilogic",
       "messageNumber": 9,
       "original": "The console is adorned with many status indicators. One button on the right is marked \\\"Airlock\\\".",
-      "translation": "המסוף מעוטר במחווני סטטוס רבים. כפתור אחד בצד ימין מסומן \\\"מנעול אוויר\\\".",
+      "translation": "לוח הבקרה מעוטר במחווני סטטוס רבים. כפתור אחד בצד ימין מסומן \\\"מנעל אוויר\\\".",
       "notes": "",
       "placeholders": []
     },
@@ -2687,7 +2687,7 @@
       "logicFile": "9.agilogic",
       "messageNumber": 11,
       "original": "On the floor of the closet sits some sort of gadget. It looks electronic.",
-      "translation": "על רצפת הארון יושב איזשהו גאדג'ט. הוא נראה אלקטרוני.",
+      "translation": "על רצפת הארון יושב איזשהו מכשיר. הוא נראה אלקטרוני.",
       "notes": "",
       "placeholders": []
     },
@@ -2695,7 +2695,7 @@
       "logicFile": "9.agilogic",
       "messageNumber": 12,
       "original": "Your sight isn't what it once was. Maybe mom and dad weren't kidding. Anyway, you'll have to get closer.",
-      "translation": "הראייה שלך כבר לא מה שהייתה. אולי אמא ואבא לא התלוצצו. בכל מקרה, תצטרך להתקרב.",
+      "translation": "הראייה שלך כבר לא מה שהייתה. אולי אמא ואבא צדקו. בכל מקרה, תצטרך להתקרב.",
       "notes": "",
       "placeholders": []
     },
@@ -2703,7 +2703,7 @@
       "logicFile": "9.agilogic",
       "messageNumber": 13,
       "original": "The sign on the wall suggests that the bay doors are not currently open.",
-      "translation": "דלתות הסיפון פתוחות כרגע.",
+      "translation": "השלט על הקיר מרמז שדלתות המסוף אינן פתוחות כרגע.",
       "notes": "",
       "placeholders": []
     },
@@ -2711,7 +2711,7 @@
       "logicFile": "9.agilogic",
       "messageNumber": 14,
       "original": "The sign on the wall warns that the bay doors are currently open.",
-      "translation": "דלתות הסיפון פתוחות כרגע.",
+      "translation": "השלט שעל הקיר מזהיר כי דלתות המסוף פתוחות כעת.",
       "notes": "",
       "placeholders": []
     },
@@ -2735,7 +2735,7 @@
       "logicFile": "9.agilogic",
       "messageNumber": 17,
       "original": "It looks like an electrical gadget of some sort.",
-      "translation": "זה נראה כמו סוג של... סרעפת ענקית?",
+      "translation": "זה נראה כמו מכשיר אלקטרוני כלשהו.",
       "notes": "",
       "placeholders": []
     },
@@ -2743,7 +2743,7 @@
       "logicFile": "9.agilogic",
       "messageNumber": 18,
       "original": "You are not close enough.",
-      "translation": "אתה לא מספיק קרוב לסורג כדי לפתוח אותו.",
+      "translation": "אתה לא מספיק קרוב.",
       "notes": "",
       "placeholders": []
     },
@@ -2759,7 +2759,7 @@
       "logicFile": "9.agilogic",
       "messageNumber": 20,
       "original": "You won't be needing that suit anymore.",
-      "translation": "לא תזדקק יותר לחליפה הזאת.",
+      "translation": "הארון לא פתוח.",
       "notes": "",
       "placeholders": []
     },
@@ -2767,7 +2767,7 @@
       "logicFile": "9.agilogic",
       "messageNumber": 21,
       "original": "There is nothing here to get.",
-      "translation": "אין מה לקנות כאן.",
+      "translation": "אין כאן מה לאסוף.",
       "notes": "",
       "placeholders": []
     },
@@ -2775,7 +2775,7 @@
       "logicFile": "9.agilogic",
       "messageNumber": 22,
       "original": "You already have it.",
-      "translation": "כבר יש לך את המפתחות.",
+      "translation": "כבר יש לך.",
       "notes": "",
       "placeholders": []
     },
@@ -2807,7 +2807,7 @@
       "logicFile": "9.agilogic",
       "messageNumber": 26,
       "original": "The door is open and there is no need to close it. Pressing matters await.",
-      "translation": "הדלת פתוחה ואין צורך לסגור אותה. ענייניםדחופים ממתינים.",
+      "translation": "הדלת פתוחה ואין צורך לסגור אותה. עניינים דחופים ממתינים.",
       "notes": "",
       "placeholders": []
     },
@@ -2815,7 +2815,7 @@
       "logicFile": "9.agilogic",
       "messageNumber": 27,
       "original": "You don't have that.",
-      "translation": "אתה לא רוצה לעשות את זה כאן.",
+      "translation": "אין לך את זה.",
       "notes": "",
       "placeholders": []
     },
@@ -2823,7 +2823,7 @@
       "logicFile": "9.agilogic",
       "messageNumber": 28,
       "original": "You already have it on.",
-      "translation": "כבר יש לך את המפתחות.",
+      "translation": "כבר יש לך את זה עלייך.",
       "notes": "",
       "placeholders": []
     },
@@ -2887,7 +2887,7 @@
       "logicFile": "9.agilogic",
       "messageNumber": 36,
       "original": "You'll need to get closer to see that.",
-      "translation": "תצטרך לגשת יותר קרוב בשביל זה.",
+      "translation": "תצטרך להתקרב כדי לראות את זה.",
       "notes": "",
       "placeholders": []
     },
@@ -2903,7 +2903,7 @@
       "logicFile": "9.agilogic",
       "messageNumber": 38,
       "original": "You need to get closer.",
-      "translation": "תיאלץ לגשת קרוב יותר.",
+      "translation": "תצטרך להתקרב.",
       "notes": "",
       "placeholders": []
     },
@@ -2919,7 +2919,7 @@
       "logicFile": "9.agilogic",
       "messageNumber": 40,
       "original": "You see one button marked \\\"Airlock\\\".",
-      "translation": "אתה רואה כפתור אחד המסומן \\\"מנעול אוויר\\\".",
+      "translation": "אתה רואה כפתור אחד המסומן \\\"מנעל אוויר\\\".",
       "notes": "",
       "placeholders": []
     },
@@ -2983,7 +2983,7 @@
       "logicFile": "10.agilogic",
       "messageNumber": 8,
       "original": "Pull Throttle To Execute",
-      "translation": "משוך את הידית להפעלה",
+      "translation": "משוך את ידית המצערת להפעלה",
       "notes": "",
       "placeholders": []
     },
@@ -3047,7 +3047,7 @@
       "logicFile": "10.agilogic",
       "messageNumber": 19,
       "original": "Done.",
-      "translation": "בוצע.",
+      "translation": "נעשה.",
       "notes": "",
       "placeholders": []
     },
@@ -3127,7 +3127,7 @@
       "logicFile": "10.agilogic",
       "messageNumber": 29,
       "original": "Hey! What are you doing? Don't mess with the throttle while in flight! You have enough problems already. Why don't you spend your time thinking about how you're going to handle them?",
-      "translation": "היי! מה אתה עושה? אל תתעסק עם הידית בזמן טיסה! יש לך מספיק בעיות כבר. למה שלא תשקיע את הזמן שלך לחשוב איך אתה הולך להתמודד איתן?",
+      "translation": "היי! מה אתה עושה? אל תתעסק עם ידית המצערת בזמן טיסה! יש לך מספיק בעיות כבר. למה שלא תשקיע את הזמן שלך לחשוב איך אתה הולך להתמודד איתן?",
       "notes": "",
       "placeholders": []
     },
@@ -3151,7 +3151,7 @@
       "logicFile": "10.agilogic",
       "messageNumber": 32,
       "original": "The throttle is of the usual \\\"T\\\"-shaped variety.",
-      "translation": "הידית היא מהסוג הרגיל בצורת \\\"T\\\".",
+      "translation": "ידית המצערת היא מהסוג הרגיל בצורת \\\"T\\\".",
       "notes": "",
       "placeholders": []
     },
@@ -3167,7 +3167,7 @@
       "logicFile": "10.agilogic",
       "messageNumber": 34,
       "original": "You can't. You are buckled into your seat.",
-      "translation": "אתה לא יכול. אתה חגור למושב.",
+      "translation": "אתה לא יכול. אתה חגור במושב שלך.",
       "notes": "",
       "placeholders": []
     },
@@ -3183,7 +3183,7 @@
       "logicFile": "10.agilogic",
       "messageNumber": 36,
       "original": "The throttle is currently in a position that prevents you from doing that.",
-      "translation": "הידית במצב שמונע ממך לעשות את זה.",
+      "translation": "ידית המצערת במצב שמונע ממך לעשות את זה.",
       "notes": "",
       "placeholders": []
     },
@@ -3207,7 +3207,7 @@
       "logicFile": "10.agilogic",
       "messageNumber": 39,
       "original": "The throttle is already in that position.",
-      "translation": "הידית כבר במצב הזה.",
+      "translation": "ידית המצערת כבר במצב הזה.",
       "notes": "",
       "placeholders": []
     },
@@ -3247,7 +3247,7 @@
       "logicFile": "10.agilogic",
       "messageNumber": 44,
       "original": "The throttle is back as far as it will go.",
-      "translation": "הידית נמשכה לאחור עד הסוף.",
+      "translation": "ידית המצערת נמשכה לאחור עד הסוף.",
       "notes": "",
       "placeholders": []
     },
@@ -3327,7 +3327,7 @@
       "logicFile": "11.agilogic",
       "messageNumber": 8,
       "original": "There is an empty pedestal here. It looks like it is used to hold some large object, maybe the Star Generator.",
-      "translation": "יש כאן בימה ריקה. נראה שהיא משמשת להחזקת עצם גדול כלשהו, אולי מחולל הכוכבים.",
+      "translation": "יש כאן רציף ריק. נראה שהוא משמש להחזקת עצם גדול כלשהו, אולי מחולל הכוכבים.",
       "notes": "",
       "placeholders": []
     },
@@ -3335,7 +3335,7 @@
       "logicFile": "11.agilogic",
       "messageNumber": 9,
       "original": "The floor is normal except for two dead bodies and a pedestal in the middle.",
-      "translation": "הרצפה רגילה מלבד שתי גוויות ובימה באמצע.",
+      "translation": "הרצפה רגילה מלבד שתי גוויות ורציף באמצע.",
       "notes": "",
       "placeholders": []
     },
@@ -3351,7 +3351,7 @@
       "logicFile": "11.agilogic",
       "messageNumber": 11,
       "original": "Hanging from the ceiling is a large device which apparently helped support the item which was mounted on the pedestal below.",
-      "translation": "תלוי מהתקרה מכשיר גדול שככל הנראה עזר לתמוך בפריט שהורכב על הבימה למטה.",
+      "translation": "תלוי מהתקרה מכשיר גדול שככל הנראה עזר לתמוך בפריט שהורכב על הרציף למטה.",
       "notes": "",
       "placeholders": []
     },
@@ -3431,7 +3431,7 @@
       "logicFile": "11.agilogic",
       "messageNumber": 21,
       "original": "One light glows red indicating that the monitor power is on.",
-      "translation": "אור אחד זוהר באדום, מה שמצביע על כך שחשמל המוניטור דלוק.",
+      "translation": "אור אחד זוהר באדום, מה שמצביע על כך שחשמל המסך דלוק.",
       "notes": "",
       "placeholders": []
     },
@@ -3439,7 +3439,7 @@
       "logicFile": "11.agilogic",
       "messageNumber": 22,
       "original": "There is nothing to see here.",
-      "translation": "אין מה לקנות כאן.",
+      "translation": "אין מה לראות כאן.",
       "notes": "",
       "placeholders": []
     },
@@ -3537,7 +3537,7 @@
       "logicFile": "14.agilogic",
       "messageNumber": 3,
       "original": "The console consists of a screen, pod status indicators, a throttle, and some buttons.  The buttons are marked \\\"AutoNav\\\" and \\\"Power\\\".",
-      "translation": "הקונסולה מורכבת ממסך, מחווני סטטוס של החללית, משנק, וכמה כפתורים. הכפתורים מסומנים \\\"ניווט-אוטומטי\\\" ו\\\"מתח\\\".",
+      "translation": "הקונסולה מורכבת ממסך, מחווני מצב חללית, ידית מצערת, וכמה כפתורים. הכפתורים מסומנים \\\"ניווט אוטו\\\" ו\\\"הפעלה\\\".",
       "notes": "",
       "placeholders": []
     },
@@ -3545,7 +3545,7 @@
       "logicFile": "14.agilogic",
       "messageNumber": 4,
       "original": "Pushing the AutoNav button has no effect.",
-      "translation": "לחיצה על כפתור הניווט-האוטומטי אינה משפיעה.",
+      "translation": "לחיצה על כפתור הניווט האוטומטי אינה משפיעה.",
       "notes": "",
       "placeholders": []
     },
@@ -3553,7 +3553,7 @@
       "logicFile": "14.agilogic",
       "messageNumber": 5,
       "original": "The throttle seems to be jammed.  It won't budge.",
-      "translation": "נראה שהמשנק תקוע. הוא לא זז.",
+      "translation": "נראה שידית המצערת תקועה. היא לא זזה.",
       "notes": "",
       "placeholders": []
     },
@@ -3569,7 +3569,7 @@
       "logicFile": "14.agilogic",
       "messageNumber": 7,
       "original": "Pushing the Power button has no effect.",
-      "translation": "לחיצה על כפתור המתח אינה משפיעה.",
+      "translation": "לחיצה על כפתור הפעלה אינה משפיעה.",
       "notes": "",
       "placeholders": []
     },
@@ -3593,7 +3593,7 @@
       "logicFile": "14.agilogic",
       "messageNumber": 10,
       "original": "Done",
-      "translation": "בוצע",
+      "translation": "נעשה",
       "notes": "",
       "placeholders": []
     },
@@ -3609,7 +3609,7 @@
       "logicFile": "14.agilogic",
       "messageNumber": 12,
       "original": "You can fix nothing here.",
-      "translation": "לא תוכל לעשות להם דבר מכאן.",
+      "translation": "אי אפשר לתקן כאן כלום.",
       "notes": "",
       "placeholders": []
     },
@@ -3625,7 +3625,7 @@
       "logicFile": "14.agilogic",
       "messageNumber": 14,
       "original": "There are three buttons here. They are marked \\\"AutoNav\\\", \\\"Power\\\", and \\\"Don't Press\\\".",
-      "translation": "יש כאן שלושה כפתורים. הם מסומנים \\\"ניווט-אוטומטי\\\", \\\"מתח\\\", ו\\\"אל תלחץ\\\".",
+      "translation": "יש כאן שלושה כפתורים. הם מסומנים \\\"ניווט אוטו\\\", \\\"הפעלה\\\", ו\\\"אל תלחץ\\\".",
       "notes": "",
       "placeholders": []
     },
@@ -3633,7 +3633,7 @@
       "logicFile": "14.agilogic",
       "messageNumber": 15,
       "original": "The throttle is of the usual \\\"T\\\"-shaped variety.",
-      "translation": "המשנק הוא מהזן הרגיל בצורת \\\"T\\\".",
+      "translation": "ידית המצערת היא מהסוג הרגיל בצורת \\\"T\\\".",
       "notes": "",
       "placeholders": []
     },
