@@ -2103,7 +2103,7 @@
       "logicFile": "6.agilogic",
       "messageNumber": 1,
       "original": "You are in the central control area of the Arcada. The reactor domes pulsate irregularly, as if they had been tampered with. This does not look good. Through the window just above the control console, you can see down into the vehicle bay below.",
-      "translation": "אתה נמצא באזור הבקרה המרכזי של הארקדה. כיפות הכור פועמות בצורה לא סדירה, כאילו התעסקו בהן. זה לא נראה טוב. דרך החלון ממש מעל קונסולת הבקרה, אתה יכול לראות למטה אל מפרץ הרכב.",
+      "translation": "אתה נמצא באזור הבקרה המרכזי של הארקדה. כיפות הכור פועמות בצורה לא סדירה, כאילו התעסקו בהן. זה לא נראה טוב. דרך החלון ממש מעל קונסולת הבקרה, אתה יכול לראות למטה אל מסוף הרכב.",
       "notes": "",
       "placeholders": []
     },
@@ -2119,7 +2119,7 @@
       "logicFile": "6.agilogic",
       "messageNumber": 3,
       "original": "On the console by the window are two buttons marked \\\"OPEN BAY DOOR\\\" and \\\"CLOSE BAY DOOR\\\".",
-      "translation": "על הקונסולה ליד החלון נמצאים שני כפתורים עם התוויות \\\"פתח דלת מפרץ\\\" ו\\\"סגור דלת מפרץ\\\".",
+      "translation": "על הקונסולה ליד החלון נמצאים שני כפתורים עם התוויות \\\"פתח דלת מסוף\\\" ו\\\"סגור דלת מסוף\\\".",
       "notes": "",
       "placeholders": []
     },
@@ -2167,7 +2167,7 @@
       "logicFile": "6.agilogic",
       "messageNumber": 9,
       "original": "Looking through the window you can see down into the vehicle bay.",
-      "translation": "מביט דרך החלון אתה יכול לראות למטה אל מפרץ הרכב.",
+      "translation": "מביט דרך החלון אתה יכול לראות למטה אל מסוף הרכב.",
       "notes": "",
       "placeholders": []
     },
@@ -2175,7 +2175,7 @@
       "logicFile": "6.agilogic",
       "messageNumber": 10,
       "original": "Looking through the window you can see down into the vehicle bay. The rather massive bay doors are open.",
-      "translation": "מביט דרך החלון אתה יכול לראות למטה אל מפרץ הרכב. דלתות המפרץ העצומות למדי פתוחות.",
+      "translation": "מביט דרך החלון אתה יכול לראות למטה אל מסוף הרכב. דלתות המסוף העצומות למדי פתוחות.",
       "notes": "",
       "placeholders": []
     },
@@ -2207,7 +2207,7 @@
       "logicFile": "6.agilogic",
       "messageNumber": 14,
       "original": "The bay door can't be closed while the pod is up.",
-      "translation": "דלת המפרץ לא יכולה להיסגר בזמן שהחללית למעלה.",
+      "translation": "דלת המסוף לא יכולה להיסגר בזמן שהחללית למעלה.",
       "notes": "",
       "placeholders": []
     },
@@ -2223,7 +2223,7 @@
       "logicFile": "6.agilogic",
       "messageNumber": 16,
       "original": "Your limited view shows that there is a large vehicle bay below.",
-      "translation": "השדה המוגבל שלך מראה שיש מפרץ רכב גדול למטה.",
+      "translation": "השדה המוגבל שלך מראה שיש מסוף רכב גדול למטה.",
       "notes": "",
       "placeholders": []
     },
@@ -3399,7 +3399,7 @@
       "logicFile": "11.agilogic",
       "messageNumber": 17,
       "original": "This console shows the only signs of life. One red light shines from the the upper-left corner of a glowing monitor.",
-      "translation": "הקונסולה הזאת מציגה את סימני החיים היחידים. אור אדום אחד זורח מהפינה השמאלית העליונה של מוניטור זוהר.",
+      "translation": "הקונסולה הזאת מציגה את סימני החיים היחידים. אור אדום אחד זורח מהפינה השמאלית העליונה של מסך זוהר.",
       "notes": "",
       "placeholders": []
     },
