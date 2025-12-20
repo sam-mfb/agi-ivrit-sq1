@@ -1,0 +1,20 @@
+--- /home/devuser/agi-ivrit/project/src/logic/6.agilogic	2025-12-07 00:05:53.216529002 +0000
++++ /tmp/6.agilogic.modified	2025-12-20 20:36:51.964156009 +0000
+@@ -178,7 +178,7 @@
+   }
+ 
+   if (!f31) {
+-    if (said("press", "open", "bay door") || said("press", "open", "bay door", "button") || said("press", "bay door", "open", "button") || said("press", "bay door", "open") || said("press", "open")) {
++    if (said("press", "open", "bay door") || said("press", "button", "open", "bay door") || said("press", "button", "bay door", "open") || said("press", "bay door", "open") || said("press", "open")) {
+       if (v52 == 0) {
+         if (obj.in.box(o0, 86, 125, 134, 136)) {
+           set(f31);
+@@ -193,7 +193,7 @@
+       }
+     }
+   
+-    if (said("press", "close", "bay door") || said("press", "close")) {
++    if (said("press", "close", "bay door") || said("press", "button", "close", "bay door") || said("press", "button", "bay door", "close") || said("press", "bay door", "close") || said("press", "close")) {
+       if (v52 == 1) {
+         if (!f54) {
+           if (obj.in.box(o0, 86, 125, 134, 136)) {

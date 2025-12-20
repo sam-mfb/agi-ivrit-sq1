@@ -815,7 +815,7 @@
       "wordNumber": 59,
       "word": "left",
       "originalSynonyms": [],
-      "translatedSynonyms": ["שמאל", "שמאלה"],
+      "translatedSynonyms": ["שמאל", "שמאלה", "שמאלי", "שמאלית"],
       "wordType": "other",
       "notes": ""
     },
@@ -823,7 +823,7 @@
       "wordNumber": 60,
       "word": "right",
       "originalSynonyms": [],
-      "translatedSynonyms": ["ימין", "ימינה"],
+      "translatedSynonyms": ["ימין", "ימינה", "ימני", "ימנית"],
       "wordType": "other",
       "notes": ""
     },
