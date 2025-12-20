@@ -1,0 +1,81 @@
+--- /home/devuser/agi-ivrit/project/src/logic/9.agilogic	2025-12-07 00:05:53.231529002 +0000
++++ /tmp/9.agilogic.modified	2025-12-20 20:23:23.271808010 +0000
+@@ -33,13 +33,13 @@
+   animate.obj(o2);
+   ignore.blocks(o2);
+   ignore.objs(o2);
+-  position(o2, 90, 50);
++  position(o2, 90, 51);
+   set.cel(o2, 0);
+   set.priority(o2, 4);
+   animate.obj(o3);
+   ignore.blocks(o3);
+   ignore.objs(o3);
+-  position(o3, 8, 50);
++  position(o3, 8, 51);
+   set.cel(o3, 1);
+   v31 = 1;
+   set.priority(o3, 4);
+@@ -71,7 +71,7 @@
+   stop.update(o4);
+   draw(o2);
+   stop.cycling(o2);
+-  move.obj(o2, 8, 50, 0, f32);
++  move.obj(o2, 8, 51, 0, f32);
+   draw(o3);
+   stop.cycling(o3);
+ 
+@@ -279,7 +279,7 @@
+     v65 = 82;
+     v66 = 0;
+     reposition(o2, v65, v66);
+-    move.obj(o2, 8, 50, 0, f32);
++    move.obj(o2, 8, 51, 0, f32);
+   }
+ 
+   if (f33) {
+@@ -313,7 +313,7 @@
+     v65 = 82;
+     v66 = 0;
+     reposition(o3, v65, v66);
+-    move.obj(o3, 8, 50, 0, f33);
++    move.obj(o3, 8, 51, 0, f33);
+   }
+ 
+   if (f3) {
+@@ -442,7 +442,7 @@
+     }
+   }
+ 
+-  if (said("check out", "right", "closet") || said("look in", "right", "closet")) {
++  if (said("check out", "closet", "right") || said("look in", "closet", "right")) {
+     if (obj.in.box(o0, 40, 94, 98, 107)) {
+       if (v69 > 1) {
+         if (!(v81 > 0)) {
+@@ -458,7 +458,7 @@
+     }
+   }
+ 
+-  if (said("check out", "left", "closet") || said("look in", "left", "closet")) {
++  if (said("check out", "closet", "left") || said("look in", "closet", "left")) {
+     if (obj.in.box(o0, 40, 94, 98, 107)) {
+       if (v70 > 1) {
+         if (!has(i3)) {
+@@ -486,7 +486,7 @@
+ 
+ Address1055:
+ 
+-  if (said("press", "right") || said("press", "right", "button")) {
++  if (said("press", "right") || said("press", "button", "right")) {
+     if (obj.in.box(o0, 57, 94, 82, 105)) {
+       if (v69 == 1) {
+         prevent.input();
+@@ -506,7 +506,7 @@
+     }
+   }
+ 
+-  if (said("press", "left") || said("press", "left", "button")) {
++  if (said("press", "left") || said("press", "button", "left")) {
+     if (obj.in.box(o0, 57, 94, 82, 105)) {
+       if (v70 == 1) {
+         prevent.input();
