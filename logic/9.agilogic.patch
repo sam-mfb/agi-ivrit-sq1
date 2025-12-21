@@ -1,18 +1,18 @@
---- /home/devuser/agi-ivrit/project/src/logic/9.agilogic	2025-12-07 00:05:53.231529002 +0000
-+++ /tmp/9.agilogic.modified	2025-12-20 20:23:23.271808010 +0000
+--- project/src/logic/9.agilogic
++++ project/src/logic/9.agilogic
 @@ -33,13 +33,13 @@
    animate.obj(o2);
    ignore.blocks(o2);
    ignore.objs(o2);
 -  position(o2, 90, 50);
-+  position(o2, 90, 51);
++  position(o2, 8, 51);
    set.cel(o2, 0);
    set.priority(o2, 4);
    animate.obj(o3);
    ignore.blocks(o3);
    ignore.objs(o3);
 -  position(o3, 8, 50);
-+  position(o3, 8, 51);
++  position(o3, 90, 51);
    set.cel(o3, 1);
    v31 = 1;
    set.priority(o3, 4);
@@ -21,29 +21,62 @@
    draw(o2);
    stop.cycling(o2);
 -  move.obj(o2, 8, 50, 0, f32);
-+  move.obj(o2, 8, 51, 0, f32);
++  move.obj(o2, 90, 51, 0, f32);
    draw(o3);
    stop.cycling(o3);
  
-@@ -279,7 +279,7 @@
-     v65 = 82;
+@@ -276,30 +276,34 @@
+   get.posn(o3, v32, v33);
+ 
+   if (v32 == 44) {
+-    v65 = 82;
++    v65 = 174;
      v66 = 0;
      reposition(o2, v65, v66);
 -    move.obj(o2, 8, 50, 0, f32);
-+    move.obj(o2, 8, 51, 0, f32);
++    move.obj(o2, 90, 51, 0, f32);
    }
  
    if (f33) {
-@@ -313,7 +313,7 @@
-     v65 = 82;
+     reset(f33);
+-  
++
+     if (v31 == 2) {
+       v31 = 0;
+       set.cel(o3, 0);
++      set.cel(o2, 0);
+     } else {
+       if (v31 == 0) {
+         v31 = 1;
+         set.cel(o3, 1);
++        set.cel(o2, 1);
+       } else {
+         if (v31 == 1) {
+           if (v52 == 0) {
+             v31 = 0;
+             set.cel(o3, 0);
++            set.cel(o2, 0);
+           } else {
+             v31 = 2;
+             set.cel(o3, 2);
++            set.cel(o2, 2);
+           }
+         }
+       }
+@@ -310,10 +314,10 @@
+   get.posn(o2, v34, v35);
+ 
+   if (v34 == 44) {
+-    v65 = 82;
++    v65 = 174;
      v66 = 0;
      reposition(o3, v65, v66);
 -    move.obj(o3, 8, 50, 0, f33);
-+    move.obj(o3, 8, 51, 0, f33);
++    move.obj(o3, 90, 51, 0, f33);
    }
  
    if (f3) {
-@@ -442,7 +442,7 @@
+@@ -442,7 +446,7 @@
      }
    }
  
@@ -52,7 +85,7 @@
      if (obj.in.box(o0, 40, 94, 98, 107)) {
        if (v69 > 1) {
          if (!(v81 > 0)) {
-@@ -458,7 +458,7 @@
+@@ -458,7 +462,7 @@
      }
    }
  
@@ -61,7 +94,7 @@
      if (obj.in.box(o0, 40, 94, 98, 107)) {
        if (v70 > 1) {
          if (!has(i3)) {
-@@ -486,7 +486,7 @@
+@@ -486,7 +490,7 @@
  
  Address1055:
  
@@ -70,7 +103,7 @@
      if (obj.in.box(o0, 57, 94, 82, 105)) {
        if (v69 == 1) {
          prevent.input();
-@@ -506,7 +506,7 @@
+@@ -506,7 +510,7 @@
      }
    }
  
