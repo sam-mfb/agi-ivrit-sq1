@@ -1,5 +1,5 @@
 --- project/tmp/src/logic/9.agilogic	2025-12-07 00:05:53.983529003 +0000
-+++ project/tmp/src/logic/9.agilogic	2025-12-21 13:25:21.230793000 +0000
++++ project/tmp/src/logic/9.agilogic	2025-12-21 13:51:11.249431009 +0000
 @@ -33,15 +33,22 @@
    animate.obj(o2);
    ignore.blocks(o2);
@@ -18,7 +18,7 @@
 +    set.cel(o2, 2);
 +    position(o3, 43, 51);
 +    set.cel(o3, 1);
-+    v31 = 1;
++    v31 = 0;
 +  } else {
 +    set.cel(o2, 1);
 +    position(o3, 48, 51);
