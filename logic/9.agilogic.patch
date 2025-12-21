@@ -1,5 +1,5 @@
 --- project/tmp/src/logic/9.agilogic	2025-12-07 00:05:53.983529003 +0000
-+++ project/tmp/src/logic/9.agilogic	2025-12-21 13:19:56.395896002 +0000
++++ project/tmp/src/logic/9.agilogic	2025-12-21 13:25:21.230793000 +0000
 @@ -33,15 +33,22 @@
    animate.obj(o2);
    ignore.blocks(o2);
@@ -185,3 +185,12 @@
      if (obj.in.box(o0, 57, 94, 82, 105)) {
        if (v70 == 1) {
          prevent.input();
+@@ -572,7 +570,7 @@
+   }
+ 
+   if (obj.in.box(o0, 54, 142, 97, 159)) {
+-    if (said("press", "button") || said("press", "airlock", "button") || said("press", "airlock")) {
++    if (said("press", "button") || said("press", "button", "airlock") || said("press", "airlock")) {
+       if (v36 == 1) {
+         start.update(o7);
+         end.of.loop(o7, f35);
