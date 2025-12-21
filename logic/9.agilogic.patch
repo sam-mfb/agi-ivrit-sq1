@@ -1,12 +1,12 @@
 --- project/tmp/src/logic/9.agilogic	2025-12-07 00:05:53.983529003 +0000
-+++ project/tmp/src/logic/9.agilogic	2025-12-21 13:51:11.249431009 +0000
-@@ -33,15 +33,22 @@
++++ project/final/src/logic/9.agilogic	2025-12-21 15:45:16.946756011 +0000
+@@ -33,15 +33,23 @@
    animate.obj(o2);
    ignore.blocks(o2);
    ignore.objs(o2);
 -  position(o2, 90, 50);
 -  set.cel(o2, 0);
-+  position(o2, 8, 51);
++  position(o2, 3, 51);
    set.priority(o2, 4);
    animate.obj(o3);
    ignore.blocks(o3);
@@ -15,32 +15,38 @@
 -  set.cel(o3, 1);
 -  v31 = 1;
 +  if (v52 == 1) {
-+    set.cel(o2, 2);
-+    position(o3, 43, 51);
++    set.cel(o2, 0);
++    position(o3, 51, 51);
 +    set.cel(o3, 1);
-+    v31 = 0;
++    v31 = 1;
 +  } else {
++    position(o2, 10, 51);
 +    set.cel(o2, 1);
-+    position(o3, 48, 51);
++    position(o3, 50, 51);
 +    set.cel(o3, 0);
 +    v31 = 0;
 +  }
    set.priority(o3, 4);
    animate.obj(o6);
    set.view(o6, 43);
-@@ -71,9 +78,10 @@
+@@ -71,9 +79,15 @@
    stop.update(o4);
    draw(o2);
    stop.cycling(o2);
 -  move.obj(o2, 8, 50, 0, f32);
-+  move.obj(o2, 90, 51, 0, f32);
    draw(o3);
    stop.cycling(o3);
-+  move.obj(o3, 90, 51, 0, f33);
++  if (v52 == 1) {
++    move.obj(o2, 99, 51, 0, f32);
++    move.obj(o3, 99, 51, 0, f33);
++  } else {
++    move.obj(o2, 90, 51, 0, f32);
++    move.obj(o3, 90, 51, 0, f33);
++  }
  
    if (!(v69 > 0)) {
      v69 = 1;
-@@ -250,70 +258,60 @@
+@@ -250,70 +264,68 @@
  
    if (f32) {
      reset(f32);
@@ -71,28 +77,33 @@
  
 -  if (v32 == 44) {
 -    v65 = 82;
-+  if (v32 == 90) {
-+    set.cel.v(o3, v31);
-+    v31++;
-+    if (v52 == 1) {
-+      if (v31 > 2) {
-+        v31 = 0;
-+      }
-+    } else {
+-    v66 = 0;
+-    reposition(o2, v65, v66);
+-    move.obj(o2, 8, 50, 0, f32);
++  if (v52 == 1) {
++    if (v32 == 99) {
++      set.cel.v(o3, v31);
++      v31++;
 +      if (v31 > 1) {
 +        v31 = 0;
 +      }
++      v65 = 160;
++      v66 = 0;
++      reposition(o3, v65, v66);
++      move.obj(o3, 99, 51, 0, f33);
 +    }
-+    if (v52 == 1) {
-+      v65 = 186;
-+    } else {
++  } else {
++    if (v32 == 90) {
++      set.cel.v(o3, v31);
++      v31++;
++      if (v31 > 1) {
++        v31 = 0;
++      }
 +      v65 = 176;
++      v66 = 0;
++      reposition(o3, v65, v66);
++      move.obj(o3, 90, 51, 0, f33);
 +    }
-     v66 = 0;
--    reposition(o2, v65, v66);
--    move.obj(o2, 8, 50, 0, f32);
-+    reposition(o3, v65, v66);
-+    move.obj(o3, 90, 51, 0, f33);
    }
  
    if (f33) {
@@ -124,32 +135,37 @@
  
 -  if (v34 == 44) {
 -    v65 = 82;
-+  if (v34 == 90) {
-+    set.cel.v(o2, v31);
-+    v31++;
-+    if (v52 == 1) {
-+      if (v31 > 2) {
-+        v31 = 0;
-+      }
-+    } else {
+-    v66 = 0;
+-    reposition(o3, v65, v66);
+-    move.obj(o3, 8, 50, 0, f33);
++  if (v52 == 1) {
++    if (v34 == 99) {
++      set.cel.v(o2, v31);
++      v31++;
 +      if (v31 > 1) {
 +        v31 = 0;
 +      }
++      v65 = 160;
++      v66 = 0;
++      reposition(o2, v65, v66);
++      move.obj(o2, 99, 51, 0, f32);
 +    }
-+    if (v52 == 1) {
-+      v65 = 186;
-+    } else {
++  } else {
++    if (v34 == 90) {
++      set.cel.v(o2, v31);
++      v31++;
++      if (v31 > 1) {
++        v31 = 0;
++      }
 +      v65 = 176;
++      v66 = 0;
++      reposition(o2, v65, v66);
++      move.obj(o2, 90, 51, 0, f32);
 +    }
-     v66 = 0;
--    reposition(o3, v65, v66);
--    move.obj(o3, 8, 50, 0, f33);
-+    reposition(o2, v65, v66);
-+    move.obj(o2, 90, 51, 0, f32);
    }
  
    if (f3) {
-@@ -442,7 +440,7 @@
+@@ -442,7 +454,7 @@
      }
    }
  
@@ -158,7 +174,7 @@
      if (obj.in.box(o0, 40, 94, 98, 107)) {
        if (v69 > 1) {
          if (!(v81 > 0)) {
-@@ -458,7 +456,7 @@
+@@ -458,7 +470,7 @@
      }
    }
  
@@ -167,7 +183,7 @@
      if (obj.in.box(o0, 40, 94, 98, 107)) {
        if (v70 > 1) {
          if (!has(i3)) {
-@@ -486,7 +484,7 @@
+@@ -486,7 +498,7 @@
  
  Address1055:
  
@@ -176,7 +192,7 @@
      if (obj.in.box(o0, 57, 94, 82, 105)) {
        if (v69 == 1) {
          prevent.input();
-@@ -506,7 +504,7 @@
+@@ -506,7 +518,7 @@
      }
    }
  
@@ -185,12 +201,89 @@
      if (obj.in.box(o0, 57, 94, 82, 105)) {
        if (v70 == 1) {
          prevent.input();
-@@ -572,7 +570,7 @@
-   }
+@@ -605,44 +617,44 @@
  
-   if (obj.in.box(o0, 54, 142, 97, 159)) {
--    if (said("press", "button") || said("press", "airlock", "button") || said("press", "airlock")) {
-+    if (said("press", "button") || said("press", "button", "airlock") || said("press", "airlock")) {
-       if (v36 == 1) {
-         start.update(o7);
-         end.of.loop(o7, f35);
+ 
+ // messages
+-#message 1 "This is the Flight Prep room of the Arcada. As you can see, there is a sign on the back wall as well as two closet doors and two buttons."
+-#message 2 "The walls look pretty much the same as the others. There is a sign on the back wall. Beneath that is a right button and a left button."
+-#message 3 "This is the inside airlock door."
+-#message 4 "That is not here to be seen."
+-#message 5 "The closet appears to be empty."
+-#message 6 "This is the elevator you came into this room from."
+-#message 7 "There are two buttons here, a left button and a right button."
+-#message 8 "There are two doors here which are controlled by buttons."
+-#message 9 "The console is adorned with many status indicators. One button on the right is marked \"Airlock\"."
+-#message 10 "This is a standard issue flight suit designed to protect the wearer from the unique conditions of space travel."
+-#message 11 "On the floor of the closet sits some sort of gadget. It looks electronic."
+-#message 12 "Your sight isn't what it once was. Maybe mom and dad weren't kidding. Anyway, you'll have to get closer."
+-#message 13 "The sign on the wall suggests that the bay doors are not currently open."
+-#message 14 "The sign on the wall warns that the bay doors are currently open."
+-#message 15 "You see a flight suit hanging in the closet."
+-#message 16 "There is a closed closet door here."
+-#message 17 "It looks like an electrical gadget of some sort."
+-#message 18 "You are not close enough."
+-#message 19 "The closet is not open."
+-#message 20 "You won't be needing that suit anymore."
+-#message 21 "There is nothing here to get."
+-#message 22 "You already have it."
+-#message 23 "That can't be done from here."
+-#message 24 "There are no buttons here."
+-#message 25 "Nothing done."
+-#message 26 "The door is open and there is no need to close it. Pressing matters await."
+-#message 27 "You don't have that."
+-#message 28 "You already have it on."
+-#message 29 "The doors are controlled by buttons. You must push the appropriate one."
+-#message 30 "The elevator door opens and closes automatically."
+-#message 31 "You are not close enough to get a good look."
+-#message 32 "Your old uniform hangs in the closet."
+-#message 33 "The elevator door opens automatically and the others open by pushing buttons."
+-#message 34 "You'll have to be more specific."
+-#message 35 "This is not a good place to do that from."
+-#message 36 "You'll need to get closer to see that."
+-#message 37 "You'll have to be more specific. The right closet or the left closet?"
+-#message 38 "You need to get closer."
+-#message 39 "You'll have to be more specific about which button you wish to choose."
+-#message 40 "You see one button marked \"Airlock\"."
+-#message 41 "Your old uniform hangs limply in the closet."
++#message 1 "זהו חדר הכנת הטיסה של הארקדה. כפי שאתה יכול לראות, יש שלט על הקיר האחורי וכן שתי דלתות ארונות ושני כפתורים."
++#message 2 "הקירות נראים די זהים לאחרים. יש שלט על הקיר האחורי. מתחתיו יש כפתור ימני וכפתור שמאלי."
++#message 3 "זהו מנעל האוויר של הארקדה."
++#message 4 "זה לא כאן כדי להיראות."
++#message 5 "נראה שהארון ריק."
++#message 6 "זו המעלית שדרכה הגעת לחדר הזה."
++#message 7 "יש כאן שני כפתורים, כפתור שמאלי וכפתור ימני."
++#message 8 "יש כאן שתי דלתות הנשלטות על ידי כפתורים."
++#message 9 "לוח הבקרה מעוטר במחווני סטטוס רבים. כפתור אחד בצד ימין מסומן \"מנעל אוויר\"."
++#message 10 "זהו חליפת טיסה סטנדרטית המיועדת להגן על הלובש מפני התנאים הייחודיים של נסיעות בחלל."
++#message 11 "על רצפת הארון יושב איזשהו מכשיר. הוא נראה אלקטרוני."
++#message 12 "הראייה שלך כבר לא מה שהייתה. אולי אמא ואבא צדקו. בכל מקרה, תצטרך להתקרב."
++#message 13 "השלט על הקיר מרמז שדלתות המסוף אינן פתוחות כרגע."
++#message 14 "השלט שעל הקיר מזהיר כי דלתות המסוף פתוחות כעת."
++#message 15 "אתה רואה חליפת טיסה תלויה בארון."
++#message 16 "יש כאן דלת ארון סגורה."
++#message 17 "זה נראה כמו מכשיר אלקטרוני כלשהו."
++#message 18 "אתה לא מספיק קרוב."
++#message 19 "המפתחות לא פותחות את המכשיר."
++#message 20 "הארון לא פתוח."
++#message 21 "אין כאן מה לאסוף."
++#message 22 "כבר יש לך."
++#message 23 "אתה לא יכול לעשות את זה מכאן."
++#message 24 "אין כפתורים כאן."
++#message 25 "לא נעשה כלום."
++#message 26 "הדלת פתוחה ואין צורך לסגור אותה. עניינים דחופים ממתינים."
++#message 27 "אין לך את זה."
++#message 28 "כבר יש לך את זה עלייך."
++#message 29 "הדלתות נשלטות על ידי כפתורים. עליך ללחוץ על הכפתור המתאים."
++#message 30 "דלת המעלית נפתחת ונסגרת באופן אוטומטי."
++#message 31 "אתה לא מספיק קרוב כדי להסתכל כראוי."
++#message 32 "המדים הישנים שלך תלויים בארון."
++#message 33 "דלת המעלית נפתחת אוטומטית והאחרות נפתחות על ידי לחיצה על כפתורים."
++#message 34 "תצטרך להיות יותר ספציפי."
++#message 35 "זה לא מקום טוב לעשות את זה מכאן."
++#message 36 "תצטרך להתקרב כדי לראות את זה."
++#message 37 "תצטרך להיות יותר ספציפי. הארון הימני או הארון השמאלי?"
++#message 38 "תצטרך להתקרב."
++#message 39 "תצטרך להיות יותר ספציפי לגבי איזה כפתור אתה רוצה לבחור."
++#message 40 "אתה רואה כפתור אחד המסומן \"מנעל אוויר\"."
++#message 41 "המדים הישנים שלך תלויים רפויים בארון."
