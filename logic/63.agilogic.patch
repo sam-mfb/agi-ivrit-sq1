@@ -1,6 +1,6 @@
---- project/tmp/src/logic/63.agilogic	2025-12-07 00:05:53.958529003 +0000
-+++ translations/sq1/logic/63.agilogic	2025-12-07 00:21:06.697395009 +0000
-@@ -103,9 +103,6 @@
+--- project/tmp/src/logic/63.agilogic	2025-12-22 14:24:39.646119007 +0000
++++ /tmp/63.agilogic.modified	2025-12-22 14:43:05.485997005 +0000
+@@ -105,9 +105,6 @@
  
  if (v34 == 1) {
    shake.screen(1);

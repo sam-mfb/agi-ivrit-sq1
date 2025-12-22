@@ -1,6 +1,6 @@
---- project/tmp/src/logic/1.agilogic	2025-12-07 00:05:53.856529003 +0000
-+++ translations/sq1/logic/1.agilogic.tmp	2025-12-17 10:45:18.583088004 +0000
-@@ -311,7 +311,7 @@
+--- project/tmp/src/logic/1.agilogic	2025-12-22 14:24:39.537119007 +0000
++++ /tmp/1.agilogic.modified	2025-12-22 14:50:28.215517001 +0000
+@@ -355,7 +355,7 @@
      open.dialogue();
      set.string(s2, m31);
      display(16, 0, m31);
@@ -9,7 +9,7 @@
      parse(s2);
    
      if (!f2) {
-@@ -320,7 +320,7 @@
+@@ -364,7 +364,7 @@
        set.cursor.char(m33);
        prevent.input();
      
@@ -18,7 +18,7 @@
          display(18, 13, m27);
        
          if (v50 > 0) {
-@@ -661,8 +661,8 @@
+@@ -759,8 +759,8 @@
        status.line.off();
        prevent.input();
        text.screen();

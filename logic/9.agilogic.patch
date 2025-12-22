@@ -1,6 +1,6 @@
---- project/tmp/src/logic/9.agilogic	2025-12-21 21:20:04.702694002 +0000
-+++ /tmp/9.agilogic.modified	2025-12-21 21:33:31.922158001 +0000
-@@ -33,15 +33,23 @@
+--- project/tmp/src/logic/9.agilogic	2025-12-22 14:24:39.672119007 +0000
++++ /tmp/9.agilogic.modified	2025-12-22 15:01:06.407001005 +0000
+@@ -35,15 +35,23 @@
    animate.obj(o2);
    ignore.blocks(o2);
    ignore.objs(o2);
@@ -29,7 +29,7 @@
    set.priority(o3, 4);
    animate.obj(o6);
    set.view(o6, 43);
-@@ -71,9 +79,15 @@
+@@ -73,9 +81,15 @@
    stop.update(o4);
    draw(o2);
    stop.cycling(o2);
@@ -46,7 +46,7 @@
  
    if (!(v69 > 0)) {
      v69 = 1;
-@@ -250,70 +264,68 @@
+@@ -294,72 +308,68 @@
  
    if (f32) {
      reset(f32);
@@ -106,6 +106,8 @@
 +    }
    }
  
+-Address1758:
+-
    if (f33) {
      reset(f33);
 -  
@@ -164,26 +166,26 @@
 +    }
    }
  
-   if (f3) {
-@@ -442,7 +454,7 @@
-     }
-   }
+ Address1854:
+@@ -508,7 +518,7 @@
+ 
+ Address895:
  
 -  if (said("check out", "right", "closet") || said("look in", "right", "closet")) {
 +  if (said("check out", "closet", "right") || said("look in", "closet", "right")) {
      if (obj.in.box(o0, 40, 94, 98, 107)) {
        if (v69 > 1) {
          if (!(v81 > 0)) {
-@@ -458,7 +470,7 @@
-     }
-   }
+@@ -526,7 +536,7 @@
+ 
+ Address959:
  
 -  if (said("check out", "left", "closet") || said("look in", "left", "closet")) {
 +  if (said("check out", "closet", "left") || said("look in", "closet", "left")) {
      if (obj.in.box(o0, 40, 94, 98, 107)) {
        if (v70 > 1) {
          if (!has(i3)) {
-@@ -486,7 +498,7 @@
+@@ -558,7 +568,7 @@
  
  Address1055:
  
@@ -192,17 +194,17 @@
      if (obj.in.box(o0, 57, 94, 82, 105)) {
        if (v69 == 1) {
          prevent.input();
-@@ -506,7 +518,7 @@
-     }
-   }
+@@ -580,7 +590,7 @@
+ 
+ Address1126:
  
 -  if (said("press", "left") || said("press", "left", "button")) {
 +  if (said("press", "left") || said("press", "button", "left")) {
      if (obj.in.box(o0, 57, 94, 82, 105)) {
        if (v70 == 1) {
          prevent.input();
-@@ -572,7 +584,7 @@
-   }
+@@ -654,7 +664,7 @@
+ Address1351:
  
    if (obj.in.box(o0, 54, 142, 97, 159)) {
 -    if (said("press", "button") || said("press", "airlock", "button") || said("press", "airlock")) {

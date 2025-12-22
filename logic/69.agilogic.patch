@@ -1,5 +1,5 @@
---- /home/devuser/agivrit/project/tmp/src/logic/69.agilogic	2025-12-07 00:05:53.962529003 +0000
-+++ /tmp/69.agilogic.modified	2025-12-12 21:43:45.800352004 +0000
+--- project/tmp/src/logic/69.agilogic	2025-12-22 14:24:39.650119007 +0000
++++ /tmp/69.agilogic.modified	2025-12-22 14:45:28.458911001 +0000
 @@ -1,12 +1,12 @@
  v64 = 104;
  load.pic(v64);
@@ -14,7 +14,7 @@
 +display(12, 12, m4);
  open.dialogue();
 -get.string(s1, m5, 16, 5, 18);
-+get.string(s1,m5,16,21,18);
++get.string(s1, m5, 16, 21, 18);
  parse(s1);
  close.dialogue();
  

@@ -1,7 +1,7 @@
---- /home/devuser/agi-ivrit/project/src/logic/6.agilogic	2025-12-07 00:05:53.216529002 +0000
-+++ /tmp/6.agilogic.modified	2025-12-20 20:36:51.964156009 +0000
-@@ -178,7 +178,7 @@
-   }
+--- project/tmp/src/logic/6.agilogic	2025-12-22 14:24:39.643119007 +0000
++++ /tmp/6.agilogic.modified	2025-12-22 14:51:51.590971012 +0000
+@@ -204,7 +204,7 @@
+ Address528:
  
    if (!f31) {
 -    if (said("press", "open", "bay door") || said("press", "open", "bay door", "button") || said("press", "bay door", "open", "button") || said("press", "bay door", "open") || said("press", "open")) {
@@ -9,9 +9,9 @@
        if (v52 == 0) {
          if (obj.in.box(o0, 86, 125, 134, 136)) {
            set(f31);
-@@ -193,7 +193,7 @@
-       }
-     }
+@@ -221,7 +221,7 @@
+   
+   Address620:
    
 -    if (said("press", "close", "bay door") || said("press", "close")) {
 +    if (said("press", "close", "bay door") || said("press", "button", "close", "bay door") || said("press", "button", "bay door", "close") || said("press", "bay door", "close") || said("press", "close")) {

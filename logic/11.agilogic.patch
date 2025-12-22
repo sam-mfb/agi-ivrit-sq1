@@ -1,6 +1,6 @@
---- project/tmp/src/logic/11.agilogic	2025-12-07 00:05:53.868529003 +0000
-+++ translations/sq1/logic/11.agilogic.tmp	2025-12-17 11:49:43.520354002 +0000
-@@ -80,10 +80,10 @@
+--- project/tmp/src/logic/11.agilogic	2025-12-22 14:24:39.549119007 +0000
++++ /tmp/11.agilogic.modified	2025-12-22 14:48:38.782265006 +0000
+@@ -96,10 +96,10 @@
              status.line.off();
              v19 = 0;
              text.screen();
