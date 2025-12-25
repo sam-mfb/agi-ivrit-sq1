@@ -1,0 +1,33 @@
+--- project/tmp/src/logic/111.agilogic	2025-12-23 14:45:29.192532000 +0000
++++ /tmp/111.agilogic.modified	2025-12-25 14:39:22.731403006 +0000
+@@ -55,19 +55,19 @@
+ 
+   if (v234 == 1) {
+     set.text.attribute(3, 0);
+-    display(3, 19, m2);
+-    display(6, 19, m3);
+-    display(9, 19, m4);
+-    display(12, 19, m5);
+-    display(15, 19, m6);
++    display(3, 2, m2);
++    display(6, 2, m3);
++    display(9, 2, m4);
++    display(12, 2, m5);
++    display(15, 2, m6);
+     set.text.attribute(2, 0);
+-    display(4, 19, m12);
+-    display(7, 19, m13);
+-    display(10, 19, m14);
+-    display(13, 19, m15);
+-    display(16, 19, m16);
++    display(4, 2, m12);
++    display(7, 2, m13);
++    display(10, 2, m14);
++    display(13, 2, m15);
++    display(16, 2, m16);
+     set.text.attribute(3, 0);
+-    display(19, 6, m20);
++    display(19, 11, m20);
+   }
+ 
+ Address174:
