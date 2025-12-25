@@ -1,5 +1,5 @@
---- project/tmp/src/logic/14.agilogic	2025-12-22 14:24:39.566119007 +0000
-+++ /tmp/14.agilogic.modified	2025-12-22 14:42:02.266881003 +0000
+--- project/tmp/src/logic/14.agilogic	2025-12-23 14:45:29.208532000 +0000
++++ /tmp/14.agilogic.modified	2025-12-25 16:00:48.051376002 +0000
 @@ -93,9 +93,6 @@
      }
    
@@ -10,3 +10,39 @@
    }
  
  Address776:
+@@ -174,7 +171,7 @@
+ 
+ Address366:
+ 
+-  if (said("press", "autonav") || said("press", "autonav", "button")) {
++  if (said("press", "autonav") || said("press", "button", "autonav")) {
+     if (!f32) {
+       set(f32);
+       set.view(o2, 38);
+@@ -191,7 +188,7 @@
+ 
+ Address421:
+ 
+-  if (said("press", "power") || said("press", "power", "button")) {
++  if (said("press", "power") || said("press", "button", "power")) {
+     if (!f32) {
+       set(f32);
+       set.view(o2, 38);
+@@ -207,7 +204,7 @@
+ 
+ Address477:
+ 
+-  if (said("press", "don't touch") || said("press", "don't touch", "button")) {
++  if (said("press", "don't touch") || said("press", "button", "don't touch")) {
+     print(m13);
+   }
+ 
+@@ -236,7 +233,7 @@
+ 
+ Address574:
+ 
+-  if (said("get down", "belt")) {
++  if (said("get down", "belt") || said("open", "belt") || said("unlock", "belt")) {
+     if (!f31) {
+       set(f31);
+       print(m10);

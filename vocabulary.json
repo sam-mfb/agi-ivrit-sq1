@@ -597,7 +597,7 @@
       "wordNumber": 44,
       "word": "quit",
       "originalSynonyms": [],
-      "translatedSynonyms": ["צא", "לצאת", "תצא", "עזוב", "לעזוב", "תעזוב"],
+      "translatedSynonyms": [],
       "wordType": "verb",
       "notes": ""
     },
@@ -1753,7 +1753,7 @@
       "wordNumber": 157,
       "word": "disembark",
       "originalSynonyms": ["exit", "get off", "get out", "leave"],
-      "translatedSynonyms": ["רד", "לרדת", "תרד"],
+      "translatedSynonyms": ["רד", "לרדת", "תרד", "צא", "לצאת", "תצא", "עזוב", "לעזוב", "תעזוב"],
       "wordType": "noun",
       "notes": ""
     },
