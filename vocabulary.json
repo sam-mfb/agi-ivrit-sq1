@@ -885,7 +885,7 @@
       "wordNumber": 69,
       "word": "autonav",
       "originalSynonyms": ["autopilot"],
-      "translatedSynonyms": ["טייס אוטומטי"],
+      "translatedSynonyms": ["טייס אוטומטי", "טייס אוטו", "ניווט אוטו", "ניווט אוטומטי"],
       "wordType": "noun",
       "notes": ""
     },
@@ -2151,7 +2151,7 @@
       "wordNumber": 206,
       "word": "car",
       "originalSynonyms": [],
-      "translatedSynonyms": ["מכונית", "מכוניות", "אוטו"],
+      "translatedSynonyms": ["מכונית", "מכוניות"],
       "wordType": "noun",
       "notes": ""
     },

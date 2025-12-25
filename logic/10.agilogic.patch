@@ -1,5 +1,5 @@
---- project/tmp/src/logic/10.agilogic	2025-12-22 14:24:39.543119007 +0000
-+++ /tmp/10.agilogic.modified	2025-12-22 14:40:37.194902006 +0000
+--- /home/devuser/agi-ivrit/project/src/logic/10.agilogic	2025-12-23 14:45:28.575139014 +0000
++++ /tmp/10.agilogic.modified	2025-12-25 13:44:32.143047011 +0000
 @@ -303,9 +303,6 @@
      }
    
@@ -10,3 +10,39 @@
    }
  
  Address1663:
+@@ -587,7 +584,7 @@
+ 
+ Address828:
+ 
+-  if (said("press", "autonav") || said("autonav", "a") || said("press", "autonav", "button")) {
++  if (said("press", "autonav") || said("autonav", "a") || said("press", "button", "autonav")) {
+     if (f188) {
+       if (!f81) {
+         set(f81);
+@@ -613,7 +610,7 @@
+ 
+ Address912:
+ 
+-  if (said("press", "power") || said("power", "a") || said("press", "power", "button")) {
++  if (said("press", "power") || said("power", "a") || said("press", "button", "power")) {
+     if (!f188) {
+       set(f188);
+       prevent.input();
+@@ -722,7 +719,7 @@
+ 
+ Address1230:
+ 
+-  if (said("get down", "belt")) {
++  if (said("get down", "belt") || said("open", "belt") || said("unlock", "belt")) {
+     if (f44) {
+       if (v1 == 12) {
+         print("Please remain seated and keep seat belt buckled while vehicle is in motion.");
+@@ -751,7 +748,7 @@
+ 
+ Address1315:
+ 
+-  if (said("press", "don't touch") || said("press", "don't touch", "button")) {
++  if (said("press", "don't touch") || said("press", "button", "don't touch")) {
+     if (f79) {
+       set(f71);
+       sound(14, f162);
