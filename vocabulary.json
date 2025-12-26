@@ -1928,7 +1928,7 @@
       "wordNumber": 180,
       "word": "y",
       "originalSynonyms": ["yes"],
-      "translatedSynonyms": ["בן"],
+      "translatedSynonyms": ["כן"],
       "wordType": "other",
       "notes": ""
     },
@@ -2895,7 +2895,7 @@
       "word": "tiny",
       "originalSynonyms": [],
       "translatedSynonyms": ["זעיר", "קטן", "זעירה", "זעירי"],
-      "wordType": "other",
+      "wordType": "noun",
       "notes": ""
     },
     {
@@ -2990,7 +2990,7 @@
       "wordNumber": 297,
       "word": "dust",
       "originalSynonyms": ["powder"],
-      "translatedSynonyms": ["אבק בית", "נקה אבק", "לנקות אבק"],
+      "translatedSynonyms": ["אבק", "אבקה", "אבקות"],
       "wordType": "noun",
       "notes": ""
     },
