@@ -405,7 +405,7 @@
       "wordNumber": 27,
       "word": "ignition",
       "originalSynonyms": ["key hole", "key ignition", "keyhole"],
-      "translatedSynonyms": ["הצתה", "חור מפתח", "הצתה במפתח"],
+      "translatedSynonyms": ["הצתה", "חור מפתח", "הצתה במפתח", "חור המנעול", "חור ההצתה"],
       "wordType": "noun",
       "notes": ""
     },
@@ -1066,7 +1066,7 @@
       "wordNumber": 86,
       "word": "bike",
       "originalSynonyms": ["sand skimmer", "skimmer"],
-      "translatedSynonyms": ["רחפן חול", "רחפן", "ריחוף", "רחפת", "רחפות"],
+      "translatedSynonyms": ["רחפן חול", "רחפן", "ריחוף", "רחפת", "רחפות", "רחפת חול"],
       "wordType": "noun",
       "notes": ""
     },

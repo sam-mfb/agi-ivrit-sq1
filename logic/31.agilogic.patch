@@ -1,0 +1,29 @@
+--- project/tmp/src/logic/31.agilogic	2025-12-23 14:45:29.240532000 +0000
++++ /tmp/31.agilogic.modified	2025-12-26 16:21:17.038515005 +0000
+@@ -599,7 +599,7 @@
+ 
+ Address893:
+ 
+-  if (said("acquire", "key") || said("acquire", "bike", "key")) {
++  if (said("acquire", "key") || said("acquire", "bike", "key") || said("acquire", "key", "bike")) {
+     if (obj.in.box(o0, 107, 122, 149, 146) || (v41 == 2)) {
+       if (!has(i7)) {
+         get(i7);
+@@ -614,7 +614,7 @@
+ 
+ Address949:
+ 
+-  if (said("fill", "key") || said("drop", "key", "ignition")) {
++  if (said("fill", "key") || said("drop", "key", "ignition") || said("drop", "key", "bike") || said("drop", "key", "button") || said("fill", "button")) {
+     if (obj.in.box(o0, 107, 122, 149, 146) || (v41 == 2)) {
+       if (has(i7)) {
+         drop(i7);
+@@ -691,7 +691,7 @@
+ 
+ Address1229:
+ 
+-  if (said("turn", "key") || said("turn", "button") || said("start", "bike")) {
++  if (said("turn", "key") || said("turn", "button") || said("start", "bike") || said("turn", "bike") || said("turn", "ignition")) {
+     if (v41 == 2) {
+       if (has(i7)) {
+         print(m66);
