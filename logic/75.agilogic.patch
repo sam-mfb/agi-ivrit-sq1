@@ -5,7 +5,7 @@
    set.cel(o9, 0);
    ignore.objs(o9);
 -  position(o9, 52, 154);
-+  position(o9, 62, 154);
++  position(o9, 52, 154);
    set.priority(o9, 4);
    stop.cycling(o9);
    animate.obj(o8);
@@ -17,19 +17,19 @@
 -    display(19, 13, m49);
 -    display(20, 13, m49);
 -    display(21, 13, m49);
-+    display(18, 14, m49);
-+    display(19, 14, m49);
-+    display(20, 14, m49);
-+    display(21, 14, m49);
++    display(18, 11, m49);
++    display(19, 11, m49);
++    display(20, 11, m49);
++    display(21, 11, m49);
    } else {
 -    display(16, 13, m49);
 -    display(17, 13, m49);
 -    display(18, 13, m49);
 -    display(19, 13, m49);
-+    display(16, 14, m49);
-+    display(17, 14, m49);
-+    display(18, 14, m49);
-+    display(19, 14, m49);
++    display(16, 11, m49);
++    display(17, 11, m49);
++    display(18, 11, m49);
++    display(19, 11, m49);
    }
  
  Address163:
@@ -38,14 +38,14 @@
      clear.lines(1, 2, 0);
 -    display(1, 15, m59);
 -    display(2, 0, m60);
-+    display(1, 16, m59);
-+    display(2, 1, m60);
++    display(1, 11, m59);
++    display(2, 0, m60);
    } else {
      clear.lines(22, 24, 0);
 -    display(23, 15, m59);
 -    display(24, 0, m60);
-+    display(23, 16, m59);
-+    display(24, 1, m60);
++    display(23, 11, m59);
++    display(24, 0, m60);
    }
  
  Address200:
@@ -54,16 +54,16 @@
 -    display(19, 19, m5);
 -    display(20, 19, m6);
 -    display(21, 19, m7);
-+    display(19, 20, m5);
-+    display(20, 20, m6);
-+    display(21, 20, m7);
++    display(19, 11, m5);
++    display(20, 11, m6);
++    display(21, 11, m7);
    } else {
 -    display(17, 19, m5);
 -    display(18, 19, m6);
 -    display(19, 19, m7);
-+    display(17, 20, m5);
-+    display(18, 20, m6);
-+    display(19, 20, m7);
++    display(17, 11, m5);
++    display(18, 11, m6);
++    display(19, 11, m7);
    }
  
  Address237:
@@ -101,19 +101,19 @@
 -              display(19, 13, m49);
 -              display(20, 13, m14);
 -              display(21, 13, m49);
-+              display(18, 14, m13);
-+              display(19, 14, m49);
-+              display(20, 14, m14);
-+              display(21, 14, m49);
++              display(18, 11, m13);
++              display(19, 11, m49);
++              display(20, 11, m14);
++              display(21, 11, m49);
              } else {
 -              display(16, 13, m13);
 -              display(17, 13, m49);
 -              display(18, 13, m14);
 -              display(19, 13, m49);
-+              display(16, 14, m13);
-+              display(17, 14, m49);
-+              display(18, 14, m14);
-+              display(19, 14, m49);
++              display(16, 11, m13);
++              display(17, 11, m49);
++              display(18, 11, m14);
++              display(19, 11, m49);
              }
            }
 -        
@@ -130,19 +130,19 @@
 -              display(19, 13, m62);
 -              display(20, 13, m63);
 -              display(21, 13, m64);
-+              display(18, 14, m61);
-+              display(19, 14, m62);
-+              display(20, 14, m63);
-+              display(21, 14, m64);
++              display(18, 11, m61);
++              display(19, 11, m62);
++              display(20, 11, m63);
++              display(21, 11, m64);
              } else {
 -              display(16, 13, m61);
 -              display(17, 13, m62);
 -              display(18, 13, m63);
 -              display(19, 13, m64);
-+              display(16, 14, m61);
-+              display(17, 14, m62);
-+              display(18, 14, m63);
-+              display(19, 14, m64);
++              display(16, 11, m61);
++              display(17, 11, m62);
++              display(18, 11, m63);
++              display(19, 11, m64);
              }
 -          
 +
@@ -163,19 +163,19 @@
 -              display(19, 19, m8);
 -              display(20, 19, m9);
 -              display(21, 19, m10);
-+              display(18, 21, m48);
-+              display(19, 20, m8);
-+              display(20, 20, m9);
-+              display(21, 20, m10);
++              display(18, 11, m48);
++              display(19, 11, m8);
++              display(20, 11, m9);
++              display(21, 11, m10);
              } else {
 -              display(16, 20, m48);
 -              display(17, 19, m8);
 -              display(18, 19, m9);
 -              display(19, 19, m10);
-+              display(16, 21, m48);
-+              display(17, 20, m8);
-+              display(18, 20, m9);
-+              display(19, 20, m10);
++              display(16, 11, m48);
++              display(17, 11, m8);
++              display(18, 11, m9);
++              display(19, 11, m10);
              }
 -          
 +
@@ -192,7 +192,7 @@
          if (v34 == 1) {
            if (v35 == 1) {
 -            position(o9, 52, 154);
-+            position(o9, 62, 154);
++            position(o9, 52, 154);
              set.cel(o9, 1);
              stop.cycling(o9);
              v30 = 2;
@@ -211,23 +211,23 @@
 -              display(18, 13, m49);
 -              display(19, 13, m49);
 -              display(20, 13, m49);
-+              display(18, 14, m49);
-+              display(19, 14, m49);
-+              display(20, 14, m49);
++              display(18, 11, m49);
++              display(19, 11, m49);
++              display(20, 11, m49);
              } else {
 -              display(16, 13, m49);
 -              display(17, 13, m49);
 -              display(18, 13, m49);
-+              display(16, 14, m49);
-+              display(17, 14, m49);
-+              display(18, 14, m49);
++              display(16, 11, m49);
++              display(17, 11, m49);
++              display(18, 11, m49);
              }
 -          
 +
            Address889:
              set.cel(o9, 0);
 -            position(o9, 52, 154);
-+            position(o9, 62, 154);
++            position(o9, 52, 154);
              draw(o9);
              stop.cycling(o9);
 -          
@@ -236,16 +236,16 @@
 -              display(19, 19, m5);
 -              display(20, 19, m6);
 -              display(21, 19, m7);
-+              display(19, 20, m5);
-+              display(20, 20, m6);
-+              display(21, 20, m7);
++              display(19, 11, m5);
++              display(20, 11, m6);
++              display(21, 11, m7);
              } else {
 -              display(17, 19, m5);
 -              display(18, 19, m6);
 -              display(19, 19, m7);
-+              display(17, 20, m5);
-+              display(18, 20, m6);
-+              display(19, 20, m7);
++              display(17, 11, m5);
++              display(18, 11, m6);
++              display(19, 11, m7);
              }
            }
 -        
@@ -259,10 +259,10 @@
 +
              if ((v26 == 2) && (v20 == 0)) {
 -              display(18, 20, m48);
-+              display(18, 21, m48);
++              display(18, 11, m48);
              } else {
 -              display(16, 20, m48);
-+              display(16, 21, m48);
++              display(16, 11, m48);
              }
 -          
 +
@@ -275,19 +275,19 @@
 -              display(19, 13, m49);
 -              display(20, 13, m49);
 -              display(21, 13, m49);
-+              display(18, 14, m49);
-+              display(19, 14, m49);
-+              display(20, 14, m49);
-+              display(21, 14, m49);
++              display(18, 11, m49);
++              display(19, 11, m49);
++              display(20, 11, m49);
++              display(21, 11, m49);
              } else {
 -              display(16, 13, m49);
 -              display(17, 13, m49);
 -              display(18, 13, m49);
 -              display(19, 13, m49);
-+              display(16, 14, m49);
-+              display(17, 14, m49);
-+              display(18, 14, m49);
-+              display(19, 14, m49);
++              display(16, 11, m49);
++              display(17, 11, m49);
++              display(18, 11, m49);
++              display(19, 11, m49);
              }
            }
          }
@@ -315,19 +315,19 @@
 -                display(19, 13, m49);
 -                display(20, 13, m49);
 -                display(21, 13, m49);
-+                display(18, 14, m49);
-+                display(19, 14, m49);
-+                display(20, 14, m49);
-+                display(21, 14, m49);
++                display(18, 11, m49);
++                display(19, 11, m49);
++                display(20, 11, m49);
++                display(21, 11, m49);
                } else {
 -                display(16, 13, m49);
 -                display(17, 13, m49);
 -                display(18, 13, m49);
 -                display(19, 13, m49);
-+                display(16, 14, m49);
-+                display(17, 14, m49);
-+                display(18, 14, m49);
-+                display(19, 14, m49);
++                display(16, 11, m49);
++                display(17, 11, m49);
++                display(18, 11, m49);
++                display(19, 11, m49);
                }
 -            
 +
@@ -351,19 +351,19 @@
 -            display(19, 13, m49);
 -            display(20, 13, m49);
 -            display(21, 13, m49);
-+            display(18, 14, m49);
-+            display(19, 14, m49);
-+            display(20, 14, m49);
-+            display(21, 14, m49);
++            display(18, 11, m49);
++            display(19, 11, m49);
++            display(20, 11, m49);
++            display(21, 11, m49);
            } else {
 -            display(16, 13, m49);
 -            display(17, 13, m49);
 -            display(18, 13, m49);
 -            display(19, 13, m49);
-+            display(16, 14, m49);
-+            display(17, 14, m49);
-+            display(18, 14, m49);
-+            display(19, 14, m49);
++            display(16, 11, m49);
++            display(17, 11, m49);
++            display(18, 11, m49);
++            display(19, 11, m49);
            }
 -        
 +
@@ -377,203 +377,21 @@
              draw(o8);
              end.of.loop(o8, f30);
            } else {
-@@ -306,19 +306,19 @@
-             goto(Address1170);
-           }
-         }
--      
-+
-       Address1179:
--      
-+
-         if (f31) {
-           reset(f31);
-           stop.cycling(o8);
-           v31 = 9;
-           sound(28, f162);
-         }
--      
-+
-       Address1195:
-         v31--;
--      
-+
-         if (v31 == 1) {
-           stop.sound();
-           set.loop(o8, 0);
-@@ -330,18 +330,18 @@
-           stop.cycling(o8);
-           v38 = 9;
-         }
--      
-+
-       Address1229:
-         v38--;
--      
-+
-         if (v38 == 1) {
-           set(f125);
-           enable.item(c22);
-           new.room(70);
-         }
--      
-+
-       Address1244:
--      
-+
-         if (f30) {
-           reset(f30);
-           set.loop(o8, 1);
-@@ -350,40 +350,40 @@
-           reposition(o8, v36, v37);
-           end.of.loop(o8, f31);
-         }
--      
-+
-       Address1268:
--      
-+
-         if (f126) {
-           call(113);
-         }
--      
-+
-       Address1276:
--      
-+
-         if (f134) {
-           call(115);
-         }
--      
-+
-       Address1284:
--      
-+
-         if (!f124 && !f123 && !f126) {
-           if (controller(c29)) {
-             enable.item(c22);
-             new.room(70);
-           }
-         }
--      
-+
-       Address1307:
-         return();
-       } else {
-         if (said("check out", "area")) {
-           print(m16);
-         }
--      
-+
-       Address549:
--      
-+
-         if ((v26 == 2) && (v20 == 0)) {
-         Address605:
--        
-+
-           if (said("done")) {
-             enable.item(c22);
-             new.room(70);
 @@ -393,13 +393,13 @@
            if (said("holy", "asshole")) {
              v121 = 134;
              clear.lines(23, 24, 0);
 -            display(23, 0, m3);
 -            display(24, 0, m4);
-+            display(23, 1, m3);
-+            display(24, 1, m4);
++            display(23, 0, m3);
++            display(24, 0, m4);
              get.num(m2, v122);
              *v121 = v122;
              clear.lines(23, 24, 0);
 -            display(23, 15, m59);
 -            display(24, 0, m60);
-+            display(23, 16, m59);
-+            display(24, 1, m60);
++            display(23, 11, m59);
++            display(24, 0, m60);
            }
            goto(Address605);
          }
-@@ -407,11 +407,11 @@
-     } else {
-       if (f130) {
-         set(f4);
--      
-+
-         if (!f124 && !f123 && !f126) {
-           v34 = 0;
-           v123 = 3;
--        
-+
-           if (v123 > v124) {
-             if (v124 == 0) {
-               print(m31);
-@@ -423,11 +423,11 @@
-           } else {
-             set(f124);
-             prevent.input();
--          
-+
-             if ((v35 == 1) || (v35 == 2)) {
-               erase(o9);
-             }
--          
-+
-           Address515:
-             v35 = 6;
-             v32 = 250;
-@@ -440,11 +440,11 @@
-   } else {
-     if (f128) {
-       set(f4);
--    
-+
-       if (!f124 && !f123 && !f126) {
-         v34 = 0;
-         v123 = 2;
--      
-+
-         if (v123 > v124) {
-           if (v124 == 0) {
-             print(m31);
-@@ -456,11 +456,11 @@
-         } else {
-           set(f124);
-           prevent.input();
--        
-+
-           if ((v35 == 1) || (v35 == 2)) {
-             erase(o9);
-           }
--        
-+
-         Address425:
-           v35 = 6;
-           v32 = 250;
-@@ -473,11 +473,11 @@
- } else {
-   if (f129) {
-     set(f4);
--  
-+
-     if (!f124 && !f123 && !f126) {
-       v34 = 0;
-       v123 = 1;
--    
-+
-       if (v123 > v124) {
-         if (v124 == 0) {
-           print(m31);
-@@ -489,11 +489,11 @@
-       } else {
-         set(f124);
-         prevent.input();
--      
-+
-         if ((v35 == 1) || (v35 == 2) || (v35 == 3)) {
-           erase(o9);
-         }
--      
-+
-       Address335:
-         v35 = 6;
-         v32 = 250;
