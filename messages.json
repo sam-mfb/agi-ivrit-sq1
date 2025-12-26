@@ -13440,7 +13440,7 @@
       "logicFile": "115.agilogic",
       "messageNumber": 2,
       "original": " You Win  $%v64 ",
-      "translation": " זכית ב-$%v64 ",
+      "translation": "  זכית $%v64   ",
       "notes": "",
       "placeholders": [
         "%v"
@@ -13458,7 +13458,7 @@
       "logicFile": "115.agilogic",
       "messageNumber": 5,
       "original": " You Have $%v124",
-      "translation": "יש לך %d באקזואידים",
+      "translation": " יש לך $%v124  ",
       "notes": "",
       "placeholders": [
         "%v"
@@ -13468,7 +13468,7 @@
       "logicFile": "115.agilogic",
       "messageNumber": 6,
       "original": "   You Lose    ",
-      "translation": "הפסדת, חבוב!",
+      "translation": "    הפסדת!     ",
       "notes": "",
       "placeholders": []
     },
@@ -13476,7 +13476,7 @@
       "logicFile": "115.agilogic",
       "messageNumber": 7,
       "original": "  Tough Luck   ",
-      "translation": "מזל ביש",
+      "translation": "    מזל ביש    ",
       "notes": "",
       "placeholders": []
     },
@@ -13484,7 +13484,7 @@
       "logicFile": "115.agilogic",
       "messageNumber": 8,
       "original": " It's Hopeless ",
-      "translation": "חסר תקווה",
+      "translation": "   חסר תקווה   ",
       "notes": "",
       "placeholders": []
     },
@@ -13492,7 +13492,7 @@
       "logicFile": "115.agilogic",
       "messageNumber": 9,
       "original": "   Eat Sand    ",
-      "translation": "תאכל חול",
+      "translation": "   תאכל חול    ",
       "notes": "",
       "placeholders": []
     },
@@ -13500,7 +13500,7 @@
       "logicFile": "115.agilogic",
       "messageNumber": 10,
       "original": " Suck Methane  ",
-      "translation": "גז עצבים",
+      "translation": "   תמצוץ גז    ",
       "notes": "",
       "placeholders": []
     },
@@ -13508,7 +13508,7 @@
       "logicFile": "115.agilogic",
       "messageNumber": 11,
       "original": "   So Sorry    ",
-      "translation": "נורא מצטער",
+      "translation": "  נורא מצטער   ",
       "notes": "",
       "placeholders": []
     },
@@ -13516,7 +13516,7 @@
       "logicFile": "115.agilogic",
       "messageNumber": 12,
       "original": " Not A Chance  ",
-      "translation": "לא יקרה",
+      "translation": "   אין סיכוי   ",
       "notes": "",
       "placeholders": []
     },
