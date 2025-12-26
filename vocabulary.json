@@ -1066,7 +1066,7 @@
       "wordNumber": 86,
       "word": "bike",
       "originalSynonyms": ["sand skimmer", "skimmer"],
-      "translatedSynonyms": ["רחפן חול", "רחפן"],
+      "translatedSynonyms": ["רחפן חול", "רחפן", "ריחוף", "רחפת", "רחפות"],
       "wordType": "noun",
       "notes": ""
     },
@@ -2450,10 +2450,7 @@
         "ג'ט-פאק",
         "מנוע סילון",
         "תרמיל דחף",
-        "ריחוף",
-        "תרמיל ריחוף",
-        "רחפת",
-        "רחפות"
+        "תרמיל ריחוף"
       ],
       "wordType": "noun",
       "notes": ""
