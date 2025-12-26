@@ -1604,7 +1604,7 @@
       "wordNumber": 140,
       "word": "drop",
       "originalSynonyms": ["put", "set"],
-      "translatedSynonyms": ["הפל", "להפיל", "תפיל", "לשים"],
+      "translatedSynonyms": ["הפל", "להפיל", "תפיל", "לשים", "שים", "תשים"],
       "wordType": "verb",
       "notes": ""
     },
@@ -1870,7 +1870,7 @@
       "wordNumber": 173,
       "word": "grate",
       "originalSynonyms": ["grating", "vent"],
-      "translatedSynonyms": ["סורג", "סורגים", "פתח אוורור", "אוורור"],
+      "translatedSynonyms": ["סורג", "סורגים", "פתח אוורור", "אוורור", "שבכה"],
       "wordType": "noun",
       "notes": ""
     },
@@ -3055,7 +3055,7 @@
       "wordNumber": 308,
       "word": "place",
       "originalSynonyms": [],
-      "translatedSynonyms": ["שים", "תשים"],
+      "translatedSynonyms": [],
       "wordType": "verb",
       "notes": ""
     },
