@@ -7013,7 +7013,7 @@
       "logicFile": "37.agilogic",
       "messageNumber": 29,
       "original": "\\\"Sector HH it is. I will proceed with course entry.\\\"",
-      "translation": "\\\"סקטור HH זה. אמשיך בהזנת המסלול.\\\"",
+      "translation": "\\\"סקטור טט זה. אמשיך בהזנת המסלול.\\\"",
       "notes": "",
       "placeholders": []
     },
@@ -8911,7 +8911,7 @@
       "logicFile": "64.agilogic",
       "messageNumber": 1,
       "original": "Congratulations %s1, you've rid the universe of the evil Sariens and saved your people from certain doom. You're an all-around hero! You've made it home safely aboard the stolen Sarien craft, where you've encountered a cheering Xenon crowd. They have gathered together for a ceremony in your honor. The ceremony is already in progress.",
-      "translation": "ברכות %s1, פינית את היקום מהסרייאנים המרושעים והצלת את אנשיך מאבדון בטוח. אתה גיבור בכל מובן המילה! הגעת הביתה בשלום על סיפון החללית הסרייאנית הגנובה, שם נתקלת בקהל זנוני מריע. הם התכנסו לטקס לכבודך. הטקס כבר בעיצומו.",
+      "translation": "ברכות %s1, פינית את היקום מהסרייאנים המרושעים והצלת את אנשיך מאבדון בטוח. אתה גיבור בכל מובן המילה! הגעת הביתה בשלום על סיפון החללית הסרייאנית הגנובה, שם נתקלת בקהל קסנוני מריע. הם התכנסו לטקס לכבודך. הטקס כבר בעיצומו.",
       "notes": "",
       "placeholders": [
         "%s"
@@ -8931,7 +8931,7 @@
       "logicFile": "64.agilogic",
       "messageNumber": 3,
       "original": "Once a janitor always a janitor.",
-      "translation": "פעם מנקה, תמיד מנקה.",
+      "translation": "פעם שרת, תמיד שרת.",
       "notes": "",
       "placeholders": []
     },
@@ -8987,7 +8987,7 @@
       "logicFile": "64.agilogic",
       "messageNumber": 10,
       "original": "         Sol Ackerman",
-      "translation": "         סול אקרמן",
+      "translation": "         סל אקרמן",
       "notes": "",
       "placeholders": []
     },
@@ -8995,7 +8995,7 @@
       "logicFile": "64.agilogic",
       "messageNumber": 11,
       "original": "         Ken Williams",
-      "translation": "         קן וויליאמס",
+      "translation": "         קן ויליאמס",
       "notes": "",
       "placeholders": []
     },
@@ -9011,7 +9011,7 @@
       "logicFile": "64.agilogic",
       "messageNumber": 13,
       "original": "         Chris Iden",
-      "translation": "         כריס אידן",
+      "translation": "         כריס איידן",
       "notes": "",
       "placeholders": []
     },
@@ -9019,7 +9019,7 @@
       "logicFile": "64.agilogic",
       "messageNumber": 14,
       "original": "         Sierra On-Line Inc.",
-      "translation": " 1991 סיירה און-ליין, בעמ",
+      "translation": " סיירה אונליין",
       "notes": "",
       "placeholders": []
     },
@@ -9061,7 +9061,7 @@
       "logicFile": "64.agilogic",
       "messageNumber": 19,
       "original": "Congratulations %s1, you've rid the universe of the evil Sariens and saved your people from certain doom. The Star Generator technology is safe inside the Data Cartridge. Now, a new Star Generator can be built and can carry out its original task - You're an all-around hero! You've made it home safely aboard the stolen Sarien craft, where you've encountered a cheering Xenon crowd. They have gathered together for a ceremony in your honor. The ceremony is already in progress.",
-      "translation": "ברכות %s1, פינית את היקום מהסרייאנים המרושעים והצלת את אנשיך מאבדון בטוח. טכנולוגיית מחולל הכוכבים מאובטחת בתוך מחסנית הנתונים. כעת, ניתן לבנות מחולל כוכבים חדש ולבצע את משימתו המקורית - אתה גיבור בכל מובן המילה! הגעת הביתה בשלום על סיפון החללית הסרייאנית הגנובה, שם נתקלת בקהל זנוני מריע. הם התכנסו לטקס לכבודך. הטקס כבר בעיצומו.",
+      "translation": "ברכות %s1, פינית את היקום מהסרייאנים המרושעים והצלת את אנשיך מאבדון בטוח. טכנולוגיית מחולל הכוכבים מאובטחת בתוך מחסנית הנתונים. כעת, ניתן לבנות מחולל כוכבים חדש ולבצע את משימתו המקורית - אתה גיבור בכל מובן המילה! הגעת הביתה בשלום על סיפון החללית הסרייאנית הגנובה, שם נתקלת בקהל קסנוני מריע. הם התכנסו לטקס לכבודך. הטקס כבר בעיצומו.",
       "notes": "",
       "placeholders": [
         "%s"
@@ -9711,7 +9711,7 @@
       "logicFile": "70.agilogic",
       "messageNumber": 20,
       "original": "As you sip another of the odd brews, you overhear someone at the bar speaking: \\\"There I was cruising through sector HH when I spot this blip on the scanner.\\\"",
-      "translation": "בעוד אתה נוטל לגימה נוספת מהשיכר הלא ברור, אתה שומע שיחה אקראית בבר: אני משייט לי ברחבי גזרה HH כשלפתע אני קולט הבהוב בסורק.",
+      "translation": "בעוד אתה נוטל לגימה נוספת מהשיכר הלא ברור, אתה שומע שיחה אקראית בבר: אני משייט לי ברחבי גזרה \\\n״טט\\\" כשלפתע אני קולט הבהוב בסורק.",
       "notes": "",
       "placeholders": []
     },
