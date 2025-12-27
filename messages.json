@@ -5207,7 +5207,7 @@
       "logicFile": "31.agilogic",
       "messageNumber": 11,
       "original": "  Whosoever shall read this:  My name",
-      "translation": "  כל הקורא זאת:  שמי",
+      "translation": "       כל הקורא זאת:  קוראים לי        ",
       "notes": "",
       "placeholders": []
     },
@@ -5215,7 +5215,7 @@
       "logicFile": "31.agilogic",
       "messageNumber": 12,
       "original": " is Dr. Slash Vohaul. I am a scientist",
-      "translation": " הוא ד\\\"ר סלאש וואהל. אני מדען",
+      "translation": "       ד\\\"ר סלאש וואהל. אני מדען       ",
       "notes": "",
       "placeholders": []
     },
@@ -5223,7 +5223,7 @@
       "logicFile": "31.agilogic",
       "messageNumber": 13,
       "original": " with The Star Generator Project aboard",
-      "translation": " בפרויקט מחולל הכוכבים על סיפון",
+      "translation": "    בפרויקט מחולל הכוכבים על סיפון     ",
       "notes": "",
       "placeholders": []
     },
@@ -5231,7 +5231,7 @@
       "logicFile": "31.agilogic",
       "messageNumber": 14,
       "original": "         the Starlab Arcada.",
-      "translation": "         מעבדת הכוכבים ארקדה.",
+      "translation": "         מעבדת הכוכבים ארקדה.          ",
       "notes": "",
       "placeholders": []
     },
@@ -5239,7 +5239,7 @@
       "logicFile": "31.agilogic",
       "messageNumber": 15,
       "original": "  We have just successfully completed",
-      "translation": "  זה עתה השלמנו בהצלחה",
+      "translation": "         זה עתה השלמנו בהצלחה          ",
       "notes": "",
       "placeholders": []
     },
@@ -5247,7 +5247,7 @@
       "logicFile": "31.agilogic",
       "messageNumber": 16,
       "original": "  development and testing of The Star",
-      "translation": "  את הפיתוח והבדיקות של מחולל",
+      "translation": "      את הפיתוח והבדיקות של מחולל      ",
       "notes": "",
       "placeholders": []
     },
@@ -5255,7 +5255,7 @@
       "logicFile": "31.agilogic",
       "messageNumber": 17,
       "original": "  Generator. During this time I have",
-      "translation": "  הכוכבים. במהלך זמן זה",
+      "translation": "         הכוכבים. במהלך זמן זה         ",
       "notes": "",
       "placeholders": []
     },
@@ -5263,7 +5263,7 @@
       "logicFile": "31.agilogic",
       "messageNumber": 18,
       "original": " come to believe that our progress has",
-      "translation": " התחלתי להאמין שההתקדמות שלנו",
+      "translation": "     התחלתי להאמין שההתקדמות שלנו      ",
       "notes": "",
       "placeholders": []
     },
@@ -5271,7 +5271,7 @@
       "logicFile": "31.agilogic",
       "messageNumber": 19,
       "original": " been monitored by others. I fear that",
-      "translation": " נוטרה על ידי אחרים. אני חושש ש",
+      "translation": "     נוטרה על ידי אחרים. אני חושש      ",
       "notes": "",
       "placeholders": []
     },
@@ -5279,7 +5279,7 @@
       "logicFile": "31.agilogic",
       "messageNumber": 20,
       "original": "  the Sariens may have learned of our",
-      "translation": "  הסריינים אולי נודע להם על",
+      "translation": "        שהסריינים אולי למדו על         ",
       "notes": "",
       "placeholders": []
     },
@@ -5287,7 +5287,7 @@
       "logicFile": "31.agilogic",
       "messageNumber": 21,
       "original": "               mission.",
-      "translation": "               המשימה שלנו.",
+      "translation": "             המשימה שלנו.              ",
       "notes": "",
       "placeholders": []
     },
@@ -5295,7 +5295,7 @@
       "logicFile": "31.agilogic",
       "messageNumber": 22,
       "original": "   If my fears prove true, The Star",
-      "translation": "   אם חששותי מתגשמים, מחולל",
+      "translation": "       אם חששותי מתגשמים, מחולל        ",
       "notes": "",
       "placeholders": []
     },
@@ -5303,7 +5303,7 @@
       "logicFile": "31.agilogic",
       "messageNumber": 23,
       "original": "   Generator and the people of our",
-      "translation": "   הכוכבים ותושבי",
+      "translation": "            הכוכבים ותושבי             ",
       "notes": "",
       "placeholders": []
     },
@@ -5311,7 +5311,7 @@
       "logicFile": "31.agilogic",
       "messageNumber": 24,
       "original": "  universe are in serious jeopardy.",
-      "translation": "  היקום שלנו נתונים בסכנה חמורה.",
+      "translation": "    היקום שלנו נתונים בסכנה חמורה.     ",
       "notes": "",
       "placeholders": []
     },
@@ -5319,7 +5319,7 @@
       "logicFile": "31.agilogic",
       "messageNumber": 25,
       "original": "  The Star Generator is a miraculous",
-      "translation": "  מחולל הכוכבים הוא מכשיר",
+      "translation": "        מחולל הכוכבים הוא מכשיר        ",
       "notes": "",
       "placeholders": []
     },
@@ -5327,7 +5327,7 @@
       "logicFile": "31.agilogic",
       "messageNumber": 26,
       "original": "device. Used as intended, it will help",
-      "translation": "נפלא. אם ישמש כמתוכנן, הוא יעזור",
+      "translation": "   נפלא. אם ישמש כמתוכנן, הוא יעזור    ",
       "notes": "",
       "placeholders": []
     },
@@ -5335,7 +5335,7 @@
       "logicFile": "31.agilogic",
       "messageNumber": 27,
       "original": " preserve life for eons to come.  Used",
-      "translation": " לשמר חיים לעידנים הבאים.  אם ישמש",
+      "translation": "   לשמר חיים לעידנים הבאים.  אם ישמש   ",
       "notes": "",
       "placeholders": []
     },
@@ -5343,7 +5343,7 @@
       "logicFile": "31.agilogic",
       "messageNumber": 28,
       "original": " as a device for evil, it would cause",
-      "translation": " ככלי לרשע, הוא יגרום",
+      "translation": "         ככלי לרשע, הוא יגרום          ",
       "notes": "",
       "placeholders": []
     },
@@ -5351,7 +5351,7 @@
       "logicFile": "31.agilogic",
       "messageNumber": 29,
       "original": " the destruction of millions of lives",
-      "translation": " להשמדת מיליוני חיים",
+      "translation": "          להשמדת מיליוני חיים          ",
       "notes": "",
       "placeholders": []
     },
@@ -5359,7 +5359,7 @@
       "logicFile": "31.agilogic",
       "messageNumber": 30,
       "original": "      and enslave all who oppose",
-      "translation": "      וישעבד את כל המתנגדים",
+      "translation": "         וישעבד את כל המתנגדים         ",
       "notes": "",
       "placeholders": []
     },
@@ -5367,7 +5367,7 @@
       "logicFile": "31.agilogic",
       "messageNumber": 31,
       "original": "             the Sariens.",
-      "translation": "             לסריינים.",
+      "translation": "               לסריינים.               ",
       "notes": "",
       "placeholders": []
     },
@@ -5375,7 +5375,7 @@
       "logicFile": "31.agilogic",
       "messageNumber": 33,
       "original": " Encoded within this cartridge are all",
-      "translation": " מקודדים במחסנית זו כל",
+      "translation": "         מקודדים במחסנית זו כל         ",
       "notes": "",
       "placeholders": []
     },
@@ -5383,7 +5383,7 @@
       "logicFile": "31.agilogic",
       "messageNumber": 34,
       "original": "   plans and specifications for the",
-      "translation": "   התוכניות והמפרטים לבניית",
+      "translation": "       התוכניות והמפרטים לבניית        ",
       "notes": "",
       "placeholders": []
     },
@@ -5391,7 +5391,7 @@
       "logicFile": "31.agilogic",
       "messageNumber": 35,
       "original": "  construction of the Star Generator.",
-      "translation": "  מחולל הכוכבים.",
+      "translation": "            מחולל הכוכבים.             ",
       "notes": "",
       "placeholders": []
     },
@@ -5399,7 +5399,7 @@
       "logicFile": "31.agilogic",
       "messageNumber": 36,
       "original": "  Should any disaster befall the Star",
-      "translation": "  במידה ופורענות תפקוד את מחולל",
+      "translation": "     במידה ופורענות תפקוד את מחולל     ",
       "notes": "",
       "placeholders": []
     },
@@ -5407,7 +5407,7 @@
       "logicFile": "31.agilogic",
       "messageNumber": 37,
       "original": "  Generator project, scientists would",
-      "translation": "  הכוכבים, מדענים יוכלו",
+      "translation": "         הכוכבים, מדענים יוכלו         ",
       "notes": "",
       "placeholders": []
     },
@@ -5415,7 +5415,7 @@
       "logicFile": "31.agilogic",
       "messageNumber": 38,
       "original": "  be able to create a duplicate of the",
-      "translation": "  ליצור עותק של מחולל",
+      "translation": "          ליצור עותק של מחולל          ",
       "notes": "",
       "placeholders": []
     },
@@ -5423,7 +5423,7 @@
       "logicFile": "31.agilogic",
       "messageNumber": 39,
       "original": " Star Generator with this information.",
-      "translation": " הכוכבים בעזרת מידע זה.",
+      "translation": "        הכוכבים בעזרת מידע זה.         ",
       "notes": "",
       "placeholders": []
     },
@@ -5431,7 +5431,7 @@
       "logicFile": "31.agilogic",
       "messageNumber": 40,
       "original": "   Please guard this with your life.",
-      "translation": "   אנא שמור על זה במחיר חייך.",
+      "translation": "      אנא שמור על זה במחיר חייך.       ",
       "notes": "",
       "placeholders": []
     },
@@ -5439,7 +5439,7 @@
       "logicFile": "31.agilogic",
       "messageNumber": 41,
       "original": " Return it to the Xenon ruling body as",
-      "translation": " החזר זאת לגוף השלטוני של קסנון",
+      "translation": "    החזר זאת לגוף השלטוני של קסנון     ",
       "notes": "",
       "placeholders": []
     },
@@ -5447,7 +5447,7 @@
       "logicFile": "31.agilogic",
       "messageNumber": 42,
       "original": "        quickly as is possible.",
-      "translation": "        מהר ככל האפשר.",
+      "translation": "            מהר ככל האפשר.             ",
       "notes": "",
       "placeholders": []
     },
@@ -5455,7 +5455,7 @@
       "logicFile": "31.agilogic",
       "messageNumber": 43,
       "original": "  Important note: The Star Generator",
-      "translation": "  הערה חשובה: מחולל הכוכבים",
+      "translation": "       הערה חשובה: מחולל הכוכבים       ",
       "notes": "",
       "placeholders": []
     },
@@ -5463,7 +5463,7 @@
       "logicFile": "31.agilogic",
       "messageNumber": 44,
       "original": "   is capable of self-destruction.",
-      "translation": "   מסוגל להשמדה עצמית.",
+      "translation": "          מסוגל להשמדה עצמית.          ",
       "notes": "",
       "placeholders": []
     },
@@ -5471,7 +5471,7 @@
       "logicFile": "31.agilogic",
       "messageNumber": 45,
       "original": " This was introduced to the system as a",
-      "translation": " תכונה זו הוכנסה למערכת כאמצעי",
+      "translation": "     תכונה זו הוכנסה למערכת כאמצעי     ",
       "notes": "",
       "placeholders": []
     },
@@ -5479,7 +5479,7 @@
       "logicFile": "31.agilogic",
       "messageNumber": 46,
       "original": "     precaution. To activate it one",
-      "translation": "     זהירות. כדי להפעיל זאת יש",
+      "translation": "       זהירות. כדי להפעיל זאת יש       ",
       "notes": "",
       "placeholders": []
     },
@@ -5487,7 +5487,7 @@
       "logicFile": "31.agilogic",
       "messageNumber": 47,
       "original": "          must enter the code:",
-      "translation": "          להזין את הקוד:",
+      "translation": "            להזין את הקוד:             ",
       "notes": "",
       "placeholders": []
     },
@@ -5495,7 +5495,7 @@
       "logicFile": "31.agilogic",
       "messageNumber": 48,
       "original": "                 6858",
-      "translation": "                 6858",
+      "translation": "                 6858                  ",
       "notes": "",
       "placeholders": []
     },
@@ -5503,7 +5503,7 @@
       "logicFile": "31.agilogic",
       "messageNumber": 50,
       "original": "    A five minute timer will begin",
-      "translation": "    טיימר של חמש דקות יתחיל",
+      "translation": "        טיימר של חמש דקות יתחיל        ",
       "notes": "",
       "placeholders": []
     },
@@ -5511,7 +5511,7 @@
       "logicFile": "31.agilogic",
       "messageNumber": 51,
       "original": " to count down. Beware - anyone within",
-      "translation": " לספור לאחור. היזהר - כל מי שנמצא",
+      "translation": "   לספור לאחור. היזהר - כל מי שנמצא    ",
       "notes": "",
       "placeholders": []
     },
@@ -5519,7 +5519,7 @@
       "logicFile": "31.agilogic",
       "messageNumber": 52,
       "original": " five kilometers of the Star Generator",
-      "translation": " בטווח חמישה קילומטרים ממחולל הכוכבים",
+      "translation": " בטווח חמישה קילומטרים ממחולל הכוכבים  ",
       "notes": "",
       "placeholders": []
     },
@@ -5527,7 +5527,7 @@
       "logicFile": "31.agilogic",
       "messageNumber": 53,
       "original": " will be in danger once the timer has",
-      "translation": " יהיה בסכנה ברגע שהטיימר",
+      "translation": "        יהיה בסכנה ברגע שהטיימר        ",
       "notes": "",
       "placeholders": []
     },
@@ -5535,7 +5535,7 @@
       "logicFile": "31.agilogic",
       "messageNumber": 54,
       "original": "been initiated.  Please be careful and",
-      "translation": "יופעל.  אנא היה זהיר ו",
+      "translation": "         יופעל.  אנא היה זהיר          ",
       "notes": "",
       "placeholders": []
     },
@@ -5543,7 +5543,7 @@
       "logicFile": "31.agilogic",
       "messageNumber": 55,
       "original": "              good luck!",
-      "translation": "              בהצלחה!",
+      "translation": "               ובהצלחה!                ",
       "notes": "",
       "placeholders": []
     },
@@ -5961,7 +5961,7 @@
       "logicFile": "34.agilogic",
       "messageNumber": 10,
       "original": "You are standing near one of Tiny's used spacecraft. Upon close inspection they appear to have quite a few kilometers on them.",
-      "translation": "אתה עומד ליד אחת מחלליות המשומשות של זעיר. בבדיקה מקרוב נראה שיש להן לא מעט קילומטרים על השעון.",
+      "translation": "אתה עומד ליד אחת מחלליות המשומשות של זעירי. בבדיקה מקרוב נראה שיש להן לא מעט קילומטרים על השעון.",
       "notes": "",
       "placeholders": []
     },
@@ -5969,7 +5969,7 @@
       "logicFile": "34.agilogic",
       "messageNumber": 11,
       "original": "You are on Tiny's Used Spacecraft lot. There are only a few ships to choose from. Impossible to miss is the incredibly talkative, not to mention rotund, owner, Tiny. He is most certainly an unusual looking being.",
-      "translation": "אתה במגרש חלליות המשומשות של זעיר. יש רק כמה ספינות לבחירה. בלתי אפשרי לפספס את הבעלים הפטפטן ביותר, שלא לדבר על העגלגל, זעיר. הוא בהחלט יצור בעל מראה יוצא דופן.",
+      "translation": "אתה במגרש חלליות המשומשות של זעירי. יש רק כמה ספינות לבחירה. בלתי אפשרי לפספס את הבעלים הפטפטן ביותר, שלא לדבר על העגלגל, זעיר. הוא בהחלט יצור בעל מראה יוצא דופן.",
       "notes": "",
       "placeholders": []
     },
@@ -6075,7 +6075,7 @@
       "logicFile": "34.agilogic",
       "messageNumber": 24,
       "original": "What can be said that isn't seen? Tiny is a large, red skin-covered beast with the personality of a true salesman. Not a prime combination of traits.",
-      "translation": "מה אפשר לומר שלא רואים? זעיר הוא חיה גדולה מכוסת עור אדום עם אישיות של איש מכירות אמיתי. לא שילוב מושלם של תכונות.",
+      "translation": "מה אפשר לומר שלא רואים? זעירי הוא חיה גדולה מכוסת עור אדום עם אישיות של איש מכירות אמיתי. לא שילוב מושלם של תכונות.",
       "notes": "",
       "placeholders": []
     },
@@ -6083,7 +6083,7 @@
       "logicFile": "34.agilogic",
       "messageNumber": 25,
       "original": "There is a sign here which indicates that this is Tiny's Used Space Ship Lot.",
-      "translation": "יש פה שלט שמציין שזה מגרש ספינות החלל המשומשות של זעירא.",
+      "translation": "יש פה שלט שמציין שזה מגרש חלליות המשומשות של זעירי.",
       "notes": "",
       "placeholders": []
     },
@@ -6115,7 +6115,7 @@
       "logicFile": "34.agilogic",
       "messageNumber": 29,
       "original": "There are some decorative banners which would seem to indicate that making a purchase at Tiny's can be a festive occasion.",
-      "translation": "יש כמה דגלים ססגונניים שרומזים על כך שרכישה אצל זעירא יכולה להיות סיבה למסיבה.",
+      "translation": "יש כמה דגלים ססגונניים שרומזים על כך שרכישה אצל זעירי יכולה להיות סיבה למסיבה.",
       "notes": "",
       "placeholders": []
     },
@@ -6149,7 +6149,7 @@
       "logicFile": "34.agilogic",
       "messageNumber": 33,
       "original": "Tiny's not a great conversationalist. He just wants to sell, sell, sell.",
-      "translation": "זעיר לא שיחן נהדר. הוא רק רוצה למכור, למכור, למכור.",
+      "translation": "זעירי לא שיחן נהדר. הוא רק רוצה למכור, למכור, למכור.",
       "notes": "",
       "placeholders": []
     },
@@ -10039,7 +10039,7 @@
       "logicFile": "71.agilogic",
       "messageNumber": 11,
       "original": "\\\"Welcome to Droids-B-Us, the finest emporium for mechanized beings in the quadrant. We have a complete line of droids for any purpose imaginable. Well, almost any.\\\"",
-      "translation": "\\\"ברוכים הבאים לרובוטים-ר-אותנו, האמפוריום המשובח ביותר ליצורים ממוכנים ברביע. יש לנו קו מלא של רובוטים לכל מטרה שניתן לדמיין. טוב, כמעט לכל מטרה.\\\"",
+      "translation": "\\\"ברוכים הבאים לרובוטים-אר-אס, האמפוריום המשובח ביותר ליצורים ממוכנים ברביע. יש לנו קו מלא של רובוטים לכל מטרה שניתן לדמיין. טוב, כמעט לכל מטרה.\\\"",
       "notes": "",
       "placeholders": []
     },
@@ -10087,7 +10087,7 @@
       "logicFile": "71.agilogic",
       "messageNumber": 20,
       "original": "This is the inside of Droids-B-Us. The room has a pedestal in the middle and a stairway and balcony toward the back. A variety of droids adorn the floor space.",
-      "translation": "זה הפנים של רובוטים-ר-אותנו. בחדר יש בסיס באמצע ומדרגות ומרפסת מאחור. מגוון רובוטים מעטרים את שטח הרצפה.",
+      "translation": "זה הפנים של רובוטים-אר-אס. בחדר יש בסיס באמצע ומדרגות ומרפסת מאחור. מגוון רובוטים מעטרים את שטח הרצפה.",
       "notes": "",
       "placeholders": []
     },
