@@ -5,7 +5,7 @@
  Address893:
  
 -  if (said("press", "load") || said("press", "load", "button") || said("press", "button") || said("load", "droid") || said("load")) {
-+  if (said("press", "load") || said("press", "load", "button") || said("press", "button") || said("load", "droid") || said("load") || said("load", "button") || said("button", "load")) {
++  if (said("press", "load") || said("press", "load", "button") || said("press", "button") || said("load", "droid") || said("load") || said("press", "button", "load")) {
      if (!f69 || f46) {
        if (f45) {
          if (f37) {

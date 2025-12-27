@@ -875,7 +875,7 @@
       "logicFile": "0.agilogic",
       "messageNumber": 108,
       "original": "F6 to fire Pulseray",
-      "translation": "F6 לירות בפולסריי",
+      "translation": "F6 לירות בקרן פעימה",
       "notes": "",
       "placeholders": []
     },
@@ -7649,7 +7649,7 @@
       "logicFile": "50.agilogic",
       "messageNumber": 22,
       "original": "F6 to fire Pulseray",
-      "translation": "F6 לירי פאלסריי",
+      "translation": "F6 לירות בקרן פעימה",
       "notes": "",
       "placeholders": []
     },
@@ -7875,7 +7875,7 @@
       "logicFile": "51.agilogic",
       "messageNumber": 2,
       "original": "\\\"Your rank allows you to bear 1 Pulseray unit. Remember, no firing in the ship. Have a nice day.\\\"",
-      "translation": "\\\"דרגתך מאפשרת לך לשאת יחידת קרן דופק אחת. זכור, אסור לירות בספינה. יום נעים.\\\"",
+      "translation": "\\\"דרגתך מאפשרת לך לשאת יחידת קרן פעימה אחת. זכור, אסור לירות בספינה. יום נעים.\\\"",
       "notes": "",
       "placeholders": []
     },
@@ -7907,7 +7907,7 @@
       "logicFile": "51.agilogic",
       "messageNumber": 6,
       "original": "F6 to fire Pulseray",
-      "translation": "F6 לירות בקרן דופק",
+      "translation": "F6 לירות בקרן פעימה",
       "notes": "",
       "placeholders": []
     },
@@ -8101,7 +8101,7 @@
       "logicFile": "51.agilogic",
       "messageNumber": 31,
       "original": "You already have the pulseray.",
-      "translation": "כבר יש לך את קרן הדופק.",
+      "translation": "כבר יש לך את קרן הפעימה.",
       "notes": "",
       "placeholders": []
     },
@@ -8125,7 +8125,7 @@
       "logicFile": "51.agilogic",
       "messageNumber": 34,
       "original": "Press F6 when you want to fire the Pulseray.",
-      "translation": "לחץ F6 כשאתה רוצה לירות בקרן הדופק.",
+      "translation": "לחץ F6 כשאתה רוצה לירות בקרן הפעימה.",
       "notes": "",
       "placeholders": []
     },
@@ -10633,7 +10633,7 @@
       "logicFile": "92.agilogic",
       "messageNumber": 22,
       "original": "    F6 to fire Pulseray.",
-      "translation": "    F6             לירות קרן פולס",
+      "translation": "    F6        לירות בקרן פעימה",
       "notes": "",
       "placeholders": []
     },
@@ -13596,7 +13596,7 @@
       "logicFile": "119.agilogic",
       "messageNumber": 1,
       "original": "F6 to fire Pulseray",
-      "translation": "F6 לירות פולסריי",
+      "translation": "F6 לירות בקרן פעימה",
       "notes": "",
       "placeholders": []
     },
@@ -13652,7 +13652,7 @@
       "logicFile": "119.agilogic",
       "messageNumber": 8,
       "original": "If the robot droid could laugh, which it is not programmed to do, it would do so. Your pulseray is only effective against living opponents!",
-      "translation": "אם הרובוט היה יכול לצחוק, ובכך הוא אינו מתוכנת, הוא היה עושה זאת. הפולסריי שלך יעיל רק נגד יריבים חיים!",
+      "translation": "אם הרובוט היה יכול לצחוק, ובכך הוא אינו מתוכנת, הוא היה עושה זאת. קרן הפעימה שלך יעילה רק נגד יריבים חיים!",
       "notes": "",
       "placeholders": []
     },
@@ -13730,7 +13730,7 @@
       "logicFile": "119.agilogic",
       "messageNumber": 18,
       "original": "%m12by the Sarien's pulseray. Perhaps this will teach you not to loiter about on the Deltaur.",
-      "translation": "%m12על ידי הפולסריי של הסריאני. אולי זה ילמד אותך לא להסתובב בדלתאור.",
+      "translation": "%m12על ידי קרן הפעימה של הסריאני. אולי זה ילמד אותך לא להסתובב בדלתאור.",
       "notes": "",
       "placeholders": [
         "%m12"
@@ -13750,7 +13750,7 @@
       "logicFile": "119.agilogic",
       "messageNumber": 20,
       "original": "You've just been reduced to micro-particles by the alien's pulseray. You'll have to be quicker on the draw than that %s1.",
-      "translation": "זה עתה הופחתת לחלקיקים מיקרוסקופיים על ידי הפולסריי של החייזר. תצטרך להיות מהיר יותר בשליפה מזה %s1.",
+      "translation": "זה עתה הופחתת לחלקיקים מיקרוסקופיים על ידי קרן הפעימה של החייזר. תצטרך להיות מהיר יותר בשליפה מזה %s1.",
       "notes": "",
       "placeholders": [
         "%s"
