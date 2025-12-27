@@ -38,13 +38,13 @@
      clear.lines(1, 2, 0);
 -    display(1, 15, m59);
 -    display(2, 0, m60);
-+    display(1, 12, m59);
++    display(1, 14, m59);
 +    display(2, 0, m60);
    } else {
      clear.lines(22, 24, 0);
 -    display(23, 15, m59);
 -    display(24, 0, m60);
-+    display(23, 12, m59);
++    display(23, 14, m59);
 +    display(24, 0, m60);
    }
  
@@ -390,7 +390,7 @@
              clear.lines(23, 24, 0);
 -            display(23, 15, m59);
 -            display(24, 0, m60);
-+            display(23, 12, m59);
++            display(23, 14, m59);
 +            display(24, 0, m60);
            }
            goto(Address605);
