@@ -378,7 +378,8 @@
              end.of.loop(o8, f30);
            } else {
 @@ -393,13 +393,13 @@
-           if (said("holy", "asshole")) {
+-          if (said("holy", "asshole")) {
++          if (said("holy", "asshole") || said("asshole", "holy")) {
              v121 = 134;
              clear.lines(23, 24, 0);
 -            display(23, 0, m3);
