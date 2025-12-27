@@ -1,0 +1,11 @@
+--- project/tmp/src/logic/37.agilogic	2025-12-23 14:45:29.257532000 +0000
++++ /tmp/37.agilogic.modified	2025-12-27 15:08:31.685100003 +0000
+@@ -533,7 +533,7 @@
+ 
+ Address893:
+ 
+-  if (said("press", "load") || said("press", "load", "button") || said("press", "button") || said("load", "droid") || said("load")) {
++  if (said("press", "load") || said("press", "load", "button") || said("press", "button") || said("load", "droid") || said("load") || said("load", "button") || said("button", "load")) {
+     if (!f69 || f46) {
+       if (f45) {
+         if (f37) {

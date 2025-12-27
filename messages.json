@@ -5969,7 +5969,7 @@
       "logicFile": "34.agilogic",
       "messageNumber": 11,
       "original": "You are on Tiny's Used Spacecraft lot. There are only a few ships to choose from. Impossible to miss is the incredibly talkative, not to mention rotund, owner, Tiny. He is most certainly an unusual looking being.",
-      "translation": "אתה במגרש חלליות המשומשות של זעירי. יש רק כמה ספינות לבחירה. בלתי אפשרי לפספס את הבעלים הפטפטן ביותר, שלא לדבר על העגלגל, זעיר. הוא בהחלט יצור בעל מראה יוצא דופן.",
+      "translation": "אתה במגרש חלליות המשומשות של זעירי. יש רק כמה ספינות לבחירה. בלתי אפשרי לפספס את הבעלים הפטפטן ביותר, שלא לדבר על העגלגל, זעירי. הוא בהחלט יצור בעל מראה יוצא דופן.",
       "notes": "",
       "placeholders": []
     },
@@ -7061,7 +7061,7 @@
       "logicFile": "37.agilogic",
       "messageNumber": 35,
       "original": "Seated in the cruiser you notice there are no controls here, just a button marked \\\"LOAD\\\". Tiny must have been serious when he said you would need a droid to fly it.",
-      "translation": "בזמן שאתה יושב בחללית הקרב, אתה מבחין כי אין כל לחצנים בהישג ידך, מלבד כפתור המסומן טעינה. זעירי התכוון ברצינות באומרו שרק רובוט מסוגל להטיס את הדבר הזה.",
+      "translation": "בזמן שאתה יושב בחללית הקרב, אתה מבחין כי אין כל לחצנים בהישג ידך, מלבד כפתור המסומן \\\"טען\\\". זעירי התכוון ברצינות באומרו שרק רובוט מסוגל להטיס את הדבר הזה.",
       "notes": "",
       "placeholders": []
     },
@@ -7109,7 +7109,7 @@
       "logicFile": "37.agilogic",
       "messageNumber": 41,
       "original": "Looking at the inside of the ship you notice there are no controls here, just a button marked \\\"LOAD\\\". Tiny must have been serious when he said you would need a droid to fly it.",
-      "translation": "בזמן שאתה יושב בחללית הקרב, אתה מבחין כי אין כל לחצנים בהישג ידך, מלבד כפתור המסומן טעינה. זעירי התכוון ברצינות באומרו שרק רובוט מסוגל להטיס את הדבר הזה.",
+      "translation": "בזמן שאתה יושב בחללית הקרב, אתה מבחין כי אין כל לחצנים בהישג ידך, מלבד כפתור המסומן \\\"טען\\\". זעירי התכוון ברצינות באומרו שרק רובוט מסוגל להטיס את הדבר הזה.",
       "notes": "",
       "placeholders": []
     },
@@ -14338,7 +14338,7 @@
       "logicFile": "122.agilogic",
       "messageNumber": 15,
       "original": "\\\"Yes\\\" responds the surprised Guard, \\\"I just bought it last week. It was on sale for 128,000 buckazoids at Tiny's Holodisk Shop. What a bargain!!!\\\"",
-      "translation": "\\\"כן\\\" עונה השומר המופתע, \\\"קניתי אותו רק בשבוע שעבר. היה במבצע ב-128,000 באקזואידים בחנות הולודיסק של טייני. איזה מציאה!!!\\\"",
+      "translation": "\\\"כן\\\" עונה השומר המופתע, \\\"קניתי אותו רק בשבוע שעבר. היה במבצע ב-128,000 באקזואידים בחנות הולודיסק של זעירי. איזה מציאה!!!\\\"",
       "notes": "",
       "placeholders": []
     },
