@@ -1,0 +1,58 @@
+--- project/tmp/src/logic/115.agilogic	2025-12-23 14:45:29.195532000 +0000
++++ /tmp/115.agilogic.modified	2025-12-26 22:10:36.267635013 +0000
+@@ -5,7 +5,7 @@
+ }
+ 
+ Address19:
+-v246 = 13;
++v246 = 11;
+ 
+ if (v129 == 1) {
+   set(f123);
+@@ -80,18 +80,18 @@
+ Address244:
+ 
+ if ((v26 == 2) && (v20 == 0)) {
+-  display(18, 13, m4);
++  display(18, 11, m4);
+ } else {
+-  display(16, 13, m4);
++  display(16, 11, m4);
+ }
+ 
+ Address265:
+ 
+ if ((v129 != 2) && (v129 != 1)) {
+   if ((v26 == 2) && (v20 == 0)) {
+-    display(18, 13, m2);
++    display(18, 11, m2);
+   } else {
+-    display(16, 13, m2);
++    display(16, 11, m2);
+   }
+ } else {
+   random(6, 12, v247);
+@@ -112,9 +112,9 @@
+   v124 = 250;
+ 
+   if ((v26 == 2) && (v20 == 0)) {
+-    display(20, 13, m5);
++    display(20, 11, m5);
+   } else {
+-    display(18, 13, m5);
++    display(18, 11, m5);
+   }
+ 
+ Address359:
+@@ -133,9 +133,9 @@
+ Address382:
+ 
+ if ((v26 == 2) && (v20 == 0)) {
+-  display(20, 13, m5);
++  display(20, 11, m5);
+ } else {
+-  display(18, 13, m5);
++  display(18, 11, m5);
+ }
+ 
+ Address403:

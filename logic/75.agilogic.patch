@@ -17,19 +17,19 @@
 -    display(19, 13, m49);
 -    display(20, 13, m49);
 -    display(21, 13, m49);
-+    display(18, 11, m49);
-+    display(19, 11, m49);
-+    display(20, 11, m49);
-+    display(21, 11, m49);
++    display(18, 12, m49);
++    display(19, 12, m49);
++    display(20, 12, m49);
++    display(21, 12, m49);
    } else {
 -    display(16, 13, m49);
 -    display(17, 13, m49);
 -    display(18, 13, m49);
 -    display(19, 13, m49);
-+    display(16, 11, m49);
-+    display(17, 11, m49);
-+    display(18, 11, m49);
-+    display(19, 11, m49);
++    display(16, 12, m49);
++    display(17, 12, m49);
++    display(18, 12, m49);
++    display(19, 12, m49);
    }
  
  Address163:
@@ -38,13 +38,13 @@
      clear.lines(1, 2, 0);
 -    display(1, 15, m59);
 -    display(2, 0, m60);
-+    display(1, 11, m59);
++    display(1, 12, m59);
 +    display(2, 0, m60);
    } else {
      clear.lines(22, 24, 0);
 -    display(23, 15, m59);
 -    display(24, 0, m60);
-+    display(23, 11, m59);
++    display(23, 12, m59);
 +    display(24, 0, m60);
    }
  
@@ -54,16 +54,16 @@
 -    display(19, 19, m5);
 -    display(20, 19, m6);
 -    display(21, 19, m7);
-+    display(19, 11, m5);
-+    display(20, 11, m6);
-+    display(21, 11, m7);
++    display(19, 12, m5);
++    display(20, 12, m6);
++    display(21, 12, m7);
    } else {
 -    display(17, 19, m5);
 -    display(18, 19, m6);
 -    display(19, 19, m7);
-+    display(17, 11, m5);
-+    display(18, 11, m6);
-+    display(19, 11, m7);
++    display(17, 12, m5);
++    display(18, 12, m6);
++    display(19, 12, m7);
    }
  
  Address237:
@@ -101,19 +101,19 @@
 -              display(19, 13, m49);
 -              display(20, 13, m14);
 -              display(21, 13, m49);
-+              display(18, 11, m13);
-+              display(19, 11, m49);
-+              display(20, 11, m14);
-+              display(21, 11, m49);
++              display(18, 12, m13);
++              display(19, 12, m49);
++              display(20, 12, m14);
++              display(21, 12, m49);
              } else {
 -              display(16, 13, m13);
 -              display(17, 13, m49);
 -              display(18, 13, m14);
 -              display(19, 13, m49);
-+              display(16, 11, m13);
-+              display(17, 11, m49);
-+              display(18, 11, m14);
-+              display(19, 11, m49);
++              display(16, 12, m13);
++              display(17, 12, m49);
++              display(18, 12, m14);
++              display(19, 12, m49);
              }
            }
 -        
@@ -130,19 +130,19 @@
 -              display(19, 13, m62);
 -              display(20, 13, m63);
 -              display(21, 13, m64);
-+              display(18, 11, m61);
-+              display(19, 11, m62);
-+              display(20, 11, m63);
-+              display(21, 11, m64);
++              display(18, 12, m61);
++              display(19, 12, m62);
++              display(20, 12, m63);
++              display(21, 12, m64);
              } else {
 -              display(16, 13, m61);
 -              display(17, 13, m62);
 -              display(18, 13, m63);
 -              display(19, 13, m64);
-+              display(16, 11, m61);
-+              display(17, 11, m62);
-+              display(18, 11, m63);
-+              display(19, 11, m64);
++              display(16, 12, m61);
++              display(17, 12, m62);
++              display(18, 12, m63);
++              display(19, 12, m64);
              }
 -          
 +
@@ -163,19 +163,19 @@
 -              display(19, 19, m8);
 -              display(20, 19, m9);
 -              display(21, 19, m10);
-+              display(18, 11, m48);
-+              display(19, 11, m8);
-+              display(20, 11, m9);
-+              display(21, 11, m10);
++              display(18, 12, m48);
++              display(19, 12, m8);
++              display(20, 12, m9);
++              display(21, 12, m10);
              } else {
 -              display(16, 20, m48);
 -              display(17, 19, m8);
 -              display(18, 19, m9);
 -              display(19, 19, m10);
-+              display(16, 11, m48);
-+              display(17, 11, m8);
-+              display(18, 11, m9);
-+              display(19, 11, m10);
++              display(16, 12, m48);
++              display(17, 12, m8);
++              display(18, 12, m9);
++              display(19, 12, m10);
              }
 -          
 +
@@ -211,16 +211,16 @@
 -              display(18, 13, m49);
 -              display(19, 13, m49);
 -              display(20, 13, m49);
-+              display(18, 11, m49);
-+              display(19, 11, m49);
-+              display(20, 11, m49);
++              display(18, 12, m49);
++              display(19, 12, m49);
++              display(20, 12, m49);
              } else {
 -              display(16, 13, m49);
 -              display(17, 13, m49);
 -              display(18, 13, m49);
-+              display(16, 11, m49);
-+              display(17, 11, m49);
-+              display(18, 11, m49);
++              display(16, 12, m49);
++              display(17, 12, m49);
++              display(18, 12, m49);
              }
 -          
 +
@@ -236,16 +236,16 @@
 -              display(19, 19, m5);
 -              display(20, 19, m6);
 -              display(21, 19, m7);
-+              display(19, 11, m5);
-+              display(20, 11, m6);
-+              display(21, 11, m7);
++              display(19, 12, m5);
++              display(20, 12, m6);
++              display(21, 12, m7);
              } else {
 -              display(17, 19, m5);
 -              display(18, 19, m6);
 -              display(19, 19, m7);
-+              display(17, 11, m5);
-+              display(18, 11, m6);
-+              display(19, 11, m7);
++              display(17, 12, m5);
++              display(18, 12, m6);
++              display(19, 12, m7);
              }
            }
 -        
@@ -259,10 +259,10 @@
 +
              if ((v26 == 2) && (v20 == 0)) {
 -              display(18, 20, m48);
-+              display(18, 11, m48);
++              display(18, 12, m48);
              } else {
 -              display(16, 20, m48);
-+              display(16, 11, m48);
++              display(16, 12, m48);
              }
 -          
 +
@@ -275,19 +275,19 @@
 -              display(19, 13, m49);
 -              display(20, 13, m49);
 -              display(21, 13, m49);
-+              display(18, 11, m49);
-+              display(19, 11, m49);
-+              display(20, 11, m49);
-+              display(21, 11, m49);
++              display(18, 12, m49);
++              display(19, 12, m49);
++              display(20, 12, m49);
++              display(21, 12, m49);
              } else {
 -              display(16, 13, m49);
 -              display(17, 13, m49);
 -              display(18, 13, m49);
 -              display(19, 13, m49);
-+              display(16, 11, m49);
-+              display(17, 11, m49);
-+              display(18, 11, m49);
-+              display(19, 11, m49);
++              display(16, 12, m49);
++              display(17, 12, m49);
++              display(18, 12, m49);
++              display(19, 12, m49);
              }
            }
          }
@@ -315,19 +315,19 @@
 -                display(19, 13, m49);
 -                display(20, 13, m49);
 -                display(21, 13, m49);
-+                display(18, 11, m49);
-+                display(19, 11, m49);
-+                display(20, 11, m49);
-+                display(21, 11, m49);
++                display(18, 12, m49);
++                display(19, 12, m49);
++                display(20, 12, m49);
++                display(21, 12, m49);
                } else {
 -                display(16, 13, m49);
 -                display(17, 13, m49);
 -                display(18, 13, m49);
 -                display(19, 13, m49);
-+                display(16, 11, m49);
-+                display(17, 11, m49);
-+                display(18, 11, m49);
-+                display(19, 11, m49);
++                display(16, 12, m49);
++                display(17, 12, m49);
++                display(18, 12, m49);
++                display(19, 12, m49);
                }
 -            
 +
@@ -351,19 +351,19 @@
 -            display(19, 13, m49);
 -            display(20, 13, m49);
 -            display(21, 13, m49);
-+            display(18, 11, m49);
-+            display(19, 11, m49);
-+            display(20, 11, m49);
-+            display(21, 11, m49);
++            display(18, 12, m49);
++            display(19, 12, m49);
++            display(20, 12, m49);
++            display(21, 12, m49);
            } else {
 -            display(16, 13, m49);
 -            display(17, 13, m49);
 -            display(18, 13, m49);
 -            display(19, 13, m49);
-+            display(16, 11, m49);
-+            display(17, 11, m49);
-+            display(18, 11, m49);
-+            display(19, 11, m49);
++            display(16, 12, m49);
++            display(17, 12, m49);
++            display(18, 12, m49);
++            display(19, 12, m49);
            }
 -        
 +
@@ -373,7 +373,7 @@
            if ((v26 == 2) && (v20 == 0)) {
            Address1170:
 -            display(24, 10, m1);
-+            display(24, 11, m1);
++            display(24, 12, m1);
              draw(o8);
              end.of.loop(o8, f30);
            } else {
@@ -390,7 +390,7 @@
              clear.lines(23, 24, 0);
 -            display(23, 15, m59);
 -            display(24, 0, m60);
-+            display(23, 11, m59);
++            display(23, 12, m59);
 +            display(24, 0, m60);
            }
            goto(Address605);

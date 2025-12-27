@@ -1,0 +1,66 @@
+--- project/tmp/src/logic/113.agilogic	2025-12-23 14:45:29.194532000 +0000
++++ /tmp/113.agilogic.modified	2025-12-26 22:56:45.150919003 +0000
+@@ -54,27 +54,27 @@
+ 
+   if (f124) {
+     reset(f231);
+-  
++
+     if (v124 > 0) {
+       reset(f124);
+       v124 -= v123;
+-    
++
+       if ((v26 == 2) && (v20 == 0)) {
+-        display(18, 13, m4);
+-        display(19, 13, m4);
+-        display(20, 13, m4);
+-        display(21, 13, m4);
+-        display(18, 13, m1);
+-        display(20, 13, m3);
++        display(18, 11, m4);
++        display(19, 11, m4);
++        display(20, 11, m4);
++        display(21, 11, m4);
++        display(18, 11, m1);
++        display(20, 11, m3);
+       } else {
+-        display(16, 13, m4);
+-        display(17, 13, m4);
+-        display(18, 13, m4);
+-        display(19, 13, m4);
+-        display(16, 13, m1);
+-        display(18, 13, m3);
++        display(16, 11, m4);
++        display(17, 11, m4);
++        display(18, 11, m4);
++        display(19, 11, m4);
++        display(16, 11, m1);
++        display(18, 11, m3);
+       }
+-    
++
+     Address216:
+       set.view(o1, 91);
+       set.view(o2, 91);
+@@ -129,7 +129,7 @@
+ 
+   if (f230) {
+     current.cel(o3, v233);
+-  
++
+     if (v233 == v128) {
+       reset(f230);
+       set.cel.v(o3, v128);
+@@ -202,9 +202,9 @@
+         }
+       }
+     }
+-  
++
+   Address525:
+-  
++
+     if ((v129 != 2) && (v129 != 1)) {
+       sound(26, f162);
+     } else {
