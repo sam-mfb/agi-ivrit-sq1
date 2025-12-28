@@ -13,6 +13,15 @@
    ignore.objs(o2);
    ignore.objs(o3);
    ignore.objs(o4);
+@@ -59,7 +59,7 @@
+       display(24, 12, m3);
+     } else {
+       set(f31);
+-      v32 = 15;
++      v32 = 20;
+     }
+
+   Address170:
 @@ -106,12 +106,15 @@
      reset(f31);
      set(f35);
@@ -36,7 +45,7 @@
 -    move.obj(o4, 0, 46, 0, f120);
 -    reposition.to(o2, 113, 46);
 +    move.obj(o4, 160, 46, 0, f120);
-+    reposition.to(o2, 47, 46);
++    reposition.to(o2, 27, 46);
 +    draw(o2);
      move.obj(o2, 74, 46, 0, f33);
    }
@@ -48,7 +57,7 @@
 -    move.obj(o2, 0, 46, 0, f120);
 -    reposition.to(o3, 113, 46);
 +    move.obj(o2, 160, 46, 0, f120);
-+    reposition.to(o3, 47, 46);
++    reposition.to(o3, 27, 46);
 +    draw(o3);
      move.obj(o3, 75, 46, 0, f34);
    }
@@ -60,7 +69,7 @@
 -    move.obj(o3, 0, 46, 0, f120);
 -    reposition.to(o4, 113, 46);
 +    move.obj(o3, 160, 46, 0, f120);
-+    reposition.to(o4, 47, 46);
++    reposition.to(o4, 27, 46);
 +    draw(o4);
      move.obj(o4, 80, 46, 0, f32);
    }
