@@ -434,7 +434,7 @@
       "logicFile": "0.agilogic",
       "messageNumber": 49,
       "original": "\\\"Directions - To use, simply drink from nozzle. Metered amounts will be dispensed.     Caution - Do not attempt to open or rupture! Misuse could result in personal injury and/or flash flooding.\\\"",
-      "translation": "\\\"הוראות שימוש - לשימוש, פשוט שתה מהזרבובית. כמויות מדודות ישוחררו.     זהירות - אל תנסה לפתוח או לקרוע! שימוש לקוי עלול להסתיים בפציעה ו/או הצפה פתאומית.\\\"",
+      "translation": "\\\"הוראות שימוש - לשימוש, פשוט שתה מהזרבובית. כמויות מדודות ישוחררו. זהירות - אל תנסה לפתוח או לקרוע! שימוש לקוי עלול להסתיים בפציעה ו/או הצפה פתאומית.\\\"",
       "notes": "",
       "placeholders": []
     },
@@ -9711,7 +9711,7 @@
       "logicFile": "70.agilogic",
       "messageNumber": 20,
       "original": "As you sip another of the odd brews, you overhear someone at the bar speaking: \\\"There I was cruising through sector HH when I spot this blip on the scanner.\\\"",
-      "translation": "בעוד אתה נוטל לגימה נוספת מהשיכר הלא ברור, אתה שומע שיחה אקראית בבר: אני משייט לי ברחבי גזרה \\\n״טט\\\" כשלפתע אני קולט הבהוב בסורק.",
+      "translation": "בעוד אתה נוטל לגימה נוספת מהשיכר הלא ברור, אתה שומע שיחה אקראית בבר: \\\"אני משייט לי ברחבי גזרה 'טט' כשלפתע אני קולט הבהוב בסורק.\\\"",
       "notes": "",
       "placeholders": []
     },
