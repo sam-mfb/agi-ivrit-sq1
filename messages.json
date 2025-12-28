@@ -8939,7 +8939,7 @@
       "logicFile": "64.agilogic",
       "messageNumber": 4,
       "original": "Thank you for playing Space Quest",
-      "translation": "תודה ששיחקתם מסע בחלל",
+      "translation": "         תודה ששיחקתם מסע בחלל         ",
       "notes": "",
       "placeholders": []
     },
@@ -8947,7 +8947,7 @@
       "logicFile": "64.agilogic",
       "messageNumber": 5,
       "original": "    Watch for Space Quest II",
-      "translation": "    צפו למסע בחלל II",
+      "translation": "           צפו למסע בחלל II            ",
       "notes": "",
       "placeholders": []
     },
@@ -8963,7 +8963,7 @@
       "logicFile": "64.agilogic",
       "messageNumber": 7,
       "original": "         Thank You",
-      "translation": "תודה",
+      "translation": "                 תודה                  ",
       "notes": "",
       "placeholders": []
     },
@@ -8971,7 +8971,7 @@
       "logicFile": "64.agilogic",
       "messageNumber": 8,
       "original": "         Scott Murphy",
-      "translation": "         סקוט מרפי",
+      "translation": "               סקוט מרפי               ",
       "notes": "",
       "placeholders": []
     },
@@ -8979,7 +8979,7 @@
       "logicFile": "64.agilogic",
       "messageNumber": 9,
       "original": "         Mark Crowe",
-      "translation": "         מארק קרואו",
+      "translation": "              מארק קרואו               ",
       "notes": "",
       "placeholders": []
     },
@@ -8987,7 +8987,7 @@
       "logicFile": "64.agilogic",
       "messageNumber": 10,
       "original": "         Sol Ackerman",
-      "translation": "         סל אקרמן",
+      "translation": "               סל אקרמן                ",
       "notes": "",
       "placeholders": []
     },
@@ -8995,7 +8995,7 @@
       "logicFile": "64.agilogic",
       "messageNumber": 11,
       "original": "         Ken Williams",
-      "translation": "         קן ויליאמס",
+      "translation": "              קן ויליאמס               ",
       "notes": "",
       "placeholders": []
     },
@@ -9003,7 +9003,7 @@
       "logicFile": "64.agilogic",
       "messageNumber": 12,
       "original": "         Jeff Stephenson",
-      "translation": "         ג'ף סטפנסון",
+      "translation": "              ג'ף סטפנסון              ",
       "notes": "",
       "placeholders": []
     },
@@ -9011,7 +9011,7 @@
       "logicFile": "64.agilogic",
       "messageNumber": 13,
       "original": "         Chris Iden",
-      "translation": "         כריס איידן",
+      "translation": "              כריס איידן               ",
       "notes": "",
       "placeholders": []
     },
@@ -9019,7 +9019,7 @@
       "logicFile": "64.agilogic",
       "messageNumber": 14,
       "original": "         Sierra On-Line Inc.",
-      "translation": " סיירה אונליין",
+      "translation": "             סיירה אונליין             ",
       "notes": "",
       "placeholders": []
     },
@@ -9027,7 +9027,7 @@
       "logicFile": "64.agilogic",
       "messageNumber": 15,
       "original": "         The Sarien Fleet",
-      "translation": "         צי הסרייאנים",
+      "translation": "             צי הסרייאנים              ",
       "notes": "",
       "placeholders": []
     },
@@ -9035,7 +9035,7 @@
       "logicFile": "64.agilogic",
       "messageNumber": 16,
       "original": "         The Entire Human Race",
-      "translation": "         כל המין האנושי",
+      "translation": "            כל המין האנושי             ",
       "notes": "",
       "placeholders": []
     },
@@ -9043,7 +9043,7 @@
       "logicFile": "64.agilogic",
       "messageNumber": 17,
       "original": " %s1, Galactic Warrior",
-      "translation": " %s1, לוחם גלקטי",
+      "translation": "%s1, לוחם גלקטי",
       "notes": "",
       "placeholders": [
         "%s"
