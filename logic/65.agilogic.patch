@@ -1,0 +1,67 @@
+--- project/tmp/src/logic/65.agilogic	2025-12-23 14:45:29.288532000 +0000
++++ /tmp/65.agilogic.modified	2025-12-28 00:16:47.839106000 +0000
+@@ -19,9 +19,9 @@
+   set.view(o2, 246);
+   set.view(o3, 246);
+   set.view(o4, 246);
+-  position(o2, 0, 46);
+-  position(o3, 0, 46);
+-  position(o4, 0, 46);
++  position(o2, 160, 46);
++  position(o3, 160, 46);
++  position(o4, 160, 46);
+   ignore.objs(o2);
+   ignore.objs(o3);
+   ignore.objs(o4);
+@@ -106,12 +106,15 @@
+     reset(f31);
+     set(f35);
+     set(f32);
++    erase(o2);
++    erase(o3);
++    erase(o4);
+     start.update(o2);
+     start.update(o3);
+     start.update(o4);
+     set.cel(o2, 0);
+     set.cel(o3, 1);
+     set.cel(o4, 2);
+     start.motion(o2);
+     start.motion(o3);
+     start.motion(o4);
+@@ -124,8 +127,9 @@
+
+   if (f32) {
+     reset(f32);
+-    move.obj(o4, 0, 46, 0, f120);
+-    reposition.to(o2, 113, 46);
++    move.obj(o4, 160, 46, 0, f120);
++    reposition.to(o2, 47, 46);
++    draw(o2);
+     move.obj(o2, 74, 46, 0, f33);
+   }
+
+@@ -133,8 +137,9 @@
+
+   if (f33) {
+     reset(f33);
+-    move.obj(o2, 0, 46, 0, f120);
+-    reposition.to(o3, 113, 46);
++    move.obj(o2, 160, 46, 0, f120);
++    reposition.to(o3, 47, 46);
++    draw(o3);
+     move.obj(o3, 75, 46, 0, f34);
+   }
+
+@@ -142,8 +147,9 @@
+
+   if (f34) {
+     reset(f34);
+-    move.obj(o3, 0, 46, 0, f120);
+-    reposition.to(o4, 113, 46);
++    move.obj(o3, 160, 46, 0, f120);
++    reposition.to(o4, 47, 46);
++    draw(o4);
+     move.obj(o4, 80, 46, 0, f32);
+   }
+
