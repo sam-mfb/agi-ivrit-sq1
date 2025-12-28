@@ -903,7 +903,7 @@
       "logicFile": "0.agilogic",
       "messageNumber": 111,
       "original": "In the pocket of this%m2 is an alien %m5card. The name on the card is Butston Freem. You wonder if this is a common%m3 name.",
-      "translation": "בכיס של ה%m2 הזה יש כרטיס %m5 זר. השם על הכרטיס הוא ישבנאבן פרים. אתה תוהה אם זה שם%m3 נפוץ.",
+      "translation": "בכיס של ה%m2 הזה יש כרטיס %m5 זר. השם על הכרטיס הוא בוטסטון פרים. אתה תוהה אם זה שם%m3 נפוץ.",
       "notes": "",
       "placeholders": [
         "%m2",
@@ -8117,7 +8117,7 @@
       "logicFile": "51.agilogic",
       "messageNumber": 33,
       "original": "You do not possess a valid Sarien I.D. card.",
-      "translation": "אין ברשותך תעודת זהות סריאנית תקפה.",
+      "translation": "אין ברשותך כרטיס זיהוי סריאני תקף.",
       "notes": "",
       "placeholders": []
     },
