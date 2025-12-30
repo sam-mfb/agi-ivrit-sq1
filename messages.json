@@ -118,7 +118,7 @@
       "logicFile": "0.agilogic",
       "messageNumber": 13,
       "original": "A mind is a terrible thing to waste.",
-      "translation": "מוח הוא דבר נורא לבזבז.",
+      "translation": "חבל לבזבז מוח.",
       "notes": "",
       "placeholders": []
     },
@@ -226,7 +226,7 @@
       "logicFile": "0.agilogic",
       "messageNumber": 25,
       "original": "%m8you.",
-      "translation": "%m8אתה.",
+      "translation": "%m8אותך.",
       "notes": "",
       "placeholders": [
         "%m8"
@@ -318,7 +318,7 @@
       "logicFile": "0.agilogic",
       "messageNumber": 36,
       "original": "%m4dressed in the standard issue excursion garment.",
-      "translation": "%m4לבוש בלבוש טיול סטנדרטי.",
+      "translation": "%m4לבוש בבגד הטיול התקני.",
       "notes": "",
       "placeholders": [
         "%m4"
@@ -366,7 +366,7 @@
       "logicFile": "0.agilogic",
       "messageNumber": 41,
       "original": "There is printing on it.",
-      "translation": "יש עליו כתב.",
+      "translation": "יש עליו כיתוב.",
       "notes": "",
       "placeholders": []
     },
@@ -452,7 +452,7 @@
       "logicFile": "0.agilogic",
       "messageNumber": 51,
       "original": "The regulator is just a curved, metal tube which mixes air with the can's contents and directs it to the nozzle.",
-      "translation": "הוויסות הוא רק צינור מתכת מעוקל שמערבב אוויר עם תכולת הפחית ומכוון אותה לזרבובית.",
+      "translation": "הוויסת הוא רק צינור מתכת מעוקל, עם מחבר בצד אחד ופיית פה בצד השני.",
       "notes": "",
       "placeholders": []
     },
@@ -542,7 +542,7 @@
       "logicFile": "0.agilogic",
       "messageNumber": 62,
       "original": "You raise the Orat part to your mouth and attempt to feast on it. Unfortunately for you it is composed mainly of bone. The small amount of flesh still clinging to the bone is incredibly rancid in flavor. You wisely give up on this idea.",
-      "translation": "אתה מרים את חלק האורט לפיך ומנסה לחגוג עליו. למרבה הצער עבורך הוא מורכב בעיקר מעצם. כמות הבשר הקטנה שעדיין נצמדת לעצם מעופשת בצורה מדהימה בטעם. בחוכמה אתה מוותר על הרעיון הזה.",
+      "translation": "אתה מרים את חלק האורט לפיך ומנסה להתענג עליו.",
       "notes": "",
       "placeholders": []
     },
@@ -649,7 +649,7 @@
       "logicFile": "0.agilogic",
       "messageNumber": 74,
       "original": "There is nothing here by that name which can be acquired.",
-      "translation": "אין כאן שום דבר בשם הזה שניתן לרכוש.",
+      "translation": "אין כאן שום דבר בשם הזה שניתן להשיג.",
       "notes": "",
       "placeholders": []
     },
@@ -747,7 +747,7 @@
       "logicFile": "0.agilogic",
       "messageNumber": 90,
       "original": "%m7compute.",
-      "translation": "%m7מחשב.",
+      "translation": "%m7הגיוני.",
       "notes": "",
       "placeholders": [
         "%m7"
@@ -811,7 +811,7 @@
       "logicFile": "0.agilogic",
       "messageNumber": 101,
       "original": "Reaching into the pocket of the%m3%m2 you find a%m3 ID card.",
-      "translation": "מכניס את היד לכיס של%m3%m2 אתה מוצא כרטיס זהות%m3.",
+      "translation": "מכניס את היד לכיס של%m3%m2 אתה מוצא כרטיס זיהוי%m3.",
       "notes": "",
       "placeholders": [
         "%m3",
@@ -865,7 +865,7 @@
       "logicFile": "0.agilogic",
       "messageNumber": 107,
       "original": "You're dead, %s1. You have died of dehydration. Within a few hours, your gaunt corpse will have dried to a crisp, your powdered remains evenly distributed across the parched terrain by a searing gust.",
-      "translation": "אתה מת, %s1. מתת מהתייבשות. בתוך כמה שעות, גווייתך הכחושה תתייבש לאפר, ושרידיך המאובקים יפוצו על פני המישורים הצחיחים ברוחות הקדים העזות.",
+      "translation": "אתה מת, %s1. מת מהתייבשות ובפועל התייבשת לאורך מספר קילומטרים של מדבר שרוף שמש. אתה רוצה לחזור אחורה ולנסות שוב?",
       "notes": "",
       "placeholders": [
         "%s"
@@ -1151,7 +1151,7 @@
       "logicFile": "1.agilogic",
       "messageNumber": 1,
       "original": "This is the Arcada's data archive.  Many volumes of information are stored on data cartridges.  There is a computer console here.",
-      "translation": "זהו ארכיון המידע של הארקדה. כמויות אדירות של מידע מאוחסנות על מחסניות נתונים. ישנה כאן קונסולת מחשב.",
+      "translation": "כרכים רבים של מידע מאוחסנים על מחסניות נתונים.",
       "notes": "\"קונסולת מחשב״ באוצר מילים?",
       "placeholders": []
     },
@@ -1191,7 +1191,7 @@
       "logicFile": "1.agilogic",
       "messageNumber": 6,
       "original": "You can't see it well from here.",
-      "translation": "אינך רואה דבר מכאן למעלה.",
+      "translation": "אינך רואה את זה טוב מכאן.",
       "notes": "",
       "placeholders": []
     },
@@ -1223,7 +1223,7 @@
       "logicFile": "1.agilogic",
       "messageNumber": 10,
       "original": "A large laser hole has been burned in his uniform through which you can see previously unexposed tissue.  Struggling painfully, he raises up on one elbow.",
-      "translation": "חורי לייזר ענקיים צרבו את מדיו, בחושפם נוף יפה של רקמות נסתרות עד זה לא מכבר. מתייסר מכאבים, הוא מתרומם על מרפקו האחד.",
+      "translation": "חור לייזר גדול נצרב במדיו, דרכו אתה יכול לראות רקמות שלא נחשפו קודם.",
       "notes": "",
       "placeholders": []
     },
@@ -1527,7 +1527,7 @@
       "logicFile": "1.agilogic",
       "messageNumber": 50,
       "original": "You are startled by the sound of an alarm. It is followed by an urgent voice which warns that the Arcada has been boarded by unknown intruders. It abruptly ends.",
-      "translation": "אתה נבהל מקול אזעקה. אחריו נשמע קול דחוף שמזהיר שהארקדה עלתה עליה פולשים לא מזוהים. הקול מסתיים באופן פתאומי.",
+      "translation": "...על הארקדה עלו פולשים לא מזוהים.",
       "notes": "",
       "placeholders": []
     },
@@ -1559,7 +1559,7 @@
       "logicFile": "1.agilogic",
       "messageNumber": 54,
       "original": "You see a man dressed in a lab coat. He appears to be ailing.",
-      "translation": "אתה רואה אדם לבוש בחלוק מעבדה. נראה שהוא חולה.",
+      "translation": "נראה שהוא פצוע.",
       "notes": "",
       "placeholders": []
     },
@@ -1831,7 +1831,7 @@
       "logicFile": "3.agilogic",
       "messageNumber": 7,
       "original": "You have added to your pocket lint collection. How proud you must be.",
-      "translation": "הוספת לאוסף צמר הכיס שלך. כמה גאה אתה בוודאי.",
+      "translation": "הוספת לאוסף המוך מכיס שלך.",
       "notes": "",
       "placeholders": []
     },
@@ -2183,7 +2183,7 @@
       "logicFile": "6.agilogic",
       "messageNumber": 11,
       "original": "Here lies another heap of fried humanity. The attackers have proven to be very thorough thus far.  There's something to be said for not being the hero type, you rationalize.",
-      "translation": "כאן מוטלת ערימה נוספת של אנושות מטוגנת. התוקפים הוכיחו את עצמם כיסודיים מאוד עד כה. יש משהו לומר בעד זה שלא להיות גיבור, אתה מנמק לעצמך.",
+      "translation": "אולי יש יתרון בזה שאתה לא מסוג הגיבורים, אתה מנחם את עצמך.",
       "notes": "",
       "placeholders": []
     },
@@ -2223,7 +2223,7 @@
       "logicFile": "6.agilogic",
       "messageNumber": 16,
       "original": "Your limited view shows that there is a large vehicle bay below.",
-      "translation": "השדה המוגבל שלך מראה שיש מסוף רכב גדול למטה.",
+      "translation": "שדה הראייה המוגבל שלך מראה...",
       "notes": "",
       "placeholders": []
     },
@@ -2453,7 +2453,7 @@
       "logicFile": "8.agilogic",
       "messageNumber": 10,
       "original": "Beyond the yawning doors lies the serenity of deep space.",
-      "translation": "מעבר לדלתות הענקות הללו מחכה שלוות החלל העמוק.",
+      "translation": "מעבר לדלתות הפעורות מחכה שלוות החלל העמוק.",
       "notes": "",
       "placeholders": []
     },
@@ -2501,7 +2501,7 @@
       "logicFile": "8.agilogic",
       "messageNumber": 16,
       "original": "For safety reasons the platform will not function with the bay doors closed.",
-      "translation": "מסיבות בטיחות רציף לא תפעל כאשר דלתות המסוף סגורות.",
+      "translation": "מסיבות בטיחות הרציף לא יפעל...",
       "notes": "",
       "placeholders": []
     },
@@ -2751,7 +2751,7 @@
       "logicFile": "9.agilogic",
       "messageNumber": 19,
       "original": "The closet is not open.",
-      "translation": "המפתחות לא פותחות את המכשיר.",
+      "translation": "הארון לא פתוח.",
       "notes": "",
       "placeholders": []
     },
@@ -2759,7 +2759,7 @@
       "logicFile": "9.agilogic",
       "messageNumber": 20,
       "original": "You won't be needing that suit anymore.",
-      "translation": "הארון לא פתוח.",
+      "translation": "לא תצטרך את החליפה הזאת יותר.",
       "notes": "",
       "placeholders": []
     },
@@ -3111,7 +3111,7 @@
       "logicFile": "10.agilogic",
       "messageNumber": 27,
       "original": "Are you crazy? It seems quite obvious that you don't know what you are doing, you daft imp.",
-      "translation": "אתה משוגע? ברור לגמרי שאין לך מושג מה אתה עושה, גמד טיפש.",
+      "translation": "...שד טיפש.",
       "notes": "",
       "placeholders": []
     },
@@ -3199,7 +3199,7 @@
       "logicFile": "10.agilogic",
       "messageNumber": 38,
       "original": "You can't see it from here.",
-      "translation": "אינך רואה דבר מכאן למעלה.",
+      "translation": "אינך רואה את זה מכאן.",
       "notes": "",
       "placeholders": []
     },
@@ -3327,7 +3327,7 @@
       "logicFile": "11.agilogic",
       "messageNumber": 8,
       "original": "There is an empty pedestal here. It looks like it is used to hold some large object, maybe the Star Generator.",
-      "translation": "יש כאן רציף ריק. נראה שהוא משמש להחזקת עצם גדול כלשהו, אולי מחולל הכוכבים.",
+      "translation": "יש כאן בסיס ריק.",
       "notes": "",
       "placeholders": []
     },
@@ -3447,7 +3447,7 @@
       "logicFile": "11.agilogic",
       "messageNumber": 23,
       "original": "That can not be seen from here.",
-      "translation": "אתה לא יכול לעשות את זה מכאן.",
+      "translation": "לא ניתן לראות את זה מכאן.",
       "notes": "",
       "placeholders": []
     },
@@ -3843,7 +3843,7 @@
       "logicFile": "19.agilogic",
       "messageNumber": 3,
       "original": "It was not known that you are a master of the rock! That was a fine effort.",
-      "translation": "לא התפרסמת עד היום כאלוף בהטלת עקמות! כל הכבוד על הנסיון.",
+      "translation": "לא התפרסמת עד היום כאלוף בזריקת סלעים!",
       "notes": "",
       "placeholders": []
     },
@@ -3883,7 +3883,7 @@
       "logicFile": "19.agilogic",
       "messageNumber": 10,
       "original": "That is unreachable from here.",
-      "translation": "אתה לא יכול לעשות את זה מכאן.",
+      "translation": "אינך יכול להגיע לשם מכאן.",
       "notes": "",
       "placeholders": []
     },
@@ -3891,7 +3891,7 @@
       "logicFile": "19.agilogic",
       "messageNumber": 11,
       "original": "You already have that.",
-      "translation": "כבר יש לך את המפתחות.",
+      "translation": "כבר יש לך את זה.",
       "notes": "",
       "placeholders": []
     },
@@ -3899,7 +3899,7 @@
       "logicFile": "19.agilogic",
       "messageNumber": 12,
       "original": "You don't have that.",
-      "translation": "אתה לא רוצה לעשות את זה כאן.",
+      "translation": "אין לך את זה.",
       "notes": "",
       "placeholders": []
     },
@@ -3907,7 +3907,7 @@
       "logicFile": "19.agilogic",
       "messageNumber": 13,
       "original": "You are not near that.",
-      "translation": "אתה לא עד כדי כך רעב.",
+      "translation": "אתה לא קרוב לזה.",
       "notes": "",
       "placeholders": []
     },
@@ -4043,7 +4043,7 @@
       "logicFile": "22.agilogic",
       "messageNumber": 10,
       "original": "That is unreachable from here.",
-      "translation": "אתה לא יכול לעשות את זה מכאן.",
+      "translation": "אינך יכול להגיע לשם מכאן.",
       "notes": "",
       "placeholders": []
     },
@@ -4051,7 +4051,7 @@
       "logicFile": "22.agilogic",
       "messageNumber": 11,
       "original": "You already have that.",
-      "translation": "כבר יש לך את המפתחות.",
+      "translation": "כבר יש לך את זה.",
       "notes": "",
       "placeholders": []
     },
@@ -4059,7 +4059,7 @@
       "logicFile": "22.agilogic",
       "messageNumber": 12,
       "original": "You don't have that.",
-      "translation": "אתה לא רוצה לעשות את זה כאן.",
+      "translation": "אין לך את זה.",
       "notes": "",
       "placeholders": []
     },
@@ -4067,7 +4067,7 @@
       "logicFile": "22.agilogic",
       "messageNumber": 13,
       "original": "You are not near that.",
-      "translation": "אתה לא עד כדי כך רעב.",
+      "translation": "אתה לא קרוב לזה.",
       "notes": "",
       "placeholders": []
     },
@@ -4203,7 +4203,7 @@
       "logicFile": "24.agilogic",
       "messageNumber": 6,
       "original": "You've just been molecularly re-distributed by the spider droid. Tough luck, %s1.",
-      "translation": "זה עתה חולקת מחדש מולקולרית על ידי רובוט העכביש. מזל רע, %s1.",
+      "translation": "זה עתה עברת חלוקה מולקולרית מחדש על ידי רובוט העכביש.",
       "notes": "",
       "placeholders": [
         "%s"
@@ -4399,7 +4399,7 @@
       "logicFile": "25.agilogic",
       "messageNumber": 1,
       "original": "It looks like your standard run-of-the-mill pneumatic transport. This particular one only goes down, however.",
-      "translation": "זה נראה כמו תחבורה פנאומטית סטנדרטית ורגילה. עם זאת, הדגם המסוים הזה רק יורד. וזאת לא נסיעה נעימה.",
+      "translation": "זה נראה כמו תחבורה פנאומטית סטנדרטית ורגילה. עם זאת, הדגם המסוים הזה רק יורד.",
       "notes": "",
       "placeholders": []
     },
@@ -4447,7 +4447,7 @@
       "logicFile": "25.agilogic",
       "messageNumber": 7,
       "original": "This is one end of what appears to be a large cavern. The only way to go is to the left. There is a rock nearby.",
-      "translation": "זה קצה אחד של מה שנראה כמו מערה גדולה. הדרך היחידה ללכת בה היא שמאלה.",
+      "translation": "זה קצה אחד של מה שנראה כמו מערה גדולה. הדרך היחידה ללכת בה היא שמאלה. יש סלע בקרבת מקום.",
       "notes": "",
       "placeholders": []
     },
@@ -4607,7 +4607,7 @@
       "logicFile": "27.agilogic",
       "messageNumber": 2,
       "original": "That can't be done now.",
-      "translation": "אין לך אפשרות לקחת את זה עכשיו.",
+      "translation": "אתה לא יכול לעשות את זה עכשיו.",
       "notes": "",
       "placeholders": []
     },
@@ -4623,7 +4623,7 @@
       "logicFile": "27.agilogic",
       "messageNumber": 4,
       "original": "You gaze intently at the purplish pool of liquid, the first real sign of moisture on the planet. The pool seems to have no bottom. The gentle dripping has a soothing effect on your frazzled nerves.",
-      "translation": "אתה בוהה בתשומת לב בבריכת הנוזל הירקרק, סימן ראשון להימצאותם של אדי מים על פני הכוכב. הבריכה נראית נטולת תחתית. לטפטוף העדין יש אפקט מרגיע על עצביך המרוטים. פלומת ערפל קלה אופפת את שטח הבריכה.",
+      "translation": "אתה בוהה בתשומת לב בבריכת הנוזל הסגלגלה...",
       "notes": "",
       "placeholders": []
     },
@@ -4823,7 +4823,7 @@
       "logicFile": "29.agilogic",
       "messageNumber": 6,
       "original": "\\\"So, you have returned.  Fortunately, there is much more to you than meets the eye.\\\"",
-      "translation": "אז, מצאת את דרכך אל אולמי המקודש. לשמחתי הפתעות רבות מצפות לך כאן.",
+      "translation": "אז, חזרת. למזלי, יש בך הרבה יותר ממה שנראה לעין.",
       "notes": "",
       "placeholders": []
     },
@@ -4903,7 +4903,7 @@
       "logicFile": "29.agilogic",
       "messageNumber": 17,
       "original": "You don't have that.",
-      "translation": "אתה לא רוצה לעשות את זה כאן.",
+      "translation": "אין לך את זה.",
       "notes": "",
       "placeholders": []
     },
@@ -4975,7 +4975,7 @@
       "logicFile": "29.agilogic",
       "messageNumber": 27,
       "original": "\\\"So, you have found your way to my hallowed chamber. Fortunately there is much more to you than meets the eye.\\\"",
-      "translation": "אז, מצאת את דרכך אל אולמי המקודש. לשמחתי הפתעות רבות מצפות לך כאן.",
+      "translation": "אז, מצאת את דרכך אל אולמי המקודש. למזלי, יש בך הרבה יותר ממה שנראה לעין.",
       "notes": "",
       "placeholders": []
     },
@@ -5023,7 +5023,7 @@
       "logicFile": "29.agilogic",
       "messageNumber": 35,
       "original": "You can't do that right now.",
-      "translation": "אין לך אפשרות לקחת את זה עכשיו.",
+      "translation": "אתה לא יכול לעשות את זה עכשיו.",
       "notes": "",
       "placeholders": []
     },
@@ -5567,7 +5567,7 @@
       "logicFile": "31.agilogic",
       "messageNumber": 62,
       "original": "There is nothing there.",
-      "translation": "אין מה לעשות שם.",
+      "translation": "אין שום דבר שם.",
       "notes": "",
       "placeholders": []
     },
@@ -5607,7 +5607,7 @@
       "logicFile": "31.agilogic",
       "messageNumber": 67,
       "original": "That thing is not here.",
-      "translation": "אין לזה השפעה כאן.",
+      "translation": "הדבר הזה לא נמצא כאן.",
       "notes": "",
       "placeholders": []
     },
@@ -5679,7 +5679,7 @@
       "logicFile": "31.agilogic",
       "messageNumber": 76,
       "original": "You remove the key from the skimmer.",
-      "translation": "אתה תולש את מפתחות הרחפת מלוח המחוונים.",
+      "translation": "אתה מוציא את המפתח מהרחפת.",
       "notes": "",
       "placeholders": []
     },
@@ -5751,7 +5751,7 @@
       "logicFile": "31.agilogic",
       "messageNumber": 85,
       "original": "As described, it is a sand skimmer and it looks like it has skimmed quite a bit of sand in its time. On it is a panel which has a small readout, currently dark, and an empty keyhole in it.",
-      "translation": "כפי שתואר, זו רחפת חול ונראה שהיא הספיקה לרחף מעל הרבה חול. עליה יש לוח שיש לו צג קטן, חשוך כרגע, וחור מפתח עם מפתח בתוכו.",
+      "translation": "...וחור מפתח ריק.",
       "notes": "",
       "placeholders": []
     },
@@ -5921,7 +5921,7 @@
       "logicFile": "34.agilogic",
       "messageNumber": 5,
       "original": "\\\"So whaddaya think? Is she a diamond in the rough, or what? And only 129 buckazoids.\\\"",
-      "translation": "\\\"אז מה דעתך? האם היא יהלום בגסות, או מה? ורק 129 באקזואידים.\\\"",
+      "translation": "האם היא יהלום גולמי, או מה?",
       "notes": "",
       "placeholders": []
     },
@@ -6189,7 +6189,7 @@
       "logicFile": "35.agilogic",
       "messageNumber": 2,
       "original": "You already have it!",
-      "translation": "כבר יש לך את המפתחות.",
+      "translation": "כבר יש לך את זה.",
       "notes": "",
       "placeholders": []
     },
@@ -6397,7 +6397,7 @@
       "logicFile": "35.agilogic",
       "messageNumber": 27,
       "original": "That can't be done now.",
-      "translation": "אין לך אפשרות לקחת את זה עכשיו.",
+      "translation": "אתה לא יכול לעשות את זה עכשיו.",
       "notes": "",
       "placeholders": []
     },
@@ -6461,7 +6461,7 @@
       "logicFile": "35.agilogic",
       "messageNumber": 35,
       "original": "You are not in a position to do that.",
-      "translation": "אתה לא עד כדי כך רעב.",
+      "translation": "אתה לא קרוב לזה.",
       "notes": "",
       "placeholders": []
     },
@@ -6851,7 +6851,7 @@
       "logicFile": "37.agilogic",
       "messageNumber": 4,
       "original": "\\\"With your 70 buckazoid credit that would come to. . .let's see. . .uhm. . 144 buckazoids.\\\"",
-      "translation": "כמובן, אחרי זיכוי של 70 באקזואידים, הכל יעלה לך 115 באקזואידים טבין ותקילין.",
+      "translation": "\\\"...בוא נראה...אממ..144 באקזואידים.\\\"",
       "notes": "",
       "placeholders": []
     },
@@ -6875,7 +6875,7 @@
       "logicFile": "37.agilogic",
       "messageNumber": 10,
       "original": "You can't do that now.",
-      "translation": "אין לך אפשרות לקחת את זה עכשיו.",
+      "translation": "אתה לא יכול לעשות את זה עכשיו.",
       "notes": "",
       "placeholders": []
     },
@@ -7181,7 +7181,7 @@
       "logicFile": "38.agilogic",
       "messageNumber": 4,
       "original": "You are not close enough.",
-      "translation": "אתה לא מספיק קרוב לסורג כדי לפתוח אותו.",
+      "translation": "אתה לא מספיק קרוב.",
       "notes": "",
       "placeholders": []
     },
@@ -8157,7 +8157,7 @@
       "logicFile": "53.agilogic",
       "messageNumber": 4,
       "original": "You can't do that now.",
-      "translation": "אין לך אפשרות לקחת את זה עכשיו.",
+      "translation": "אתה לא יכול לעשות את זה עכשיו.",
       "notes": "",
       "placeholders": []
     },
@@ -9623,7 +9623,7 @@
       "logicFile": "70.agilogic",
       "messageNumber": 9,
       "original": "You're not close enough to play.",
-      "translation": "אני לא מדבר איתך.",
+      "translation": "אתה לא מספיק קרוב כדי לשחק.",
       "notes": "",
       "placeholders": []
     },
@@ -9847,7 +9847,7 @@
       "logicFile": "70.agilogic",
       "messageNumber": 37,
       "original": "You are not in a position to do that.",
-      "translation": "אתה לא עד כדי כך רעב.",
+      "translation": "אתה לא במצב לעשות את זה.",
       "notes": "",
       "placeholders": []
     },
@@ -9943,7 +9943,7 @@
       "logicFile": "70.agilogic",
       "messageNumber": 50,
       "original": "You don't have that.",
-      "translation": "אתה לא רוצה לעשות את זה כאן.",
+      "translation": "אין לך את זה.",
       "notes": "",
       "placeholders": []
     },
@@ -11411,7 +11411,7 @@
       "logicFile": "95.agilogic",
       "messageNumber": 92,
       "original": "get",
-      "translation": "תהיה מציאותי!",
+      "translation": "קבל",
       "notes": "",
       "placeholders": []
     },
@@ -11419,7 +11419,7 @@
       "logicFile": "95.agilogic",
       "messageNumber": 93,
       "original": "get.v",
-      "translation": "תהיה מציאותי!",
+      "translation": "קבל.משתנה",
       "notes": "",
       "placeholders": []
     },
@@ -12099,7 +12099,7 @@
       "logicFile": "95.agilogic",
       "messageNumber": 229,
       "original": "has",
-      "translation": "אין לה ריח.",
+      "translation": "יש",
       "notes": "",
       "placeholders": []
     },
@@ -12718,7 +12718,7 @@
       "logicFile": "100.agilogic",
       "messageNumber": 3,
       "original": "That concludes your experiment involving the effects of total vacuum on the human body, %s1.",
-      "translation": "זה מסכם את הניסויים שערכת בנושא השפעת הריק על גופים אנושיים חסרי הגנה. איזה כיף זה היה!",
+      "translation": "זה מסכם את הניסויים שערכת בנושא השפעת הריק המוחלט על גוף האדם, %s1.",
       "notes": "",
       "placeholders": [
         "%s"
@@ -12806,7 +12806,7 @@
       "logicFile": "100.agilogic",
       "messageNumber": 30,
       "original": "Thank you for playing Space Quest.  Too bad you've failed miserably and doomed all your people to a horrible death at the hands of the Sariens. If you continue playing as skillfully as this, we'll never have a chance for a sequel.  Better luck next time.",
-      "translation": "תודה ששיחקת מסע בחלל 1. עצוב מאד שנחלת כישלון מחפיר וגזרת על אנשיך מוות מחריד בידי הסריינים. אתה מעיף מבט חטוף מסביב לחדר ובודק אם מישהו הבחין בטעות המגוחכת שלך. בהצלחה בפעם הבאה.",
+      "translation": "תודה ששיחקת מסע בחלל. עצוב מאוד שנכשלת באופן מחפיר וגזרת על כל עמך מוות נורא בידי הסריאנים. אם תמשיך לשחק במיומנות כזו, לעולם לא תהיה לנו הזדמנות להמשך. בהצלחה בפעם הבאה.",
       "notes": "",
       "placeholders": []
     },
@@ -12874,7 +12874,7 @@
       "logicFile": "103.agilogic",
       "messageNumber": 5,
       "original": "You think you hear footsteps!",
-      "translation": "אתה שומע צעדים.",
+      "translation": "אתה חושב ששמעת צעדים!",
       "notes": "",
       "placeholders": []
     },
@@ -13148,7 +13148,7 @@
       "logicFile": "111.agilogic",
       "messageNumber": 14,
       "original": "  Breathable",
-      "translation": "  נשימה",
+      "translation": "  ניתן לנשימה",
       "notes": "",
       "placeholders": []
     },
@@ -13316,7 +13316,7 @@
       "logicFile": "112.agilogic",
       "messageNumber": 15,
       "original": "Why would you want to do that? You got a bone to bury?",
-      "translation": "למה שתרצה לעשות את זה?",
+      "translation": "למה שתרצה לעשות את זה? יש לך עצם לקבור?",
       "notes": "",
       "placeholders": []
     },
@@ -13874,7 +13874,7 @@
       "logicFile": "120.agilogic",
       "messageNumber": 15,
       "original": "That's up to you.",
-      "translation": "אתה לא עד כדי כך רעב.",
+      "translation": "אתה לא קרוב לזה.",
       "notes": "",
       "placeholders": []
     },
