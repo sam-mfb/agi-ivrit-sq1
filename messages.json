@@ -21,7 +21,7 @@
       "logicFile": "0.agilogic",
       "messageNumber": 2,
       "original": " uniform",
-      "translation": " מדים",
+      "translation": "מדים",
       "notes": "",
       "placeholders": []
     },
@@ -29,7 +29,7 @@
       "logicFile": "0.agilogic",
       "messageNumber": 3,
       "original": " Sarien",
-      "translation": " סרייאני",
+      "translation": " סריאני",
       "notes": "",
       "placeholders": []
     },
@@ -336,7 +336,7 @@
       "logicFile": "0.agilogic",
       "messageNumber": 38,
       "original": "%m4attired in the spiffy%m2 of a%m3 marauder. There is a pocket.",
-      "translation": "%m4לבוש ב%m2 המהודר של שודד%m3. יש כיס.",
+      "translation": "%m4לבוש במדי הסריאנים המהודרים של שודד. יש כיס.",
       "notes": "",
       "placeholders": [
         "%m4",
@@ -811,7 +811,7 @@
       "logicFile": "0.agilogic",
       "messageNumber": 101,
       "original": "Reaching into the pocket of the%m3%m2 you find a%m3 ID card.",
-      "translation": "מכניס את היד לכיס של%m3%m2 אתה מוצא כרטיס זיהוי%m3.",
+      "translation": "מכניס את היד לכיס של מדי הסריאנים אתה מוצא כרטיס זיהוי סריאני.",
       "notes": "",
       "placeholders": [
         "%m3",
@@ -903,7 +903,7 @@
       "logicFile": "0.agilogic",
       "messageNumber": 111,
       "original": "In the pocket of this%m2 is an alien %m5card. The name on the card is Butston Freem. You wonder if this is a common%m3 name.",
-      "translation": "בכיס של ה%m2 הזה יש כרטיס %m5 זר. השם על הכרטיס הוא בוטסטון פרים. אתה תוהה אם זה שם%m3 נפוץ.",
+      "translation": "בכיס של המדים האלה יש כרטיס %m5 זר. השם על הכרטיס הוא בוטסטון פרים. אתה תוהה אם זה שם סריאני נפוץ.",
       "notes": "",
       "placeholders": [
         "%m2",
@@ -4487,7 +4487,7 @@
       "logicFile": "26.agilogic",
       "messageNumber": 5,
       "original": "The floor is mostly rock with the exception of a grate in the middle. To the left of the grate is what appears to be a steam geyser.",
-      "translation": "הרצפה עשויה בעיקר מסלע למעט שבכה באמצע. משמאל לשבכה נמצא מה שנראה כמו גייזר קיטור.",
+      "translation": "הרצפה עשויה בעיקר מסלע למעט סורג באמצע. משמאל לסורג נמצא מה שנראה כמו גייזר קיטור.",
       "notes": "",
       "placeholders": []
     },
@@ -4503,7 +4503,7 @@
       "logicFile": "26.agilogic",
       "messageNumber": 7,
       "original": "The grate is made of metal and seems to be fastened securely to the floor. It is too dark to see down through the grate. There is, however, an odd smell emanating from down there.",
-      "translation": "השבכה עשויה מתכת ומחוברת בחוזקה לקרקע. מדי חשוך מכדי לראות מבעד לשבכה. עם זאת, ריח מוזר בוקע ממטה.",
+      "translation": "הסורג עשויה מתכת ומחוברת בחוזקה לקרקע. מדי חשוך מכדי לראות מבעד לסורג. עם זאת, ריח מוזר בוקע ממטה.",
       "notes": "",
       "placeholders": []
     },
@@ -4551,7 +4551,7 @@
       "logicFile": "26.agilogic",
       "messageNumber": 13,
       "original": "The rock would serve no purpose on the grate.",
-      "translation": "הסלע לא ישרת שום מטרה על השבכה.",
+      "translation": "הסלע לא ישרת שום מטרה על הסורג.",
       "notes": "",
       "placeholders": []
     },
@@ -4559,7 +4559,7 @@
       "logicFile": "26.agilogic",
       "messageNumber": 14,
       "original": "There are some slimey green tentacles poking through the grate.",
-      "translation": "יש כמה זרועות ירוקות ולחלוחות שבולטות דרך השבכה.",
+      "translation": "יש כמה זרועות ירוקות ולחלוחות שבולטות דרך הסורג.",
       "notes": "",
       "placeholders": []
     },
@@ -5279,7 +5279,7 @@
       "logicFile": "31.agilogic",
       "messageNumber": 20,
       "original": "  the Sariens may have learned of our",
-      "translation": "        שהסריינים אולי למדו על         ",
+      "translation": "        שהסריאנים אולי למדו על         ",
       "notes": "",
       "placeholders": []
     },
@@ -5367,7 +5367,7 @@
       "logicFile": "31.agilogic",
       "messageNumber": 31,
       "original": "             the Sariens.",
-      "translation": "               לסריינים.               ",
+      "translation": "               לסריאנים.               ",
       "notes": "",
       "placeholders": []
     },
@@ -6657,7 +6657,7 @@
       "logicFile": "36.agilogic",
       "messageNumber": 11,
       "original": "It appears to be in Sarien. You're a little rusty in your Sarien but it appears to say \\\"Xenon Bites!\\\"",
-      "translation": "נראה שזה כתוב בסרייאנית. הסרייאנית שלך קצת חלודה, אבל נראה שכתוב \\\"קסנון מוצצת!\\\"",
+      "translation": "נראה שזה כתוב בסריאנית. הסריאנית שלך קצת חלודה, אבל נראה שכתוב \\\"קסנון מוצצת!\\\"",
       "notes": "",
       "placeholders": []
     },
@@ -7301,7 +7301,7 @@
       "logicFile": "41.agilogic",
       "messageNumber": 1,
       "original": "\\\"We have established visual contact with a ship of Sarien origin,\\\" says the droid. \\\"The name Deltaur is confirmed. You might consider the fact that we are in danger by being anywhere near this ship. I hope you didn't waste money on the extended warranty when you purchased me.\\\"",
-      "translation": "\\\"יצרנו קשר ראייה עם ספינה ממוצא סרייאני,\\\" אומר הרובוט. \\\"השם דלטאור מאושר. אתה עשוי לשקול את העובדה שאנו בסכנה עקב היותנו בכלל בקרבת הספינה הזאת. אני מקווה שלא בזבזת כסף על אחריות מורחבת כשקנית אותי.\\\"",
+      "translation": "\\\"יצרנו קשר ראייה עם ספינה ממוצא סריאני,\\\" אומר הרובוט. \\\"השם דלטאור מאושר. אתה עשוי לשקול את העובדה שאנו בסכנה עקב היותנו בכלל בקרבת הספינה הזאת. אני מקווה שלא בזבזת כסף על אחריות מורחבת כשקנית אותי.\\\"",
       "notes": "",
       "placeholders": []
     },
@@ -7729,7 +7729,7 @@
       "logicFile": "50.agilogic",
       "messageNumber": 32,
       "original": "He's a gonner!  You never realized how ugly these Sariens were until now.",
-      "translation": "הוא נגמר! לא ידעת עד כמה מכוערים הסרייאנים האלה עד עכשיו.",
+      "translation": "הוא נגמר! לא ידעת עד כמה מכוערים הסריאנים האלה עד עכשיו.",
       "notes": "",
       "placeholders": []
     },
@@ -8165,7 +8165,7 @@
       "logicFile": "53.agilogic",
       "messageNumber": 5,
       "original": "Somehow, you manage to survive the rinse cycle. As you emerge from the cleaning unit you notice that you are dressed in a Sarien battle uniform. What a stroke of genius. Now you can wander throughout the ship without calling attention to yourself.",
-      "translation": "איכשהו, אתה מצליח לשרוד את מחזור השטיפה. כאשר אתה יוצא מיחידת הניקוי אתה שם לב שאתה לבוש במדי קרב סרייאניים. איזו גאונות. עכשיו אתה יכול לשוטט בספינה מבלי למשוך תשומת לב.",
+      "translation": "איכשהו, אתה מצליח לשרוד את מחזור השטיפה. כאשר אתה יוצא מיחידת הניקוי אתה שם לב שאתה לבוש במדי קרב סריאנים. איזו גאונות. עכשיו אתה יכול לשוטט בספינה מבלי למשוך תשומת לב.",
       "notes": "",
       "placeholders": []
     },
@@ -8463,7 +8463,7 @@
       "logicFile": "55.agilogic",
       "messageNumber": 3,
       "original": "These Sariens are scum, but they sure know how to build a spaceship.",
-      "translation": "הסריינים האלה הם חלאות, אבל הם בהחלט יודעים איך לבנות חללית.",
+      "translation": "הסריאנים האלה הם חלאות, אבל הם בהחלט יודעים איך לבנות חללית.",
       "notes": "",
       "placeholders": []
     },
@@ -8911,7 +8911,7 @@
       "logicFile": "64.agilogic",
       "messageNumber": 1,
       "original": "Congratulations %s1, you've rid the universe of the evil Sariens and saved your people from certain doom. You're an all-around hero! You've made it home safely aboard the stolen Sarien craft, where you've encountered a cheering Xenon crowd. They have gathered together for a ceremony in your honor. The ceremony is already in progress.",
-      "translation": "ברכות %s1, פינית את היקום מהסרייאנים המרושעים והצלת את אנשיך מאבדון בטוח. אתה גיבור בכל מובן המילה! הגעת הביתה בשלום על סיפון החללית הסרייאנית הגנובה, שם נתקלת בקהל קסנוני מריע. הם התכנסו לטקס לכבודך. הטקס כבר בעיצומו.",
+      "translation": "ברכות %s1, פינית את היקום מהסריאנים המרושעים והצלת את אנשיך מאבדון בטוח. אתה גיבור בכל מובן המילה! הגעת הביתה בשלום על סיפון החללית הסריאנית הגנובה, שם נתקלת בקהל קסנוני מריע. הם התכנסו לטקס לכבודך. הטקס כבר בעיצומו.",
       "notes": "",
       "placeholders": [
         "%s"
@@ -9027,7 +9027,7 @@
       "logicFile": "64.agilogic",
       "messageNumber": 15,
       "original": "         The Sarien Fleet",
-      "translation": "             צי הסרייאנים              ",
+      "translation": "             צי הסריאנים              ",
       "notes": "",
       "placeholders": []
     },
@@ -9061,7 +9061,7 @@
       "logicFile": "64.agilogic",
       "messageNumber": 19,
       "original": "Congratulations %s1, you've rid the universe of the evil Sariens and saved your people from certain doom. The Star Generator technology is safe inside the Data Cartridge. Now, a new Star Generator can be built and can carry out its original task - You're an all-around hero! You've made it home safely aboard the stolen Sarien craft, where you've encountered a cheering Xenon crowd. They have gathered together for a ceremony in your honor. The ceremony is already in progress.",
-      "translation": "ברכות %s1, פינית את היקום מהסרייאנים המרושעים והצלת את אנשיך מאבדון בטוח. טכנולוגיית מחולל הכוכבים מאובטחת בתוך מחסנית הנתונים. כעת, ניתן לבנות מחולל כוכבים חדש ולבצע את משימתו המקורית - אתה גיבור בכל מובן המילה! הגעת הביתה בשלום על סיפון החללית הסרייאנית הגנובה, שם נתקלת בקהל קסנוני מריע. הם התכנסו לטקס לכבודך. הטקס כבר בעיצומו.",
+      "translation": "ברכות %s1, פינית את היקום מהסריאנים המרושעים והצלת את אנשיך מאבדון בטוח. טכנולוגיית מחולל הכוכבים מאובטחת בתוך מחסנית הנתונים. כעת, ניתן לבנות מחולל כוכבים חדש ולבצע את משימתו המקורית - אתה גיבור בכל מובן המילה! הגעת הביתה בשלום על סיפון החללית הסריאנית הגנובה, שם נתקלת בקהל קסנוני מריע. הם התכנסו לטקס לכבודך. הטקס כבר בעיצומו.",
       "notes": "",
       "placeholders": [
         "%s"
@@ -13760,7 +13760,7 @@
       "logicFile": "120.agilogic",
       "messageNumber": 1,
       "original": "You are in one of the Deltaur's ventilation shafts.",
-      "translation": "אתה בקומה העליונה של אחד ממסדרונות הדלטאור.",
+      "translation": "אתה באחד מפירי האוורור של הדלטאור.",
       "notes": "",
       "placeholders": []
     },
@@ -13802,7 +13802,7 @@
       "logicFile": "120.agilogic",
       "messageNumber": 6,
       "original": "You try to use the knife to pry open the vent, but are unsuccessful.",
-      "translation": "אתה מנסה להשתמש בסכין כדי לפתוח את תעלת האוורור, אך ללא הצלחה.",
+      "translation": "אתה מנסה להשתמש בסכין כדי לפתוח את פתח האוורור, אך ללא הצלחה.",
       "notes": "",
       "placeholders": []
     },
@@ -13810,7 +13810,7 @@
       "logicFile": "120.agilogic",
       "messageNumber": 7,
       "original": "It is already open.",
-      "translation": "תעלת האוורור כבר פתוחה ועומדת.",
+      "translation": "פתח האוורור כבר פתוחה ועומדת.",
       "notes": "",
       "placeholders": []
     },
@@ -13826,7 +13826,7 @@
       "logicFile": "120.agilogic",
       "messageNumber": 9,
       "original": "Your nose has just been redesigned by your ill-advised attempt to insert it into a closed vent.",
-      "translation": "האף שלך זה עתה עוצב מחדש על ידי הניסיון הלא-מוצלח שלך להכניס אותו לתוך תעלת אוורור סגורה.",
+      "translation": "האף שלך זה עתה עוצב מחדש על ידי הניסיון הלא-מוצלח שלך להכניס אותו לתוך פתח אוורור סגורה.",
       "notes": "",
       "placeholders": []
     },
@@ -13906,7 +13906,7 @@
       "logicFile": "121.agilogic",
       "messageNumber": 1,
       "original": "It`s already open.",
-      "translation": "תעלת האוורור כבר פתוחה ועומדת.",
+      "translation": "פתח האוורור כבר פתוחה ועומדת.",
       "notes": "",
       "placeholders": []
     },
