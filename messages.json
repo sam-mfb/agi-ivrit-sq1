@@ -1151,8 +1151,8 @@
       "logicFile": "1.agilogic",
       "messageNumber": 1,
       "original": "This is the Arcada's data archive.  Many volumes of information are stored on data cartridges.  There is a computer console here.",
-      "translation": "כרכים רבים של מידע מאוחסנים על מחסניות נתונים.",
-      "notes": "\"קונסולת מחשב״ באוצר מילים?",
+      "translation": "זהו ארכיון הנתונים של הארקדה. כרכים רבים של מידע מאוחסנים על מחסניות נתונים. יש כאן קונסולת מחשב.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -1223,7 +1223,7 @@
       "logicFile": "1.agilogic",
       "messageNumber": 10,
       "original": "A large laser hole has been burned in his uniform through which you can see previously unexposed tissue.  Struggling painfully, he raises up on one elbow.",
-      "translation": "חור לייזר גדול נצרב במדיו, דרכו אתה יכול לראות רקמות שלא נחשפו קודם.",
+      "translation": "חור לייזר גדול נצרב במדיו, דרכו אתה יכול לראות רקמות שלא נחשפו קודם. בעודו נאבק בכאב, הוא מרים את עצמו על מרפק אחד.",
       "notes": "",
       "placeholders": []
     },
@@ -1527,7 +1527,7 @@
       "logicFile": "1.agilogic",
       "messageNumber": 50,
       "original": "You are startled by the sound of an alarm. It is followed by an urgent voice which warns that the Arcada has been boarded by unknown intruders. It abruptly ends.",
-      "translation": "...על הארקדה עלו פולשים לא מזוהים.",
+      "translation": "אתה נבהל מקול האזעקה. אחריה נשמע קול דחוף שמזהיר שעל הארקדה עלו פולשים לא מזוהים. הקול נקטע בפתאומיות.",
       "notes": "",
       "placeholders": []
     },
@@ -1559,7 +1559,7 @@
       "logicFile": "1.agilogic",
       "messageNumber": 54,
       "original": "You see a man dressed in a lab coat. He appears to be ailing.",
-      "translation": "נראה שהוא פצוע.",
+      "translation": "אתה רואה איש לבוש בחלוק מעבדה. נראה שהוא חולה.",
       "notes": "",
       "placeholders": []
     },
