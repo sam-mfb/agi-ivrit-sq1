@@ -1647,8 +1647,8 @@
       "logicFile": "2.agilogic",
       "messageNumber": 5,
       "original": "This is an elevator to one of the lower levels.",
-      "translation": "מעלית זו יורדת אל אחד מהקומות התחתונות.",
-      "notes": "טעות דקדוקית בהתאמת המין: \"אחד\" הוא זכר אבל \"קומות\" הוא נקבה. הצעה לתיקון: \"מעלית זו יורדת אל אחת מהקומות התחתונות\" או לחלופין \"אל אחד מהמפלסים התחתונים\".",
+      "translation": "מעלית זו יורדת אל אחת מהקומות התחתונות.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -1711,8 +1711,8 @@
       "logicFile": "2.agilogic",
       "messageNumber": 14,
       "original": "That can't be done here.",
-      "translation": "אתה לא יכול לעשות את זה מכאן.",
-      "notes": "התרגום מוסיף \"מכאן\" שלא קיים במקור - \"here\" מתייחס למקום, לא לנקודת התחלה. הצעה לתיקון: \"אי אפשר לעשות את זה כאן\" או \"לא ניתן לעשות זאת כאן\".",
+      "translation": "אי אפשר לעשות את זה כאן.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -1943,8 +1943,8 @@
       "logicFile": "4.agilogic",
       "messageNumber": 7,
       "original": "The door is quite heavy and impossible for you to open. Your classification does not permit it.",
-      "translation": "הדלת כבדה למדי ובלתי אפשרי לך לפתוח אותה. הסיווג שלך לא מאפשר זאת.",
-      "notes": "'ובלתי אפשרי לך לפתוח אותה' מגושם ולא טבעי. המבנה 'בלתי אפשרי + לך + פועל' לא קיים בעברית טבעית. הצעה: 'הדלת כבדה למדי ואי אפשר לך לפתוח אותה.' או 'הדלת כבדה מדי בשבילך לפתיחה.'",
+      "translation": "הדלת כבדה למדי ואי אפשר לך לפתוח אותה. הסיווג שלך לא מאפשר זאת.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -1959,8 +1959,8 @@
       "logicFile": "4.agilogic",
       "messageNumber": 9,
       "original": "Your search of the body reveals nothing.",
-      "translation": "החיפוש שלך אחר הגופה לא מגלה דבר.",
-      "notes": "שגיאה: 'החיפוש אחר הגופה' משמעותו חיפוש *בעקבות* הגופה, לא חיפוש *בתוך/על* הגופה. במקור מדובר בחיפוש על הגוף (search of the body). הצעה: 'החיפוש שלך בגופה לא מגלה דבר.' או 'חיפוש הגופה לא מעלה דבר.'",
+      "translation": "החיפוש שלך בגופה לא מגלה דבר.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -2015,40 +2015,40 @@
       "logicFile": "4.agilogic",
       "messageNumber": 17,
       "original": "You are too far away to get a good look.",
-      "translation": "אתה רחוק מדי כדי לקבל מבט טוב.",
-      "notes": "'לקבל מבט טוב' תרגום מילולי מדי של 'get a good look'. לא מקבלים מבט בעברית. הצעה: 'אתה רחוק מדי כדי לראות טוב.' או 'אתה רחוק מדי לתצפית טובה.'",
+      "translation": "אתה רחוק מדי כדי לראות טוב.",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "5.agilogic",
       "messageNumber": 1,
       "original": "This is a section of one of the lower levels of Arcada.",
-      "translation": "זהו אגף של אחד מקומות הארקדה התחתונות.",
-      "notes": "שגיאת כתיב: 'מקומות' צריך להיות 'קומות' (levels/floors). גם המבנה 'אחד מקומות' צריך להיות 'אחת מהקומות' כי קומה היא נקבה. הצעה לתיקון: 'זהו אגף באחת מהקומות התחתונות של ארקדה.'",
+      "translation": "זהו אגף באחת מהקומות התחתונות של ארקדה.",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "5.agilogic",
       "messageNumber": 2,
       "original": "The elevator leads to one of the upper levels.",
-      "translation": "מעלית זו עולה אל אחד מהקומות העליונות.",
-      "notes": "שגיאת התאמה במין: 'אחד' צריך להיות 'אחת' כדי להתאים ל'קומות' (נקבה). הצעה לתיקון: 'מעלית זו עולה אל אחת מהקומות העליונות.'",
+      "translation": "מעלית זו עולה אל אחת מהקומות העליונות.",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "5.agilogic",
       "messageNumber": 3,
       "original": "You see a body here. It is a formerly live crewmate.",
-      "translation": "אתה רואה גופה כאן. זה חבר צוות שהיה חי בעבר.",
-      "notes": "שתי בעיות: (1) 'זה' צריך להיות 'זו' או 'זוהי' כדי להתאים ל'גופה' (נקבה). (2) המקור הוא הומוריסטי בסגנון יבש ('formerly live') - התרגום קצת פורמלי מדי. הצעה לתיקון: 'אתה רואה גופה כאן. זוהי גופתו של חבר צוות שפעם היה בין החיים.' או בסגנון קליל יותר: 'זו גופה של מישהו שפעם היה חי למדי.'",
+      "translation": "אתה רואה גופה כאן. זו גופתו של חבר צוות שהיה חי בעבר.",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "5.agilogic",
       "messageNumber": 4,
       "original": "Your search of the laser-riddled corpse reveals. . .",
-      "translation": "חיפושך בגופה מחוררת הלייזר מגלה. . .",
-      "notes": "המבנה 'מחוררת הלייזר' אינו תקין בעברית - זו סמיכות שגויה. 'laser-riddled' פירושו מנוקב/מחורר מפגיעות לייזר. הצעה לתיקון: 'חיפושך בגופה המנוקבת מפגיעות לייזר מגלה. . .' או בקיצור: 'חיפושך בגופה מחוררת הלייזרים מגלה. . .'",
+      "translation": "חיפושך בגופה המנוקבת מפגיעות לייזר מגלה. . .",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -2135,8 +2135,8 @@
       "logicFile": "6.agilogic",
       "messageNumber": 5,
       "original": "You search the damaged body of your fellow crewman. You get too close a glimpse of the injury. In the pockets you find...",
-      "translation": "אתה מחפש בגופתו הפגועה של חבר הצוות שלך. אתה מקבל מבט קרוב מדי לפציעה. בכיסים אתה מוצא...",
-      "notes": "הביטוי \"אתה מקבל מבט קרוב מדי לפציעה\" הוא תרגום מילולי מדי ולא טבעי בעברית. הצעה: \"אתה רואה את הפציעה מקרוב מדי\" או \"הפציעה נחשפת לנגד עיניך - קרוב מדי לנוחיותך\".",
+      "translation": "אתה מחפש בגופתו הפגועה של חבר הצוות שלך. אתה רואה את הפציעה מקרוב מדי. בכיסים אתה מוצא...",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -2247,16 +2247,16 @@
       "logicFile": "6.agilogic",
       "messageNumber": 19,
       "original": "The domes cover access tubes to the Arcada's power plant. They are bolted closed since they seldom require maintenance.",
-      "translation": "הכיפות מכסות צינורות גישה למפעל הכוח של הארקדה. הן בורגו סגורות מכיוון שהן זקוקות לתחזוקה לעיתים רחוקות.",
-      "notes": "\"מפעל הכוח\" הוא תרגום לא מתאים ל-power plant בהקשר של חללית - מדובר בתחנת כוח או מערכת הנעה. הצעה: \"למערכת ההנעה של הארקדה\" או \"לתחנת הכוח של הארקדה\". בנוסף, \"הן בורגו סגורות\" מסורבל - הצעה: \"הן מברוגות\" או \"הן נעולות בברגים\".",
+      "translation": "הכיפות מכסות צינורות גישה לתחנת הכוח של הארקדה. הן מברוגות מכיוון שהן זקוקות לתחזוקה לעיתים רחוקות.",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "7.agilogic",
       "messageNumber": 1,
       "original": "This is one of the mid-level decks of the Arcada",
-      "translation": "זוהי אחת מהסיפונים באמצע הארקדה.",
-      "notes": "בעיית התאמת מין: 'זוהי' (נקבה) לא מתאים ל'סיפונים' (זכר רבים). יש לתקן ל: 'זהו אחד מהסיפונים באמצע הארקדה.' או לחלופין 'זוהי אחת הקומות האמצעיות של הארקדה.'",
+      "translation": "זהו אחד מהסיפונים האמצעיים של הארקדה.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -2623,16 +2623,16 @@
       "logicFile": "9.agilogic",
       "messageNumber": 3,
       "original": "This is the inside airlock door.",
-      "translation": "זהו מנעל האוויר של הארקדה.",
-      "notes": "התרגום לא מדויק - המקור מדבר על \"הדלת הפנימית של מנעל האוויר\" אבל התרגום אומר \"מנעל האוויר של הארקדה\". מוצע: \"זוהי הדלת הפנימית של מנעל האוויר\".",
+      "translation": "זוהי הדלת הפנימית של מנעל האוויר.",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "9.agilogic",
       "messageNumber": 4,
       "original": "That is not here to be seen.",
-      "translation": "זה לא כאן כדי להיראות.",
-      "notes": "תרגום מילולי מאוד שנשמע מאולץ בעברית. הכוונה היא שהדבר לא נמצא כאן / לא ניתן לראותו. מוצע: \"זה לא נמצא כאן\" או \"אין לראות את זה כאן\".",
+      "translation": "זה לא נמצא כאן.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -2679,8 +2679,8 @@
       "logicFile": "9.agilogic",
       "messageNumber": 10,
       "original": "This is a standard issue flight suit designed to protect the wearer from the unique conditions of space travel.",
-      "translation": "זהו חליפת טיסה סטנדרטית המיועדת להגן על הלובש מפני התנאים הייחודיים של נסיעות בחלל.",
-      "notes": "יש אי-התאמה במין: \"זהו\" (זכר) עם \"חליפת טיסה\" (נקבה). מוצע: \"זוהי חליפת טיסה סטנדרטית...\". גם \"נסיעות בחלל\" קצת מוזר - מוצע: \"טיסות בחלל\" או \"מסעות בחלל\".",
+      "translation": "זוהי חליפת טיסה סטנדרטית המיועדת להגן על הלובש מפני התנאים הייחודיים של טיסות בחלל.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -2775,8 +2775,8 @@
       "logicFile": "9.agilogic",
       "messageNumber": 22,
       "original": "You already have it.",
-      "translation": "כבר יש לך.",
-      "notes": "חסרה המילה \"את זה\" או \"אותו\" - בעברית נשמע חתוך. מוצע: \"כבר יש לך את זה\" או \"זה כבר אצלך\".",
+      "translation": "כבר יש לך את זה.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -2935,8 +2935,8 @@
       "logicFile": "10.agilogic",
       "messageNumber": 1,
       "original": "You are sitting in the pilot seat of the escape pod facing toward the window. There is a dark console before you and seat belt straps at your side. Confused as to what you should do, you wish you would have paid more attention during crew orientation.",
-      "translation": "אתה יושב במושב הטייס של חללית המילוט מול החלון. לפניך קונסולה כהה וחגורות בטיחות לצדדיך. מבולבל ולא יודע מה לעשות, הלוואי ששמת לב בהכשרה של חברי הצוות.",
-      "notes": "המשפט האחרון לא טבעי. 'הלוואי ששמת לב' צריך להיות 'הלוואי והיית שם לב יותר'. גם 'בהכשרה של חברי הצוות' קצת מגושם - עדיף 'בהדרכת הצוות' או 'בתדריך הצוות'.",
+      "translation": "אתה יושב במושב הטייס של חללית המילוט מול החלון. לפניך קונסולה כהה וחגורות בטיחות לצדדיך. מבולבל ולא יודע מה לעשות, הלוואי והיית שם לב יותר בהדרכת הצוות.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -3015,8 +3015,8 @@
       "logicFile": "10.agilogic",
       "messageNumber": 14,
       "original": "There sure are a lot of them.",
-      "translation": "באמת יש הרבה.",
-      "notes": "'באמת יש הרבה' חסר נושא - עדיף 'באמת יש הרבה מהם' או 'וואו, יש כאן המון'.",
+      "translation": "באמת יש הרבה מהם.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -3031,8 +3031,8 @@
       "logicFile": "10.agilogic",
       "messageNumber": 17,
       "original": "It said don't touch.  I warned you!",
-      "translation": "כתוב אל תלחץ. אמרתי לך!",
-      "notes": "'אמרתי לך' לא מתאים כי המשחק לא אמר לשחקן - הכפתור אמר. עדיף 'הזהרתי אותך!' או 'הרי הזהירו אותך!'.",
+      "translation": "כתוב אל תלחץ. הזהרתי אותך!",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -3111,8 +3111,8 @@
       "logicFile": "10.agilogic",
       "messageNumber": 27,
       "original": "Are you crazy? It seems quite obvious that you don't know what you are doing, you daft imp.",
-      "translation": "אתה משוגע? נראה ברור למדי שאתה לא יודע מה אתה עושה, שד טיפש.",
-      "notes": "'שד טיפש' תרגום מילולי מדי ל-'daft imp' ולא משמש כקללה/גידוף בעברית. עדיף משהו כמו 'אידיוט' או 'טמבל' או 'שלומיאל'.",
+      "translation": "אתה משוגע? נראה ברור למדי שאתה לא יודע מה אתה עושה, טמבל.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -3303,8 +3303,8 @@
       "logicFile": "11.agilogic",
       "messageNumber": 5,
       "original": "This is the Star Generator development laboratory.  Due to your incredibly low security clearance you have never been allowed access to this room.",
-      "translation": "זוהי מעבדת פיתוח מחולל הכוכבים. הודות לסיווג הבטחוני הנמוך להחריד שלך, מעולם לא ניתן לך גישה לחדר זה.",
-      "notes": "הביטוי \"הודות\" משמש בעברית בהקשר חיובי, ולא מתאים כאן. הצעה: \"בגלל סיווג הביטחון הנמוך להחריד שלך, מעולם לא ניתנה לך גישה לחדר הזה.\" גם \"בטחוני\" צריך להיות \"ביטחון\" או \"אבטחה\" (סיווג ביטחוני/סיווג אבטחה).",
+      "translation": "זוהי מעבדת פיתוח מחולל הכוכבים. בגלל סיווג הביטחון הנמוך להחריד שלך, מעולם לא ניתנה לך גישה לחדר הזה.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -3335,24 +3335,24 @@
       "logicFile": "11.agilogic",
       "messageNumber": 9,
       "original": "The floor is normal except for two dead bodies and a pedestal in the middle.",
-      "translation": "הרצפה רגילה מלבד שתי גוויות ורציף באמצע.",
-      "notes": "\"רציף\" הוא מונח לא מתאים כאן - רציף הוא platform לרכבות/ספינות. לפי vocabulary.json, התרגום הנכון הוא \"בסיס\" (pedestal). הצעה: \"הרצפה רגילה מלבד שתי גוויות ובסיס באמצע.\" [דורש עקביות עם הודעה 8 שבה תורגם כ\"בסיס\"]",
+      "translation": "הרצפה רגילה מלבד שתי גוויות ובסיס באמצע.",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "11.agilogic",
       "messageNumber": 10,
       "original": "The back wall is barren. The others, as you can see, are actually large windows allowing you an unrestricted view of space.",
-      "translation": "הקיר האחורי עקר. האחרים, כפי שאתה רואה, הם למעשה חלונות גדולים המאפשרים לך נוף בלתי מוגבל של החלל.",
-      "notes": "המילה \"עקר\" לא מתאימה לקיר - \"עקר\" בעברית מתייחס לפוריות. הצעה: \"הקיר האחורי חשוף\" או \"הקיר האחורי ריק\". גם \"נוף בלתי מוגבל של החלל\" נשמע מגושם - עדיף \"מבט חופשי אל החלל\" או \"תצפית בלתי מוגבלת על החלל\".",
+      "translation": "הקיר האחורי חשוף. האחרים, כפי שאתה רואה, הם למעשה חלונות גדולים המאפשרים לך מבט חופשי אל החלל.",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "11.agilogic",
       "messageNumber": 11,
       "original": "Hanging from the ceiling is a large device which apparently helped support the item which was mounted on the pedestal below.",
-      "translation": "תלוי מהתקרה מכשיר גדול שככל הנראה עזר לתמוך בפריט שהורכב על הרציף למטה.",
-      "notes": "שוב \"רציף\" לא נכון - צריך להיות \"בסיס\". גם סדר המילים מגושם. הצעה: \"מהתקרה תלוי מכשיר גדול שככל הנראה שימש לתמוך בפריט שהיה מורכב על הבסיס למטה.\"",
+      "translation": "מהתקרה תלוי מכשיר גדול שככל הנראה שימש לתמוך בפריט שהיה מורכב על הבסיס למטה.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -3431,8 +3431,8 @@
       "logicFile": "11.agilogic",
       "messageNumber": 21,
       "original": "One light glows red indicating that the monitor power is on.",
-      "translation": "אור אחד זוהר באדום, מה שמצביע על כך שחשמל המסך דלוק.",
-      "notes": "\"חשמל המסך דלוק\" לא טבעי בעברית - לא אומרים \"חשמל דלוק\". הצעה: \"נורית אחת זוהרת באדום, מה שמעיד על כך שהמסך מופעל\" או \"...שיש חשמל למסך\".",
+      "translation": "נורית אחת זוהרת באדום, מה שמעיד על כך שהמסך מופעל.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -3503,16 +3503,16 @@
       "logicFile": "13.agilogic",
       "messageNumber": 1,
       "original": "The Autonav system has locked onto the small planet of Kerona and the pod has begun its approach. Nothing to do now but hang on!",
-      "translation": "מערכת הניווט-האוטומטי ננעלה על הכוכב הקטן קרונה והחללית החלה בגישתה. אין מה לעשות עכשיו חוץ מלהיאחז!",
-      "notes": "1. \"הניווט-האוטומטי\" - המקף מיותר ויוצר צורה מסורבלת. מוצע: \"הניווט האוטומטי\" (בלי מקף).\n2. \"החללית\" - תרגום לא מדויק של \"pod\" (תרמיל הצלה). מוצע: \"התרמיל\" או \"הקפסולה\".\n3. \"בגישתה\" - נשמע מעט מסורבל. מוצע: \"החלה לרדת אליו\" או \"החלה בגישה\".\n4. \"חוץ מלהיאחז\" - תרגום מילולי מדי של הביטוי \"hang on\". מוצע: \"חוץ מלהחזיק חזק\" או \"רק להיאחז חזק\".",
+      "translation": "מערכת הניווט האוטומטי ננעלה על הכוכב הקטן קרונה והתרמיל החל בגישתו. אין מה לעשות עכשיו חוץ מלהיאחז!",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "13.agilogic",
       "messageNumber": 2,
       "original": "Well done, %s1! You've managed to overcome the elements of Kerona, from endless deserts and spider droids to obnoxious salesmen and bad booze. Yes, the sand in your boots shall forever serve as a reminder of this forsaken planet. You should feel proud. But now, destiny awaits with an even greater challenge.",
-      "translation": "כל הכבוד, %s1! הצלחת להתגבר על יסודות קרונה, ממדבריות אינסופיות ודרואידי עכביש ועד למוכרים מעצבנים ואלכוהול גרוע. כן, החול בנעליך ישמש לנצח תזכורת לכוכב הנטוש הזה. אתה צריך להרגיש גאה. אבל עכשיו, הגורל ממתין עם אתגר גדול אף יותר.",
-      "notes": "1. \"יסודות קרונה\" - תרגום שגוי. \"elements\" כאן במשמעות של אתגרים/מכשולים, לא יסודות כימיים. מוצע: \"אתגרי קרונה\" או \"מכשולי קרונה\".\n2. \"אתה צריך להרגיש גאה\" - מילולי ונוקשה מדי. מוצע: \"יש לך סיבה להיות גאה\" או \"מגיע לך להרגיש גאה\".\n3. \"ישמש לנצח תזכורת\" - סדר מילים לא טבעי. מוצע: \"ישמש תזכורת לנצח\" או \"יזכיר לך לנצח את\".",
+      "translation": "כל הכבוד, %s1! הצלחת להתגבר על אתגרי קרונה, ממדבריות אינסופיות ודרואידי עכביש ועד למוכרים מעצבנים ואלכוהול גרוע. כן, החול בנעליך ישמש לנצח תזכורת לכוכב הנטוש הזה. אתה צריך להרגיש גאה. אבל עכשיו, הגורל ממתין עם אתגר גדול אף יותר.",
+      "notes": "",
       "placeholders": [
         "%s"
       ]
@@ -3569,8 +3569,8 @@
       "logicFile": "14.agilogic",
       "messageNumber": 7,
       "original": "Pushing the Power button has no effect.",
-      "translation": "לחיצה על כפתור הפעלה אינה משפיעה.",
-      "notes": "כמו בהודעה 4, \"אינה משפיעה\" פורמלית מדי. מומלץ: \"לא עושה כלום\". גם חסר ה' הידיעה - \"כפתור ההפעלה\".",
+      "translation": "לחיצה על כפתור ההפעלה אינה משפיעה.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -3617,8 +3617,8 @@
       "logicFile": "14.agilogic",
       "messageNumber": 13,
       "original": "Neither this nor anything else on the console works.",
-      "translation": "לא זה ולא כל דבר אחר בקונסולה עובד.",
-      "notes": "\"לא כל דבר אחר\" לא נכון - המשמעות בעברית היא \"לא הכל\" במקום \"שום דבר אחר לא\". מומלץ: \"לא זה ולא שום דבר אחר בקונסולה עובד\" או \"זה לא עובד, וגם שום דבר אחר בקונסולה\".",
+      "translation": "לא זה ולא שום דבר אחר בקונסולה עובד.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -3649,8 +3649,8 @@
       "logicFile": "14.agilogic",
       "messageNumber": 17,
       "original": "A survival kit has broken loose from someplace.",
-      "translation": "ערכת הישרדות השתחררה ממקומה.",
-      "notes": "\"ממקומה\" לא מדויק - המקור אומר \"from someplace\" (ממקום כלשהו). מומלץ: \"ערכת הישרדות השתחררה ממקום כלשהו\".",
+      "translation": "ערכת הישרדות השתחררה ממקום כלשהו.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -3715,8 +3715,8 @@
       "logicFile": "15.agilogic",
       "messageNumber": 2,
       "original": "It is merely a spire of rock which has managed to defy the elements.",
-      "translation": "זהו רק צריח סלע שהצליח להתריס נגד היסודות.",
-      "notes": "שתי בעיות: 1) \"להתריס\" משמעותו התרסה אנושית (לדבר בחוצפה), לא מתאים לסלע. עדיף \"לעמוד בפני\" או \"להתנגד ל\". 2) \"היסודות\" בעברית מתייחס ליסודות תיאורטיים/בסיסיים, לא לתנאי מזג האוויר. עדיף \"כוחות הטבע\" או \"יסודות הטבע\". הצעה לתיקון: \"זהו רק צריח סלע שהצליח לעמוד בפני כוחות הטבע.\"",
+      "translation": "זהו רק צריח סלע שהצליח לעמוד בפני כוחות הטבע.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -3731,8 +3731,8 @@
       "logicFile": "16.agilogic",
       "messageNumber": 2,
       "original": "It is merely a spire of rock which has managed to defy the elements.",
-      "translation": "זהו רק צריח של סלע שהצליח להתריס נגד היסודות.",
-      "notes": "בעיות: 1) \"צריח של סלע\" - אפשרי אך \"שן סלע\" או \"צוק סלע\" טבעיים יותר לתיאור תצורה גיאולוגית. 2) \"להתריס נגד היסודות\" - \"להתריס\" היא מילה ספרותית/נדירה, ו\"היסודות\" הוא תרגום מילולי של \"the elements\" שלא מובן מיד בעברית. הצעה: \"זוהי רק שן סלע שהצליחה לעמוד בפני כוחות הטבע\" או \"...לעמוד מול פגעי מזג האוויר\".",
+      "translation": "זהו רק צריח של סלע שהצליח לעמוד בפני כוחות הטבע.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -3763,16 +3763,16 @@
       "logicFile": "17.agilogic",
       "messageNumber": 3,
       "original": "You see a pair of oddly curved rock formations. They point at each other as if to form an arch.",
-      "translation": "אתה רואה זוג תצורות סלע מעוקלות באופן מוזר. הן מצביעות אחת על השנייה כאילו ליצור קשת.",
-      "notes": "שתי בעיות: 1) \"תצורות סלע\" - עדיף \"תצורות סלעיות\" (צורת תואר). 2) \"כאילו ליצור\" - משפט קטוע ולא תקין דקדוקית. חסר פועל. עדיף: \"כאילו מנסות ליצור קשת\" או \"כמו שתי זרועות של קשת\". הצעה לתיקון: \"אתה רואה זוג תצורות סלעיות מעוקלות בצורה מוזרה. הן מצביעות זו לעבר זו כאילו מנסות ליצור קשת.\"",
+      "translation": "אתה רואה זוג תצורות סלע מעוקלות באופן מוזר. הן מצביעות אחת על השנייה כאילו מנסות ליצור קשת.",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "17.agilogic",
       "messageNumber": 4,
       "original": "Near the base you notice some very small printing. If you're not mistaken the characters translate to \\\"497 Quadgillion Served.\\\"",
-      "translation": "ליד הבסיס אתה מבחין בהדפסה קטנה מאוד. אם אתה לא טועה התווים מתורגמים ל\\\"497 קוודגיליון שורתו.\\\"",
-      "notes": "כמה בעיות: 1) \"התווים מתורגמים ל\" - סבילי ומסורבל. עדיף: \"הכתוב אומר\" או \"התווים מציינים\". 2) \"שורתו\" - תרגום מילולי ולא מובן. זו בדיחה המתייחסת לסלוגן של מקדונלד'ס \"X Billion Served\" (הוגשו X מיליארד מנות). עדיף \"הוגשו\" שמשמר את הקשר למזון מהיר. 3) \"קוודגיליון\" - אפשר להשאיר כך כמספר פיקטיבי-קומי. הצעה לתיקון: \"ליד הבסיס אתה מבחין בכיתוב זעיר. אם אינך טועה, הכתוב אומר: '497 קוודריליון הוגשו'.\"",
+      "translation": "ליד הבסיס אתה מבחין בהדפסה קטנה מאוד. אם אתה לא טועה התווים מתורגמים ל\"497 קוודגיליון הוגשו.\"",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -3827,8 +3827,8 @@
       "logicFile": "19.agilogic",
       "messageNumber": 1,
       "original": "It lands with a pleasing thud.",
-      "translation": "זה נוחת עם שקשוק נעים.",
-      "notes": "המילה 'שקשוק' פירושה רעש של נוזל או חפץ קטן, לא קול של נפילה כבדה. 'thud' הוא צליל עמום וכבד. הצעה לתיקון: 'זה נוחת עם קול נפילה כבד ומספק.' או 'זה נוחת בחבטה מהנה.'",
+      "translation": "זה נוחת בחבטה מספקת.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -3955,24 +3955,24 @@
       "logicFile": "20.agilogic",
       "messageNumber": 2,
       "original": "You are in an area almost entirely surrounded by cliffs. A path winds its way along the sheer cliff to the left. It is not accessible from here.",
-      "translation": "אתה באזור המוקף כמעט לחלוטין בצוקים. שביל מתפתל לאורך הצוק התלול משמאל. אינו נגיש מכאן.",
-      "notes": "\"אינו נגיש מכאן\" - חסר נושא. במקור כתוב \"It is not accessible\" שמתייחס לשביל. צריך להיות \"הוא אינו נגיש מכאן\" או עדיף \"לא ניתן להגיע אליו מכאן\". הצעה לתיקון: \"...משמאל. לא ניתן להגיע אליו מכאן.\"",
+      "translation": "אתה באזור המוקף כמעט לחלוטין בצוקים. שביל מתפתל לאורך הצוק התלול משמאל. הוא אינו נגיש מכאן.",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "20.agilogic",
       "messageNumber": 3,
       "original": "You are in an area almost entirely surrounded by cliffs. A path winds its way along the sheer cliff to the left. It is not accessible from here. There is a cave to the right.",
-      "translation": "אתה באזור המוקף כמעט לחלוטין בצוקים. שביל מתפתל לאורך הצוק התלול משמאל. אינו נגיש מכאן. יש מערה מימין.",
-      "notes": "אותה בעיה כמו בהודעה 2: \"אינו נגיש מכאן\" - חסר נושא. צריך להיות \"הוא אינו נגיש מכאן\" או \"לא ניתן להגיע אליו מכאן\". הצעה לתיקון: \"...משמאל. לא ניתן להגיע אליו מכאן. יש מערה מימין.\"",
+      "translation": "אתה באזור המוקף כמעט לחלוטין בצוקים. שביל מתפתל לאורך הצוק התלול משמאל. הוא אינו נגיש מכאן. יש מערה מימין.",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "20.agilogic",
       "messageNumber": 4,
       "original": "A path winds its way along the sheer cliff to the left. It is not accessible from here.",
-      "translation": "שביל מתפתל לאורך הצוק התלול משמאל. אינו נגיש מכאן.",
-      "notes": "אותה בעיה: \"אינו נגיש מכאן\" - חסר נושא. צריך להיות \"הוא אינו נגיש מכאן\" או \"לא ניתן להגיע אליו מכאן\". הצעה לתיקון: \"שביל מתפתל לאורך הצוק התלול משמאל. לא ניתן להגיע אליו מכאן.\"",
+      "translation": "שביל מתפתל לאורך הצוק התלול משמאל. הוא אינו נגיש מכאן.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -4269,8 +4269,8 @@
       "logicFile": "24.agilogic",
       "messageNumber": 14,
       "original": "You shiver at the sight of the spider droid with its spindly legs and cold metallic body. Its red scanner probing the terrain for anything that moves. Truly an icon of terror.",
-      "translation": "אתה רועד למראה רובוט העכביש עם רגליו הדקות וגופו המתכתי הקר. הסורק האדום שלו בוחן את השטח לכל דבר שזז. באמת סמל של אימה.",
-      "notes": "1. 'לכל דבר שזז' - תרגום מילולי לא טבעי. עדיף: 'בחיפוש אחר כל דבר שזז' או 'מחפש כל תנועה'. 2. 'באמת סמל של אימה' - מילולי מדי. עדיף: 'סמל אימה אמיתי' או 'אייקון אימה של ממש'.",
+      "translation": "אתה רועד למראה רובוט העכביש עם רגליו הדקות וגופו המתכתי הקר. הסורק האדום שלו בוחן את השטח בחיפוש אחר כל דבר שזז. באמת סמל של אימה.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -4301,24 +4301,24 @@
       "logicFile": "24.agilogic",
       "messageNumber": 18,
       "original": "Orat has transformed you into a new source of recreation.  You, of course, don't survive this treatment. It's tough to make friends around here.",
-      "translation": "אורט הפך אותך למקור בידור חדש. אתה, כמובן, לא שורד את היחס הזה. קשה למצוא חברים כאן.",
-      "notes": "1. 'treatment' תורגם ל'יחס' - נכון, אבל 'טיפול' יכול להיות יותר אירוני. 2. 'It's tough to make friends' תורגם ל'קשה למצוא חברים' - 'make friends' זה 'להתחבר עם מישהו' או 'לעשות חברים', לא 'למצוא'. עדיף: 'קשה לעשות חברים פה' או 'קשה להתיידד פה'.",
+      "translation": "אורט הפך אותך למקור בידור חדש. אתה, כמובן, לא שורד את היחס הזה. קשה לעשות חברים כאן.",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "24.agilogic",
       "messageNumber": 19,
       "original": "Orat, always in the mood for a snack, snatches the can out of the air with his spacious oral cavity, chews and swallows it. He notices a rumbling deep within his abdomen.",
-      "translation": "אורט, תמיד במצב רוח לנשנושים, חוטף את הפחית מחלל האוויר בפיו הפעור לרווחה, לועס ובולע אותה. הוא שומע רעם עמוק בתוך בטנו.",
-      "notes": "1. 'מחלל האוויר' - מסורבל. 'out of the air' פשוט אומר 'באוויר' או 'מהאוויר'. עדיף: 'חוטף את הפחית מהאוויר'. 2. 'בפיו הפעור לרווחה' - תרגום טוב ויצירתי של 'spacious oral cavity'. 3. 'שומע רעם' - 'notices a rumbling' זה יותר 'מרגיש רעש' או 'מבחין ברעידה'. עדיף: 'הוא מרגיש רעד עמוק בתוך בטנו'.",
+      "translation": "אורט, תמיד במצב רוח לנשנושים, חוטף את הפחית מהאוויר בפיו הפעור לרווחה, לועס ובולע אותה. הוא מרגיש רעד עמוק בתוך בטנו.",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "24.agilogic",
       "messageNumber": 20,
       "original": "Orat's eyes prove to be bigger than his stomach for once. Incapable of becoming history's first living reservoir, his body succumbs to the intense internal pressure created by nearly ten gallons of instantly reconstituted water. As a special bonus, you have received a much needed shower!",
-      "translation": "לפעם אחת, העיניים של אורט מתגלות כגדולות יותר מהבטן שלו. בלתי מסוגל להפוך למאגר חי ראשון בהיסטוריה, גופו נכנע ללחץ פנימי עז שנוצר מכמעט ארבעים ליטר של מים משוקמים מיידית. כבונוס מיוחד, קיבלת מקלחת נחוצה!",
-      "notes": "1. 'העיניים של אורט מתגלות כגדולות יותר מהבטן שלו' - הפתגם האנגלי 'eyes bigger than his stomach' (=עיניים רעבות) לא תורגם כפתגם. בעברית אפשר: 'עיניו היו גדולות מבטנו' או 'סבל מעיניים רעבות'. 2. 'מים משוקמים' - 'reconstituted water' זה מים שחוזרים לצורתם המקורית (מים מיובשים שחוזרים להיות מים). 'משוחזרים' יותר מדויק מ'משוקמים'.",
+      "translation": "לפעם אחת, עיניו של אורט מתגלות כגדולות יותר מבטנו. בלתי מסוגל להפוך למאגר חי ראשון בהיסטוריה, גופו נכנע ללחץ פנימי עז שנוצר מכמעט ארבעים ליטר של מים משוחזרים מיידית. כבונוס מיוחד, קיבלת מקלחת נחוצה!",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -4383,8 +4383,8 @@
       "logicFile": "24.agilogic",
       "messageNumber": 28,
       "original": "How do you intend to do that.",
-      "translation": "איך אתה מתכוון לעשות את זה.",
-      "notes": "חסר סימן שאלה בסוף המשפט - בעברית זה צריך להיות 'איך אתה מתכוון לעשות את זה?' (גם במקור חסר סימן שאלה, אבל בעברית זה נשמע יותר מוזר בלעדיו).",
+      "translation": "איך אתה מתכוון לעשות את זה?",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -4407,8 +4407,8 @@
       "logicFile": "25.agilogic",
       "messageNumber": 2,
       "original": "You need to be closer.",
-      "translation": "תצטרך לגשת יותר קרוב בשביל זה.",
-      "notes": "\"בשביל זה\" נוסף ולא מופיע במקור. כמו כן \"לגשת יותר קרוב\" מסורבל - \"להתקרב\" טבעי יותר. הצעה: \"אתה צריך להתקרב.\" או פשוט \"תתקרב.\"",
+      "translation": "אתה צריך להתקרב.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -4439,8 +4439,8 @@
       "logicFile": "25.agilogic",
       "messageNumber": 6,
       "original": "That is not here to get.",
-      "translation": "אין לזה השפעה כאן.",
-      "notes": "תרגום שגוי! המקור אומר שהחפץ לא נמצא כאן כדי לקחת אותו, אבל התרגום אומר \"אין לזה השפעה כאן\" - משמעות אחרת לגמרי. הצעה: \"זה לא נמצא כאן.\" או \"אי אפשר לקחת את זה מכאן.\"",
+      "translation": "זה לא נמצא כאן.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -4503,8 +4503,8 @@
       "logicFile": "26.agilogic",
       "messageNumber": 7,
       "original": "The grate is made of metal and seems to be fastened securely to the floor. It is too dark to see down through the grate. There is, however, an odd smell emanating from down there.",
-      "translation": "הסורג עשויה מתכת ומחוברת בחוזקה לקרקע. מדי חשוך מכדי לראות מבעד לסורג. עם זאת, ריח מוזר בוקע ממטה.",
-      "notes": "חוסר עקביות במין: 'הסורג' הוא זכר אך 'עשויה' ו'מחוברת' הם בלשון נקבה. הצעה לתיקון: 'הסורג עשוי מתכת ומחובר בחוזקה לקרקע'",
+      "translation": "הסורג עשוי מתכת ומחובר בחוזקה לקרקע. מדי חשוך מכדי לראות מבעד לסורג. עם זאת, ריח מוזר בוקע ממטה.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -4623,8 +4623,8 @@
       "logicFile": "27.agilogic",
       "messageNumber": 4,
       "original": "You gaze intently at the purplish pool of liquid, the first real sign of moisture on the planet. The pool seems to have no bottom. The gentle dripping has a soothing effect on your frazzled nerves.",
-      "translation": "אתה בוהה בתשומת לב בבריכת הנוזל הסגלגלה, הסימן האמיתי הראשון ללחות על הכוכב. לבריכה לא נראה תחתית. הטפטוף העדין משפיע באופן מרגיע על העצבים השחוקים שלך.",
-      "notes": "1. 'לבריכה לא נראה תחתית' - בעיית התאמת מין, 'בריכה' היא נקבה ו'תחתית' גם נקבה, לכן צריך להיות 'לבריכה לא נראית תחתית' או 'נראה שלבריכה אין תחתית'. 2. 'משפיע באופן מרגיע' - מסורבל. הצעה: 'מרגיע את העצבים השחוקים שלך'.",
+      "translation": "אתה בוהה בתשומת לב בבריכת הנוזל הסגלגלה, הסימן האמיתי הראשון ללחות על הכוכב. נראה שלבריכה אין תחתית. הטפטוף העדין מרגיע את העצבים השחוקים שלך.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -4639,8 +4639,8 @@
       "logicFile": "27.agilogic",
       "messageNumber": 6,
       "original": "This is a slightly smaller chamber in the underground complex. There is a path above, which is not accessible from here. There is a pool on the right side.",
-      "translation": "זהו חדר מעט קטן יותר במכלול התת קרקעי. מעליו מתפתל שביל אשר אינו נגיש מכאן. בריכה נקוותה בצידו הימני.",
-      "notes": "'נקוותה' - צורת פועל ארכאית ולא טבעית בעברית מודרנית. הצעה: 'יש בריכה בצידו הימני' או 'בצידו הימני יש בריכה'. גם 'מתפתל' מוסיף פרט שלא קיים במקור - 'יש שביל מעליו' יהיה מדויק יותר.",
+      "translation": "זהו חדר מעט קטן יותר במכלול התת קרקעי. מעליו יש שביל אשר אינו נגיש מכאן. יש בריכה בצידו הימני.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -4663,8 +4663,8 @@
       "logicFile": "27.agilogic",
       "messageNumber": 9,
       "original": "You are unpleasantly surprised by a drop of searing acid which bores its way to your feet.",
-      "translation": "את פניך מקבלת הפתעה לא נעימה בדמות טיפת חומצה צורבת הקולחת לעבר רגליך.",
-      "notes": "'את פניך מקבלת הפתעה' - מבנה משפט לא טבעי ומסורבל מאוד בעברית. זה נשמע כמו תרגום מילולי מאנגלית פורמלית. הצעה: 'אתה מופתע באופן לא נעים מטיפת חומצה צורבת שקולחת לעבר רגליך' או 'טיפת חומצה צורבת מפתיעה אותך כשהיא קולחת לעבר רגליך'.",
+      "translation": "אתה מופתע באופן לא נעים מטיפת חומצה צורבת הקולחת לעבר רגליך.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -4703,8 +4703,8 @@
       "logicFile": "28.agilogic",
       "messageNumber": 3,
       "original": "You have quite cleverly turned the beam upon itself, frying it into inoperability.",
-      "translation": "בחוכמתך כי רבה הסבת את האלומה כלפי עצמה, ובכך טיגנת והתכת אותה למצב של חוסר תפקוד.",
-      "notes": "מספר בעיות: 1) \"בחוכמתך כי רבה\" הוא סגנון תנ\"כי שאינו מתאים לטון הקליל של המשחק - זו לקיחה מילולית מדי של \"quite cleverly\". 2) \"טיגנת והתכת\" - התוספת של \"והתכת\" אינה באנגלית המקורית ומיותרת. 3) \"למצב של חוסר תפקוד\" מסורבל. הצעה לתיקון: \"בתחכום רב הסבת את האלומה על עצמה וטיגנת אותה עד שהפסיקה לפעול.\"",
+      "translation": "בתחכום רב הסבת את האלומה על עצמה וטיגנת אותה עד שהפסיקה לפעול.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -4719,8 +4719,8 @@
       "logicFile": "28.agilogic",
       "messageNumber": 5,
       "original": "The beams seem to form some sort of electronic barrier across the path.",
-      "translation": "האלומות יוצרות מעין מחסום אלקטרוני לרוחב הדרך.",
-      "notes": "התרגום טוב, אך חסר תרגום ל-\"seem\" (נראה ש-). הצעה לתיקון: \"האלומות נראות כמעין מחסום אלקטרוני לרוחב הדרך.\" או \"נראה שהאלומות יוצרות מעין מחסום אלקטרוני לרוחב הדרך.\"",
+      "translation": "נראה שהאלומות יוצרות מעין מחסום אלקטרוני לרוחב הדרך.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -4751,16 +4751,16 @@
       "logicFile": "28.agilogic",
       "messageNumber": 9,
       "original": "You are in a large room in the cavern. There is a level area below. Standing toward the bottom are two odd-looking units emitting beams of light.",
-      "translation": "אתה בחדר גדול במערה. יש שטח מפולס למטה. מעמד לעבר התחתית עומדות שתי יחידות מוזרות הפולטות קרני אור.",
-      "notes": "בעיה קריטית: \"מעמד לעבר התחתית\" אינו משפט תקין בעברית וחסר משמעות. זו שגיאת תרגום של \"Standing toward the bottom\". הצעה לתיקון: \"אתה בחדר גדול במערה. יש שטח מפולס למטה. לכיוון התחתית עומדות שתי יחידות מוזרות הפולטות קרני אור.\" או \"בחלק התחתון עומדות שתי יחידות מוזרות הפולטות קרני אור.\"",
+      "translation": "אתה בחדר גדול במערה. יש שטח מפולס למטה. בחלק התחתון עומדות שתי יחידות מוזרות הפולטות קרני אור.",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "28.agilogic",
       "messageNumber": 10,
       "original": "You are in a large room in the cavern. There is a level area below. Standing toward the bottom are two odd-looking units.",
-      "translation": "אתה בחדר גדול במערה. יש שטח מפולס למטה. מעמד לעבר התחתית עומדות שתי יחידות מוזרות.",
-      "notes": "אותה בעיה קריטית כמו הודעה 9: \"מעמד לעבר התחתית\" אינו משפט תקין בעברית. הצעה לתיקון: \"אתה בחדר גדול במערה. יש שטח מפולס למטה. בחלק התחתון עומדות שתי יחידות מוזרות.\"",
+      "translation": "אתה בחדר גדול במערה. יש שטח מפולס למטה. בחלק התחתון עומדות שתי יחידות מוזרות.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -4791,16 +4791,16 @@
       "logicFile": "29.agilogic",
       "messageNumber": 2,
       "original": "\\\"I have been monitoring your travels on our planet. It appears that you are up the proverbial estuary without a means of locomotion.\\\"",
-      "translation": "זה זמן רב שאני מנטר את מסעך על כוכבינו. מסתבר שאתה חותר במעלה הנהר ללא משוטים.",
-      "notes": "חסרות מרכאות בתחילת ובסוף המשפט (בניגוד למקור). הביטוי \"חותר במעלה הנהר ללא משוטים\" הוא תרגום טוב של האידיום \"up the creek without a paddle\", אך הביטוי הזה פחות מוכר בעברית. אפשרות חלופית: \"בבעיה עד הצוואר בלי מוצא\" או \"תקוע בלי דרך החוצה\".",
+      "translation": "\"זה זמן רב שאני מנטר את מסעך על כוכבינו. מסתבר שאתה חותר במעלה הנהר ללא משוטים.\"",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "29.agilogic",
       "messageNumber": 3,
       "original": "\\\"You are obviously in need of transportation.\\\"",
-      "translation": "ניכר עליך שהינך זקוק נואשות לכלי תחבורה.",
-      "notes": "חסרות מרכאות בתחילת ובסוף המשפט. השימוש ב\"הינך\" הוא ארכאי ופורמלי מדי. המילה \"נואשות\" לא מופיעה במקור (\"obviously\" לא שווה ל\"נואשות\"). הצעה לתיקון: \"ברור שאתה זקוק לכלי תחבורה.\"",
+      "translation": "\"ברור שאתה זקוק לכלי תחבורה.\"",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -4815,16 +4815,16 @@
       "logicFile": "29.agilogic",
       "messageNumber": 5,
       "original": "\\\"On the surface lives a beast called Orat.  He proves to be a bit of an annoyance on occasion.  Dispose of him and bring back evidence of your conquest.  Only then will I deal with your plight.  Good luck, strange one.\\\"",
-      "translation": "על פני השטח חי לו מפלץ ושמו אורט. הוא הוכיח את עצמו כמטרד לא קטן בהזדמנויות שונות. היפטר ממנו וספק לנו ראייה על נצחונך. או אז אואיל לטפל במצוקתך. בהצלחה, נטע זר.",
-      "notes": "חסרות מרכאות בתחילת ובסוף המשפט. \"ספק לנו ראייה\" - המילה \"ראייה\" לא מתאימה כאן, צריך \"הוכחה\" או \"עדות\". \"או אז אואיל\" - פורמלי וארכאי מאוד. \"נטע זר\" - ביטוי מעניין אך אולי לא ברור לכולם, אפשר גם \"זר משונה\". הצעה לתיקון: \"על פני השטח חי מפלץ בשם אורט. הוא מטרד לא קטן לפעמים. היפטר ממנו והבא לי הוכחה לניצחונך. רק אז אטפל בבעייתך. בהצלחה, יצור זר.\"",
+      "translation": "\"על פני השטח חי לו מפלץ ושמו אורט. הוא הוכיח את עצמו כמטרד לא קטן בהזדמנויות שונות. היפטר ממנו והבא לי הוכחה על נצחונך. רק אז אטפל במצוקתך. בהצלחה, יצור זר.\"",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "29.agilogic",
       "messageNumber": 6,
       "original": "\\\"So, you have returned.  Fortunately, there is much more to you than meets the eye.\\\"",
-      "translation": "אז, חזרת. למזלי, יש בך הרבה יותר ממה שנראה לעין.",
-      "notes": "חסרות מרכאות בתחילת ובסוף המשפט. \"למזלי\" מתרגם \"Fortunately\" אך בהקשר הזה הכוונה יותר ל\"למזלך\" או \"לשמחתי\" - הדובר לא מדבר על מזלו שלו. הצעה לתיקון: \"אז, חזרת. לשמחתי, יש בך הרבה יותר ממה שנראה לעין.\"",
+      "translation": "\"אז, חזרת. לשמחתי, יש בך הרבה יותר ממה שנראה לעין.\"",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -4887,8 +4887,8 @@
       "logicFile": "29.agilogic",
       "messageNumber": 15,
       "original": "You drop the Orat part to the ground.  The vision is silent.  You are startled by a rumbling and suddenly an oddly shaped door comes into view. It opens slowly.",
-      "translation": "אתה מטיח את אבר אורט בקרקע. החיזיון דומם בעוד הצפיחית נמעכת באדמה הצחיחה. אתה נחרד למשמע רעם. ולפתע, דלת בעלת מראה משונה מתגלה ונפתחת בהילוך איטי.",
-      "notes": "בעיה משמעותית: המשפט \"בעוד הצפיחית נמעכת באדמה הצחיחה\" לא קיים במקור כלל - זוהי תוספת שרירותית. \"מטיח\" חזק מדי מ\"drop\" - עדיף \"מניח\" או \"משליך\". \"נחרד למשמע רעם\" - המקור אומר \"rumbling\" שזה רעש/רעידה, לא רעם. \"בהילוך איטי\" - ביטוי מכני לא טבעי. הצעה לתיקון: \"אתה מניח את חלק האורט על הקרקע. החיזיון שותק. אתה נבהל מרעידה ולפתע דלת בעלת צורה משונה מופיעה לנגד עיניך. היא נפתחת לאט.\"",
+      "translation": "אתה מניח את חלק האורט על הקרקע. החיזיון דומם. אתה נבהל מרעידה ולפתע, דלת בעלת צורה משונה מתגלה ונפתחת לאט.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -4927,8 +4927,8 @@
       "logicFile": "29.agilogic",
       "messageNumber": 21,
       "original": "With that you find yourself being transported back to the surface.",
-      "translation": "במילים אלה אתה מוצא את עצמך משוגר בחזרה אל פני השטח.",
-      "notes": "\"With that\" לא אומר \"במילים אלה\" אלא \"עם זאת\" או \"ובכך\". \"משוגר\" מרמז על שיגור פעיל כמו טיל - המקור פשוט אומר \"transported\" שזה יותר \"מועבר\". הצעה לתיקון: \"ובכך אתה מוצא את עצמך מועבר חזרה לפני השטח.\"",
+      "translation": "ובכך אתה מוצא את עצמך מועבר חזרה לפני השטח.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -4943,8 +4943,8 @@
       "logicFile": "29.agilogic",
       "messageNumber": 23,
       "original": "\\\"Dr, hgi hnhht hjutn.  Kdfdrnlo ghfhr bb rhytt thrt ii mys aawr vcvvf xxc cdd.\\\"",
-      "translation": "דר, הגי הנההט הג'וטן. קדפדרנלו גפהר בב ריטט טרט יי מיס הואר וסווף קסס כדד.",
-      "notes": "טקסט ג'יבריש. חסרות מרכאות בתחילת ובסוף המשפט. התעתיק סביר.",
+      "translation": "\"דר, הגי הנההט הג'וטן. קדפדרנלו גפהר בב ריטט טרט יי מיס הואר וסווף קסס כדד.\"",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -4959,8 +4959,8 @@
       "logicFile": "29.agilogic",
       "messageNumber": 25,
       "original": "Before you is a huge head. It appears to be a projection of some sort. It's source is unknown.",
-      "translation": "מולך צף ראש ענק. נראה שמדובר בהקרנה הולוגרפית מסוג כלשהו, שמקורה בלתי נודע.",
-      "notes": "\"צף\" לא מופיע במקור - המקור לא אומר שהראש צף. \"הקרנה הולוגרפית\" - המקור אומר רק \"projection\" ולא מציין הולוגרפית (זה נוסף). הצעה לתיקון: \"לפניך ראש ענק. נראה שמדובר בהקרנה מסוג כלשהו. מקורה לא ידוע.\"",
+      "translation": "לפניך ראש ענק. נראה שמדובר בהקרנה מסוג כלשהו. מקורה לא ידוע.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -4975,24 +4975,24 @@
       "logicFile": "29.agilogic",
       "messageNumber": 27,
       "original": "\\\"So, you have found your way to my hallowed chamber. Fortunately there is much more to you than meets the eye.\\\"",
-      "translation": "אז, מצאת את דרכך אל אולמי המקודש. למזלי, יש בך הרבה יותר ממה שנראה לעין.",
-      "notes": "חסרות מרכאות בתחילת ובסוף המשפט. \"למזלי\" - כמו בהודעה 6, בהקשר הזה \"Fortunately\" לא מתייחס למזלו של הדובר. הצעה: \"לשמחתי\" או \"למרבה המזל\".",
+      "translation": "\"אז, מצאת את דרכך אל אולמי המקודש. לשמחתי, יש בך הרבה יותר ממה שנראה לעין.\"",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "29.agilogic",
       "messageNumber": 28,
       "original": "\\\"Bring to me evidence of the beast Orat's demise and we'll talk.\\\"",
-      "translation": "הבא לי הוכחה על פטירתו של אורט המפלץ ונדבר.",
-      "notes": "חסרות מרכאות בתחילת ובסוף המשפט. \"פטירתו\" נשמע אירוני או פורמלי מדי עבור מפלץ - \"מותו\" או \"כליונו\" מתאים יותר. הצעה לתיקון: \"הבא לי הוכחה למות אורט המפלץ ונדבר.\"",
+      "translation": "\"הבא לי הוכחה על מותו של אורט המפלץ ונדבר.\"",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "29.agilogic",
       "messageNumber": 29,
       "original": "\\\"It has come to my attention that you have met Orat. If you have proof of Orat's demise, drop it for my inspection.",
-      "translation": "\\\"הגיע לידיעתי שפגשת את אורט. אם יש לך הוכחה לפטירתו של אורט, הנח אותה לבדיקתי.",
-      "notes": "חסרות מרכאות סוגרות בסוף המשפט (גם במקור חסרות). \"פטירתו\" - כמו בהודעה 28, עדיף \"מותו\". הצעה לתיקון: \"הגיע לידיעתי שפגשת את אורט. אם יש לך הוכחה למותו של אורט, הנח אותה לבדיקתי.\"",
+      "translation": "\"הגיע לידיעתי שפגשת את אורט. אם יש לך הוכחה למותו של אורט, הנח אותה לבדיקתי.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -5055,24 +5055,24 @@
       "logicFile": "30.agilogic",
       "messageNumber": 4,
       "original": "You can't see that here",
-      "translation": "אתה לא רואה את זה מלמעלה.",
-      "notes": "התרגום מוסיף 'מלמעלה' שלא קיים במקור. זה עלול לבלבל את השחקן. הצעה לתיקון: 'אתה לא רואה את זה כאן.' או 'לא ניתן לראות את זה כאן.'",
+      "translation": "אתה לא רואה את זה כאן.",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "30.agilogic",
       "messageNumber": 5,
       "original": "The pod seems to be semi-destroyed.  A glimmering catches your eye.  Upon closer inspection you see that a piece of highly reflective glass has broken out of the pod window.",
-      "translation": "החללית נראית למחצה הרוסה. ניצוץ מושך את עינך. בבדיקה קרובה יותר אתה רואה שחתיכת זכוכית מחזירת אור נשברה מחלון החללית.",
-      "notes": "1. 'למחצה הרוסה' - סדר מילים לא טבעי בעברית. הצעה: 'הרוסה למחצה' או 'הרוסה חלקית'. 2. 'ניצוץ' הוא לא תרגום מדויק ל-'glimmering' (נצנוץ/הבהוב). הצעה: 'נצנוץ מושך את עינך'. 3. 'בבדיקה קרובה יותר' - תרגום מילולי מדי. הצעה: 'כשאתה מתבונן מקרוב' או 'במבט מקרוב'. 4. 'חתיכת זכוכית מחזירת אור' - קצת מסורבל. הצעה: 'רסיס זכוכית מבריק' או 'שבר זכוכית מחזיר אור'.",
+      "translation": "החללית נראית הרוסה למחצה. נצנוץ מושך את עינך. כשאתה מתבונן מקרוב, אתה רואה שרסיס זכוכית מבריק נשבר מחלון החללית.",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "30.agilogic",
       "messageNumber": 6,
       "original": "The pod seems to be semi-destroyed.",
-      "translation": "החללית נראית למחצה הרוסה.",
-      "notes": "'למחצה הרוסה' - סדר מילים לא טבעי בעברית. הצעה: 'הרוסה למחצה' או 'הרוסה חלקית'.",
+      "translation": "החללית נראית הרוסה למחצה.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -5095,8 +5095,8 @@
       "logicFile": "30.agilogic",
       "messageNumber": 9,
       "original": "It's quite sandy down there. You see that a piece of highly reflective glass has broken out of the pod window.",
-      "translation": "די חולי למטה. אתה רואה שחתיכת זכוכית מחזירת אור נשברה מחלון החללית.",
-      "notes": "1. 'די חולי למטה' - תרגום מילולי ולא טבעי. הצעה: 'למטה די חולי' או 'יש הרבה חול למטה'. 2. 'חתיכת זכוכית מחזירת אור' - מסורבל, כמו בהודעה 5. הצעה: 'רסיס זכוכית מבריק'.",
+      "translation": "למטה די חולי. אתה רואה שרסיס זכוכית מבריק נשבר מחלון החללית.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -5159,8 +5159,8 @@
       "logicFile": "31.agilogic",
       "messageNumber": 2,
       "original": "You are standing in the power generation facility of our underground settlement. All power here is produced by steam. That is unimportant to you, however. We have promised you transportation.",
-      "translation": "אתה עומד במתקן ייצור אנרגיה של המושבה התת-קרקעית שלנו. כל האנרגיה כאן מיוצרת על ידי אדים. עם זאת, זה לא חשוב עבורך. הבטחנו לך תחבורה.",
-      "notes": "\"מיוצרת על ידי אדים\" - עדיף \"מיוצרת מקיטור\" (steam = קיטור, לא אדים רגילים). גם \"הבטחנו לך תחבורה\" נשמע קצת טכני - אפשר \"הבטחנו לך אמצעי הגעה\" או פשוט \"הבטחנו להסיע אותך\".",
+      "translation": "אתה עומד במתקן ייצור אנרגיה של המושבה התת-קרקעית שלנו. כל האנרגיה כאן מיוצרת מקיטור. עם זאת, זה לא חשוב עבורך. הבטחנו לך תחבורה.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -5183,8 +5183,8 @@
       "logicFile": "31.agilogic",
       "messageNumber": 5,
       "original": "The skimmer is programmed to take you to a settlement on the other side of Kerona called Ulence Flats. You can make further travel arrangements there.",
-      "translation": "הרחפת מתוכננת לקחת אותך למושבה בצד השני של קרונה שנקראת מישורי אולנס. תוכל להמשיך בסידורי המסע שלך שם.",
-      "notes": "\"מתוכננת\" - לא בדיוק הכוונה. \"programmed\" כאן פירושו \"מתוכנתת\" (תוכנית מחשב). גם \"להמשיך בסידורי המסע שלך\" מסורבל - עדיף \"לסדר המשך נסיעה משם\" או \"לתאם המשך מסע משם\".",
+      "translation": "הרחפת מתוכנתת לקחת אותך למושבה בצד השני של קרונה שנקראת מישורי אולנס. תוכל לסדר המשך נסיעה משם.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -5207,8 +5207,8 @@
       "logicFile": "31.agilogic",
       "messageNumber": 11,
       "original": "  Whosoever shall read this:  My name",
-      "translation": "       כל הקורא זאת:  קוראים לי        ",
-      "notes": "\"כל הקורא זאת\" - נשמע ארכאי בצורה טובה, מתאים לסגנון. אבל \"קוראים לי\" לא מתחבר טוב למשפט הבא. עדיף \"שמי\" כדי שיתחבר ל\"ד\"ר סלאש וואהל\".",
+      "translation": "       כל הקורא זאת:  שמי        ",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -5279,8 +5279,8 @@
       "logicFile": "31.agilogic",
       "messageNumber": 20,
       "original": "  the Sariens may have learned of our",
-      "translation": "        שהסריאנים אולי למדו על         ",
-      "notes": "\"למדו על\" - תרגום מילולי מדי של \"learned of\". עדיף \"גילו\" או \"נודע להם על\".",
+      "translation": "        שהסריאנים אולי גילו את         ",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -5295,8 +5295,8 @@
       "logicFile": "31.agilogic",
       "messageNumber": 22,
       "original": "   If my fears prove true, The Star",
-      "translation": "       אם חששותי מתגשמים, מחולל        ",
-      "notes": "\"חששותי מתגשמים\" - \"מתגשמים\" בדרך כלל משמש לדברים חיוביים (חלומות מתגשמים). עדיף \"אם חששותי יתאמתו\" או \"אם חששותי מתממשים\".",
+      "translation": "       אם חששותי יתאמתו, מחולל        ",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -5343,8 +5343,8 @@
       "logicFile": "31.agilogic",
       "messageNumber": 28,
       "original": " as a device for evil, it would cause",
-      "translation": "         ככלי לרשע, הוא יגרום          ",
-      "notes": "\"ככלי לרשע\" - עדיף \"ככלי רשע\" או \"לרעה\" - \"לרשע\" נשמע לא טבעי.",
+      "translation": "         ככלי רשע, הוא יגרום          ",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -5375,8 +5375,8 @@
       "logicFile": "31.agilogic",
       "messageNumber": 33,
       "original": " Encoded within this cartridge are all",
-      "translation": "         מקודדים במחסנית זו כל         ",
-      "notes": "סדר מילים לא טבעי. עדיף \"במחסנית זו מקודדים כל\" או \"כל... מקודדים במחסנית זו\".",
+      "translation": "         במחסנית זו מקודדים כל         ",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -5399,8 +5399,8 @@
       "logicFile": "31.agilogic",
       "messageNumber": 36,
       "original": "  Should any disaster befall the Star",
-      "translation": "     במידה ופורענות תפקוד את מחולל     ",
-      "notes": "\"במידה ופורענות תפקוד\" - שגיאה: \"תפקוד\" צריך להיות \"תפקוד\" (מלשון פקידה, לא תפקוד). גם \"פורענות\" גבוה מדי - עדיף \"אסון\" או \"שואה\". יש לתקן ל\"במידה ואסון יפקוד\" או \"אם אסון יפגע\".",
+      "translation": "     אם אסון יפקוד את מחולל     ",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -5615,24 +5615,24 @@
       "logicFile": "31.agilogic",
       "messageNumber": 68,
       "original": "This place is most interesting, indeed. A mixture of both old and new technologies. On one side of the chamber is a primitive steam generator. Its pistons, pounding rhythmically, turn steam into useful energy. On the other side is what appears to be a computer console.",
-      "translation": "המקום הזה מאוד מעניין, בהחלט. תערובת של טכנולוגיות ישנות וחדשות גורמות לך לתהות לגבי מקורו. או לפחות לגבי התמיכה הטכנית. מצד אחד של התא יש גנרטור אדים פרימיטיבי. הבוכנות שלו, הולמות בקצב, הופכות אדים לאנרגיה יעילה. בצד השני יש את מה שנראה כמו מסוף מחשב.",
-      "notes": "התרגום הוסיף משפט שלא קיים במקור: \"גורמות לך לתהות לגבי מקורו. או לפחות לגבי התמיכה הטכנית.\" - זו תוספת לא מורשית. יש להסיר. גם \"גנרטור אדים\" - עדיף \"גנרטור קיטור\" (steam = קיטור). \"אדים\" משתמשים בהקשר אחר בעברית.",
+      "translation": "המקום הזה מאוד מעניין, בהחלט. תערובת של טכנולוגיות ישנות וחדשות. מצד אחד של התא יש גנרטור קיטור פרימיטיבי. הבוכנות שלו, הולמות בקצב, הופכות קיטור לאנרגיה יעילה. בצד השני יש את מה שנראה כמו מסוף מחשב.",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "31.agilogic",
       "messageNumber": 69,
       "original": "There seems to be some steam escaping with each up stroke of the pistons.",
-      "translation": "נראה שקצת אדים בורחים עם כל תנועה כלפי מעלה של הבוכנות.",
-      "notes": "\"אדים בורחים\" - נשמע מוזר. עדיף \"קיטור נפלט\" או \"קיטור יוצא\". גם \"עם כל תנועה כלפי מעלה\" מסורבל - עדיף \"בכל עליה של הבוכנות\".",
+      "translation": "נראה שקצת קיטור נפלט עם כל עליה של הבוכנות.",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "31.agilogic",
       "messageNumber": 70,
       "original": "Catwalks have been built around the units to facilitate maintenance by the unique-looking Keronian workers. A few of them pop out occasionally to make critical adjustments.",
-      "translation": "גשרים נבנו סביב היחידות כדי להקל על תחזוקה על ידי עובדי קרונה בעלי המראה הייחודי. כמה מהם צצים מדי פעם כדי לבצע התאמות קריטיות.",
-      "notes": "\"גשרים\" - catwalks הם \"מסדרונות/גשרוני תחזוקה\" או \"משטחי תחזוקה\", לא גשרים רגילים. \"עובדי קרונה\" - צריך להיות \"עובדים קרוניאנים\" או \"העובדים הקרוניאנים\" (Keronian = קרוניאני, לא קרונה).",
+      "translation": "משטחי תחזוקה נבנו סביב היחידות כדי להקל על תחזוקה על ידי העובדים הקרוניאנים בעלי המראה הייחודי. כמה מהם צצים מדי פעם כדי לבצע התאמות קריטיות.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -5671,8 +5671,8 @@
       "logicFile": "31.agilogic",
       "messageNumber": 75,
       "original": "These people of Kerona are an odd-looking lot. You can't pin it down but you are sure something is different about them.",
-      "translation": "אנשי קרונה הם בהחלט חבורה משונה למראה. אתה לא מצליח לדייק את זה, אבל אתה בטוח שמשהו שונה לגביהם.",
-      "notes": "\"לא מצליח לדייק את זה\" - תרגום מילולי של \"pin it down\" שלא עובד בעברית. עדיף \"אתה לא מצליח לשים את האצבע על זה\" או \"אתה לא מצליח להבין בדיוק מה\".",
+      "translation": "אנשי קרונה הם בהחלט חבורה משונה למראה. אתה לא מצליח לשים את האצבע על זה, אבל אתה בטוח שמשהו שונה לגביהם.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -5871,8 +5871,8 @@
       "logicFile": "33.agilogic",
       "messageNumber": 8,
       "original": "Had you eaten a few less donuts during the mission, you might have cleared that rock, %s1.",
-      "translation": "אילו היית זולל פחות סופגניות במהלך המסע, היית מצליח לפנות את הסלע, %s1.",
-      "notes": "בעיה בתרגום: \"cleared that rock\" פירושו לעבור מעל הסלע או להימנע ממנו, ולא \"לפנות\" אותו (להזיז). הצעה לתיקון: \"אילו היית אוכל פחות סופגניות במהלך המשימה, היית מצליח לדלג על הסלע, %s1.\" (אפשר לשמור על \"זולל\" אם רוצים טון הומוריסטי יותר).",
+      "translation": "אילו היית זולל פחות סופגניות במהלך המשימה, היית מצליח לדלג על הסלע, %s1.",
+      "notes": "",
       "placeholders": [
         "%s"
       ]
@@ -5889,8 +5889,8 @@
       "logicFile": "33.agilogic",
       "messageNumber": 10,
       "original": "Whew! That was pretty intense. You've managed to successfully navigate through the treacherous boulder field, and are quite relieved to see that you've reached the settlement.",
-      "translation": "פיו! זה היה די אינטנסיבי. הצלחת לנווט בהצלחה דרך שדה הסלעים הבוגדני, ואתה די מקל עליך לראות שהגעת להתנחלות.",
-      "notes": "מספר בעיות: 1) \"פיו\" אינה קריאת הקלה טבעית בעברית - עדיף \"פוף!\" או \"פיוו!\". 2) \"ואתה די מקל עליך\" - משפט שגוי ולא מובן. \"quite relieved\" צריך להיות \"ואתה נושם לרווחה\" או \"ונפל לך אבן מהלב\". 3) \"התנחלות\" - כמו בהודעה 9, עדיף \"יישוב\". הצעה לתיקון: \"פוף! זה היה די אינטנסיבי. הצלחת לנווט בהצלחה דרך שדה הסלעים המסוכן, ואתה נושם לרווחה כשאתה רואה שהגעת ליישוב.\"",
+      "translation": "פיו! זה היה די אינטנסיבי. הצלחת לנווט בהצלחה דרך שדה הסלעים הבוגדני, ואתה נושם לרווחה כשאתה רואה שהגעת ליישוב.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -5953,8 +5953,8 @@
       "logicFile": "34.agilogic",
       "messageNumber": 9,
       "original": "You shell out the buckazoids and hop in. Anxiously, you fire it up and lift off.",
-      "translation": "אתה מוציא את הבאקזואידים וקופץ פנימה. בדאגה, אתה מניע אותה וממריא.",
-      "notes": "\"בדאגה\" הוא תרגום שגוי של \"anxiously\" - כאן הכוונה להתרגשות חיובית, לא לדאגה. הצעה לתיקון: \"בהתרגשות\" או \"בקוצר רוח\".",
+      "translation": "אתה מוציא את הבאקזואידים וקופץ פנימה. בהתרגשות, אתה מניע אותה וממריא.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -5977,8 +5977,8 @@
       "logicFile": "34.agilogic",
       "messageNumber": 12,
       "original": "\\\"So what are ya trying to pull? If you don't have the cash you can hit the road. Go on, get out of here. You're wasting my time!\\\"",
-      "translation": "\\\"אז מה אתה מנסה למשוך? אם אין לך את הכסף אתה יכול לפרוש מכאן. קדימה, התפנה מפה. אתה מבזבז לי את הזמן!\\\"",
-      "notes": "\"מה אתה מנסה למשוך\" הוא תרגום מילולי מדי של הביטוי \"what are you trying to pull\" שפירושו \"מה אתה מנסה לעשות עליי\". הצעה לתיקון: \"מה אתה מנסה לעבוד עליי?\" או \"מה אתה מנסה למכור לי?\"",
+      "translation": "\"אז מה אתה מנסה לעבוד עליי? אם אין לך את הכסף אתה יכול לפרוש מכאן. קדימה, התפנה מפה. אתה מבזבז לי את הזמן!\"",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -6017,8 +6017,8 @@
       "logicFile": "34.agilogic",
       "messageNumber": 17,
       "original": "Off you go into the purple yonder.",
-      "translation": "נסוע לך אל הרחק הסגול.",
-      "notes": "\"נסוע לך\" לא טבעי ולא תקין דקדוקית. הצעה לתיקון: \"ואתה יוצא לדרך אל המרחב הסגול\" או \"והנך ממריא אל האופק הסגול\".",
+      "translation": "והנך ממריא אל המרחב הסגול.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -6043,8 +6043,8 @@
       "logicFile": "34.agilogic",
       "messageNumber": 20,
       "original": "\\\"Well, geez, guy! It seems it's developed some minor malfunction since we acquired it. We did have a small micro-meteroid shower the other day. Maybe that was it! Yeah, that was probably it.\\\"",
-      "translation": "\\\"ובכן, אלוהים, בנאדם! נראה שפיתחה תקלה קטנה מאז שרכשנו אותה. היה לנו מטר מיקרו-מטאורואידים קטן לפני כמה ימים. אולי זה היה זה! כן, זה כנראה היה זה.\\\"",
-      "notes": "שתי בעיות: 1) \"אלוהים\" חזק מדי כתרגום ל-\"geez\" - עדיף \"יאללה\" או \"וואי\". 2) \"מטר\" הוא תרגום שגוי לגמרי של \"shower\" (מקלחת/גשם) - תורגם כ\"meter\"! הצעה לתיקון: \"היה לנו גשם קל של מיקרו-מטאורואידים\" או \"היתה לנו מקלחת קטנה של מיקרו-מטאורואידים\".",
+      "translation": "\"ובכן, אלוהים, בנאדם! נראה שפיתחה תקלה קטנה מאז שרכשנו אותה. היה לנו גשם קל של מיקרו-מטאורואידים לפני כמה ימים. אולי זה היה זה! כן, זה כנראה היה זה.\"",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -6123,24 +6123,24 @@
       "logicFile": "34.agilogic",
       "messageNumber": 30,
       "original": "You are standing against the protective barrier encircling Ulence Flats. Due to the fact that you are land-based you are not able to pass.",
-      "translation": "אתה עומד נגד מחסום המגן המקיף את מישורי יולנס. מאחר שאתה יבשתי, אינך יכול לעבור.",
-      "notes": "\"עומד נגד\" שגוי - \"against\" כאן במשמעות של \"ליד/כנגד\" ולא \"מתנגד\". הצעה לתיקון: \"אתה עומד ליד מחסום המגן\" או \"אתה עומד מול מחסום המגן\".",
+      "translation": "אתה עומד ליד מחסום המגן המקיף את מישורי יולנס. מאחר שאתה יבשתי, אינך יכול לעבור.",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "34.agilogic",
       "messageNumber": 31,
       "original": "There is a hole here. I'm sure you recall its origin. At the bottom is the fine craft you rode to glory in. There is no reason to explore the hole any further.",
-      "translation": "יש פה חור. אני בטוח שאתה זוכר מה המקור שלו. בתחתיתו יש כלי נהדר שכמעט נסעת בו בדרכך לתהילה. אין סיבה לחקור את החור עוד.",
-      "notes": "המילה \"כמעט\" נוספה ואינה קיימת במקור - השחקן אכן נסע בכלי הזה לתהילה. הצעה לתיקון: להסיר את המילה \"כמעט\" - \"שנסעת בו בדרכך לתהילה\".",
+      "translation": "יש פה חור. אני בטוח שאתה זוכר מה המקור שלו. בתחתיתו יש כלי נהדר שנסעת בו בדרכך לתהילה. אין סיבה לחקור את החור עוד.",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "34.agilogic",
       "messageNumber": 32,
       "original": "Darn the luck, %s1. You've crashed in the dunes and ended your life. The various inhabitants of the Keronian desert are now feasting on what remains of you. Guess that wasn't such a hot purchase.",
-      "translation": "לעזאזל עם המזל, %s1. התרסקת בדיונות וסיימת את חייך. שוכני המדבר הקרוניאני השונים כעת חוגגים על שרידיך. מסתבר שזו לא היתה קניה כל כך חמה.",
-      "notes": "1) \"חוגגים על שרידיך\" - \"feasting\" פירושו אוכלים/סועדים, לא חוגגים. הצעה: \"סועדים על שרידיך\" או \"נהנים מארוחה על חשבונך\". 2) \"קניה חמה\" - ביטוי לא טבעי בעברית. הצעה לתיקון: \"עסקה כל כך טובה\" או \"קניה כל כך חכמה\".",
+      "translation": "לעזאזל עם המזל, %s1. התרסקת בדיונות וסיימת את חייך. שוכני המדבר הקרוניאני השונים כעת סועדים על שרידיך. מסתבר שזו לא היתה קניה כל כך מוצלחת.",
+      "notes": "",
       "placeholders": [
         "%s"
       ]
@@ -6241,8 +6241,8 @@
       "logicFile": "35.agilogic",
       "messageNumber": 8,
       "original": "\\\"Fine. Be that way.\\\"",
-      "translation": "בסדר. שיהיה ככה.",
-      "notes": "חסרות מרכאות בתרגום. הצעה: '\\\"בסדר. שיהיה ככה.\\\"'",
+      "translation": "\"בסדר. שיהיה ככה.\"",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -6259,16 +6259,16 @@
       "logicFile": "35.agilogic",
       "messageNumber": 10,
       "original": "\\\"Glad we could do business. I'll just take that key. Thank you kindly. Hope your stay in Ulence Flats is an interesting one.\\\"",
-      "translation": "שמח שהבנו איש ללב רעהו. רק אקח את המפתח. תודה מקרב לב. מקווה ששהייתך במישורי יולנס תעבור עליך בנעימים.",
-      "notes": "חסרות מרכאות. 'הבנו איש ללב רעהו' - ביטוי מליצי ופורמלי מדי, לא מתאים לשיחה קלילה של סוחר. 'תעבור עליך בנעימים' - גם מליצי. המקור אומר 'interesting' לא 'pleasant'. הצעה: '\\\"שמח שסגרנו עסקה. רק אקח את המפתח. תודה רבה. מקווה שהשהות שלך במישורי יולנס תהיה מעניינת.\\\"'",
+      "translation": "\"שמח שסגרנו עסקה. רק אקח את המפתח. תודה מקרב לב. מקווה ששהייתך במישורי יולנס תהיה מעניינת.\"",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "35.agilogic",
       "messageNumber": 11,
       "original": "\\\"Glad we could do business. Hope your stay in Ulence Flats is an interesting one.\\\"",
-      "translation": "שמח שהבנו איש ללב רעהו. מקווה ששהייתך במישורי יולנס תעבור עליך בנעימים.",
-      "notes": "חסרות מרכאות. אותן בעיות כמו בהודעה 10 - ביטויים מליציים, ו'interesting' תורגם כ'נעימים'. הצעה: '\\\"שמח שסגרנו עסקה. מקווה שהשהות שלך במישורי יולנס תהיה מעניינת.\\\"'",
+      "translation": "\"שמח שסגרנו עסקה. מקווה ששהייתך במישורי יולנס תהיה מעניינת.\"",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -6301,16 +6301,16 @@
       "logicFile": "35.agilogic",
       "messageNumber": 15,
       "original": "\\\"Say there, pal. It's come to my attention that you're in the market for some transportation.\\\"",
-      "translation": "תגיד, אח שלי. השמועה אומרת כי אתה בעניין של רכישת כלי תחבורה.",
-      "notes": "חסרות מרכאות. 'כי' פורמלי - עדיף 'ש'. 'רכישת כלי תחבורה' - פורמלי ומסורבל מדי. 'in the market' בהקשר זה = 'מחפש לקנות'. הצעה: '\\\"תגיד, אח שלי. השמועה אומרת שאתה מחפש להשיג תחבורה.\\\"'",
+      "translation": "\"תגיד, אח שלי. השמועה אומרת שאתה בעניין של רכישת כלי תחבורה.\"",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "35.agilogic",
       "messageNumber": 16,
       "original": "\\\"I may be able to help. If you'll follow me, I'd like to show you a fine little piece of machinery that'll knock your eyes out.\\\"",
-      "translation": "יתכן ואוכל לעזור. אם תבוא אחרי, אראה לך חתיכת מכונה מדהימה שתוציא לך את העיניים מהחורים.",
-      "notes": "חסרות מרכאות. 'יתכן ואוכל' - פורמלי, עדיף 'אולי אוכל'. 'שתוציא לך את העיניים מהחורים' - ביטוי קצת גס/אגרסיבי בעברית. המקור 'knock your eyes out' = להרשים מאוד. הצעה: '\\\"אולי אוכל לעזור. אם תבוא אחרי, אראה לך חתיכת מכונה שתעשה לך את הראש.\\\"'",
+      "translation": "\"יתכן ואוכל לעזור. אם תבוא אחרי, אראה לך חתיכת מכונה מדהימה שתוציא לך את העיניים מהחורים.\"",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -6325,8 +6325,8 @@
       "logicFile": "35.agilogic",
       "messageNumber": 18,
       "original": "There is a small rounded structure here with a door on one side. It is typical of some of the prefab structures used in frontier areas years ago.",
-      "translation": "יש פה מבנה עגול עם דלת בצד אחד. זה מראה טיפוסי לחלק מהמבנים הטרומיים שנבנו על ידי החלוצים לפני שנים.",
-      "notes": "'זה מראה טיפוסי' - לא נכון דקדוקית, צריך להיות 'זה מבנה טיפוסי' או 'יש לו מראה טיפוסי'. המקור לא מזכיר 'חלוצים' - 'frontier areas' = 'אזורי ספר'. 'prefab' = 'טרומי' (טרום-ייצור). הצעה: 'יש פה מבנה עגול קטן עם דלת בצד אחד. זהו מבנה טיפוסי מסוג המבנים הטרומיים שהשתמשו בהם באזורי הספר לפני שנים.'",
+      "translation": "יש פה מבנה עגול קטן עם דלת בצד אחד. זהו מבנה טיפוסי מסוג המבנים הטרומיים שהשתמשו בהם באזורי הספר לפני שנים.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -6365,8 +6365,8 @@
       "logicFile": "35.agilogic",
       "messageNumber": 23,
       "original": "You are standing against the protective barrier encircling Ulence Flats. Due to the fact that you are land-based, you are not able to pass.",
-      "translation": "אתה עומד על יד מחסום המגן המקיף את מישורי יולנס. לאור העובדה שאתה יונק יבשתי, אין באפשרותך לדלג מעליו.",
-      "notes": "'יונק יבשתי' - תרגום מוזר ל-'land-based'. הכוונה היא שהשחקן הולך על הקרקע (לא עף). 'אין באפשרותך' - פורמלי מדי. הצעה: 'אתה עומד ליד מחסום המגן המקיף את מישורי יולנס. מכיוון שאתה הולך על הקרקע, אתה לא יכול לעבור.'",
+      "translation": "אתה עומד ליד מחסום המגן המקיף את מישורי יולנס. מכיוון שאתה הולך על הקרקע, אתה לא יכול לעבור.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -6381,16 +6381,16 @@
       "logicFile": "35.agilogic",
       "messageNumber": 25,
       "original": "The fresh air helps you snap out of the stupor which that foul brew was responsible for.",
-      "translation": "האוויר הצח עוזר לך להתנער מהסדרון שאותה משקה מגעיל גרם לך.",
-      "notes": "'סדרון' - מילה לא נפוצה, עדיף 'קהות' או 'עילפון'. 'שאותה משקה' - שגיאת מין, 'משקה' הוא זכר. צריך 'שאותו משקה'. הצעה: 'האוויר הצח עוזר לך להתנער מהקהות שהמשקה המגעיל ההוא גרם לך.'",
+      "translation": "האוויר הצח עוזר לך להתנער מהקהות שאותו משקה מגעיל גרם לך.",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "35.agilogic",
       "messageNumber": 26,
       "original": "Ulence Flats is a typical example of some of the frontier settlements that sprang up in the early days of the Outer Zone exploration several years ago. Unfortunately, this attracted many unsavory individuals looking to make a quick buckazoid. Caution is advised.",
-      "translation": "מישורי אולנס היא דוגמה טיפוסית למושבת חלוצים שקמה לפני מספר שנים בתקופה המוקדמת של חקר חוץ-אזורי. למרבה הצער, זה משך הרבה טיפוסים שמחפשים להרוויח באקזואיד מהיר. מומלץ לפקוח עין.",
-      "notes": "שגיאת כתיב: 'אולנס' צריך להיות 'יולנס' (כמו בשאר ההודעות). 'חקר חוץ-אזורי' - לא ברור, עדיף 'חקר האזור החיצוני' או 'חקר הגלקסיה החיצונית'. 'מומלץ לפקוח עין' - תרגום יפה ל-'Caution is advised'.",
+      "translation": "מישורי יולנס היא דוגמה טיפוסית למושבת חלוצים שקמה לפני מספר שנים בתקופה המוקדמת של חקר חוץ-אזורי. למרבה הצער, זה משך הרבה טיפוסים שמחפשים להרוויח באקזואיד מהיר. מומלץ לפקוח עין.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -6461,24 +6461,24 @@
       "logicFile": "35.agilogic",
       "messageNumber": 35,
       "original": "You are not in a position to do that.",
-      "translation": "אתה לא קרוב לזה.",
-      "notes": "התרגום משנה את המשמעות. 'not in a position' = לא במצב/עמדה לעשות זאת (יכול להיות פיזי או אחר). התרגום מצמצם רק למרחק. הצעה: 'אתה לא במצב לעשות את זה.' או 'אין לך אפשרות לעשות את זה.'",
+      "translation": "אתה לא במצב לעשות את זה.",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "35.agilogic",
       "messageNumber": 36,
       "original": "You watch as the skimmer is driven away by its new owner.",
-      "translation": "אתה צופה בעוד הרחפת מסיעה משם על ידי בעליה החדשים.",
-      "notes": "'מסיעה' - שגיאה דקדוקית. הרחפת מוּסָעַת (סביל) לא מסיעה (פעיל). 'בעליה החדשים' - צריך להיות 'בעליה החדש' (יחיד) כי מדובר באדם אחד. הצעה: 'אתה צופה כשהרחפת מוסעת משם על ידי בעליה החדש.'",
+      "translation": "אתה צופה כשהרחפת מוסעת משם על ידי בעליה החדש.",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "35.agilogic",
       "messageNumber": 37,
       "original": "My, my. It would appear that your skimmer has become the property of another. I wonder who forgot to remove the key?",
-      "translation": "אוי ואבוי. נראה כי רחפתך עברה לרשותו של איש אחר. מעניין מי שכח את המפתח במתג ההתנעה?",
-      "notes": "'My, my' תורגם כ'אוי ואבוי' - זה חזק מדי. 'My, my' הוא יותר הבעת הפתעה קלה/אירונית. הצעה: 'או או.' או 'נו נו.' המקור לא מזכיר 'מתג התנעה' - רק 'key'. הצעה: 'מעניין מי שכח להוציא את המפתח?'",
+      "translation": "נו נו. נראה שהרחפת שלך עברה לרשותו של מישהו אחר. מעניין מי שכח להוציא את המפתח?",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -6623,8 +6623,8 @@
       "logicFile": "36.agilogic",
       "messageNumber": 4,
       "original": "\\\"%v124 buckazoids? I guess it's better than nothing. Here, keep five for yourself. I gotta admit you look like you need it. Well, gotta run. Later, pal.\\\"",
-      "translation": "\\\"%v124 באקזואידים? אני משער שזה עדיף מכלום. הנה, תשאיר לעצמך חמש. אני חייב להודות שאתה נראה אחד שזקוק לכל שקל. טוב, אני חייב לרוץ. להתראות, חבר.\\\"",
-      "notes": "1. \"אני משער\" - נשמע פורמלי מדי לדמות פושעת. הצעה: \"נו, זה יותר טוב מכלום\". 2. \"אני חייב לרוץ\" - תרגום מילולי של \"gotta run\" שלא מתאים לעברית. הצעה: \"טוב, אני מתנדף\" או \"יאללה, אני מעיף\". 3. \"כל שקל\" - מוזר כי הכסף במשחק הוא באקזואידים, לא שקלים. הצעה: \"שאתה נראה כזה שזקוק לכל באקזואיד\" או פשוט \"שאתה נראה נזקק\".",
+      "translation": "\"%v124 באקזואידים? נו, זה יותר טוב מכלום. הנה, תשאיר לעצמך חמש. אני חייב להודות שאתה נראה כזה שצריך כל באקזואיד. טוב, אני מתנדף. להתראות, חבר.\"",
+      "notes": "",
       "placeholders": [
         "%v"
       ]
@@ -6633,8 +6633,8 @@
       "logicFile": "36.agilogic",
       "messageNumber": 8,
       "original": "Your newly acquired droid seems to have self-destructed. Hope it's under warranty.",
-      "translation": "הרובוט שרכשת לאחרונה התפוצץ עצמית כנראה. תקווה שזה מכוסה באחריות.",
-      "notes": "1. \"התפוצץ עצמית\" - שגיאה דקדוקית. \"התפוצץ\" כבר מרמז על עצמי (זה פועל רפלקסיבי), ואם רוצים להדגיש אפשר \"השמיד את עצמו\". הצעה: \"הדרואיד שרכשת לאחרונה כנראה השמיד את עצמו\". 2. \"תקווה שזה מכוסה באחריות\" - חסר נושא ונשמע לא טבעי. הצעה: \"מקווים שיש עליו אחריות\" או \"בתקווה שהוא באחריות\". 3. לפי vocabulary.json יש להשתמש ב\"דרואיד\" ולא \"רובוט\".",
+      "translation": "הדרואיד שרכשת לאחרונה כנראה השמיד את עצמו. מקווים שיש עליו אחריות.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -6697,16 +6697,16 @@
       "logicFile": "36.agilogic",
       "messageNumber": 16,
       "original": "I'm beginning to understand you a little better now. You snort some of the powder and feel a pain like that of a thousand krebble mites feasting on your nasal membranes.",
-      "translation": "אני מתחיל להבין אותך קצת יותר טוב עכשיו. אתה מסניף מהאבקה וחש בכאב כמו של אלף קרדיות קרבל סועדות על קרום האף שלך.",
-      "notes": "1. \"קרדיות קרבל\" - לא ברור מה זה. \"krebble mites\" צריך להיות משהו כמו \"קרציות קרבל\" (mites = קרציות). הצעה: \"אלף קרציות קרבל נוגסות בקרום האף שלך\". 2. \"סועדות\" נשמע מגוחך בהקשר הזה - זה פועל ספרותי מדי לתיאור של קרציות. הצעה: \"אוכלות\" או \"נוגסות\" או \"טורפות\".",
+      "translation": "אני מתחיל להבין אותך קצת יותר טוב עכשיו. אתה מסניף מהאבקה וחש בכאב כמו של אלף קרציות קרבל טורפות את קרום האף שלך.",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "36.agilogic",
       "messageNumber": 17,
       "original": "The extremely fine dust seeps between your fingers. There is no need for it anyway. Especially considering its origin.",
-      "translation": "האבק הדק במיוחד חולש בין אצבעותיך. ממילא אין צורך בו. במיוחד בהתחשב במקורו.",
-      "notes": "\"חולש\" - שגיאה. הפועל הנכון הוא \"חולף\" או \"נשמט\" או \"מחלחל\". הצעה: \"האבק הדק במיוחד מחלחל בין אצבעותיך\".",
+      "translation": "האבק הדק במיוחד מחלחל בין אצבעותיך. ממילא אין צורך בו. במיוחד בהתחשב במקורו.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -6721,8 +6721,8 @@
       "logicFile": "36.agilogic",
       "messageNumber": 20,
       "original": "The droid, while looking small is quite heavy and not moveable by you.",
-      "translation": "הרובוט, למרות שנראה קטן, הוא די כבד ולא ניתן להזזה על ידך.",
-      "notes": "1. לפי vocabulary.json יש להשתמש ב\"דרואיד\" ולא \"רובוט\". 2. \"ולא ניתן להזזה על ידך\" - מסורבל ופסיבי מדי. הצעה: \"הדרואיד, למרות שנראה קטן, די כבד ואתה לא מצליח להזיז אותו\".",
+      "translation": "הדרואיד, למרות שנראה קטן, הוא די כבד ואתה לא מצליח להזיז אותו.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -6745,8 +6745,8 @@
       "logicFile": "36.agilogic",
       "messageNumber": 23,
       "original": "He just wants your buckazoids but will take your life if he has to.",
-      "translation": "הוא מתעניין רק בכספך, אך יטול את חייך אם לא תשאיר לו ברירה.",
-      "notes": "1. \"buckazoids\" תורגם ל\"כספך\" - צריך להשאיר את השם המקורי \"באקזואידים\" כדי לשמור על עקביות. הצעה: \"הוא רוצה רק את הבאקזואידים שלך\". 2. \"יטול את חייך\" - ספרותי מדי. הצעה: \"ייקח את חייך\" או \"יהרוג אותך\".",
+      "translation": "הוא רוצה רק את הבאקזואידים שלך, אך ייקח את חייך אם לא תשאיר לו ברירה.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -6769,8 +6769,8 @@
       "logicFile": "36.agilogic",
       "messageNumber": 30,
       "original": "You are standing against the protective barrier encircling Ulence Flats. Due to the fact that you are land-based, you are not able to pass.",
-      "translation": "אתה עומד על יד מחסום המגן המקיף את מישורי אולנס. לאור העובדה שאתה יונק יבשתי, אין באפשרותך לעבור.",
-      "notes": "1. \"land-based\" תורגם ל\"יונק יבשתי\" - שגיאה. \"land-based\" לא אומר \"יונק\" אלא \"יצור יבשתי\" או \"חי ביבשה\". הצעה: \"בגלל שאתה יצור יבשתי\". 2. \"אין באפשרותך\" - פורמלי מדי. הצעה: \"אתה לא יכול לעבור\".",
+      "translation": "אתה עומד ליד מחסום המגן המקיף את מישורי יולנס. מכיוון שאתה יצור יבשתי, אתה לא יכול לעבור.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -6785,8 +6785,8 @@
       "logicFile": "36.agilogic",
       "messageNumber": 32,
       "original": "\\\"%v124 buckazoids? I guess it's better than nothing. Here, keep five for yourself. I gotta admit you look like you need it.\\\"",
-      "translation": "\\\"%v124 באקזואידים? אני משער שזה עדיף מכלום. הנה, תשאיר לעצמך חמש. אני חייב להודות שאתה נראה אחד שזקוק לכל שקל.\\\"",
-      "notes": "1. \"אני משער\" - נשמע פורמלי מדי לדמות פושעת. הצעה: \"נו, זה יותר טוב מכלום\". 2. \"כל שקל\" - מוזר כי הכסף במשחק הוא באקזואידים, לא שקלים. הצעה: \"שאתה נראה כזה שזקוק לכל באקזואיד\" או פשוט \"שאתה נראה נזקק\".",
+      "translation": "\"%v124 באקזואידים? נו, זה יותר טוב מכלום. הנה, תשאיר לעצמך חמש. אני חייב להודות שאתה נראה כזה שצריך כל באקזואיד.\"",
+      "notes": "",
       "placeholders": [
         "%v"
       ]
@@ -6819,8 +6819,8 @@
       "logicFile": "36.agilogic",
       "messageNumber": 36,
       "original": "The droid is beyond repair. Now you know why it was on sale.",
-      "translation": "הרובוט אינו ניתן לתיקון. עכשיו אתה יודע למה הוא היה במבצע.",
-      "notes": "1. לפי vocabulary.json יש להשתמש ב\"דרואיד\" ולא \"רובוט\". הצעה: \"הדרואיד לא ניתן לתיקון\". 2. \"אינו ניתן לתיקון\" - קצת מסורבל. הצעה: \"הדרואיד גמור / הרוס לגמרי\".",
+      "translation": "הדרואיד לא ניתן לתיקון. עכשיו אתה יודע למה הוא היה במבצע.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -6835,16 +6835,16 @@
       "logicFile": "37.agilogic",
       "messageNumber": 2,
       "original": "\\\"Well, there's a man with a good eye. This here is the keenest little scrambler in the hemisphere. Top of the line. Handles like a charm. Perfect for cruising the asteroid fields.\\\"",
-      "translation": "ובכן, הנה בן אדם מבין עניין. זאתי כאן היא המערבלת הכי חדה בחצי הכדור. הטובה מסוגה. מסתחררת כמו קסם. מושלמת לשיוט בשדות האסטרואידים.",
-      "notes": "כמה בעיות: 1) \"זאתי\" - מילה לא קיימת בעברית, יש להשתמש ב\"זאת\" או \"זו\". 2) \"המערבלת\" - לא מונח מקובל לחללית, \"scrambler\" כאן מתייחס לסוג של כלי טיס קטן ומהיר. הצעה: \"הסקאמבלר\" או \"הקפצנית\". 3) \"מסתחררת כמו קסם\" - התרגום של \"handles like a charm\" שגוי. הביטוי מתאר נהיגה/טיסה חלקה ונוחה, לא סיבוב. הצעה: \"מתנהגת כמו חלום\" או \"נשמעת לפקודות בקסם\". 4) \"הטובה מסוגה\" - מעט מסורבל. הצעה: \"מהליין העליון\" או \"פרימיום\".",
+      "translation": "\"ובכן, הנה בן אדם מבין עניין. זו כאן היא המערבלת הכי חדה בחצי הכדור. הטובה מסוגה. מתנהגת כמו חלום. מושלמת לשיוט בשדות האסטרואידים.\"",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "37.agilogic",
       "messageNumber": 3,
       "original": "\\\"And she's got all the thrust a guy could need. I tell ya, she's an outright steal at 214 buckazoids.\\\"",
-      "translation": "ויש לה את כל הדחף שבן אדם יכול לחלום. אני אומר'ך אחי, קבל אותה במחיר חד פעמי של 214 באקזואידים.",
-      "notes": "1) \"אני אומר'ך\" - צורה לא תקנית. הצעה: \"אני אומר לך\" או \"שמע\". 2) \"קבל אותה במחיר חד פעמי\" - לא מעביר את המשמעות של \"outright steal\" (גנבה ממש, עסקה מטורפת). הצעה: \"היא גנבה אמיתית ב-214 באקזואידים\" או \"זו עסקת חייך ב-214 באקזואידים\".",
+      "translation": "\"ויש לה את כל הדחף שבן אדם יכול לחלום. אני אומר לך אחי, היא גנבה אמיתית ב-214 באקזואידים.\"",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -6891,8 +6891,8 @@
       "logicFile": "37.agilogic",
       "messageNumber": 13,
       "original": "\\\"I tell ya, I think you've made a wise decision. She's a beauty. The keys are in her. If you have any problems, don't hesitate to come back and tell us about 'em.\\\"",
-      "translation": "ת'שמע לי, קיבלת את ההחלטה הנכונה. היא מקסימה. המפתחות בפנים. אם אתה נתקל בבעיות אל תהסס לחזור ולספר לנו עליהן.",
-      "notes": "\"אם אתה נתקל בבעיות\" - זמן הווה במקום עתיד. הצעה: \"אם תיתקל בבעיות\" או \"אם יהיו לך בעיות\".",
+      "translation": "\"ת'שמע לי, קיבלת את ההחלטה הנכונה. היא מקסימה. המפתחות בפנים. אם תיתקל בבעיות אל תהסס לחזור ולספר לנו עליהן.\"",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -7013,8 +7013,8 @@
       "logicFile": "37.agilogic",
       "messageNumber": 29,
       "original": "\\\"Sector HH it is. I will proceed with course entry.\\\"",
-      "translation": "\\\"סקטור טט זה. אמשיך בהזנת המסלול.\\\"",
-      "notes": "\"סקטור טט זה\" - משפט קטוע ולא טבעי בעברית. הצעה: \"סקטור טט, הבנתי. ממשיך בהזנת המסלול.\" בנוסף, \"טט\" הוא תרגום של \"HH\" לעברית (ה' ה' -> ט' ט') - זה יכול להיות מכוון, אך כדאי לוודא שזו הכוונה.",
+      "translation": "\"סקטור טט, הבנתי. אמשיך בהזנת המסלול.\"",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -7029,8 +7029,8 @@
       "logicFile": "37.agilogic",
       "messageNumber": 31,
       "original": "You are standing against the protective barrier encircling Ulence Flats. Due to the fact that you are land-based, you are not able to pass.",
-      "translation": "אתה עומד על יד מחסום המגן המקיף את מישורי יולנס. לאור העובדה שאתה יונק יבשתי, אין באפשרותך לדלג מעליו.",
-      "notes": "1) \"יונק יבשתי\" - תרגום מוזר ל-\"land-based\". הכוונה היא שאתה יצור יבשתי (לא יכול לעוף). הצעה: \"יצור יבשתי\" או \"הולך על הקרקע\". 2) \"לאור העובדה\" - פורמלי מדי. הצעה: \"מכיוון ש\" או \"בגלל ש\". 3) \"לדלג מעליו\" - המקור אומר \"pass\" (לעבור), לא לדלג. הצעה: \"אתה לא יכול לעבור\".",
+      "translation": "אתה עומד ליד מחסום המגן המקיף את מישורי יולנס. מכיוון שאתה יצור יבשתי, אתה לא יכול לעבור.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -7061,24 +7061,24 @@
       "logicFile": "37.agilogic",
       "messageNumber": 35,
       "original": "Seated in the cruiser you notice there are no controls here, just a button marked \\\"LOAD\\\". Tiny must have been serious when he said you would need a droid to fly it.",
-      "translation": "בזמן שאתה יושב בחללית הקרב, אתה מבחין כי אין כל לחצנים בהישג ידך, מלבד כפתור המסומן \\\"טען\\\". זעירי התכוון ברצינות באומרו שרק רובוט מסוגל להטיס את הדבר הזה.",
-      "notes": "1) \"חללית הקרב\" - \"cruiser\" זה לא בהכרח חללית קרב, יותר סירת שיוט/טיול. הצעה: \"המשחתת\" או \"החללית\". 2) \"כי\" - פורמלי מדי. הצעה: \"ש\". 3) \"מסוגל להטיס\" - המקור אומר \"need a droid to fly it\", לא שרק הדרואיד מסוגל. הצעה: \"שתצטרך רובוט כדי להטיס את הדבר הזה\". 4) עקביות: \"רובוט\" במקום \"דרואיד\".",
+      "translation": "בזמן שאתה יושב בחללית, אתה מבחין שאין כל לחצנים בהישג ידך, מלבד כפתור המסומן \"טען\". זעירי התכוון ברצינות באומרו שתצטרך דרואיד כדי להטיס את הדבר הזה.",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "37.agilogic",
       "messageNumber": 36,
       "original": "This is actually not a bad looking ship. It appears to be a Drallion model cruiser. They have a reputation for quickness and reliability. You are surprised that someone (or something) of Tiny's caliber would be carrying it.",
-      "translation": "למעשה, החללית נראית לא רע בכלל. מסתבר שהיא משחתת דרליונית. יצא להן מוניטין של זריזות ואמינות. אתה מופתע שמישהו (או משהו) ברמה של זעירי מחזיק ברשותו כאלה.",
-      "notes": "1) \"יצא להן\" - למי? לא ברור. הצעה: \"יצא להן, למשחתות מדגם זה,\" או \"יש להן מוניטין\". 2) \"מחזיק ברשותו כאלה\" - \"כאלה\" בלשון רבים אך מדובר בספינה אחת. הצעה: \"מחזיק כזו\" או \"סוחר בכאלה\".",
+      "translation": "למעשה, החללית נראית לא רע בכלל. מסתבר שהיא משחתת דרליונית. יצא לדגם הזה מוניטין של זריזות ואמינות. אתה מופתע שמישהו (או משהו) ברמה של זעירי מחזיק כזו.",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "37.agilogic",
       "messageNumber": 37,
       "original": "\\\"Sorry, you can only fly it when you buy it. And, oh by the way, there are no refunds either. Company Policy.\\\"",
-      "translation": "מצטער, אתה יכול להטיס רק אחרי שתקנה.__אה, דרך אגב, גם אין החזרים.__מדיניות של החברה.",
-      "notes": "1) חסרות מרכאות בתחילת המשפט (יש במקור). 2) \"__\" - נראה כמו סימון טכני שצריך להיות שבירת שורה או רווח. 3) \"מדיניות של החברה\" - קצת מסורבל. הצעה: \"מדיניות החברה\" או \"נהלי החברה\".",
+      "translation": "\"מצטער, אתה יכול להטיס רק אחרי שתקנה. אה, דרך אגב, גם אין החזרים. מדיניות החברה.\"",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -7109,8 +7109,8 @@
       "logicFile": "37.agilogic",
       "messageNumber": 41,
       "original": "Looking at the inside of the ship you notice there are no controls here, just a button marked \\\"LOAD\\\". Tiny must have been serious when he said you would need a droid to fly it.",
-      "translation": "בזמן שאתה יושב בחללית הקרב, אתה מבחין כי אין כל לחצנים בהישג ידך, מלבד כפתור המסומן \\\"טען\\\". זעירי התכוון ברצינות באומרו שרק רובוט מסוגל להטיס את הדבר הזה.",
-      "notes": "1) המקור אומר \"Looking at the inside\" אך התרגום אומר \"בזמן שאתה יושב\" - זה שינוי משמעות. הצעה: \"מביט בתוך החללית, אתה מבחין...\". 2) אותן בעיות כמו במסר 35 - \"חללית הקרב\", \"כי\" פורמלי, ו\"רק רובוט מסוגל\" במקום \"תצטרך רובוט\". 3) עקביות: \"רובוט\" במקום \"דרואיד\".",
+      "translation": "מביט בתוך החללית, אתה מבחין שאין כל לחצנים בהישג ידך, מלבד כפתור המסומן \"טען\". זעירי התכוון ברצינות באומרו שתצטרך דרואיד כדי להטיס את הדבר הזה.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -7141,8 +7141,8 @@
       "logicFile": "37.agilogic",
       "messageNumber": 45,
       "original": "This is actually not a bad looking ship. It appears to be a Drallion model cruiser. They have a reputation for quickness and reliability.",
-      "translation": "למעשה, החללית נראית לא רע בכלל. מסתבר שהיא משחתת דרליונית. יצא להן מוניטין של זריזות ואמינות.",
-      "notes": "אותה בעיה כמו במסר 36: \"יצא להן\" - למי? הצעה: \"למשחתות מסוג זה יש מוניטין של זריזות ואמינות\".",
+      "translation": "למעשה, החללית נראית לא רע בכלל. מסתבר שהיא משחתת דרליונית. יצא לדגם הזה מוניטין של זריזות ואמינות.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -7237,8 +7237,8 @@
       "logicFile": "38.agilogic",
       "messageNumber": 30,
       "original": "You are standing against the protective barrier encircling Ulence Flats. Due to the fact that you are land-based, you are not able to pass.",
-      "translation": "אתה עומד על יד מחסום המגן המקיף את מישורי יולנס. לאור העובדה שאתה יונק יבשתי, אין באפשרותך לדלג מעליו.",
-      "notes": "מספר בעיות: 1) \"land-based\" תורגם ל\"יונק יבשתי\" שזה שגוי - הכוונה היא שהשחקן הוא יצור יבשתי (לא יכול לעוף או לשחות), לא יונק. 2) \"לדלג מעליו\" - במקור כתוב \"to pass\" (לעבור), לא לדלג. 3) \"לאור העובדה\" ו\"אין באפשרותך\" הם ביטויים פורמליים מדי לטון המשחק. הצעה לתיקון: \"אתה עומד ליד מחסום המגן המקיף את מישורי יולנס. מכיוון שאתה יצור יבשתי, אתה לא יכול לעבור אותו.\"",
+      "translation": "אתה עומד ליד מחסום המגן המקיף את מישורי יולנס. מכיוון שאתה יצור יבשתי, אתה לא יכול לעבור אותו.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -7293,24 +7293,24 @@
       "logicFile": "39.agilogic",
       "messageNumber": 30,
       "original": "You are standing against the protective barrier encircling Ulence Flats. Due to the fact that you are land-based, you are not able to pass.",
-      "translation": "אתה עומד נגד מחסום המגן המקיף את מישורי יולנס. מאחר שאתה יבשתי, אינך יכול לעבור.",
-      "notes": "1. \"עומד נגד\" - בעברית \"נגד\" מרמז על התנגדות. באנגלית \"against\" כאן פירושו צמוד ל/ליד. הצעה: \"אתה עומד ליד מחסום המגן\" או \"אתה עומד מול מחסום המגן\". 2. \"מאחר שאתה יבשתי\" - המילה \"יבשתי\" נשמעת מדעית/פורמלית מדי למשחק. הצעה: \"מכיוון שאתה יצור יבשה\" או \"בגלל שאתה לא יכול לעוף/לצוף\". 3. \"אינך יכול לעבור\" - פורמלי מדי. הצעה: \"אתה לא יכול לעבור\".",
+      "translation": "אתה עומד ליד מחסום המגן המקיף את מישורי יולנס. מאחר שאתה יבשתי, אתה לא יכול לעבור.",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "41.agilogic",
       "messageNumber": 1,
       "original": "\\\"We have established visual contact with a ship of Sarien origin,\\\" says the droid. \\\"The name Deltaur is confirmed. You might consider the fact that we are in danger by being anywhere near this ship. I hope you didn't waste money on the extended warranty when you purchased me.\\\"",
-      "translation": "\\\"יצרנו קשר ראייה עם ספינה ממוצא סריאני,\\\" אומר הרובוט. \\\"השם דלטאור מאושר. אתה עשוי לשקול את העובדה שאנו בסכנה עקב היותנו בכלל בקרבת הספינה הזאת. אני מקווה שלא בזבזת כסף על אחריות מורחבת כשקנית אותי.\\\"",
-      "notes": "מספר בעיות בתרגום:\n1. \"קשר ראייה\" - תרגום מילולי מדי ולא טבעי. הצעה: \"מגע חזותי\" או \"קשר חזותי\".\n2. \"השם דלטאור מאושר\" - קצר וקטוע מדי. הצעה: \"אומת שזו הספינה דלטאור\" או \"השם 'דלטאור' אומת\".\n3. \"אתה עשוי לשקול את העובדה שאנו בסכנה עקב היותנו בכלל בקרבת הספינה הזאת\" - משפט נוקשה ופורמלי מדי. הצעה: \"כדאי שתשקול שאנחנו בסכנה מעצם הקרבה לספינה הזו\".\n4. הבדיחה על האחריות המורחבת מתורגמת בסדר, אך אפשר לשפר ל: \"אני מקווה שלא בזבזת כסף על אחריות מורחבת כשרכשת אותי\" (\"רכשת\" יותר טבעי מ\"קנית\" בהקשר של רובוט/דרואיד).",
+      "translation": "\"יצרנו קשר חזותי עם ספינה ממוצא סריאני,\" אומר הרובוט. \"השם דלטאור אומת. כדאי שתשקול שאנחנו בסכנה מעצם הקרבה לספינה הזו. אני מקווה שלא בזבזת כסף על אחריות מורחבת כשקנית אותי.\"",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "41.agilogic",
       "messageNumber": 2,
       "original": "\\\"I will slow our approach and stand off at a safe distance.\\\"",
-      "translation": "\\\"אאט את ההתקרבות ואעמוד במרחק בטוח.\\\"",
-      "notes": "\"אעמוד במרחק בטוח\" - תרגום לא מדויק. \"stand off\" בהקשר זה פירושו לשמור על מרחק, לא לעמוד. הצעה: \"אאט את ההתקרבות ואשמור על מרחק בטוח\" או \"אאט את ההתקרבות ואשהה במרחק בטוח\".",
+      "translation": "\"אאט את ההתקרבות ואשמור על מרחק בטוח.\"",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -7383,8 +7383,8 @@
       "logicFile": "45.agilogic",
       "messageNumber": 2,
       "original": "You grasp the large handle and twist, noting the rather significant amount of pain being registered. You are extremely grateful to hear a click.",
-      "translation": "אתה אוחז בידית הגדולה ומסובב, שם לב לכמות הכאב המשמעותית למדי שנרשמת. אתה אסיר תודה לשמוע קליק.",
-      "notes": "מספר בעיות: 1) \"שנרשמת\" - תרגום מילולי מדי ל-\"being registered\", לא טבעי בעברית. 2) \"אסיר תודה לשמוע\" - חסרה מילת יחס, צריך להיות \"אסיר תודה כששומעים\" או \"שמח לשמוע\". 3) \"קליק\" - לועזית, אפשר \"נקישה\" או פשוט להשאיר כי זה מובן. הצעה: \"אתה אוחז בידית הגדולה ומסובב, תוך שאתה מבחין בכמות הכאב הניכרת שאתה חש. אתה נושם לרווחה כששומע נקישה.\"",
+      "translation": "אתה אוחז בידית הגדולה ומסובב, תוך שאתה מבחין בכמות הכאב הניכרת שאתה חש. אתה נושם לרווחה כששומע נקישה.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -7463,8 +7463,8 @@
       "logicFile": "48.agilogic",
       "messageNumber": 1,
       "original": "My, aren't you the clumsy one. Because of your inability to walk without falling on your face, your helmet is now riding the elevator without you. You've blown your cover. The Sariens are sure to shoot first and ask questions later.",
-      "translation": "בחיי, האין אתה מגושם למדי. עקב חוסר היכולת שלך ללכת מבלי ליפול על הפרצוף, קסדתך כעת נוסעת במעלית בלעדיך. כיסויך נחשף. הסריאנים בטח יירו קודם וישאלו שאלות אחר כך.",
-      "notes": "התרגום נשמע מליצי ופורמלי מדי. 'האין אתה מגושם למדי' - סגנון ארכאי שלא מתאים לטון הקליל של המשחק. 'עקב חוסר היכולת שלך' - פורמלי מדי. 'כיסויך נחשף' - תרגום מילולי של 'blown your cover' שלא מובן בעברית. הצעה לתיקון: 'וואו, מה אתה מגושם. בגלל שאתה לא מסוגל ללכת בלי ליפול על הפרצוף, הקסדה שלך עכשיו נוסעת במעלית בלעדיך. חשפת את עצמך. הסריאנים בטוח יירו קודם וישאלו שאלות אחר כך.'",
+      "translation": "נו באמת, אתה מגושם. בגלל שאתה לא מסוגל ללכת בלי ליפול על הפרצוף, הקסדה שלך עכשיו נוסעת במעלית בלעדיך. חשפת את עצמך. הסריאנים בטוח יירו קודם וישאלו שאלות אחר כך.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -7479,8 +7479,8 @@
       "logicFile": "48.agilogic",
       "messageNumber": 3,
       "original": "You look at the wall and admire the Sarien architecture.  They may be scum, but they build a good spaceship.",
-      "translation": "אתה מסתכל על הקיר ומעריץ את האדריכלות הסריאנית. הם אולי זבל, אבל הם בונים חללית טובה.",
-      "notes": "'זבל' כתרגום ל-'scum' לא מתאים - זבל הוא אשפה, לא אנשים מרושעים. בעברית משתמשים ב'נבלים', 'רשעים', או בסלנג 'שפלים'. הצעה לתיקון: 'הם אולי נבלים, אבל הם בונים חללית טובה.'",
+      "translation": "אתה מסתכל על הקיר ומעריץ את האדריכלות הסריאנית. הם אולי נבלים, אבל הם בונים חללית טובה.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -7657,8 +7657,8 @@
       "logicFile": "50.agilogic",
       "messageNumber": 23,
       "original": "You are on an elevated walkway inside an enormous chamber.  Peering over the railing, you see the stolen Star Generator.",
-      "translation": "אתה עומד על גשר הולכים מוגבה בתוך חדר ענקי. משקיף מעבר למעקה, אתה רואה את מחולל הכוכבים הגנוב.",
-      "notes": "\"גשר הולכים\" תרגום מילולי ולא טבעי של walkway. הצעה: \"מעבר מוגבה\" או \"שביל מוגבה\" או פשוט \"גשר\". כמו כן, \"משקיף מעבר למעקה\" - \"מעבר\" מיותר. הצעה: \"אתה עומד על מעבר מוגבה בתוך חדר ענקי. כשאתה מציץ מעל המעקה, אתה רואה את מחולל הכוכבים הגנוב.\"",
+      "translation": "אתה עומד על מעבר מוגבה בתוך חדר ענקי. כשאתה מציץ מעל המעקה, אתה רואה את מחולל הכוכבים הגנוב.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -7673,8 +7673,8 @@
       "logicFile": "50.agilogic",
       "messageNumber": 25,
       "original": "The walkway spans across the massive chamber to another entryway.",
-      "translation": "גשר ההולכים משתרע על פני החדר העצום אל כניסה נוספת.",
-      "notes": "\"גשר ההולכים\" - ראה הערה בהודעה 23. הצעה: \"המעבר המוגבה משתרע על פני החדר העצום אל כניסה נוספת.\"",
+      "translation": "המעבר המוגבה משתרע על פני החדר העצום אל כניסה נוספת.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -7729,8 +7729,8 @@
       "logicFile": "50.agilogic",
       "messageNumber": 32,
       "original": "He's a gonner!  You never realized how ugly these Sariens were until now.",
-      "translation": "הוא נגמר! אתה לא ידעת עד כמה מכוערים הסריאנים האלה עד עכשיו.",
-      "notes": "\"הוא נגמר\" לא מעביר את המשמעות של \"gonner\" (מישהו שאבוד/מת). הצעה: \"הוא גמור!\" או \"זהו, הוא גמר!\" או \"נגמר לו!\". כמו כן, \"אתה לא ידעת\" צריך להיות \"לא ידעת\" (בלי \"אתה\" מיותר בהתחלה). הצעה: \"נגמר לו! לא ידעת עד כמה הסריאנים האלה מכוערים עד עכשיו.\"",
+      "translation": "נגמר לו! לא ידעת עד כמה הסריאנים האלה מכוערים עד עכשיו.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -7833,24 +7833,24 @@
       "logicFile": "50.agilogic",
       "messageNumber": 48,
       "original": "The guard is already dead. You have only yourself to harm.",
-      "translation": "השומר כבר מת. נשאר לך רק לפגוע בעצמך.",
-      "notes": "\"נשאר לך רק לפגוע בעצמך\" לא מעביר את הכוונה המקורית (שאין לך למי לפגוע חוץ מעצמך). הצעה: \"השומר כבר מת. נשאר רק לך לפגוע בעצמך.\" או יותר טבעי: \"השומר כבר מת. אין במי לפגוע חוץ מבעצמך.\"",
+      "translation": "השומר כבר מת. אין במי לפגוע חוץ מבעצמך.",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "50.agilogic",
       "messageNumber": 49,
       "original": "You gather up a nice mouth full and let it fly. Unfortunately, you forgot you were wearing a helmet. The warm saliva oozes down the side of your face. You feel rather stupid.",
-      "translation": "אתה אוסף מלוא פה ומשחרר. לרוע המזל, שכחת שאתה חובש קסדה. הרוק החם זולג במורד פניך. אתה מרגיש די טיפש.",
-      "notes": "\"מלוא פה\" צריך להיות \"מלוא הפה\" או \"פה מלא\". \"לרוע המזל\" פורמלי מאוד - הצעה: \"לצערך\" או \"אבל אופס\". \"חובש קסדה\" נכון אבל \"לובש קסדה\" יותר שגור. הצעה: \"אתה אוסף רוק בפה ויורק. אופס, שכחת שאתה עם קסדה. הרוק החם זולג על הפרצוף. אתה מרגיש די מטומטם.\"",
+      "translation": "אתה אוסף מלוא הפה ומשחרר. לרוע המזל, שכחת שאתה חובש קסדה. הרוק החם זולג במורד פניך. אתה מרגיש די טיפש.",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "50.agilogic",
       "messageNumber": 50,
       "original": "You gather up a nice mouthful and let it fly. Fortunately, you missed the guard. Can't you find something more constructive to do, %s1?",
-      "translation": "אתה אוסף מלוא פה ומשחרר. למזלך, החטאת את השומר. אי אפשר למצוא משהו יותר בונה לעשות, %s1?",
-      "notes": "\"מלוא פה\" - ראה הערה בהודעה 49. \"אי אפשר למצוא\" צריך להיות \"אתה לא יכול למצוא\" כדי לשמור על הפנייה הישירה. הצעה: \"אתה אוסף רוק בפה ויורק. למזלך, פספסת את השומר. אי אפשר למצוא משהו יותר מועיל לעשות, %s1?\"",
+      "translation": "אתה אוסף מלוא הפה ומשחרר. למזלך, החטאת את השומר. אתה לא יכול למצוא משהו יותר בונה לעשות, %s1?",
+      "notes": "",
       "placeholders": [
         "%s"
       ]
@@ -7907,8 +7907,8 @@
       "logicFile": "51.agilogic",
       "messageNumber": 6,
       "original": "F6 to fire Pulseray",
-      "translation": "F6 לירות בקרן פעימה",
-      "notes": "\"לירות בקרן פעימה\" - צריך להיות \"לירות עם קרן הפעימה\" או \"להפעיל את קרן הפעימה\". \"לירות ב-\" משמעו לירות לעבר משהו, לא לירות באמצעות.",
+      "translation": "F6 לירות עם קרן הפעימה",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -8037,8 +8037,8 @@
       "logicFile": "51.agilogic",
       "messageNumber": 23,
       "original": "Sorry. My records indicate that a weapon has already been signed out in your name.",
-      "translation": "סליחה. הרישומים שלי מצביעים על כך שנשק כבר נרשם על שמך.",
-      "notes": "\"נרשם על שמך\" לא מדויק - \"signed out\" משמעו הוצא/נלקח. הצעה: \"סליחה. לפי הרישומים שלי, כבר הוצא נשק על שמך\" או \"נשק כבר הונפק לך\".",
+      "translation": "סליחה. לפי הרישומים שלי, כבר הונפק נשק על שמך.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -8069,8 +8069,8 @@
       "logicFile": "51.agilogic",
       "messageNumber": 27,
       "original": "The droid explains that although he is not programmed for death, he considers it extremely rude to fire your weapon indoors. He cautions you against doing so again.",
-      "translation": "הדרואיד מסביר שלמרות שהוא לא מתוכנת למוות, הוא רואה בכך חוסר נימוס חמור לירות בנשק בתוך הספינה. הוא מזהיר אותך לא לעשות זאת שוב.",
-      "notes": "\"לא מתוכנת למוות\" - תרגום מילולי ולא ברור. הכוונה היא שהוא לא מתוכנת להרוג. הצעה: \"למרות שהוא לא מתוכנת להרוג\". גם \"הוא רואה בכך חוסר נימוס חמור לירות\" - סדר מילים מוזר. הצעה: \"הוא רואה בירייה בתוך המבנה חוסר נימוס חמור\".",
+      "translation": "הדרואיד מסביר שלמרות שהוא לא מתוכנת להרוג, הוא רואה בירייה במקום סגור חוסר נימוס חמור. הוא מזהיר אותך לא לעשות זאת שוב.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -8125,8 +8125,8 @@
       "logicFile": "51.agilogic",
       "messageNumber": 34,
       "original": "Press F6 when you want to fire the Pulseray.",
-      "translation": "לחץ F6 כשאתה רוצה לירות בקרן הפעימה.",
-      "notes": "כמו בהודעה 6 - \"לירות בקרן הפעימה\" צריך להיות \"לירות עם קרן הפעימה\" או \"להפעיל את קרן הפעימה\".",
+      "translation": "לחץ F6 כשאתה רוצה לירות עם קרן הפעימה.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -8197,24 +8197,24 @@
       "logicFile": "53.agilogic",
       "messageNumber": 9,
       "original": "It's not open.",
-      "translation": "זה לא פתוח.",
-      "notes": "מתייחס לדלת (נקבה). הצעה: \"היא לא פתוחה.\" או \"הדלת לא פתוחה.\"",
+      "translation": "היא לא פתוחה.",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "53.agilogic",
       "messageNumber": 10,
       "original": "It`s already open.",
-      "translation": "זה כבר פתוח.",
-      "notes": "מתייחס לדלת (נקבה). הצעה: \"היא כבר פתוחה.\" או \"הדלת כבר פתוחה.\"",
+      "translation": "היא כבר פתוחה.",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "53.agilogic",
       "messageNumber": 11,
       "original": "It's already closed.",
-      "translation": "זה כבר סגור.",
-      "notes": "מתייחס לדלת (נקבה). הצעה: \"היא כבר סגורה.\" או \"הדלת כבר סגורה.\"",
+      "translation": "היא כבר סגורה.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -8383,8 +8383,8 @@
       "logicFile": "54.agilogic",
       "messageNumber": 1,
       "original": "It seems no different than all the other doors aboard this ship.",
-      "translation": "היא נראית לא שונה מכל שאר הדלתות על הספינה הזאת.",
-      "notes": "סדר המילים \"נראית לא שונה\" אינו טבעי בעברית. הצעה לתיקון: \"היא לא נראית שונה משאר הדלתות בספינה הזאת.\" או \"היא נראית זהה לכל שאר הדלתות בספינה הזאת.\" גם \"על הספינה\" פחות טבעי מ\"בספינה\".",
+      "translation": "היא לא נראית שונה משאר הדלתות בספינה הזאת.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -8399,8 +8399,8 @@
       "logicFile": "54.agilogic",
       "messageNumber": 3,
       "original": "Out of Order.",
-      "translation": "מחוץ לשירות.",
-      "notes": "תרגום מילולי מדי שאינו נשמע טבעי בעברית. הצעה לתיקון: \"לא בשירות\" או \"לא פעיל\" או \"מקולקל\" - אלו הביטויים הנפוצים בעברית לשלטים מסוג זה.",
+      "translation": "לא בשירות.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -8447,8 +8447,8 @@
       "logicFile": "55.agilogic",
       "messageNumber": 1,
       "original": "You are wandering through the Sarien spaceship.",
-      "translation": "אתה משוטט דרך החללית הסריאנית.",
-      "notes": "השימוש ב\"משוטט דרך\" מילולי מדי ולא טבעי בעברית. \"דרך\" לא משתלבת טוב עם \"משוטט\". הצעה לתיקון: \"אתה משוטט בתוך החללית הסריאנית\" או \"אתה מסתובב בחללית הסריאנית\".",
+      "translation": "אתה משוטט בחללית הסריאנית.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -8503,8 +8503,8 @@
       "logicFile": "57.agilogic",
       "messageNumber": 8,
       "original": "You peer through the small window in the door. You think you see someone standing in the hallway. Perhaps this isn't a good time to leave this part of the ship.",
-      "translation": "אתה מציץ דרך החלון הקטן בדלת. נדמה לך שאתה רואה מישהו עומד במסדרון. אולי זה לא הזמן הטוב לעזוב את החלק הזה של הספינה.",
-      "notes": "\"הזמן הטוב\" לא טבעי בעברית. הצעה לתיקון: \"אולי זה לא הזמן המתאים לעזוב את החלק הזה של הספינה.\" או \"אולי עכשיו לא זמן טוב לצאת מהחלק הזה של הספינה.\"",
+      "translation": "אתה מציץ דרך החלון הקטן בדלת. נדמה לך שאתה רואה מישהו עומד במסדרון. אולי זה לא הזמן המתאים לעזוב את החלק הזה של הספינה.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -8631,8 +8631,8 @@
       "logicFile": "57.agilogic",
       "messageNumber": 24,
       "original": "Against the back wall are several large pipes. On the left wall is a vent.",
-      "translation": "מול הקיר האחורי מונחים כמה צינורות גדולים. על הקיר השמאלי יש פתח אוורור.",
-      "notes": "\"מול הקיר האחורי\" לא מדויק - המקור אומר \"Against the back wall\" כלומר הצינורות נשענים או צמודים לקיר האחורי, לא מולו. הצעה לתיקון: \"לאורך הקיר האחורי מונחים כמה צינורות גדולים.\" או \"ליד הקיר האחורי מונחים כמה צינורות גדולים.\"",
+      "translation": "ליד הקיר האחורי מונחים כמה צינורות גדולים. על הקיר השמאלי יש פתח אוורור.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -8687,8 +8687,8 @@
       "logicFile": "58.agilogic",
       "messageNumber": 1,
       "original": "You are in a hallway aboard the Deltaur.",
-      "translation": "אתה בפרוזדור המפלס העליון על הדלטאור.",
-      "notes": "התרגום מוסיף 'המפלס העליון' שלא מופיע במקור. המקור אומר רק 'hallway' ולא 'upper level hallway'. הצעה לתיקון: 'אתה בפרוזדור על סיפון הדלטאור.' או 'אתה בפרוזדור בתוך הדלטאור.'",
+      "translation": "אתה בפרוזדור בתוך הדלטאור.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -8783,8 +8783,8 @@
       "logicFile": "61.agilogic",
       "messageNumber": 7,
       "original": "The rude little robot just slammed the door in your face.",
-      "translation": "הרובוט הקטן והגס רוחני טרק את הדלת לפניך.",
-      "notes": "שתי בעיות: 1) \"גס רוחני\" פורמלי מדי לטון המשחק - עדיף \"חצוף\" או \"גס\". 2) \"טרק את הדלת לפניך\" צריך להיות \"טרק את הדלת בפניך\" או \"בפרצופך\" (הביטוי הנכון בעברית). הצעה: \"הרובוט הקטן והחצוף טרק את הדלת בפניך.\"",
+      "translation": "הרובוט הקטן והחצוף טרק את הדלת בפניך.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -8815,8 +8815,8 @@
       "logicFile": "61.agilogic",
       "messageNumber": 11,
       "original": "The squat, little maintenance droid sure makes a disgusting array of noises, doesn't he?",
-      "translation": "הדרואיד הקטן והגוץ לתחזוקה בהחלט מפיק מערך מגעיל של רעשים, לא?",
-      "notes": "שתי בעיות: 1) סדר המילים מסורבל - \"הדרואיד הקטן והגוץ לתחזוקה\" צריך להיות \"דרואיד התחזוקה הקטן והגוץ\". 2) \"מערך מגעיל של רעשים\" תרגום מילולי מדי ל-\"disgusting array of noises\" - יותר טבעי לומר \"אוסף מגעיל של רעשים\" או פשוט \"רעשים מגעילים\". הצעה: \"דרואיד התחזוקה הקטן והגוץ בהחלט מפיק רעשים מגעילים, לא?\"",
+      "translation": "דרואיד התחזוקה הקטן והגוץ בהחלט מפיק רעשים מגעילים, לא?",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -8903,8 +8903,8 @@
       "logicFile": "63.agilogic",
       "messageNumber": 1,
       "original": "The Deltaur has been blown to tiny fragments by the force of the Star Generator's blast. You have saved the lives of millions of your people, not to mention the lives of those in other systems. Don't get a big head.",
-      "translation": "הדלתאור פוצץ לשברירים זעירים על ידי כוח הפיצוץ של מחולל הכוכבים. הצלת את חייהם של מיליוני בני עמך, שלא לדבר על חייהם של אלה במערכות אחרות. אל תתנפח.",
-      "notes": "שגיאת כתיב: 'הדלתאור' צריך להיות 'הדלטאור' (עם ט ולא ת) בהתאם לאוצר המילים. הביטוי 'על ידי כוח הפיצוץ' מסורבל מעט - אפשר לשקול 'מכוח הפיצוץ' או 'בעוצמת הפיצוץ'. כמו כן, 'את חייהם של מיליוני' יכול להתקצר ל'את חיי מיליוני' לזרימה טבעית יותר. התרגום של 'Don't get a big head' ל'אל תתנפח' טוב ומתאים לטון הקליל של המשחק.",
+      "translation": "הדלטאור פוצץ לשברירים זעירים מכוח הפיצוץ של מחולל הכוכבים. הצלת את חייהם של מיליוני בני עמך, שלא לדבר על חייהם של אלה במערכות אחרות. אל תתנפח.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -9479,8 +9479,8 @@
       "logicFile": "68.agilogic",
       "messageNumber": 44,
       "original": "   just completed one of your famous",
-      "translation": "     סיימת אחד מתנומות האמצע-משמרת    ",
-      "notes": "'תנומות האמצע-משמרת' הוא ניסוח מגושם וקשה לקריאה. הצעה לתיקון: 'תנומות תוך כדי משמרת' או 'תנומות המשמרת'. גם 'אחת' צריך להיות 'אחד' כי תנומה היא נקבה אבל ההתייחסות היא לפריט מתוך רשימה.",
+      "translation": "     סיימת אחת מתנומות אמצע-המשמרת    ",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -9575,8 +9575,8 @@
       "logicFile": "70.agilogic",
       "messageNumber": 3,
       "original": "\\\"That'll be $2.00. Thank you very much. Come again.\\\"",
-      "translation": "\\\"זה יהיה 2 באקזואידים. תודה רבה לך. תבוא שוב.\\\"",
-      "notes": "'תודה רבה לך' - צורה לא טבעית. בעברית אומרים 'תודה רבה' בלי 'לך'. הצעה: 'זה יהיה 2 באקזואידים. תודה רבה. תבוא שוב.'",
+      "translation": "\"זה יהיה 2 באקזואידים. תודה רבה. תבוא שוב.\"",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -9599,8 +9599,8 @@
       "logicFile": "70.agilogic",
       "messageNumber": 6,
       "original": "The beer tastes like carbonated Zipple sweat. However, considering recent events, you could learn to love it.",
-      "translation": "הבירה טועמת כמו זיעת זיפל מוגזת. אך לאור האירועים האחרונים, אתה יכול ללמוד לאהוב את זה.",
-      "notes": "'הבירה טועמת' - לא נכון דקדוקית. בעברית אומרים 'טעם הבירה הוא כמו...' או 'הבירה בעלת טעם של...'. הצעה: 'טעם הבירה דומה לזיעת זיפל מוגזת' או 'הבירה נטעמת כמו זיעת זיפל מוגזת'.",
+      "translation": "טעם הבירה דומה לזיעת זיפל מוגזת. אך לאור האירועים האחרונים, אתה יכול ללמוד לאהוב את זה.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -9647,8 +9647,8 @@
       "logicFile": "70.agilogic",
       "messageNumber": 12,
       "original": "This is a seedy little place. Galactic riff-raff are seated at the bar. The bartender drops by occasionally to serve them. A band is cranking out some of the more popular tunes in the quadrant. There is a slot machine standing near the bar. You notice a sweeper in the lower corner of the room. It must get messy here. No one seems to notice or care that you have entered the bar.",
-      "translation": "זהו מקום קטן ומוזנח. אספסוף גלקטי התאסף על יד הבר. הברמן מגיע מדי פעם לשרת אותם. להקה מפיקה כמה מהשירים הפופולריים יותר בצביר. לצידם ניצבת מכונת מזל. אתה מבחין במנקה בפינת החדר. בטח הלכלוך פה עולה על גדותיו. איש אינו מבחין או מתעניין בכניסתך לבר.",
-      "notes": "'לצידם ניצבת' - לא ברור לצד מי (הלהקה? הברמן?). במקור כתוב 'near the bar'. הצעה: 'ליד הבר ניצבת מכונת מזל'. גם 'הלכלוך פה עולה על גדותיו' זה ביטוי מוזר - הביטוי 'עולה על גדותיו' משמש בדרך כלל לנוזלים. הצעה: 'כנראה שמתלכלך פה לא מעט' או 'בטח יש פה בלגן לא קטן'.",
+      "translation": "זהו מקום קטן ומוזנח. אספסוף גלקטי התאסף על יד הבר. הברמן מגיע מדי פעם לשרת אותם. להקה מפיקה כמה מהשירים הפופולריים יותר בצביר. ליד הבר ניצבת מכונת מזל. אתה מבחין במנקה בפינת החדר. בטח מתלכלך פה לא מעט. איש אינו מבחין או מתעניין בכניסתך לבר.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -9679,16 +9679,16 @@
       "logicFile": "70.agilogic",
       "messageNumber": 16,
       "original": "There is a hip combo of green beings jamming. They only seem to be interested in playing music.",
-      "translation": "יש להקה מגניבה של יצורים ירוקים שמנגנת. נראה שהם מתעניינים רק בניגון מוזיקה.",
-      "notes": "'ניגון מוזיקה' - מיותר, כי ניגון הוא כבר מוזיקה. הצעה: 'נראה שהם מתעניינים רק בלנגן' או 'נראה שהם מתעניינים רק במוזיקה'.",
+      "translation": "יש להקה מגניבה של יצורים ירוקים שמנגנת. נראה שהם מתעניינים רק בלנגן.",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "70.agilogic",
       "messageNumber": 17,
       "original": "There are a couple of non-galactic looking humanoids cranking out some unfamiliar sounding tunes. They seem interested solely in the music they are performing.",
-      "translation": "כמה יצורים דמויי אנוש לא-גלקטיים שמפיקים מנגינות לא מוכרות. נראה שהם מתעניינים רק במוזיקה שהם מייצרים.",
-      "notes": "'מייצרים' לא מתאים למוזיקה. הצעה: 'במוזיקה שהם מנגנים' או 'במוזיקה שהם מבצעים'.",
+      "translation": "כמה יצורים דמויי אנוש לא-גלקטיים שמפיקים מנגינות לא מוכרות. נראה שהם מתעניינים רק במוזיקה שהם מנגנים.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -9719,8 +9719,8 @@
       "logicFile": "70.agilogic",
       "messageNumber": 21,
       "original": "\\\"So, I head toward it, ya see, and right there in front of me sits the Deltaur. It's just sittin' there. My hearts start hyperwarping on me.\\\"",
-      "translation": "אז אני נוסע לשם, ת'מבין, ושם אל מול עיני יושבת הדלטאור. פשוט רובצת לה שם כמו פדלאה. הלבבות שלי מתחילים לדהור במהירות האור.",
-      "notes": "'כמו פדלאה' - תוספת שלא קיימת במקור. במקור כתוב רק 'It's just sittin' there' בלי השוואה. 'הלבבות שלי מתחילים לדהור במהירות האור' - תרגום יצירתי טוב ל-'hyperwarping' אך קצת ארוך. הצעה לפשט: 'הלבבות שלי מתחילים לדהור'.",
+      "translation": "אז אני נוסע לשם, ת'מבין, ושם אל מול עיני יושבת הדלטאור. פשוט רובצת לה שם. הלבבות שלי מתחילים לדהור במהירות האור.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -9815,8 +9815,8 @@
       "logicFile": "70.agilogic",
       "messageNumber": 33,
       "original": "The sweeper is a small motorized device which scans the floor for debris and removes it within moments of detection. There is nothing special about it, otherwise.",
-      "translation": "הגורף הוא מכשיר ממונע קטן שסורק את הרצפה למצוא פסולת ומסיר אותה תוך רגעים מגילוי. חוץ מזה, אין בו שום דבר מיוחד.",
-      "notes": "'למצוא פסולת' - לא תקין דקדוקית. צריך 'לאיתור פסולת' או 'בחיפוש אחר פסולת'. גם 'תוך רגעים מגילוי' לא טבעי - הצעה: 'תוך רגעים ספורים מרגע הגילוי' או 'מיד לאחר גילוי'.",
+      "translation": "הגורף הוא מכשיר ממונע קטן שסורק את הרצפה לאיתור פסולת ומסיר אותה תוך רגעים ספורים מרגע הגילוי. חוץ מזה, אין בו שום דבר מיוחד.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -9839,8 +9839,8 @@
       "logicFile": "70.agilogic",
       "messageNumber": 36,
       "original": "That act, while providing a means of venting frustration, serves only to cause you considerable pain when your toes scatter in directions they weren't designed to travel. Wise up, Space Cadet!",
-      "translation": "הפעולה הזו, למרות שמהווה אמצעי להוצאת תסכול, משרתת רק לגרום לך כאב ניכר כשהאצבעות שלך מתפזרות לכיוונים שלא תוכננו לנוע בהם. תתפכח, חניך החלל!",
-      "notes": "'משרתת רק לגרום' - לא תקין. צריך 'משמשת רק לגרום' או פשוט 'גורמת רק'. גם 'האצבעות שלך' לא ברור שמדובר באצבעות רגליים (toes). הצעה: 'כשאצבעות הרגליים שלך מתפזרות'. 'תתפכח' לא מעביר את הטון של 'Wise up' - הצעה: 'תחכים, חניך החלל!' או 'תתעשת, חניך החלל!'",
+      "translation": "הפעולה הזו, למרות שמהווה אמצעי להוצאת תסכול, גורמת לך רק כאב ניכר כשאצבעות הרגליים שלך מתפזרות לכיוונים שלא תוכננו לנוע בהם. תתעשת, חניך החלל!",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -9887,8 +9887,8 @@
       "logicFile": "70.agilogic",
       "messageNumber": 42,
       "original": "\\\"Wine? Did I say we have wine? Hey did you hear this humanoid? He wants wine! Get serious!\\\"",
-      "translation": "\\\"יין? אמרתי שיש לנו יין? שמעתם את בן האנוש הזה? הוא רוצה יין! תתייחס ברצינות!\\\"",
-      "notes": "'תתייחס ברצינות' - לא מתאים להקשר. 'Get serious!' כאן זה יותר כמו 'אתה צוחק עליי?' או 'מה פתאום!'. הצעה: 'הוא רוצה יין! אתה רציני?!' או 'הוא רוצה יין! תתעורר!'",
+      "translation": "\"יין? אמרתי שיש לנו יין? שמעתם את בן האנוש הזה? הוא רוצה יין! אתה רציני?!\"",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -9999,24 +9999,24 @@
       "logicFile": "71.agilogic",
       "messageNumber": 6,
       "original": "\\\"I got it from some gambling type who was required to pay-up or perish.\\\"",
-      "translation": "\\\"קיבלתי אותו מאיזה מהמר מפוקפק שנדרש לשלם או להיעלם.\\\"",
-      "notes": "הערות: 1) 'perish' פירושו למות, לא להיעלם. התרגום 'להיעלם' מרכך מאוד את המשמעות. הצעה: 'לשלם או לגווע' או 'לשלם או למות'. 2) 'מפוקפק' לא מופיע במקור - זו תוספת של המתרגם. 'gambling type' פירושו סתם 'טיפוס מהמר' או 'מישהו שאוהב להמר'.",
+      "translation": "\"קיבלתי אותו מאיזה מהמר שנדרש לשלם או למות.\"",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "71.agilogic",
       "messageNumber": 7,
       "original": "\\\"That unit is a good, all-around droid. Sure, it may seem a little dinged-up but it's not as bad as it looks. There is still quite a bit of life left in it. It is a great little companion. And for you, only 40 buckazoids (32 with coupon).\\\"",
-      "translation": "\\\"היחידה הזאת היא רובוט כדאי רב-תכליתי. אמנם, זה נראה קצת מפוצל, אבל זה לא נורא כמו שזה נראה. עדיין יש בו הרבה חיים. זה בן לוויה מצוין. ורק עבורך, רק 40 באקזואידים (32 עם קופון).\\\"",
-      "notes": "הערות: 1) 'מפוצל' - תרגום שגוי. 'dinged-up' פירושו שרוט, מעט פגום, עם סימני בלאי. הצעה: 'קצת שרוט' או 'קצת מרוטש'. 2) 'כדאי' - מילה לא מתאימה כאן. 'good, all-around' פירושו 'טוב ורב-תכליתי'. הצעה: 'דרואיד טוב ורב-תכליתי'. 3) חוסר עקביות במגדר - 'היחידה הזאת היא' (נקבה) ואז 'זה נראה' (זכר). צריך להיות עקבי.",
+      "translation": "\"היחידה הזאת היא רובוט טוב ורב-תכליתי. אמנם, היא נראית קצת שרוטה, אבל היא לא נוראה כמו שהיא נראית. עדיין יש בה הרבה חיים. היא בת לוויה מצוינת. ורק עבורך, רק 40 באקזואידים (32 עם קופון).\"",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "71.agilogic",
       "messageNumber": 8,
       "original": "\\\"We call that one The Peacemaker. It's used primarily in security. In a crime situation it is capable of apprehending, trying, sentencing, and punishing the offender on the spot. Swift and effective. And only 368 buckazoids (294 with coupon).\\\"",
-      "translation": "\\\"אנחנו קוראים לזה משיב השלום. זה משמש בעיקר בביטחון. במצב פשע, הוא מסוגל לתפוס, לשפוט, לגזור דין ולהעניש את העבריין במקום. מהיר ויעיל. ורק 368 באקזואידים (294 עם קופון).\\\"",
-      "notes": "הערות: 1) 'The Peacemaker' הוא שם עצם פרטי ורפרנס תרבותי (אקדח מפורסם מהמערב הפרוע). 'משיב השלום' נשמע מוזר בעברית. הצעות: 'יוצר השלום', 'שומר השלום', או להשאיר באנגלית 'הפיסמייקר'. 2) 'במצב פשע' - לא טבעי. הצעה: 'במקרה של פשע' או 'כשמתרחש פשע'.",
+      "translation": "\"אנחנו קוראים לזה עושה השלום. זה משמש בעיקר באבטחה. במקרה של פשע, הוא מסוגל לתפוס, לשפוט, לגזור דין ולהעניש את העבריין במקום. מהיר ויעיל. ורק 368 באקזואידים (294 עם קופון).\"",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -10047,16 +10047,16 @@
       "logicFile": "71.agilogic",
       "messageNumber": 12,
       "original": "All top-of-the-line, but, I suppose YOU would probably be interested in our SALE items. Please walk this way.\\\"",
-      "translation": "הכל מהשורה העליונה, אבל, אני מניח שאתה כנראה תתעניין בפריטי המבצע שלנו. בבקשה, לכו בדרך הזאת.\\\"",
-      "notes": "הערות: 1) חוסר עקביות במספר - 'אתה' (יחיד) ואז 'לכו' (רבים). צריך להיות 'לך בדרך הזאת' (יחיד). 2) 'walk this way' יכול להיות גם בדיחה (ללכת בצורה מסוימת). הצעה: 'בוא אחרי' או 'לך אחרי'.",
+      "translation": "הכל מהשורה העליונה, אבל, אני מניח שאתה כנראה תתעניין בפריטי המבצע שלנו. בבקשה, לך בדרך הזאת.\"",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "71.agilogic",
       "messageNumber": 16,
       "original": "\\\"Only one droid per person in this town. It's an ordinance, you know.\\\"",
-      "translation": "\\\"רק רובוט אחד לאדם בעיר הזאת. זו פקודה, אתה יודע.\\\"",
-      "notes": "הערות: 1) 'ordinance' פירושו חוק עירוני/תקנה, לא 'פקודה' (שזה command). הצעה: 'זו תקנה עירונית' או 'זה החוק כאן'. 2) 'town' תורגם ל'עיר' אבל יכול להיות גם 'עיירה' שמתאים יותר לאווירה.",
+      "translation": "\"רק רובוט אחד לאדם בעיר הזאת. זו תקנה, אתה יודע.\"",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -10087,8 +10087,8 @@
       "logicFile": "71.agilogic",
       "messageNumber": 20,
       "original": "This is the inside of Droids-B-Us. The room has a pedestal in the middle and a stairway and balcony toward the back. A variety of droids adorn the floor space.",
-      "translation": "זה הפנים של רובוטים-אר-אס. בחדר יש בסיס באמצע ומדרגות ומרפסת מאחור. מגוון רובוטים מעטרים את שטח הרצפה.",
-      "notes": "הערות: 1) 'pedestal' פירושו במה/דוכן/כן, לא 'בסיס'. הצעה: 'במה' או 'דוכן'. 2) 'הפנים של' - מסורבל. הצעה: 'זה חלל הפנים של' או 'אתה בתוך'. 3) עקביות שם החנות - ראה הערות להודעה 11.",
+      "translation": "זה הפנים של רובוטים-אר-אס. בחדר יש דוכן באמצע ומדרגות ומרפסת מאחור. מגוון רובוטים מעטרים את שטח הרצפה.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -10151,8 +10151,8 @@
       "logicFile": "71.agilogic",
       "messageNumber": 28,
       "original": "The banner indicates that there is a sale occurring.",
-      "translation": "הכרזה מציינת שיש מבצע מתקיים.",
-      "notes": "הערות: 'מבצע מתקיים' - מסורבל וכפילות. הצעה: 'הכרזה מציינת שיש מבצע' או 'הכרזה מודיעה על מבצע'.",
+      "translation": "הכרזה מציינת שיש מבצע.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -10183,8 +10183,8 @@
       "logicFile": "71.agilogic",
       "messageNumber": 32,
       "original": "I see you bear one of those coupons. Oh, well. You shall receive 20\\% off any of my quoted prices.",
-      "translation": "אני רואה שיש לך אחד מהקופונים האלה. טוב נו. תקבל 20\\% הנחה על כל אחד מהמחירים שציטטתי.",
-      "notes": "הערות: 1) 'שציטטתי' - לא נכון. 'quoted prices' בהקשר מסחרי פירושו 'מחירים שהצעתי' או 'מחירים שציינתי'. הצעה: 'על כל מחיר שציינתי' או 'מכל מחיר שהצעתי'.",
+      "translation": "אני רואה שיש לך אחד מהקופונים האלה. טוב נו. תקבל 20% הנחה על כל אחד מהמחירים שציינתי.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -10207,8 +10207,8 @@
       "logicFile": "73.agilogic",
       "messageNumber": 1,
       "original": "You have this strange sinking feeling.",
-      "translation": "יש לך תחושת שקיעה מוזרה.",
-      "notes": "תרגום מילולי מדי של הביטוי האנגלי. \"sinking feeling\" הוא ניב באנגלית שמשמעותו תחושת חרדה או תחושה רעה שמשהו לא בסדר. \"תחושת שקיעה\" לא מעביר את המשמעות הזו בעברית. הצעה לתיקון: \"יש לך תחושה רעה מוזרה\" או \"יש לך תחושה מטרידה מוזרה\" או \"אתה מרגיש שמשהו לא בסדר\".",
+      "translation": "יש לך תחושה רעה מוזרה.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -10223,8 +10223,8 @@
       "logicFile": "73.agilogic",
       "messageNumber": 3,
       "original": "Through a strange quirk of fate (or was it?) you have stumbled into a place beyond time, space and dimension. You have entered...The Daventry Zone!! That's right, the land of King's Quest. This will not help you now since you are playing Space Quest.",
-      "translation": "באמצעות תופעה מוזרה של גורל (או שמא?) נתקלת במקום מעבר לזמן, חלל וממד. נכנסת...לאזור דייבנטרי!! נכון, ארץ מסע המלך. זה לא יעזור לך כעת מאחר ואתה משחק מסע בחלל.",
-      "notes": "שתי בעיות: (1) \"באמצעות תופעה מוזרה של גורל\" - תרגום מגושם. \"quirk of fate\" יותר טבעי בעברית כ\"גחמה מוזרה של הגורל\" או \"תעלול מוזר של הגורל\". (2) \"מאחר ואתה\" - צריך להיות \"מאחר שאתה\" (תקני יותר). הצעה לתיקון: \"בגחמה מוזרה של הגורל (או שמא?) נקלעת למקום מעבר לזמן, חלל וממד. נכנסת...לאזור דייבנטרי!! נכון, ארץ מסע המלך. זה לא יעזור לך כעת מאחר שאתה משחק מסע בחלל.\"",
+      "translation": "בגחמה מוזרה של הגורל (או שמא?) נקלעת למקום מעבר לזמן, חלל וממד. נכנסת...לאזור דייבנטרי!! נכון, ארץ מסע המלך. זה לא יעזור לך כעת מאחר שאתה משחק מסע בחלל.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -10279,40 +10279,40 @@
       "logicFile": "75.agilogic",
       "messageNumber": 5,
       "original": " Wins 1   ",
-      "translation": " זוכה 1   ",
-      "notes": "\"זוכה\" משמעו מישהו שזוכה (בינוני), לא פעולת זכייה. בהקשר של מכונת מזל, \"Wins 1\" מתאר את גובה הזכייה. הצעה: \"זכייה 1\" או \"מרוויח 1\"",
+      "translation": " זכייה 1   ",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "75.agilogic",
       "messageNumber": 6,
       "original": " Wins 3   ",
-      "translation": " זוכה 3   ",
-      "notes": "כמו הודעה 5. הצעה: \"זכייה 3\" או \"מרוויח 3\"",
+      "translation": " זכייה 3   ",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "75.agilogic",
       "messageNumber": 7,
       "original": " Wins 5   ",
-      "translation": " זוכה 5   ",
-      "notes": "כמו הודעה 5. הצעה: \"זכייה 5\" או \"מרוויח 5\"",
+      "translation": " זכייה 5   ",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "75.agilogic",
       "messageNumber": 8,
       "original": " Wins 20  ",
-      "translation": " זוכה 20  ",
-      "notes": "כמו הודעה 5. הצעה: \"זכייה 20\" או \"מרוויח 20\"",
+      "translation": " זכייה 20  ",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "75.agilogic",
       "messageNumber": 9,
       "original": " Wins 10  ",
-      "translation": " זוכה 10  ",
-      "notes": "כמו הודעה 5. הצעה: \"זכייה 10\" או \"מרוויח 10\"",
+      "translation": " זכייה 10  ",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -10327,8 +10327,8 @@
       "logicFile": "75.agilogic",
       "messageNumber": 13,
       "original": "  To Cash In   ",
-      "translation": "  למזומן   ",
-      "notes": "\"למזומן\" פירושו \"עבור מזומן\" או \"במזומן\", אבל \"To Cash In\" משמעו לפדות זכיות או לגבות רווחים. הצעה: \"לפדות זכיות\" או \"לגבות\" או \"למשוך כסף\"",
+      "translation": "  לפדות   ",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -10399,8 +10399,8 @@
       "logicFile": "75.agilogic",
       "messageNumber": 60,
       "original": " F4 Bets $1    F6 Bets $2    F8 Bets $3",
-      "translation": " F8 מהמר $3   F6 מהמר $2   F4 מהמר $1 ",
-      "notes": "\"מהמר\" הוא בינוני/שם עצם (מישהו שמהמר), לא פועל. בהקשר של הוראות למקשים, עדיף \"הימור של\". הצעה: \"F4 הימור $1    F6 הימור $2    F8 הימור $3\" (בסדר הפוך ל-RTL כפי שנעשה)",
+      "translation": " F8 הימור $3   F6 הימור $2   F4 הימור $1 ",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -10415,32 +10415,32 @@
       "logicFile": "75.agilogic",
       "messageNumber": 62,
       "original": " 1 = 1x Payoff",
-      "translation": " 1 = תשלום 1x",
-      "notes": "הסדר של \"תשלום 1x\" לא טבעי בעברית. הצעה: \"1 = פי 1 זכייה\" או \"1 = זכייה כפול 1\"",
+      "translation": " 1 = זכייה פי 1",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "75.agilogic",
       "messageNumber": 63,
       "original": " 2 = 2x   \\\"   ",
-      "translation": " 2x   \\\"   = 2 ",
-      "notes": "הסדר מבלבל. במקור משתמשים בגרשיים (\\\") להצביע על המילה \"Payoff\" מההודעה הקודמת. הצעה: \"2 = פי 2  \\\"  \" (עם הגרשיים מצביעים על \"זכייה\")",
+      "translation": " 2 = פי 2   \"   ",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "75.agilogic",
       "messageNumber": 64,
       "original": " 3 = 3x   \\\"   ",
-      "translation": " 3x   \\\"   = 3 ",
-      "notes": "כמו הודעה 63. הצעה: \"3 = פי 3  \\\"  \"",
+      "translation": " 3 = פי 3   \"   ",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "77.agilogic",
       "messageNumber": 1,
       "original": "Gosh, %s1.  It would appear you have met an untimely demise.  With the explosive destruction of the Arcada you become part of a fresh collection of space debris.",
-      "translation": "אלוהים, %s1. נראה שנפגשת עם סופך בטרם עת. עם ההרס הנפיץ של הארקדה אתה הופך לחלק מאוסף רענן של פסולת חלל.",
-      "notes": "1. \"אלוהים\" פורמלי/דתי מדי עבור הקריאה הקז'ואלית \"Gosh\". הצעה: \"אויש\" או \"וואו\". 2. \"נפגשת עם סופך\" לא טבעי בעברית. הצעה: \"מצאת את מותך בטרם עת\" או \"נהרגת בטרם עת\". 3. \"אוסף רענן של פסולת חלל\" - תרגום מילולי מדי. \"רענן\" לא משתלב טבעי עם פסולת. הצעה: \"אוסף חדש של פסולת חלל\" או \"פסולת חלל טרייה\".",
+      "translation": "אוי, %s1. נראה שמצאת את מותך בטרם עת. עם ההרס הנפיץ של הארקדה אתה הופך לחלק מאוסף חדש של פסולת חלל.",
+      "notes": "",
       "placeholders": [
         "%s"
       ]
@@ -10465,16 +10465,16 @@
       "logicFile": "78.agilogic",
       "messageNumber": 2,
       "original": "Upon reaching the surface, you throttle up and zoom off into the sunset.",
-      "translation": "עם הגעתך אל השטח, אתה מגביר את המהירות וממריא אל השקיעה.",
-      "notes": "1. \"השטח\" לבד מאבד את המשמעות של \"surface\" (פני השטח). הצעה: \"עם הגעתך אל פני השטח\". 2. \"zoom off into the sunset\" הוא ביטוי אידיומטי (כמו בסרטי מערבונים) שמציין יציאה דרמטית לעבר האופק. \"אל השקיעה\" מילולי מדי. הצעה: \"וממריא לעבר השקיעה\" או \"ודוהר לעבר השקיעה\". 3. \"עם הגעתך\" פורמלי מדי לטון המשחק. הצעה: \"כשאתה מגיע לפני השטח\".",
+      "translation": "עם הגעתך אל פני השטח, אתה מגביר את המהירות וממריא לעבר השקיעה.",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "81.agilogic",
       "messageNumber": 1,
       "original": "There seems to be sand as far as the eye can see.",
-      "translation": "נראה שיש חול עד כמה שהעין יכולה לראות.",
-      "notes": "הביטוי \"עד כמה שהעין יכולה לראות\" הוא תרגום מילולי מדי של הביטוי האנגלי \"as far as the eye can see\". בעברית הביטוי המקובל הוא \"למרחב העין\" או \"עד האופק\". הצעה לתיקון: \"נראה שיש חול למרחב העין\" או \"נראה שיש חול עד למרחק העין\".",
+      "translation": "נראה שיש חול עד למרחק העין.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -10609,8 +10609,8 @@
       "logicFile": "92.agilogic",
       "messageNumber": 19,
       "original": "Double clicking joystick button or\\n right mouse button also shows status\\n screen. Single click pops up menus",
-      "translation": "לחיצה כפולה על כפתור הג'ויסטיק או\\n כפתור העכבר הימני מציג גם\\n מסך סטטוס. לחיצה בודדת מציגה תפריטים",
-      "notes": "בעיות: 1) חוסר התאמה מגדרית - \"לחיצה כפולה... מציג\" - המילה \"לחיצה\" היא בלשון נקבה אך הפועל \"מציג\" הוא בלשון זכר. הצעה: לתקן ל\"מציגה\". 2) חוסר עקביות - כאן כתוב \"מסך סטטוס\" אך בהודעה 13 כתוב \"מסך המצב\". הצעה: לאחד ולהשתמש ב\"מסך המצב\" בכל המקומות.",
+      "translation": "לחיצה כפולה על כפתור הג'ויסטיק או\n כפתור העכבר הימני מציגה גם\n מסך מצב. לחיצה בודדת מציגה תפריטים",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -10675,8 +10675,8 @@
       "logicFile": "94.agilogic",
       "messageNumber": 1,
       "original": "You are startled by the sound of an alarm. It is followed by an urgent voice which warns that the Arcada has been boarded by unknown intruders. It ends abruptly.",
-      "translation": "אתה נבהל מקול אזעקה. בעקבותיו נשמע קול דחוף שמזהיר שהארקדה נכבשה על ידי פולשים לא ידועים. הקול נפסק בפתאומיות.",
-      "notes": "המילה \"נכבשה\" אינה מתאימה כאן. \"boarded\" באנגלית משמעה עלייה על סיפון הספינה (כמו פיראטים העולים על ספינה), לא כיבוש. הצעה לתיקון: \"שפולשים לא ידועים חדרו לארקדה\" או \"שהארקדה הותקפה על ידי פולשים לא ידועים\". התרגום הנוכחי נשמע כאילו הספינה נכבשה במלחמה, בעוד שהכוונה היא שעלו עליה בכוח.",
+      "translation": "אתה נבהל מקול אזעקה. בעקבותיו נשמע קול דחוף שמזהיר שפולשים לא ידועים חדרו לארקדה. הקול נפסק בפתאומיות.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -11171,8 +11171,8 @@
       "logicFile": "95.agilogic",
       "messageNumber": 62,
       "original": "observe.horizon",
-      "translation": "שמור.אופק",
-      "notes": "'שמור' אינו מתאים להקשר. הכוונה היא לציית/להתחשב באופק. מומלץ: 'ציית.אופק' או 'כבד.אופק'",
+      "translation": "ציית.אופק",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -11219,8 +11219,8 @@
       "logicFile": "95.agilogic",
       "messageNumber": 68,
       "original": "observe.objs",
-      "translation": "שמור.אובייקטים",
-      "notes": "'שמור' אינו מתאים להקשר. הכוונה היא לציית/להתחשב. מומלץ: 'ציית.אובייקטים' או 'כבד.אובייקטים'",
+      "translation": "ציית.אובייקטים",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -11387,8 +11387,8 @@
       "logicFile": "95.agilogic",
       "messageNumber": 89,
       "original": "observe.blocks",
-      "translation": "שמור.חסימות",
-      "notes": "'שמור' אינו מתאים להקשר. מומלץ: 'ציית.חסימות' או 'כבד.חסימות'",
+      "translation": "ציית.חסימות",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -11555,8 +11555,8 @@
       "logicFile": "95.agilogic",
       "messageNumber": 110,
       "original": "shake.screen",
-      "translation": "רעד.מסך",
-      "notes": "'רעד' הוא שם עצם, לא פועל ציווי. מומלץ: 'רעד.מסך' -> 'הרעד.מסך' או 'נער.מסך'",
+      "translation": "הרעד.מסך",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -12179,8 +12179,8 @@
       "logicFile": "97.agilogic",
       "messageNumber": 1,
       "original": "Everything down here is composed of very hard rock. Everything has a slimey look and feel due to the humidity.",
-      "translation": "כל מה שכאן למטה מורכב מסלע קשה מאוד. לכל דבר יש מראה ומרקם חלקלק בגלל הלחות.",
-      "notes": "סדר המילים בתחילת המשפט מעט מסורבל. הצעה: \"הכל כאן למטה מורכב מסלע קשה מאוד\". כמו כן, המילה \"slimy\" (רירי, דביק) תורגמה ל\"חלקלק\" (slippery), מה שמשנה מעט את המשמעות - \"חלקלק\" מתאר משטח חלק שקשה לאחוז בו, בעוד \"רירי\" מתאר מרקם לח ודביק כמו ריר. הצעה לתיקון: \"לכל דבר יש מראה ומרקם רירי בגלל הלחות\".",
+      "translation": "הכל כאן למטה מורכב מסלע קשה מאוד. לכל דבר יש מראה ומרקם רירי בגלל הלחות.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -12472,8 +12472,8 @@
       "logicFile": "98.agilogic",
       "messageNumber": 28,
       "original": "%m27 or object not drawn.%m25",
-      "translation": "%m27 או אובייקט לא מצוייר.%m25",
-      "notes": "שגיאת כתיב: 'מצוייר' צריך להיות 'מצויר' (בלי יו\"ד כפולה). הצעה לתיקון: 'או שהאובייקט לא מצויר' - הוספת 'ש' ו-'ה' לזרימה טבעית יותר בעברית.",
+      "translation": "%m27 או אובייקט לא מצויר.%m25",
+      "notes": "",
       "placeholders": [
         "%m27",
         "%m25"
@@ -12708,8 +12708,8 @@
       "logicFile": "100.agilogic",
       "messageNumber": 2,
       "original": "Well, %s1, that was a smooth half-gainer into the elevator shaft.  Did you decide that you would think more clearly with your brains re-organized?",
-      "translation": "ובכן, %s1, זו הייתה צלילה חלקה למעלית. החלטת שתחשוב בצורה ברורה יותר עם המוח שלך מאורגן מחדש?",
-      "notes": "1. 'half-gainer' הוא מונח מקפיצות למים (קפיצה עם סלטו אחורי) - 'צלילה חלקה' מאבדת את הרפרנס הזה. הצעה: 'זה היה סלטו מרשים לתוך פיר המעלית' או 'זו הייתה קפיצת ראש יפהפייה לפיר המעלית'.\n2. 'elevator shaft' תורגם כ'מעלית' במקום 'פיר המעלית' - חסר המשמעות שנפל לתוך הפיר.\n3. 'with your brains re-organized' - הסרקזם האפל לא עובר בתרגום. הצעה: 'החלטת שתחשוב יותר טוב אחרי שהמוח שלך יעבור סידור מחדש על הרצפה?'",
+      "translation": "ובכן, %s1, זו הייתה קפיצת ראש חלקה לתוך פיר המעלית. החלטת שתחשוב בצורה ברורה יותר עם המוח שלך מאורגן מחדש?",
+      "notes": "",
       "placeholders": [
         "%s"
       ]
@@ -12756,8 +12756,8 @@
       "logicFile": "100.agilogic",
       "messageNumber": 8,
       "original": "You've been snatched from existence by a tentacled beast lurking beneath the grate.  You feel the painful sting of digestive fluids.",
-      "translation": "הקיום שלך בוטל בידי מפלצת רבת משושים הרובצת מתחת לסורג. אתה חש כאב מעוקץ מיצי העיכול.",
-      "notes": "1. 'הקיום שלך בוטל' - תרגום מילולי מדי ומוזר ל'snatched from existence'. הצעה: 'נחטפת מהקיום' או פשוט 'נחטפת למוות'.\n2. 'אתה חש כאב מעוקץ מיצי העיכול' - מסורבל. 'מעוקץ' לא נשמע טבעי. הצעה: 'אתה מרגיש את העקיצה הכואבת של נוזלי העיכול' או 'אתה חש את הצריבה הכואבת של נוזלי העיכול'.",
+      "translation": "נחטפת מהקיום בידי מפלצת רבת משושים הרובצת מתחת לסורג. אתה חש את העקיצה הכואבת של נוזלי העיכול.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -12772,32 +12772,32 @@
       "logicFile": "100.agilogic",
       "messageNumber": 12,
       "original": "Luck's turn has cost you dearly. As life seeps away, you long for the simpler days aboard the Arcada.",
-      "translation": "תורה של המזל עלתה לך ביוקר. כשהחיים דולפים החוצה, אתה מתגעגע לימים הפשוטים יותר על סיפון הארקדה.",
-      "notes": "1. 'תורה של המזל' - לא ברור ומסורבל. 'Luck's turn' כנראה מתכוון לכך שהמזל התהפך נגדך. הצעה: 'המזל הפך את עורו' או 'גלגל המזל סבב נגדך' או פשוט 'המזל הרע עלה לך ביוקר'.\n2. 'עלתה לך ביוקר' - בסדר אבל יותר טבעי: 'יצא לך יקר' או 'עלה לך ביוקר'.",
+      "translation": "המזל הרע עלה לך ביוקר. כשהחיים דולפים החוצה, אתה מתגעגע לימים הפשוטים יותר על סיפון הארקדה.",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "100.agilogic",
       "messageNumber": 16,
       "original": "You've been mowed down by a Deltaur crewthing.",
-      "translation": "נכרתת על ידי איש צוות של הדלטאור.",
-      "notes": "1. 'mowed down' (כוסחת/נקצרת כמו דשא, נורית) תורגם ל'נכרתת' שמשמעותו חיתוך עצים - לא מדויק. הצעה: 'נקצרת' או 'הוכחדת' או 'חוסלת'.\n2. 'crewthing' הוא מילה המצאית שמשלבת crew ו-thing (יצור צוות) - 'איש צוות' לא מעביר את זה שמדובר ביצור זר ולא בן אדם. הצעה: 'יצור צוות של הדלטאור' או 'חבר-צוות של הדלטאור' (עם מקף).",
+      "translation": "נקצרת על ידי יצור צוות של הדלטאור.",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "100.agilogic",
       "messageNumber": 18,
       "original": "Not being a very smooth thief you have been caught and dealt with appropriately.",
-      "translation": "מאחר ולא היית גנב חלק במיוחד, נתפסת וטופלת בהתאם.",
-      "notes": "1. 'גנב חלק' - מילולי מדי ל'smooth thief'. בעברית נאמר 'גנב מיומן' או 'גנב זריז'.\n2. 'וטופלת בהתאם' - סבבה, אבל יותר טבעי בעברית: 'וקיבלת את מה שמגיע לך' או 'וטופלת כראוי'.",
+      "translation": "מאחר ולא היית גנב מיומן במיוחד, נתפסת וטופלת בהתאם.",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "100.agilogic",
       "messageNumber": 19,
       "original": "Gee whiz, %s1! You could actually be a hero if you weren't so clumsy. Wise up.",
-      "translation": "בחיי, %s1! יכולת להיות גיבור אם לא היית כל כך מגושם. תתבגר.",
-      "notes": "1. 'Gee whiz' הוא ביטוי מיושן ומתון של הפתעה/תסכול. 'בחיי' זה בסדר אבל אולי יותר מתאים: 'וואו' או 'יא אלוהים'.\n2. 'Wise up' פירושו להתחכם/להבין את המצב, לא בהכרח להתבגר. הצעה: 'תתעשת' או 'תתפקס' או 'תחכים'.",
+      "translation": "בחיי, %s1! יכולת להיות גיבור אם לא היית כל כך מגושם. תתחכם.",
+      "notes": "",
       "placeholders": [
         "%s"
       ]
@@ -12814,8 +12814,8 @@
       "logicFile": "100.agilogic",
       "messageNumber": 31,
       "original": "Alas, %s1, you have failed in your attempt to save the universe from the clutches of the Sariens.",
-      "translation": "אבוי, %s1, נכשלת בניסיון שלך להציל את היקום מציפורני הסריאנים.",
-      "notes": "'מציפורני הסריאנים' - 'clutches' הוא אחיזה/צבת, לא ציפורניים. הצעה: 'מאחיזת הסריאנים' או 'מידיהם של הסריאנים' או 'משליטת הסריאנים'.",
+      "translation": "אבוי, %s1, נכשלת בניסיון שלך להציל את היקום מאחיזת הסריאנים.",
+      "notes": "",
       "placeholders": [
         "%s"
       ]
@@ -12874,8 +12874,8 @@
       "logicFile": "103.agilogic",
       "messageNumber": 5,
       "original": "You think you hear footsteps!",
-      "translation": "אתה חושב ששמעת צעדים!",
-      "notes": "שינוי זמן לא מוצדק: במקור כתוב \"you hear\" (הווה) אבל התרגום משתמש ב\"שמעת\" (עבר). הצעה לתיקון: \"אתה חושב שאתה שומע צעדים!\" - כדי לשמור על תחושת המיידיות של המקור.",
+      "translation": "אתה חושב שאתה שומע צעדים!",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -13042,8 +13042,8 @@
       "logicFile": "107.agilogic",
       "messageNumber": 1,
       "original": "You have traveled a long way only to die by carelessly stepping to your death. What a clod!",
-      "translation": "נסעת דרך ארוכה רק כדי למות בצעד חסר זהירות אל מותך. איזה גולם!",
-      "notes": "1. \"נסעת דרך ארוכה\" - תרגום מילולי מדי. עדיף: \"עברת דרך כה ארוכה\" או \"הגעת עד הלום\". 2. \"בצעד חסר זהירות אל מותך\" - מסורבל ויש כפילות עם \"למות\". הצעה: \"רק כדי למות מצעד רשלני אחד\". 3. \"גולם\" - תרגום שגוי ל-\"clod\". באנגלית clod הוא סלנג לאדם טיפש/מגושם, לא גולם מיסטי. הצעה: \"איזה שלומיאל!\" או \"איזה טיפש!\" או \"איזה מגושם!\". הצעה לתרגום מתוקן: \"עברת דרך כה ארוכה רק כדי למות מצעד רשלני אחד. איזה שלומיאל!\"",
+      "translation": "נסעת דרך ארוכה רק כדי למות בצעד חסר זהירות אל מותך. איזה טיפש!",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -13060,8 +13060,8 @@
       "logicFile": "110.agilogic",
       "messageNumber": 1,
       "original": "Suddenly you see a large, black metal sphere falling out of the sky - a Sarien Spider Droid. Upon touching down on the planet's surface, it sprouts legs and begins its search for you. You recall from an article in Space Piston Magazine that this droid is designed to seek out organic life forms and self destruct when contact is made.",
-      "translation": "לפתע אתה רואה כדור מתכת שחור גדול נופל מהשמיים - רובוט עכביש סריאני. עם נגיעתו בפני הכוכב, הוא מצמיח רגליים ומתחיל לחפש אותך. אתה נזכר ממאמר במגזין פיסטון החלל שהרובוט הזה מתוכנן לחפש צורות חיים אורגניות ולהתפוצץ עצמית כאשר מתבצע מגע.",
-      "notes": "מספר בעיות: (1) \"אתה נזכר ממאמר\" - צריך להיות \"אתה נזכר במאמר\". (2) \"להתפוצץ עצמית\" - שגיאה דקדוקית, צריך להיות \"להשמיד את עצמו\" או \"להתפוצץ\". (3) \"כאשר מתבצע מגע\" - מנוסח בצורה פורמלית מדי, עדיף \"ברגע המגע\" או \"כשנוצר מגע\". הצעה לתיקון: \"אתה נזכר במאמר במגזין 'פיסטון החלל' שהרובוט הזה מתוכנן לחפש צורות חיים אורגניות ולהשמיד את עצמו ברגע המגע.\"",
+      "translation": "לפתע אתה רואה כדור מתכת שחור גדול נופל מהשמיים - רובוט עכביש סריאני. עם נגיעתו בפני הכוכב, הוא מצמיח רגליים ומתחיל לחפש אותך. אתה נזכר במאמר במגזין פיסטון החלל שהרובוט הזה מתוכנן לחפש צורות חיים אורגניות ולהשמיד את עצמו ברגע המגע.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -13260,8 +13260,8 @@
       "logicFile": "112.agilogic",
       "messageNumber": 8,
       "original": "You, a mere human, are no match for this mechanical menace.",
-      "translation": "אתה, בן אנוש פשוט, אינך שווה ערך לאיום המכני הזה.",
-      "notes": "'אינך שווה ערך' הוא תרגום מילולי שלא מעביר את המשמעות. 'no match' משמעו שאין לך סיכוי נגדו. הצעה לתיקון: 'אתה, בן אנוש פשוט, אין לך סיכוי מול האיום המכני הזה' או 'לא תוכל להתמודד עם האיום המכני הזה'",
+      "translation": "אתה, בן אנוש פשוט, אין לך סיכוי מול האיום המכני הזה.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -13406,8 +13406,8 @@
       "logicFile": "113.agilogic",
       "messageNumber": 2,
       "original": "You're broke!  Hit the road, freeloader!",
-      "translation": "אתה קרוש! לך מפה, טפיל!",
-      "notes": "בעיה: המילה \"קרוש\" היא מילה ארכאית שמשמעותה \"קפוא\" ואינה מתאימה למשמעות \"broke\" (חסר כסף). הצעה לתיקון: להחליף ל\"אתה פלאט!\" או \"אתה שבור!\" או \"נגמר לך הכסף!\" - אלה ביטויים עממיים מתאימים יותר לסלנג של המשחק.",
+      "translation": "אתה שבור! לך מפה, טפיל!",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -13432,8 +13432,8 @@
       "logicFile": "115.agilogic",
       "messageNumber": 1,
       "original": "Sorry, there seems to be a circuit failure.  To be reimbursed send claim to Gippazoid Novelties, 2001 Odessa Blastway  Gurnville, Faydor    Exl Galaxy.\\n (Please allow two decades for delivery)",
-      "translation": "מצטערים, נראה שיש תקלת מעגל. לקבלת החזר שלח תביעה לגיפזואיד מוצרי חידוש, 2001 אודסה בלאסטוויי, גרנוויל, פיידור, גלקסיה אקסל.\\n (אנא אפשר שני עשורים למשלוח)",
-      "notes": "1. \"גיפזואיד מוצרי חידוש\" - סדר מילים לא טבעי בעברית. הצעה: \"חברת גיפזואיד לחידושים\" או \"מוצרי חידוש גיפזואיד\".\n2. \"אנא אפשר שני עשורים למשלוח\" - תרגום מילולי מדי. הצעה: \"נא להמתין עד שני עשורים למשלוח\" או \"זמן משלוח משוער: שני עשורים\".\n3. \"לקבלת החזר שלח\" - ניסוח קצת מגושם. הצעה: \"לקבלת החזר כספי, שלח תביעה ל...\"",
+      "translation": "מצטערים, נראה שיש תקלת מעגל. לקבלת החזר כספי, שלח תביעה למוצרי חידוש גיפזואיד, 2001 אודסה בלאסטוויי, גרנוויל, פיידור, גלקסיה אקסל.\\n (נא להמתין עד שני עשורים למשלוח)",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -13524,8 +13524,8 @@
       "logicFile": "116.agilogic",
       "messageNumber": 1,
       "original": "You hear some zapping and popping.",
-      "translation": "אתה שומע צלילי זעזוע ופיצוח.",
-      "notes": "התרגום לא טבעי. \"זעזוע\" פירושו shock/trauma ולא צליל של חשמל, ו\"פיצוח\" מתאים יותר לפיצוח אגוזים. הצעה: \"אתה שומע צלילי זיזוז וקפיצות\" או \"אתה שומע צלילי חשמול ופקיעות\".",
+      "translation": "אתה שומע צלילי חשמול ופקיעות.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -13572,16 +13572,16 @@
       "logicFile": "116.agilogic",
       "messageNumber": 7,
       "original": "\\\"I am most anxious to serve you, Sir (click). I hope you find my services satisfactory. My, but that's a smart-looking flight suit you have on.\\\"",
-      "translation": "\\\"אני נרגש מאוד לשרת אותך, אדוני (קליק). אני מקווה שתמצא את שירותיי משביעי רצון. בחיי, איזו חליפת טיסה חכמה לובש היום.\\\"",
-      "notes": "מספר בעיות: 1) \"נרגש\" לא מתאים - \"anxious to serve\" פירושו להוט/משתוקק, לא נרגש. הצעה: \"אני משתוקק לשרת אותך\" או \"אני להוט לשרת אותך\". 2) \"בחיי\" סלנג מודרני מדי ולא מתאים לדרואיד מנומס. הצעה: \"אוי\" או \"הו\". 3) המשפט האחרון חסר מילה - \"לובש היום\" צריך להיות \"אתה לובש\". הצעה: \"הו, איזו חליפת טיסה מרשימה אתה לובש\".",
+      "translation": "\\\"אני להוט מאוד לשרת אותך, אדוני (קליק). אני מקווה שתמצא את שירותיי משביעי רצון. הו, איזו חליפת טיסה מרשימה אתה לובש.\\\"",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "116.agilogic",
       "messageNumber": 8,
       "original": "\\\"It sure feels good to be out of that stuffy metal market (click). I thought I was doomed to sit there and rust away.\\\"",
-      "translation": "\\\"איזה טוב להיות מחוץ לשוק המתכת המחניק הזה (קליק). חשבתי שנידון לשבת שם ולהחליד.\\\"",
-      "notes": "בעיית הטיה: \"חשבתי שנידון\" - הפועל \"נידון\" צריך להיות בגוף ראשון: \"שאני נידון\" או \"שנידונתי\". הצעה: \"חשבתי שנידונתי לשבת שם ולהחליד\". גם \"שוק המתכת המחניק\" קצת מגושם - אפשר \"השוק המתכתי המחניק הזה\".",
+      "translation": "\\\"איזה טוב להיות מחוץ לשוק המתכת המחניק הזה (קליק). חשבתי שאני נידון לשבת שם ולהחליד.\\\"",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -13652,8 +13652,8 @@
       "logicFile": "119.agilogic",
       "messageNumber": 8,
       "original": "If the robot droid could laugh, which it is not programmed to do, it would do so. Your pulseray is only effective against living opponents!",
-      "translation": "אם הרובוט היה יכול לצחוק, ובכך הוא אינו מתוכנת, הוא היה עושה זאת. קרן הפעימה שלך יעילה רק נגד יריבים חיים!",
-      "notes": "כמה בעיות: 1) 'ובכך הוא אינו מתוכנת' - לא נכון. 'בכך' לא מתאים כאן. הצעה: 'מה שהוא לא מתוכנת לעשות' או 'דבר שהוא לא מתוכנת לעשות'. 2) 'אינו' פורמלי מדי.",
+      "translation": "אם הרובוט היה יכול לצחוק, דבר שהוא לא מתוכנת לעשות, הוא היה עושה זאת. קרן הפעימה שלך יעילה רק נגד יריבים חיים!",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -13668,8 +13668,8 @@
       "logicFile": "119.agilogic",
       "messageNumber": 10,
       "original": "The bomb has fallen to the floor where it has exploded harmlessly. The guard is so intent on guarding the Star Generator he doesn't even blink an eye.",
-      "translation": "הפצצה נפלה לרצפה שם התפוצצה ללא נזק. השומר כל כך מרוכז בשמירה על מחולל הכוכבים שהוא אפילו לא ממצמץ.",
-      "notes": "'שם' לא מתאים כמילת קישור בהקשר הזה. הצעה: 'הפצצה נפלה לרצפה והתפוצצה ללא נזק.' או 'הפצצה נפלה לרצפה, שם התפוצצה ללא נזק.'",
+      "translation": "הפצצה נפלה לרצפה והתפוצצה ללא נזק. השומר כל כך מרוכז בשמירה על מחולל הכוכבים שהוא אפילו לא ממצמץ.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -13704,8 +13704,8 @@
       "logicFile": "119.agilogic",
       "messageNumber": 15,
       "original": "The grenade drops to the floor releasing its poisonous gas on the unsuspecting alien. Good shot %s1!",
-      "translation": "הרימון נופל לרצפה ומשחרר את הגז הרעיל שלו על החייזר החסר חשד. ירייה טובה %s1!",
-      "notes": "'החסר חשד' תרגום מילולי מדי של 'unsuspecting'. הצעה: 'התמים' או 'שלא חשד בכלום' או 'חסר החשד'. כמו כן, 'ירייה טובה' לא מתאים לרימון - הצעה: 'זריקה מצוינת' או 'כל הכבוד'.",
+      "translation": "הרימון נופל לרצפה ומשחרר את הגז הרעיל שלו על החייזר התמים. זריקה מצוינת %s1!",
+      "notes": "",
       "placeholders": [
         "%s"
       ]
@@ -13722,8 +13722,8 @@
       "logicFile": "119.agilogic",
       "messageNumber": 17,
       "original": "You're toast!",
-      "translation": "אתה טוסט!",
-      "notes": "תרגום מילולי של ביטוי אידיומטי. 'You're toast' באנגלית פירושו 'נגמרת/גמור'. הצעה: 'נגמרת!' או 'גמור!' או 'סיימת!' או 'אתה אפס!'",
+      "translation": "נגמרת!",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -13810,8 +13810,8 @@
       "logicFile": "120.agilogic",
       "messageNumber": 7,
       "original": "It is already open.",
-      "translation": "פתח האוורור כבר פתוחה ועומדת.",
-      "notes": "חוסר התאמה במגדר: \"פתח\" הוא זכר, אבל \"פתוחה\" ו\"עומדת\" הם נקבה. הצעה לתיקון: \"פתח האוורור כבר פתוח\" או פשוט \"זה כבר פתוח\"",
+      "translation": "פתח האוורור כבר פתוח.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -13826,16 +13826,16 @@
       "logicFile": "120.agilogic",
       "messageNumber": 9,
       "original": "Your nose has just been redesigned by your ill-advised attempt to insert it into a closed vent.",
-      "translation": "האף שלך זה עתה עוצב מחדש על ידי הניסיון הלא-מוצלח שלך להכניס אותו לתוך פתח אוורור סגורה.",
-      "notes": "שתי בעיות: 1) חוסר התאמה במגדר - \"פתח\" הוא זכר, אבל \"סגורה\" היא נקבה. צריך להיות \"סגור\". 2) \"ill-advised\" באנגלית משמעו \"לא חכם/פזיז\" ולא \"לא מוצלח\". הצעה לתיקון: \"האף שלך זה עתה עוצב מחדש בעקבות הניסיון הפזיז שלך להכניס אותו לפתח אוורור סגור.\"",
+      "translation": "האף שלך זה עתה עוצב מחדש בעקבות הניסיון הפזיז שלך להכניס אותו לפתח אוורור סגור.",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "120.agilogic",
       "messageNumber": 10,
       "original": "You cannot reach the grate from here.",
-      "translation": "לא נראה שאתה מסוגל להגיע לפתח האוורור מכאן.",
-      "notes": "שתי בעיות: 1) המקור אומר \"grate\" (סורג), אבל התרגום אומר \"פתח האוורור\" - אלה שני אובייקטים שונים. 2) המקור הוא קביעה פשוטה \"You cannot\", אבל התרגום מוסיף אי-ודאות \"לא נראה ש...\". הצעה לתיקון: \"אתה לא יכול להגיע לסורג מכאן.\"",
+      "translation": "אתה לא יכול להגיע לסורג מכאן.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -13890,24 +13890,24 @@
       "logicFile": "120.agilogic",
       "messageNumber": 17,
       "original": "It is closed.",
-      "translation": "סגורה",
-      "notes": "חוסר התאמה במגדר: אם הכוונה לסורג או לפתח האוורור, שניהם בזכר. הצעה לתיקון: \"סגור\"",
+      "translation": "סגור.",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "120.agilogic",
       "messageNumber": 18,
       "original": "It is open.",
-      "translation": "פתוחה",
-      "notes": "חוסר התאמה במגדר: אם הכוונה לסורג או לפתח האוורור, שניהם בזכר. הצעה לתיקון: \"פתוח\"",
+      "translation": "פתוח.",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "121.agilogic",
       "messageNumber": 1,
       "original": "It`s already open.",
-      "translation": "פתח האוורור כבר פתוחה ועומדת.",
-      "notes": "בעיית מגדר: 'פתח' הוא זכר, אז צריך להיות 'פתוח' ולא 'פתוחה'. גם 'ועומדת' מיותר ולא מופיע במקור. הצעה לתיקון: 'פתח האוורור כבר פתוח.' או 'הוא כבר פתוח.'",
+      "translation": "פתח האוורור כבר פתוח.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -13954,8 +13954,8 @@
       "logicFile": "121.agilogic",
       "messageNumber": 7,
       "original": "You have no need to do that.",
-      "translation": "אינך צריך לעשות זאת שוב.",
-      "notes": "המילה 'שוב' לא מופיעה במקור האנגלי ('again'). הצעה לתיקון: 'אינך צריך לעשות זאת.' או 'אין לך צורך לעשות זאת.'",
+      "translation": "אינך צריך לעשות זאת.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -14010,8 +14010,8 @@
       "logicFile": "121.agilogic",
       "messageNumber": 14,
       "original": "the deck and the sensation of",
-      "translation": "מהרצפה ותחושת",
-      "notes": "'deck' בהקשר של חללית זה 'סיפון' ולא 'רצפה'. הצעה לתיקון: 'מהסיפון ותחושת'",
+      "translation": "מהסיפון ותחושת",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -14074,8 +14074,8 @@
       "logicFile": "121.agilogic",
       "messageNumber": 22,
       "original": "You can not enter the narrow vent wearing that jetpack.",
-      "translation": "אינך יכול להיכנס לפתח האוורור הצר כשאתה חובש את תרמיל הריחוף.",
-      "notes": "'חובש' משמש בדרך כלל לכובע או לחבישת פצע. תרמיל גב 'עונדים' או 'נושאים' או 'לובשים'. הצעה לתיקון: 'אינך יכול להיכנס לפתח האוורור הצר כשאתה עונד את תרמיל הריחוף.'",
+      "translation": "אינך יכול להיכנס לפתח האוורור הצר כשאתה עונד את תרמיל הריחוף.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -14146,8 +14146,8 @@
       "logicFile": "121.agilogic",
       "messageNumber": 31,
       "original": "Just because you can fly doesn't make you Superman.",
-      "translation": "רק בגלל שאתה יכול לעוף לא הופך אותך לסופרמן.",
-      "notes": "המשפט לא זורם טבעי בעברית. 'רק בגלל ש... לא הופך אותך' זו מבנה לא תקין. הצעה לתיקון: 'זה שאתה יכול לעוף לא הופך אותך לסופרמן.' או 'העובדה שאתה יכול לעוף לא הופכת אותך לסופרמן.'",
+      "translation": "זה שאתה יכול לעוף לא הופך אותך לסופרמן.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -14266,8 +14266,8 @@
       "logicFile": "122.agilogic",
       "messageNumber": 3,
       "original": "\\\"Which way to the little boys room?\\\" you ask, hoping Sariens even do that sort of thing.",
-      "translation": "\\\"איפה השירותים לבנים?\\\" אתה שואל, בתקווה שלסריאנים יש בכלל דבר כזה.",
-      "notes": "\"little boys room\" הוא ביטוי סלנגי/עדין לשירותים, לא \"שירותים לבנים\" (שנשמע כמו שירותי בית ספר). הצעה: \"איפה חדר השירותים?\" או \"איפה השירותים?\" - כך נשמר הטון הקליל בלי הפרשנות המילולית.",
+      "translation": "\\\"איפה השירותים?\\\" אתה שואל, בתקווה שלסריאנים יש בכלל דבר כזה.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -14314,8 +14314,8 @@
       "logicFile": "122.agilogic",
       "messageNumber": 12,
       "original": "After a reasonable period of silence at your end, the Guard answers his own joke, \\\"Two!!!\\\". He does not seem unduly impressed by your lack of laughter.",
-      "translation": "אחרי פרק זמן סביר של שתיקה מצדך, השומר עונה לבדיחה של עצמו, \\\"שניים!!!\\\" הוא לא נראה מאוד מרוצה מחוסר הצחוק שלך.",
-      "notes": "תרגום שגוי של \"unduly impressed\". הכוונה היא שהוא לא נראה מופרע/מוטרד במיוחד, לא שהוא \"לא מרוצה\". הצעה: \"הוא לא נראה מוטרד במיוחד מחוסר הצחוק שלך\" או \"חוסר הצחוק שלך לא נראה מפריע לו במיוחד\".",
+      "translation": "אחרי פרק זמן סביר של שתיקה מצדך, השומר עונה לבדיחה של עצמו, \\\"שניים!!!\\\" הוא לא נראה מוטרד במיוחד מחוסר הצחוק שלך.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -14378,8 +14378,8 @@
       "logicFile": "122.agilogic",
       "messageNumber": 22,
       "original": "Shouldn't you be trying to save your planet?",
-      "translation": "לא אמור אתה לנסות להציל את הכוכב שלך?",
-      "notes": "סדר מילים לא טבעי בעברית! \"לא אמור אתה\" נשמע כמו עברית מקראית או תרגום מילולי. הצעה: \"אתה לא אמור לנסות להציל את הכוכב שלך?\" או יותר טבעי: \"לא כדאי שתנסה להציל את הכוכב שלך?\"",
+      "translation": "אתה לא אמור לנסות להציל את הכוכב שלך?",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -14418,16 +14418,16 @@
       "logicFile": "122.agilogic",
       "messageNumber": 27,
       "original": "The guard describes to you in graphic detail his previous evening's exploits.",
-      "translation": "השומר מתאר לך בפירוט גרפי את ההרפתקאות שלו מהערב הקודם.",
-      "notes": "\"graphic detail\" לא אומר \"פירוט גרפי\" (שמשמעותו ויזואלית). הכוונה היא לפירוט חי/עסיסי/מפורש. הצעה: \"בפירוט רב\" או \"בפירוט עסיסי\" או \"בפירוט מלא\".",
+      "translation": "השומר מתאר לך בפירוט רב את ההרפתקאות שלו מהערב הקודם.",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "122.agilogic",
       "messageNumber": 28,
       "original": "The guard outlines his favorite massacre, \\\"The Great Daventry Rout\\\" as he called it. You ponder the meaning of this for a while.",
-      "translation": "השומר משרטט את הטבח האהוב עליו, \\\"מסע הטבח הגדול בדייבנטרי\\\" כפי שהוא קורא לו. אתה מהרהר במשמעות הדבר לזמן מה.",
-      "notes": "\"משרטט\" הוא תרגום שגוי. \"outlines\" בהקשר זה פירושו \"מתאר\" או \"מספר בקצרה\", לא ציור/שרטוט. הצעה: \"השומר מתאר את הטבח האהוב עליו\" או \"השומר מספר בקצרה על הטבח האהוב עליו\".",
+      "translation": "השומר מתאר את הטבח האהוב עליו, \\\"מסע הטבח הגדול בדייבנטרי\\\" כפי שהוא קורא לו. אתה מהרהר במשמעות הדבר לזמן מה.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -14458,8 +14458,8 @@
       "logicFile": "122.agilogic",
       "messageNumber": 32,
       "original": "As you pucker up your lips and lean close, you suddenly remember what your mother taught you about Sariens. In a rare moment of wisdom, you decide not to get anything started you're  unwilling to finish.",
-      "translation": "בעודך מצמצם את שפתייך ונוטה קדימה, אתה פתאום זוכר מה אמא שלך לימדה אותך על סריאנים. ברגע נדיר של חוכמה, אתה מחליט לא להתחיל משהו שאתה לא מוכן לסיים.",
-      "notes": "\"מצמצם\" בדרך כלל מתייחס לעיניים (squinting), לא לשפתיים. \"pucker up\" פירושו לכווץ/לעגל את השפתיים (כמו לנשיקה). הצעה: \"בעודך מכווץ את שפתייך\" או \"בעודך מעגל את שפתייך לנשיקה\".",
+      "translation": "בעודך מכווץ את שפתייך ונוטה קדימה, אתה פתאום זוכר מה אמא שלך לימדה אותך על סריאנים. ברגע נדיר של חוכמה, אתה מחליט לא להתחיל משהו שאתה לא מוכן לסיים.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -14530,8 +14530,8 @@
       "logicFile": "123.agilogic",
       "messageNumber": 3,
       "original": "There is no need for that here.",
-      "translation": "אין צורך לעשות זאת כאן.",
-      "notes": "התרגום מוסיף \"לעשות\" שלא קיים במקור. המקור אומר \"אין צורך בזה\" ולא \"אין צורך לעשות זאת\". מומלץ לשנות ל\"אין צורך בזה כאן\".",
+      "translation": "אין צורך בזה כאן.",
+      "notes": "",
       "placeholders": []
     }
   ]
