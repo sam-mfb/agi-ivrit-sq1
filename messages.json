@@ -2119,7 +2119,7 @@
       "logicFile": "6.agilogic",
       "messageNumber": 3,
       "original": "On the console by the window are two buttons marked \\\"OPEN BAY DOOR\\\" and \\\"CLOSE BAY DOOR\\\".",
-      "translation": "על הקונסולה ליד החלון נמצאים שני כפתורים עם התוויות \"פתח דלת מעגן\" ו\"סגור דלת מעגן\".",
+      "translation": "על הקונסולה ליד החלון נמצאים שני כפתורים עם התוויות \\\"פתח דלת מעגן\\\" ו\\\"סגור דלת מעגן\\\".",
       "notes": "",
       "placeholders": []
     },
@@ -3771,7 +3771,7 @@
       "logicFile": "17.agilogic",
       "messageNumber": 4,
       "original": "Near the base you notice some very small printing. If you're not mistaken the characters translate to \\\"497 Quadgillion Served.\\\"",
-      "translation": "ליד הבסיס אתה מבחין בהדפסה קטנה מאוד. אם אתה לא טועה התווים מתורגמים ל\"497 קוודגיליון הוגשו.\"",
+      "translation": "ליד הבסיס אתה מבחין בהדפסה קטנה מאוד. אם אתה לא טועה התווים מתורגמים ל\\\"497 קוודגיליון הוגשו.\\\"",
       "notes": "",
       "placeholders": []
     },
@@ -4791,7 +4791,7 @@
       "logicFile": "29.agilogic",
       "messageNumber": 2,
       "original": "\\\"I have been monitoring your travels on our planet. It appears that you are up the proverbial estuary without a means of locomotion.\\\"",
-      "translation": "\"זה זמן רב שאני מנטר את מסעך על כוכבינו. מסתבר שאתה חותר במעלה הנהר ללא משוטים.\"",
+      "translation": "\\\"זה זמן רב שאני מנטר את מסעך על כוכבינו. מסתבר שאתה חותר במעלה הנהר ללא משוטים.\\\"",
       "notes": "",
       "placeholders": []
     },
@@ -4799,7 +4799,7 @@
       "logicFile": "29.agilogic",
       "messageNumber": 3,
       "original": "\\\"You are obviously in need of transportation.\\\"",
-      "translation": "\"ברור שאתה זקוק לכלי תחבורה.\"",
+      "translation": "\\\"ברור שאתה זקוק לכלי תחבורה.\\\"",
       "notes": "",
       "placeholders": []
     },
@@ -4815,7 +4815,7 @@
       "logicFile": "29.agilogic",
       "messageNumber": 5,
       "original": "\\\"On the surface lives a beast called Orat.  He proves to be a bit of an annoyance on occasion.  Dispose of him and bring back evidence of your conquest.  Only then will I deal with your plight.  Good luck, strange one.\\\"",
-      "translation": "\"על פני השטח חי לו מפלץ ושמו אורט. הוא הוכיח את עצמו כמטרד לא קטן בהזדמנויות שונות. היפטר ממנו והבא לי הוכחה על נצחונך. רק אז אטפל במצוקתך. בהצלחה, יצור זר.\"",
+      "translation": "\\\"על פני השטח חי לו מפלץ ושמו אורט. הוא הוכיח את עצמו כמטרד לא קטן בהזדמנויות שונות. היפטר ממנו והבא לי הוכחה על נצחונך. רק אז אטפל במצוקתך. בהצלחה, יצור זר.\\\"",
       "notes": "",
       "placeholders": []
     },
@@ -4823,7 +4823,7 @@
       "logicFile": "29.agilogic",
       "messageNumber": 6,
       "original": "\\\"So, you have returned.  Fortunately, there is much more to you than meets the eye.\\\"",
-      "translation": "\"אז, חזרת. לשמחתי, יש בך הרבה יותר ממה שנראה לעין.\"",
+      "translation": "\\\"אז, חזרת. לשמחתי, יש בך הרבה יותר ממה שנראה לעין.\\\"",
       "notes": "",
       "placeholders": []
     },
@@ -4943,7 +4943,7 @@
       "logicFile": "29.agilogic",
       "messageNumber": 23,
       "original": "\\\"Dr, hgi hnhht hjutn.  Kdfdrnlo ghfhr bb rhytt thrt ii mys aawr vcvvf xxc cdd.\\\"",
-      "translation": "\"דר, הגי הנההט הג'וטן. קדפדרנלו גפהר בב ריטט טרט יי מיס הואר וסווף קסס כדד.\"",
+      "translation": "\\\"דר, הגי הנההט הג'וטן. קדפדרנלו גפהר בב ריטט טרט יי מיס הואר וסווף קסס כדד.\\\"",
       "notes": "",
       "placeholders": []
     },
@@ -4975,7 +4975,7 @@
       "logicFile": "29.agilogic",
       "messageNumber": 27,
       "original": "\\\"So, you have found your way to my hallowed chamber. Fortunately there is much more to you than meets the eye.\\\"",
-      "translation": "\"אז, מצאת את דרכך אל אולמי המקודש. לשמחתי, יש בך הרבה יותר ממה שנראה לעין.\"",
+      "translation": "\\\"אז, מצאת את דרכך אל אולמי המקודש. לשמחתי, יש בך הרבה יותר ממה שנראה לעין.\\\"",
       "notes": "",
       "placeholders": []
     },
@@ -4983,7 +4983,7 @@
       "logicFile": "29.agilogic",
       "messageNumber": 28,
       "original": "\\\"Bring to me evidence of the beast Orat's demise and we'll talk.\\\"",
-      "translation": "\"הבא לי הוכחה על מותו של אורט המפלץ ונדבר.\"",
+      "translation": "\\\"הבא לי הוכחה על מותו של אורט המפלץ ונדבר.\\\"",
       "notes": "",
       "placeholders": []
     },
@@ -4991,7 +4991,7 @@
       "logicFile": "29.agilogic",
       "messageNumber": 29,
       "original": "\\\"It has come to my attention that you have met Orat. If you have proof of Orat's demise, drop it for my inspection.",
-      "translation": "\"הגיע לידיעתי שפגשת את אורט. אם יש לך הוכחה למותו של אורט, הנח אותה לבדיקתי.",
+      "translation": "\\\"הגיע לידיעתי שפגשת את אורט. אם יש לך הוכחה למותו של אורט, הנח אותה לבדיקתי.",
       "notes": "",
       "placeholders": []
     },
@@ -5977,7 +5977,7 @@
       "logicFile": "34.agilogic",
       "messageNumber": 12,
       "original": "\\\"So what are ya trying to pull? If you don't have the cash you can hit the road. Go on, get out of here. You're wasting my time!\\\"",
-      "translation": "\"אז מה אתה מנסה לעבוד עליי? אם אין לך את הכסף אתה יכול לפרוש מכאן. קדימה, התפנה מפה. אתה מבזבז לי את הזמן!\"",
+      "translation": "\\\"אז מה אתה מנסה לעבוד עליי? אם אין לך את הכסף אתה יכול לפרוש מכאן. קדימה, התפנה מפה. אתה מבזבז לי את הזמן!\\\"",
       "notes": "",
       "placeholders": []
     },
@@ -6043,7 +6043,7 @@
       "logicFile": "34.agilogic",
       "messageNumber": 20,
       "original": "\\\"Well, geez, guy! It seems it's developed some minor malfunction since we acquired it. We did have a small micro-meteroid shower the other day. Maybe that was it! Yeah, that was probably it.\\\"",
-      "translation": "\"ובכן, אלוהים, בנאדם! נראה שפיתחה תקלה קטנה מאז שרכשנו אותה. היה לנו גשם קל של מיקרו-מטאורואידים לפני כמה ימים. אולי זה היה זה! כן, זה כנראה היה זה.\"",
+      "translation": "\\\"ובכן, אלוהים, בנאדם! נראה שפיתחה תקלה קטנה מאז שרכשנו אותה. היה לנו גשם קל של מיקרו-מטאורואידים לפני כמה ימים. אולי זה היה זה! כן, זה כנראה היה זה.\\\"",
       "notes": "",
       "placeholders": []
     },
@@ -6241,7 +6241,7 @@
       "logicFile": "35.agilogic",
       "messageNumber": 8,
       "original": "\\\"Fine. Be that way.\\\"",
-      "translation": "\"בסדר. שיהיה ככה.\"",
+      "translation": "\\\"בסדר. שיהיה ככה.\\\"",
       "notes": "",
       "placeholders": []
     },
@@ -6259,7 +6259,7 @@
       "logicFile": "35.agilogic",
       "messageNumber": 10,
       "original": "\\\"Glad we could do business. I'll just take that key. Thank you kindly. Hope your stay in Ulence Flats is an interesting one.\\\"",
-      "translation": "\"שמח שסגרנו עסקה. רק אקח את המפתח. תודה מקרב לב. מקווה ששהייתך במישורי יולנס תהיה מעניינת.\"",
+      "translation": "\\\"שמח שסגרנו עסקה. רק אקח את המפתח. תודה מקרב לב. מקווה ששהייתך במישורי יולנס תהיה מעניינת.\\\"",
       "notes": "",
       "placeholders": []
     },
@@ -6267,7 +6267,7 @@
       "logicFile": "35.agilogic",
       "messageNumber": 11,
       "original": "\\\"Glad we could do business. Hope your stay in Ulence Flats is an interesting one.\\\"",
-      "translation": "\"שמח שסגרנו עסקה. מקווה ששהייתך במישורי יולנס תהיה מעניינת.\"",
+      "translation": "\\\"שמח שסגרנו עסקה. מקווה ששהייתך במישורי יולנס תהיה מעניינת.\\\"",
       "notes": "",
       "placeholders": []
     },
@@ -6301,7 +6301,7 @@
       "logicFile": "35.agilogic",
       "messageNumber": 15,
       "original": "\\\"Say there, pal. It's come to my attention that you're in the market for some transportation.\\\"",
-      "translation": "\"תגיד, אח שלי. השמועה אומרת שאתה בעניין של רכישת כלי תחבורה.\"",
+      "translation": "\\\"תגיד, אח שלי. השמועה אומרת שאתה בעניין של רכישת כלי תחבורה.\\\"",
       "notes": "",
       "placeholders": []
     },
@@ -6309,7 +6309,7 @@
       "logicFile": "35.agilogic",
       "messageNumber": 16,
       "original": "\\\"I may be able to help. If you'll follow me, I'd like to show you a fine little piece of machinery that'll knock your eyes out.\\\"",
-      "translation": "\"יתכן ואוכל לעזור. אם תבוא אחרי, אראה לך חתיכת מכונה מדהימה שתוציא לך את העיניים מהחורים.\"",
+      "translation": "\\\"יתכן ואוכל לעזור. אם תבוא אחרי, אראה לך חתיכת מכונה מדהימה שתוציא לך את העיניים מהחורים.\\\"",
       "notes": "",
       "placeholders": []
     },
@@ -6623,7 +6623,7 @@
       "logicFile": "36.agilogic",
       "messageNumber": 4,
       "original": "\\\"%v124 buckazoids? I guess it's better than nothing. Here, keep five for yourself. I gotta admit you look like you need it. Well, gotta run. Later, pal.\\\"",
-      "translation": "\"%v124 באקזואידים? נו, זה יותר טוב מכלום. הנה, תשאיר לעצמך חמש. אני חייב להודות שאתה נראה כזה שצריך כל באקזואיד. טוב, אני מתנדף. להתראות, חבר.\"",
+      "translation": "\\\"%v124 באקזואידים? נו, זה יותר טוב מכלום. הנה, תשאיר לעצמך חמש. אני חייב להודות שאתה נראה כזה שצריך כל באקזואיד. טוב, אני מתנדף. להתראות, חבר.\\\"",
       "notes": "",
       "placeholders": [
         "%v"
@@ -6785,7 +6785,7 @@
       "logicFile": "36.agilogic",
       "messageNumber": 32,
       "original": "\\\"%v124 buckazoids? I guess it's better than nothing. Here, keep five for yourself. I gotta admit you look like you need it.\\\"",
-      "translation": "\"%v124 באקזואידים? נו, זה יותר טוב מכלום. הנה, תשאיר לעצמך חמש. אני חייב להודות שאתה נראה כזה שצריך כל באקזואיד.\"",
+      "translation": "\\\"%v124 באקזואידים? נו, זה יותר טוב מכלום. הנה, תשאיר לעצמך חמש. אני חייב להודות שאתה נראה כזה שצריך כל באקזואיד.\\\"",
       "notes": "",
       "placeholders": [
         "%v"
@@ -6835,7 +6835,7 @@
       "logicFile": "37.agilogic",
       "messageNumber": 2,
       "original": "\\\"Well, there's a man with a good eye. This here is the keenest little scrambler in the hemisphere. Top of the line. Handles like a charm. Perfect for cruising the asteroid fields.\\\"",
-      "translation": "\"ובכן, הנה בן אדם מבין עניין. זו כאן היא המערבלת הכי חדה בחצי הכדור. הטובה מסוגה. מתנהגת כמו חלום. מושלמת לשיוט בשדות האסטרואידים.\"",
+      "translation": "\\\"ובכן, הנה בן אדם מבין עניין. זו כאן היא המערבלת הכי חדה בחצי הכדור. הטובה מסוגה. מתנהגת כמו חלום. מושלמת לשיוט בשדות האסטרואידים.\\\"",
       "notes": "",
       "placeholders": []
     },
@@ -6843,7 +6843,7 @@
       "logicFile": "37.agilogic",
       "messageNumber": 3,
       "original": "\\\"And she's got all the thrust a guy could need. I tell ya, she's an outright steal at 214 buckazoids.\\\"",
-      "translation": "\"ויש לה את כל הדחף שבן אדם יכול לחלום. אני אומר לך אחי, היא גנבה אמיתית ב-214 באקזואידים.\"",
+      "translation": "\\\"ויש לה את כל הדחף שבן אדם יכול לחלום. אני אומר לך אחי, היא גנבה אמיתית ב-214 באקזואידים.\\\"",
       "notes": "",
       "placeholders": []
     },
@@ -6891,7 +6891,7 @@
       "logicFile": "37.agilogic",
       "messageNumber": 13,
       "original": "\\\"I tell ya, I think you've made a wise decision. She's a beauty. The keys are in her. If you have any problems, don't hesitate to come back and tell us about 'em.\\\"",
-      "translation": "\"ת'שמע לי, קיבלת את ההחלטה הנכונה. היא מקסימה. המפתחות בפנים. אם תיתקל בבעיות אל תהסס לחזור ולספר לנו עליהן.\"",
+      "translation": "\\\"ת'שמע לי, קיבלת את ההחלטה הנכונה. היא מקסימה. המפתחות בפנים. אם תיתקל בבעיות אל תהסס לחזור ולספר לנו עליהן.\\\"",
       "notes": "",
       "placeholders": []
     },
@@ -7013,7 +7013,7 @@
       "logicFile": "37.agilogic",
       "messageNumber": 29,
       "original": "\\\"Sector HH it is. I will proceed with course entry.\\\"",
-      "translation": "\"סקטור טט, הבנתי. אמשיך בהזנת המסלול.\"",
+      "translation": "\\\"סקטור טט, הבנתי. אמשיך בהזנת המסלול.\\\"",
       "notes": "",
       "placeholders": []
     },
@@ -7061,7 +7061,7 @@
       "logicFile": "37.agilogic",
       "messageNumber": 35,
       "original": "Seated in the cruiser you notice there are no controls here, just a button marked \\\"LOAD\\\". Tiny must have been serious when he said you would need a droid to fly it.",
-      "translation": "בזמן שאתה יושב בחללית, אתה מבחין שאין כל לחצנים בהישג ידך, מלבד כפתור המסומן \"טען\". זעירי התכוון ברצינות באומרו שתצטרך דרואיד כדי להטיס את הדבר הזה.",
+      "translation": "בזמן שאתה יושב בחללית, אתה מבחין שאין כל לחצנים בהישג ידך, מלבד כפתור המסומן \\\"טען\\\". זעירי התכוון ברצינות באומרו שתצטרך דרואיד כדי להטיס את הדבר הזה.",
       "notes": "",
       "placeholders": []
     },
@@ -7077,7 +7077,7 @@
       "logicFile": "37.agilogic",
       "messageNumber": 37,
       "original": "\\\"Sorry, you can only fly it when you buy it. And, oh by the way, there are no refunds either. Company Policy.\\\"",
-      "translation": "\"מצטער, אתה יכול להטיס רק אחרי שתקנה. אה, דרך אגב, גם אין החזרים. מדיניות החברה.\"",
+      "translation": "\\\"מצטער, אתה יכול להטיס רק אחרי שתקנה. אה, דרך אגב, גם אין החזרים. מדיניות החברה.\\\"",
       "notes": "",
       "placeholders": []
     },
@@ -7109,7 +7109,7 @@
       "logicFile": "37.agilogic",
       "messageNumber": 41,
       "original": "Looking at the inside of the ship you notice there are no controls here, just a button marked \\\"LOAD\\\". Tiny must have been serious when he said you would need a droid to fly it.",
-      "translation": "מביט בתוך החללית, אתה מבחין שאין כל לחצנים בהישג ידך, מלבד כפתור המסומן \"טען\". זעירי התכוון ברצינות באומרו שתצטרך דרואיד כדי להטיס את הדבר הזה.",
+      "translation": "מביט בתוך החללית, אתה מבחין שאין כל לחצנים בהישג ידך, מלבד כפתור המסומן \\\"טען\\\". זעירי התכוון ברצינות באומרו שתצטרך דרואיד כדי להטיס את הדבר הזה.",
       "notes": "",
       "placeholders": []
     },
@@ -7301,7 +7301,7 @@
       "logicFile": "41.agilogic",
       "messageNumber": 1,
       "original": "\\\"We have established visual contact with a ship of Sarien origin,\\\" says the droid. \\\"The name Deltaur is confirmed. You might consider the fact that we are in danger by being anywhere near this ship. I hope you didn't waste money on the extended warranty when you purchased me.\\\"",
-      "translation": "\"יצרנו קשר חזותי עם ספינה ממוצא סריאני,\" אומר הרובוט. \"השם דלטאור אומת. כדאי שתשקול שאנחנו בסכנה מעצם הקרבה לספינה הזו. אני מקווה שלא בזבזת כסף על אחריות מורחבת כשקנית אותי.\"",
+      "translation": "\\\"יצרנו קשר חזותי עם ספינה ממוצא סריאני,\\\" אומר הרובוט. \\\"השם דלטאור אומת. כדאי שתשקול שאנחנו בסכנה מעצם הקרבה לספינה הזו. אני מקווה שלא בזבזת כסף על אחריות מורחבת כשקנית אותי.\\\"",
       "notes": "",
       "placeholders": []
     },
@@ -7309,7 +7309,7 @@
       "logicFile": "41.agilogic",
       "messageNumber": 2,
       "original": "\\\"I will slow our approach and stand off at a safe distance.\\\"",
-      "translation": "\"אאט את ההתקרבות ואשמור על מרחק בטוח.\"",
+      "translation": "\\\"אאט את ההתקרבות ואשמור על מרחק בטוח.\\\"",
       "notes": "",
       "placeholders": []
     },
@@ -7575,7 +7575,7 @@
       "logicFile": "50.agilogic",
       "messageNumber": 11,
       "original": "You seem to have found a remote control device of some sort. It has only one button, labeled \\\"ON/OFF\\\"",
-      "translation": "נראה שמצאת איזה שלט רחוק. יש לו רק כפתור אחד שכתוב עליו \"דלוק/כבוי\"",
+      "translation": "נראה שמצאת איזה שלט רחוק. יש לו רק כפתור אחד שכתוב עליו \\\"דלוק/כבוי\\\"",
       "notes": "",
       "placeholders": []
     },
@@ -9575,7 +9575,7 @@
       "logicFile": "70.agilogic",
       "messageNumber": 3,
       "original": "\\\"That'll be $2.00. Thank you very much. Come again.\\\"",
-      "translation": "\"זה יהיה 2 באקזואידים. תודה רבה. תבוא שוב.\"",
+      "translation": "\\\"זה יהיה 2 באקזואידים. תודה רבה. תבוא שוב.\\\"",
       "notes": "",
       "placeholders": []
     },
@@ -9887,7 +9887,7 @@
       "logicFile": "70.agilogic",
       "messageNumber": 42,
       "original": "\\\"Wine? Did I say we have wine? Hey did you hear this humanoid? He wants wine! Get serious!\\\"",
-      "translation": "\"יין? אמרתי שיש לנו יין? שמעתם את בן האנוש הזה? הוא רוצה יין! אתה רציני?!\"",
+      "translation": "\\\"יין? אמרתי שיש לנו יין? שמעתם את בן האנוש הזה? הוא רוצה יין! אתה רציני?!\\\"",
       "notes": "",
       "placeholders": []
     },
@@ -9999,7 +9999,7 @@
       "logicFile": "71.agilogic",
       "messageNumber": 6,
       "original": "\\\"I got it from some gambling type who was required to pay-up or perish.\\\"",
-      "translation": "\"קיבלתי אותו מאיזה מהמר שנדרש לשלם או למות.\"",
+      "translation": "\\\"קיבלתי אותו מאיזה מהמר שנדרש לשלם או למות.\\\"",
       "notes": "",
       "placeholders": []
     },
@@ -10007,7 +10007,7 @@
       "logicFile": "71.agilogic",
       "messageNumber": 7,
       "original": "\\\"That unit is a good, all-around droid. Sure, it may seem a little dinged-up but it's not as bad as it looks. There is still quite a bit of life left in it. It is a great little companion. And for you, only 40 buckazoids (32 with coupon).\\\"",
-      "translation": "\"היחידה הזאת היא רובוט טוב ורב-תכליתי. אמנם, היא נראית קצת שרוטה, אבל היא לא נוראה כמו שהיא נראית. עדיין יש בה הרבה חיים. היא בת לוויה מצוינת. ורק עבורך, רק 40 באקזואידים (32 עם קופון).\"",
+      "translation": "\\\"היחידה הזאת היא רובוט טוב ורב-תכליתי. אמנם, היא נראית קצת שרוטה, אבל היא לא נוראה כמו שהיא נראית. עדיין יש בה הרבה חיים. היא בת לוויה מצוינת. ורק עבורך, רק 40 באקזואידים (32 עם קופון).\\\"",
       "notes": "",
       "placeholders": []
     },
@@ -10015,7 +10015,7 @@
       "logicFile": "71.agilogic",
       "messageNumber": 8,
       "original": "\\\"We call that one The Peacemaker. It's used primarily in security. In a crime situation it is capable of apprehending, trying, sentencing, and punishing the offender on the spot. Swift and effective. And only 368 buckazoids (294 with coupon).\\\"",
-      "translation": "\"אנחנו קוראים לזה עושה השלום. זה משמש בעיקר באבטחה. במקרה של פשע, הוא מסוגל לתפוס, לשפוט, לגזור דין ולהעניש את העבריין במקום. מהיר ויעיל. ורק 368 באקזואידים (294 עם קופון).\"",
+      "translation": "\\\"אנחנו קוראים לזה עושה השלום. זה משמש בעיקר באבטחה. במקרה של פשע, הוא מסוגל לתפוס, לשפוט, לגזור דין ולהעניש את העבריין במקום. מהיר ויעיל. ורק 368 באקזואידים (294 עם קופון).\\\"",
       "notes": "",
       "placeholders": []
     },
@@ -10047,7 +10047,7 @@
       "logicFile": "71.agilogic",
       "messageNumber": 12,
       "original": "All top-of-the-line, but, I suppose YOU would probably be interested in our SALE items. Please walk this way.\\\"",
-      "translation": "הכל מהשורה העליונה, אבל, אני מניח שאתה כנראה תתעניין בפריטי המבצע שלנו. בבקשה, לך בדרך הזאת.\"",
+      "translation": "הכל מהשורה העליונה, אבל, אני מניח שאתה כנראה תתעניין בפריטי המבצע שלנו. בבקשה, לך בדרך הזאת.\\\"",
       "notes": "",
       "placeholders": []
     },
@@ -10055,7 +10055,7 @@
       "logicFile": "71.agilogic",
       "messageNumber": 16,
       "original": "\\\"Only one droid per person in this town. It's an ordinance, you know.\\\"",
-      "translation": "\"רק רובוט אחד לאדם בעיר הזאת. זו תקנה, אתה יודע.\"",
+      "translation": "\\\"רק רובוט אחד לאדם בעיר הזאת. זו תקנה, אתה יודע.\\\"",
       "notes": "",
       "placeholders": []
     },
@@ -10423,7 +10423,7 @@
       "logicFile": "75.agilogic",
       "messageNumber": 63,
       "original": " 2 = 2x   \\\"   ",
-      "translation": " 2 = פי 2   \"   ",
+      "translation": " 2 = פי 2   \\\"   ",
       "notes": "",
       "placeholders": []
     },
@@ -10431,7 +10431,7 @@
       "logicFile": "75.agilogic",
       "messageNumber": 64,
       "original": " 3 = 3x   \\\"   ",
-      "translation": " 3 = פי 3   \"   ",
+      "translation": " 3 = פי 3   \\\"   ",
       "notes": "",
       "placeholders": []
     },
@@ -10609,7 +10609,7 @@
       "logicFile": "92.agilogic",
       "messageNumber": 19,
       "original": "Double clicking joystick button or\\n right mouse button also shows status\\n screen. Single click pops up menus",
-      "translation": "לחיצה כפולה על כפתור הג'ויסטיק או\n כפתור העכבר הימני מציגה גם\n מסך מצב. לחיצה בודדת מציגה תפריטים",
+      "translation": "לחיצה כפולה על כפתור הג'ויסטיק או\\n כפתור העכבר הימני מציגה גם\\n מסך מצב. לחיצה בודדת מציגה תפריטים",
       "notes": "",
       "placeholders": []
     },
