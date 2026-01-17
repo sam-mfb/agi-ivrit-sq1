@@ -4560,7 +4560,7 @@
       "messageNumber": 14,
       "original": "There are some slimey green tentacles poking through the grate.",
       "translation": "כמה מחושים ירוקים ורירייים בוקעים דרך הסורג.",
-      "notes": " [דורש עדכון vocabulary.json: להוסיף 'מחושים' ו'זרועונים' לתרגום של tentacles]",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -5752,7 +5752,7 @@
       "messageNumber": 85,
       "original": "As described, it is a sand skimmer and it looks like it has skimmed quite a bit of sand in its time. On it is a panel which has a small readout, currently dark, and an empty keyhole in it.",
       "translation": "כפי שתואר, זאת רחפת חול ונראה שהיא גלש על לא מעט חול בימיה. עליה יש לוח עם תצוגה קטנה, כרגע כבויה, ובו חור מפתח ריק.",
-      "notes": ". [דורש עדכון vocabulary.json: לוודא שיש עקביות בתרגום skimmer]",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -7205,8 +7205,8 @@
       "logicFile": "38.agilogic",
       "messageNumber": 7,
       "original": "It looks like your typical desert dwelling.",
-      "translation": "זה נראה כמו מגורי מדבר טיפוסיים.",
-      "notes": "\"מגורי מדבר\" אינו ביטוי טבעי בעברית. הצעה לתיקון: \"זה נראה כמו בית מדברי טיפוסי\" או \"זה נראה כמו מבנה מגורים מדברי טיפוסי\".",
+      "translation": "זה נראה כמו בית מדברי טיפוסי.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -7575,8 +7575,8 @@
       "logicFile": "50.agilogic",
       "messageNumber": 11,
       "original": "You seem to have found a remote control device of some sort. It has only one button, labeled \\\"ON/OFF\\\"",
-      "translation": "נראה שמצאת מכשיר שלט רחוק מסוג כלשהו. יש לו כפתור אחד בלבד, עם התווית \\\"ON/OFF\\\"",
-      "notes": "\"מכשיר שלט רחוק\" מסורבל. הצעה: \"שלט רחוק\" בלבד. כמו כן, \"עם התווית\" פורמלי מדי. הצעה: \"נראה שמצאת איזה שלט רחוק. יש לו רק כפתור אחד שכתוב עליו \\\"ON/OFF\\\"\"",
+      "translation": "נראה שמצאת איזה שלט רחוק. יש לו רק כפתור אחד שכתוב עליו \"דלוק/כבוי\"",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -7607,8 +7607,8 @@
       "logicFile": "50.agilogic",
       "messageNumber": 15,
       "original": "That can't be done while standing here.",
-      "translation": "אי אפשר לעשות את זה בעמידה כאן.",
-      "notes": "\"בעמידה כאן\" לא טבעי בעברית. הצעה: \"אי אפשר לעשות את זה מהמקום שאתה עומד בו.\" או \"אי אפשר לעשות את זה כשאתה עומד כאן.\"",
+      "translation": "אי אפשר לעשות את זה כשאתה עומד כאן.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -8922,7 +8922,7 @@
       "messageNumber": 2,
       "original": "As a token of appreciation, you are presented with a golden mop. \\\"Thank you, %s1 for cleaning up our galaxy\\\", says the Xenon leader.",
       "translation": "כאות הוקרה, מוגשת לך מגב זהוב. \\\"תודה לך, %s1 על ניקוי הגלקסיה שלנו\\\", אומר מנהיג הקסנונים.",
-      "notes": " [דורש עדכון vocabulary.json: להוסיף mop עם התרגום \"מטאטא\" או \"מגב\"]",
+      "notes": "",
       "placeholders": [
         "%s"
       ]
@@ -10489,8 +10489,8 @@
       "logicFile": "83.agilogic",
       "messageNumber": 1,
       "original": "You are in the desert. There is a mesa to the north.",
-      "translation": "אתה במדבר. יש מזה בצפון.",
-      "notes": "המילה \"מזה\" שגויה - זוהי כנראה ניסיון לתעתק את המילה האנגלית \"mesa\" (תצורה גיאולוגית שטוחה), אבל \"מזה\" בעברית נשמע כמו \"מה זה\". יש לתרגם ל\"רמה\" (plateau) או \"שולחן סלע\". הצעה לתיקון: \"אתה במדבר. יש רמה בצפון.\" או \"אתה במדבר. מצפון יש רמת סלע.\"\n[דורש עדכון vocabulary.json: להוסיף את המילה \"mesa\" עם התרגום \"רמה\" או \"רמת סלע\" או \"שולחן סלע\"]",
+      "translation": "אתה במדבר. יש רמה בצפון.",
+      "notes": "",
       "placeholders": []
     },
     {
