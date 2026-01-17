@@ -10892,7 +10892,7 @@
       "messageNumber": 27,
       "original": "discard.pic",
       "translation": "",
-      "notes": "בהקשר טכני, 'discard' פירושו לשחרר משאב מהזיכרון. מומלץ: 'שחרר.תמונה' או 'מחק.תמונה'",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -10900,7 +10900,7 @@
       "messageNumber": 28,
       "original": "overlay.pic",
       "translation": "",
-      "notes": "סדר מילים לא טבעי. מומלץ: 'שכב.תמונה' (פועל) או 'כסה.תמונה'",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -10932,7 +10932,7 @@
       "messageNumber": 32,
       "original": "discard.view",
       "translation": "",
-      "notes": "בהקשר טכני, 'discard' פירושו לשחרר משאב מהזיכרון. מומלץ: 'שחרר.תצוגה'",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -10972,7 +10972,7 @@
       "messageNumber": 37,
       "original": "position",
       "translation": "",
-      "notes": "פקודה צריכה להיות בצורת פועל ציווי. מומלץ: 'מקם'",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -10980,7 +10980,7 @@
       "messageNumber": 38,
       "original": "position.v",
       "translation": "",
-      "notes": "פקודה צריכה להיות בצורת פועל ציווי. מומלץ: 'מקם.משתנה'",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -11428,7 +11428,7 @@
       "messageNumber": 94,
       "original": "drop",
       "translation": "",
-      "notes": "בהקשר של inventory, 'drop' פירושו להניח/לשים למטה. מומלץ: 'הנח' או 'הפל'",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -11572,7 +11572,7 @@
       "messageNumber": 112,
       "original": "status.line.on",
       "translation": "",
-      "notes": "'פועל' בהקשר זה נשמע כמו 'פועל' (worker) ולא 'דולק/מופעל'. מומלץ: 'שורת.מצב.דולק' או 'שורת.מצב.מופעל'",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -11676,7 +11676,7 @@
       "messageNumber": 125,
       "original": "save.game",
       "translation": "",
-      "notes": "כשם עצם 'שמירת משחק' נכון, אך כפקודה מומלץ: 'שמור.משחק'",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -11684,7 +11684,7 @@
       "messageNumber": 126,
       "original": "restore.game",
       "translation": "",
-      "notes": "חסר הסימן הנקודה בין המילים כמו בשאר הפקודות. מומלץ: 'טען.משחק' או 'שחזר.משחק'",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -11747,7 +11747,7 @@
       "logicFile": "95.agilogic",
       "messageNumber": 134,
       "original": "quit",
-      "translation": "צא",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -11755,7 +11755,7 @@
       "logicFile": "95.agilogic",
       "messageNumber": 135,
       "original": "show.mem",
-      "translation": "הצג.זיכרון",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -11763,7 +11763,7 @@
       "logicFile": "95.agilogic",
       "messageNumber": 136,
       "original": "pause",
-      "translation": "השהה",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -11771,7 +11771,7 @@
       "logicFile": "95.agilogic",
       "messageNumber": 137,
       "original": "echo.line",
-      "translation": "הדהד.שורה",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -11779,7 +11779,7 @@
       "logicFile": "95.agilogic",
       "messageNumber": 138,
       "original": "cancel.line",
-      "translation": "בטל.שורה",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -11787,7 +11787,7 @@
       "logicFile": "95.agilogic",
       "messageNumber": 139,
       "original": "init.joy",
-      "translation": "אתחל.ג'ויסטיק",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -11795,7 +11795,7 @@
       "logicFile": "95.agilogic",
       "messageNumber": 140,
       "original": "toggle.monitor",
-      "translation": "החלף.מוניטור",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -11803,7 +11803,7 @@
       "logicFile": "95.agilogic",
       "messageNumber": 141,
       "original": "version",
-      "translation": "גרסה",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -11811,7 +11811,7 @@
       "logicFile": "95.agilogic",
       "messageNumber": 142,
       "original": "script.size",
-      "translation": "גודל.סקריפט",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -11819,7 +11819,7 @@
       "logicFile": "95.agilogic",
       "messageNumber": 143,
       "original": "set.game.id",
-      "translation": "קבע.זיהוי.משחק",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -11827,7 +11827,7 @@
       "logicFile": "95.agilogic",
       "messageNumber": 144,
       "original": "log",
-      "translation": "יומן",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -11835,7 +11835,7 @@
       "logicFile": "95.agilogic",
       "messageNumber": 145,
       "original": "set.scan.start",
-      "translation": "קבע.התחלת.סריקה",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -11843,7 +11843,7 @@
       "logicFile": "95.agilogic",
       "messageNumber": 146,
       "original": "reset.scan.start",
-      "translation": "אפס.התחלת.סריקה",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -11851,7 +11851,7 @@
       "logicFile": "95.agilogic",
       "messageNumber": 147,
       "original": "reposition.to",
-      "translation": "מקם_מחדש.אל",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -11859,7 +11859,7 @@
       "logicFile": "95.agilogic",
       "messageNumber": 148,
       "original": "reposition.to.v",
-      "translation": "מקם_מחדש.אל.משתנה",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -11867,15 +11867,15 @@
       "logicFile": "95.agilogic",
       "messageNumber": 149,
       "original": "trace.on",
-      "translation": "מעקב.פועל",
-      "notes": "'פועל' בהקשר זה נשמע כמו 'פועל' (worker) ולא 'מופעל'. מומלץ: 'מעקב.מופעל' או 'מעקב.דולק'",
+      "translation": "",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "95.agilogic",
       "messageNumber": 150,
       "original": "trace.info",
-      "translation": "מעקב.מידע",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -11883,7 +11883,7 @@
       "logicFile": "95.agilogic",
       "messageNumber": 151,
       "original": "print.at",
-      "translation": "הדפס.ב",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -11891,7 +11891,7 @@
       "logicFile": "95.agilogic",
       "messageNumber": 152,
       "original": "print.at.v",
-      "translation": "הדפס.ב.משתנה",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -11899,15 +11899,15 @@
       "logicFile": "95.agilogic",
       "messageNumber": 153,
       "original": "discard.view.v",
-      "translation": "השלך.תצוגה.משתנה",
-      "notes": "בהקשר טכני, 'discard' פירושו לשחרר משאב מהזיכרון. מומלץ: 'שחרר.תצוגה.משתנה'",
+      "translation": "",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "95.agilogic",
       "messageNumber": 154,
       "original": "clear.text.rect",
-      "translation": "נקה.מלבן.טקסט",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -11915,7 +11915,7 @@
       "logicFile": "95.agilogic",
       "messageNumber": 155,
       "original": "set.upper.left",
-      "translation": "קבע.שמאל.עליון",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -11923,7 +11923,7 @@
       "logicFile": "95.agilogic",
       "messageNumber": 156,
       "original": "set.menu",
-      "translation": "קבע.תפריט",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -11931,7 +11931,7 @@
       "logicFile": "95.agilogic",
       "messageNumber": 157,
       "original": "set.menu.item",
-      "translation": "קבע.פריט.תפריט",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -11939,15 +11939,15 @@
       "logicFile": "95.agilogic",
       "messageNumber": 158,
       "original": "submit.menu",
-      "translation": "שלח.תפריט",
-      "notes": "בהקשר של תפריט, 'submit' פירושו להגיש/להציג את התפריט. מומלץ: 'הפעל.תפריט' או 'הצג.תפריט'",
+      "translation": "",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "95.agilogic",
       "messageNumber": 159,
       "original": "enable.item",
-      "translation": "אפשר.פריט",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -11955,7 +11955,7 @@
       "logicFile": "95.agilogic",
       "messageNumber": 160,
       "original": "disable.item",
-      "translation": "השבת.פריט",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -11963,7 +11963,7 @@
       "logicFile": "95.agilogic",
       "messageNumber": 161,
       "original": "menu.input",
-      "translation": "קלט.תפריט",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -11971,7 +11971,7 @@
       "logicFile": "95.agilogic",
       "messageNumber": 162,
       "original": "show.obj.v",
-      "translation": "הצג.אובייקט.משתנה",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -11979,7 +11979,7 @@
       "logicFile": "95.agilogic",
       "messageNumber": 163,
       "original": "open.dialogue",
-      "translation": "פתח.דיאלוג",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -11987,7 +11987,7 @@
       "logicFile": "95.agilogic",
       "messageNumber": 164,
       "original": "close.dialogue",
-      "translation": "סגור.דיאלוג",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -11995,7 +11995,7 @@
       "logicFile": "95.agilogic",
       "messageNumber": 165,
       "original": "mul.n",
-      "translation": "הכפל.מספר",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -12003,7 +12003,7 @@
       "logicFile": "95.agilogic",
       "messageNumber": 166,
       "original": "mul.v",
-      "translation": "הכפל.משתנה",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -12011,7 +12011,7 @@
       "logicFile": "95.agilogic",
       "messageNumber": 167,
       "original": "div.n",
-      "translation": "חלק.מספר",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -12019,7 +12019,7 @@
       "logicFile": "95.agilogic",
       "messageNumber": 168,
       "original": "div.v",
-      "translation": "חלק.משתנה",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -12027,7 +12027,7 @@
       "logicFile": "95.agilogic",
       "messageNumber": 169,
       "original": "close.window",
-      "translation": "סגור.חלון",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -12035,7 +12035,7 @@
       "logicFile": "95.agilogic",
       "messageNumber": 221,
       "original": "equaln",
-      "translation": "שווה_למספר",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -12043,7 +12043,7 @@
       "logicFile": "95.agilogic",
       "messageNumber": 222,
       "original": "equalv",
-      "translation": "שווה_למשתנה",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -12051,7 +12051,7 @@
       "logicFile": "95.agilogic",
       "messageNumber": 223,
       "original": "lessn",
-      "translation": "קטן_ממספר",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -12059,7 +12059,7 @@
       "logicFile": "95.agilogic",
       "messageNumber": 224,
       "original": "lessv",
-      "translation": "קטן_ממשתנה",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -12067,7 +12067,7 @@
       "logicFile": "95.agilogic",
       "messageNumber": 225,
       "original": "greatern",
-      "translation": "גדול_ממספר",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -12075,7 +12075,7 @@
       "logicFile": "95.agilogic",
       "messageNumber": 226,
       "original": "greaterv",
-      "translation": "גדול_ממשתנה",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -12083,7 +12083,7 @@
       "logicFile": "95.agilogic",
       "messageNumber": 227,
       "original": "isset",
-      "translation": "מוגדר",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -12091,7 +12091,7 @@
       "logicFile": "95.agilogic",
       "messageNumber": 228,
       "original": "isset.v",
-      "translation": "מוגדר.משתנה",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -12099,7 +12099,7 @@
       "logicFile": "95.agilogic",
       "messageNumber": 229,
       "original": "has",
-      "translation": "יש",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -12107,7 +12107,7 @@
       "logicFile": "95.agilogic",
       "messageNumber": 230,
       "original": "obj.in.room",
-      "translation": "אובייקט.בחדר",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -12115,7 +12115,7 @@
       "logicFile": "95.agilogic",
       "messageNumber": 231,
       "original": "posn",
-      "translation": "מיקם",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -12123,7 +12123,7 @@
       "logicFile": "95.agilogic",
       "messageNumber": 232,
       "original": "controller",
-      "translation": "בקר",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -12131,7 +12131,7 @@
       "logicFile": "95.agilogic",
       "messageNumber": 233,
       "original": "have.key",
-      "translation": "יש.מקש",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -12139,7 +12139,7 @@
       "logicFile": "95.agilogic",
       "messageNumber": 234,
       "original": "said",
-      "translation": "אמר",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -12147,7 +12147,7 @@
       "logicFile": "95.agilogic",
       "messageNumber": 235,
       "original": "compare.strings",
-      "translation": "השווה.מחרוזות",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -12155,7 +12155,7 @@
       "logicFile": "95.agilogic",
       "messageNumber": 236,
       "original": "obj.in.box",
-      "translation": "אובייקט.בתיבה",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -12163,7 +12163,7 @@
       "logicFile": "95.agilogic",
       "messageNumber": 237,
       "original": "center.posn",
-      "translation": "מיקום.מרכז",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -12171,7 +12171,7 @@
       "logicFile": "95.agilogic",
       "messageNumber": 238,
       "original": "right.posn",
-      "translation": "מיקום.ימין",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -12195,7 +12195,7 @@
       "logicFile": "98.agilogic",
       "messageNumber": 1,
       "original": "discard.view(%v18):%m30",
-      "translation": "discard.view(%v18):%m30",
+      "translation": "",
       "notes": "",
       "placeholders": [
         "%v",
@@ -12206,7 +12206,7 @@
       "logicFile": "98.agilogic",
       "messageNumber": 2,
       "original": "set.view(%v18,_):%m26",
-      "translation": "set.view(%v18,_):%m26",
+      "translation": "",
       "notes": "",
       "placeholders": [
         "%v",
@@ -12217,7 +12217,7 @@
       "logicFile": "98.agilogic",
       "messageNumber": 3,
       "original": "set.view(_,%v18):%m30",
-      "translation": "set.view(_,%v18):%m30",
+      "translation": "",
       "notes": "",
       "placeholders": [
         "%v",
@@ -12228,7 +12228,7 @@
       "logicFile": "98.agilogic",
       "messageNumber": 4,
       "original": "set.loop(%v18,_):%m26",
-      "translation": "set.loop(%v18,_):%m26",
+      "translation": "",
       "notes": "",
       "placeholders": [
         "%v",
@@ -12239,7 +12239,7 @@
       "logicFile": "98.agilogic",
       "messageNumber": 5,
       "original": "set.loop(%v18,_):\\nBad loop #.%m25",
-      "translation": "set.loop(%v18,_):\\nמספר לולאה שגוי.%m25",
+      "translation": "",
       "notes": "",
       "placeholders": [
         "%v",
@@ -12250,7 +12250,7 @@
       "logicFile": "98.agilogic",
       "messageNumber": 6,
       "original": "set.loop(%v18,_):%m31",
-      "translation": "set.loop(%v18,_):%m31",
+      "translation": "",
       "notes": "",
       "placeholders": [
         "%v",
@@ -12261,7 +12261,7 @@
       "logicFile": "98.agilogic",
       "messageNumber": 7,
       "original": "set.cel(%v18,_):%m26",
-      "translation": "set.cel(%v18,_):%m26",
+      "translation": "",
       "notes": "",
       "placeholders": [
         "%v",
@@ -12272,7 +12272,7 @@
       "logicFile": "98.agilogic",
       "messageNumber": 8,
       "original": "set.cel(%v18,_):\\nBad cel #.%m25",
-      "translation": "set.cel(%v18,_):\\nמספר תא שגוי.%m25",
+      "translation": "",
       "notes": "",
       "placeholders": [
         "%v",
@@ -12283,7 +12283,7 @@
       "logicFile": "98.agilogic",
       "messageNumber": 9,
       "original": "sound(%v18):\\nSound not loaded.%m25",
-      "translation": "sound(%v18):\\nצליל לא נטען.%m25",
+      "translation": "",
       "notes": "",
       "placeholders": [
         "%v",
@@ -12294,7 +12294,7 @@
       "logicFile": "98.agilogic",
       "messageNumber": 10,
       "original": "set.cel(%v18,_):%m31",
-      "translation": "set.cel(%v18,_):%m31",
+      "translation": "",
       "notes": "",
       "placeholders": [
         "%v",
@@ -12305,7 +12305,7 @@
       "logicFile": "98.agilogic",
       "messageNumber": 11,
       "original": "Script buffer overflow.\\nMaximum size = %v18%m25",
-      "translation": "גלישת מאגר תסריט.\\nגודל מקסימלי = %v18%m25",
+      "translation": "",
       "notes": "",
       "placeholders": [
         "%v",
@@ -12316,7 +12316,7 @@
       "logicFile": "98.agilogic",
       "messageNumber": 12,
       "original": "erase(%v18):%m26",
-      "translation": "erase(%v18):%m26",
+      "translation": "",
       "notes": "",
       "placeholders": [
         "%v",
@@ -12327,7 +12327,7 @@
       "logicFile": "98.agilogic",
       "messageNumber": 13,
       "original": "animate.obj(%v18):%m26",
-      "translation": "animate.obj(%v18):%m26",
+      "translation": "",
       "notes": "",
       "placeholders": [
         "%v",
@@ -12338,7 +12338,7 @@
       "logicFile": "98.agilogic",
       "messageNumber": 14,
       "original": "stop.update(%v18):%m28",
-      "translation": "stop.update(%v18):%m28",
+      "translation": "",
       "notes": "",
       "placeholders": [
         "%v",
@@ -12349,7 +12349,7 @@
       "logicFile": "98.agilogic",
       "messageNumber": 15,
       "original": "Bad test: %v18%m25",
-      "translation": "בדיקה שגויה: %v18%m25",
+      "translation": "",
       "notes": "",
       "placeholders": [
         "%v",
@@ -12360,7 +12360,7 @@
       "logicFile": "98.agilogic",
       "messageNumber": 16,
       "original": "Bad action: %v18%m25",
-      "translation": "פעולה שגויה: %v18%m25",
+      "translation": "",
       "notes": "",
       "placeholders": [
         "%v",
@@ -12371,7 +12371,7 @@
       "logicFile": "98.agilogic",
       "messageNumber": 17,
       "original": "start.update(%v18):%m28",
-      "translation": "start.update(%v18):%m28",
+      "translation": "",
       "notes": "",
       "placeholders": [
         "%v",
@@ -12382,7 +12382,7 @@
       "logicFile": "98.agilogic",
       "messageNumber": 18,
       "original": "draw.pic(%v18):%m32",
-      "translation": "draw.pic(%v18):%m32",
+      "translation": "",
       "notes": "",
       "placeholders": [
         "%v",
@@ -12393,7 +12393,7 @@
       "logicFile": "98.agilogic",
       "messageNumber": 19,
       "original": "draw(%v18):%m26",
-      "translation": "draw(%v18):%m26",
+      "translation": "",
       "notes": "",
       "placeholders": [
         "%v",
@@ -12404,7 +12404,7 @@
       "logicFile": "98.agilogic",
       "messageNumber": 20,
       "original": "draw(%v18):%m31",
-      "translation": "draw(%v18):%m31",
+      "translation": "",
       "notes": "",
       "placeholders": [
         "%v",
@@ -12415,7 +12415,7 @@
       "logicFile": "98.agilogic",
       "messageNumber": 21,
       "original": "discard.pic(%v18):%m32",
-      "translation": "discard.pic(%v18):%m32",
+      "translation": "",
       "notes": "",
       "placeholders": [
         "%v",
@@ -12434,7 +12434,7 @@
       "logicFile": "98.agilogic",
       "messageNumber": 23,
       "original": "get(%v18) or put(%v18):%m26",
-      "translation": "get(%v18) or put(%v18):%m26",
+      "translation": "",
       "notes": "",
       "placeholders": [
         "%v",
@@ -12445,7 +12445,7 @@
       "logicFile": "98.agilogic",
       "messageNumber": 25,
       "original": "\\nPress ESC to quit.",
-      "translation": "\\nלחץ ESC כדי לצאת.",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -12453,7 +12453,7 @@
       "logicFile": "98.agilogic",
       "messageNumber": 26,
       "original": "%m27.%m25",
-      "translation": "%m27.%m25",
+      "translation": "",
       "notes": "",
       "placeholders": [
         "%m27",
@@ -12464,7 +12464,7 @@
       "logicFile": "98.agilogic",
       "messageNumber": 27,
       "original": "\\nBad object number",
-      "translation": "\\nמספר אובייקט שגוי",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -12472,7 +12472,7 @@
       "logicFile": "98.agilogic",
       "messageNumber": 28,
       "original": "%m27 or object not drawn.%m25",
-      "translation": "%m27 או אובייקט לא מצויר.%m25",
+      "translation": "",
       "notes": "",
       "placeholders": [
         "%m27",
@@ -12483,7 +12483,7 @@
       "logicFile": "98.agilogic",
       "messageNumber": 29,
       "original": "\\nView not ",
-      "translation": "\\nתצוגה לא ",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -12491,7 +12491,7 @@
       "logicFile": "98.agilogic",
       "messageNumber": 30,
       "original": "%m29loaded.%m25",
-      "translation": "%m29נטענה.%m25",
+      "translation": "",
       "notes": "",
       "placeholders": [
         "%m29",
@@ -12502,7 +12502,7 @@
       "logicFile": "98.agilogic",
       "messageNumber": 31,
       "original": "%m29set.%m25",
-      "translation": "%m29מוגדרת.%m25",
+      "translation": "",
       "notes": "",
       "placeholders": [
         "%m29",
@@ -12513,7 +12513,7 @@
       "logicFile": "98.agilogic",
       "messageNumber": 32,
       "original": "Picture not loaded.%m25",
-      "translation": "תמונה לא נטענה.%m25",
+      "translation": "",
       "notes": "",
       "placeholders": [
         "%m25"
@@ -12523,7 +12523,7 @@
       "logicFile": "99.agilogic",
       "messageNumber": 1,
       "original": "new room: ",
-      "translation": "חדר חדש: ",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -12531,7 +12531,7 @@
       "logicFile": "99.agilogic",
       "messageNumber": 2,
       "original": "x: ",
-      "translation": "x: ",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -12539,7 +12539,7 @@
       "logicFile": "99.agilogic",
       "messageNumber": 3,
       "original": "y: ",
-      "translation": "y: ",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -12547,7 +12547,7 @@
       "logicFile": "99.agilogic",
       "messageNumber": 4,
       "original": "object number: ",
-      "translation": "מספר אובייקט: ",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -12555,7 +12555,7 @@
       "logicFile": "99.agilogic",
       "messageNumber": 5,
       "original": "var number: ",
-      "translation": "מספר משתנה: ",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -12563,7 +12563,7 @@
       "logicFile": "99.agilogic",
       "messageNumber": 6,
       "original": "var value: ",
-      "translation": "ערך משתנה: ",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -12571,7 +12571,7 @@
       "logicFile": "99.agilogic",
       "messageNumber": 7,
       "original": "object #: ",
-      "translation": "אובייקט #: ",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -12579,7 +12579,7 @@
       "logicFile": "99.agilogic",
       "messageNumber": 8,
       "original": "var %v161: %v162",
-      "translation": "משתנה %v161: %v162",
+      "translation": "",
       "notes": "",
       "placeholders": [
         "%v"
@@ -12589,7 +12589,7 @@
       "logicFile": "99.agilogic",
       "messageNumber": 9,
       "original": "flag number: ",
-      "translation": "מספר דגל: ",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -12597,7 +12597,7 @@
       "logicFile": "99.agilogic",
       "messageNumber": 10,
       "original": "flag %v161 is set",
-      "translation": "דגל %v161 מוגדר",
+      "translation": "",
       "notes": "",
       "placeholders": [
         "%v"
@@ -12607,7 +12607,7 @@
       "logicFile": "99.agilogic",
       "messageNumber": 11,
       "original": "flag %v161 is not set",
-      "translation": "דגל %v161 לא מוגדר",
+      "translation": "",
       "notes": "",
       "placeholders": [
         "%v"
@@ -12617,7 +12617,7 @@
       "logicFile": "99.agilogic",
       "messageNumber": 12,
       "original": "Word not known: ",
-      "translation": "מילה לא מוכרת: ",
+      "translation": "",
       "notes": "",
       "placeholders": []
     },
@@ -12625,7 +12625,7 @@
       "logicFile": "99.agilogic",
       "messageNumber": 13,
       "original": "%m12%w1",
-      "translation": "%m12%w1",
+      "translation": "",
       "notes": "",
       "placeholders": [
         "%w1",
@@ -12636,7 +12636,7 @@
       "logicFile": "99.agilogic",
       "messageNumber": 14,
       "original": "%m12%w2",
-      "translation": "%m12%w2",
+      "translation": "",
       "notes": "",
       "placeholders": [
         "%w2",
@@ -12647,7 +12647,7 @@
       "logicFile": "99.agilogic",
       "messageNumber": 15,
       "original": "%m12%w3",
-      "translation": "%m12%w3",
+      "translation": "",
       "notes": "",
       "placeholders": [
         "%w3",
