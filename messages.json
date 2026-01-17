@@ -10279,7 +10279,7 @@
       "logicFile": "75.agilogic",
       "messageNumber": 5,
       "original": " Wins 1   ",
-      "translation": " זכייה 1   ",
+      "translation": " זכייה 1  ",
       "notes": "",
       "placeholders": []
     },
@@ -10287,7 +10287,7 @@
       "logicFile": "75.agilogic",
       "messageNumber": 6,
       "original": " Wins 3   ",
-      "translation": " זכייה 3   ",
+      "translation": " זכייה 3  ",
       "notes": "",
       "placeholders": []
     },
@@ -10295,7 +10295,7 @@
       "logicFile": "75.agilogic",
       "messageNumber": 7,
       "original": " Wins 5   ",
-      "translation": " זכייה 5   ",
+      "translation": " זכייה 5  ",
       "notes": "",
       "placeholders": []
     },
@@ -10303,7 +10303,7 @@
       "logicFile": "75.agilogic",
       "messageNumber": 8,
       "original": " Wins 20  ",
-      "translation": " זכייה 20  ",
+      "translation": " זכייה 20 ",
       "notes": "",
       "placeholders": []
     },
@@ -10311,7 +10311,7 @@
       "logicFile": "75.agilogic",
       "messageNumber": 9,
       "original": " Wins 10  ",
-      "translation": " זכייה 10  ",
+      "translation": " זכייה 10 ",
       "notes": "",
       "placeholders": []
     },
@@ -10327,7 +10327,7 @@
       "logicFile": "75.agilogic",
       "messageNumber": 13,
       "original": "  To Cash In   ",
-      "translation": "  לפדות   ",
+      "translation": "  לפדות    ",
       "notes": "",
       "placeholders": []
     },
@@ -10399,7 +10399,7 @@
       "logicFile": "75.agilogic",
       "messageNumber": 60,
       "original": " F4 Bets $1    F6 Bets $2    F8 Bets $3",
-      "translation": " F8 הימור $3   F6 הימור $2   F4 הימור $1 ",
+      "translation": " F8 הימור $3  F6 הימור $2  F4 הימור $1",
       "notes": "",
       "placeholders": []
     },
@@ -10415,7 +10415,7 @@
       "logicFile": "75.agilogic",
       "messageNumber": 62,
       "original": " 1 = 1x Payoff",
-      "translation": " 1 = זכייה פי 1",
+      "translation": "1 = זכייה פי 1",
       "notes": "",
       "placeholders": []
     },
@@ -10423,7 +10423,7 @@
       "logicFile": "75.agilogic",
       "messageNumber": 63,
       "original": " 2 = 2x   \\\"   ",
-      "translation": " 2 = פי 2   \\\"   ",
+      "translation": "2 =   \\\"   פי 2",
       "notes": "",
       "placeholders": []
     },
@@ -10431,7 +10431,7 @@
       "logicFile": "75.agilogic",
       "messageNumber": 64,
       "original": " 3 = 3x   \\\"   ",
-      "translation": " 3 = פי 3   \\\"   ",
+      "translation": "3 =   \\\"   פי 3",
       "notes": "",
       "placeholders": []
     },
