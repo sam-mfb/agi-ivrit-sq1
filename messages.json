@@ -2103,7 +2103,7 @@
       "logicFile": "6.agilogic",
       "messageNumber": 1,
       "original": "You are in the central control area of the Arcada. The reactor domes pulsate irregularly, as if they had been tampered with. This does not look good. Through the window just above the control console, you can see down into the vehicle bay below.",
-      "translation": "אתה נמצא באזור הבקרה המרכזי של הארקדה. כיפות הכור פועמות בצורה לא סדירה, כאילו התעסקו בהן. זה לא נראה טוב. דרך החלון ממש מעל קונסולת הבקרה, אתה יכול לראות למטה אל מסוף הרכב.",
+      "translation": "אתה נמצא באזור הבקרה המרכזי של הארקדה. כיפות הכור פועמות בצורה לא סדירה, כאילו התעסקו בהן. זה לא נראה טוב. דרך החלון ממש מעל קונסולת הבקרה, אתה יכול לראות למטה אל מעגן החלליות.",
       "notes": "",
       "placeholders": []
     },
@@ -2119,7 +2119,7 @@
       "logicFile": "6.agilogic",
       "messageNumber": 3,
       "original": "On the console by the window are two buttons marked \\\"OPEN BAY DOOR\\\" and \\\"CLOSE BAY DOOR\\\".",
-      "translation": "על הקונסולה ליד החלון נמצאים שני כפתורים עם התוויות \\\"פתח דלת מסוף\\\" ו\\\"סגור דלת מסוף\\\".",
+      "translation": "על הקונסולה ליד החלון נמצאים שני כפתורים עם התוויות \"פתח דלת מעגן\" ו\"סגור דלת מעגן\".",
       "notes": "",
       "placeholders": []
     },
@@ -2167,7 +2167,7 @@
       "logicFile": "6.agilogic",
       "messageNumber": 9,
       "original": "Looking through the window you can see down into the vehicle bay.",
-      "translation": "מביט דרך החלון אתה יכול לראות למטה אל מסוף הרכב.",
+      "translation": "מביט דרך החלון אתה יכול לראות למטה אל מעגן החלליות.",
       "notes": "",
       "placeholders": []
     },
@@ -2175,7 +2175,7 @@
       "logicFile": "6.agilogic",
       "messageNumber": 10,
       "original": "Looking through the window you can see down into the vehicle bay. The rather massive bay doors are open.",
-      "translation": "מביט דרך החלון אתה יכול לראות למטה אל מסוף הרכב. דלתות המסוף העצומות למדי פתוחות.",
+      "translation": "מביט דרך החלון אתה יכול לראות למטה אל מעגן החלליות. דלתות המעגן העצומות למדי פתוחות.",
       "notes": "",
       "placeholders": []
     },
@@ -2207,7 +2207,7 @@
       "logicFile": "6.agilogic",
       "messageNumber": 14,
       "original": "The bay door can't be closed while the pod is up.",
-      "translation": "דלת המסוף לא יכולה להיסגר בזמן שהחללית מורמת.",
+      "translation": "דלת המעגן לא יכולה להיסגר בזמן שהחללית מורמת.",
       "notes": "",
       "placeholders": []
     },
@@ -2223,7 +2223,7 @@
       "logicFile": "6.agilogic",
       "messageNumber": 16,
       "original": "Your limited view shows that there is a large vehicle bay below.",
-      "translation": "שדה הראייה המוגבל שלך מראה שיש מסוף רכב גדול למטה.",
+      "translation": "שדה הראייה המוגבל שלך מראה שיש מעגן חלליות גדול למטה.",
       "notes": "",
       "placeholders": []
     },
@@ -2379,7 +2379,7 @@
       "logicFile": "8.agilogic",
       "messageNumber": 1,
       "original": "This is the cavernous Vehicle Bay.",
-      "translation": "זהו מסוף הרכב הענק.",
+      "translation": "זהו מעגן החלליות הענק.",
       "notes": "",
       "placeholders": []
     },
@@ -2403,7 +2403,7 @@
       "logicFile": "8.agilogic",
       "messageNumber": 4,
       "original": "In the middle of the vehicle bay is a deep cargo shaft.",
-      "translation": "באמצע מסוף הרכב נמצא פיר מטען עמוק.",
+      "translation": "באמצע מעגן החלליות נמצא פיר מטען עמוק.",
       "notes": "",
       "placeholders": []
     },
@@ -2411,7 +2411,7 @@
       "logicFile": "8.agilogic",
       "messageNumber": 5,
       "original": "Sorry, %s1.  You can't enter the Escape Pod when the Vehicle Bay doors are closed.",
-      "translation": "סליחה, %s1. אתה לא יכול להיכנס לחללית המילוט כאשר דלתות מסוף הרכב סגורות.",
+      "translation": "סליחה, %s1. אתה לא יכול להיכנס לחללית המילוט כאשר דלתות מעגן החלליות סגורות.",
       "notes": "",
       "placeholders": [
         "%s"
@@ -2429,7 +2429,7 @@
       "logicFile": "8.agilogic",
       "messageNumber": 7,
       "original": "The Vehicle Bay Door is quite large.",
-      "translation": "דלת מסוף הרכב די גדולה.",
+      "translation": "דלת מעגן החלליות די גדולה.",
       "notes": "",
       "placeholders": []
     },
@@ -2445,7 +2445,7 @@
       "logicFile": "8.agilogic",
       "messageNumber": 9,
       "original": "The massive bay doors are tightly sealed.",
-      "translation": "דלתות המסוף העצומות אטומות ומהודקות.",
+      "translation": "דלתות המעגן העצומות אטומות ומהודקות.",
       "notes": "",
       "placeholders": []
     },
@@ -2501,7 +2501,7 @@
       "logicFile": "8.agilogic",
       "messageNumber": 16,
       "original": "For safety reasons the platform will not function with the bay doors closed.",
-      "translation": "מסיבות בטיחות הרציף לא יפעל כאשר דלתות המסוף סגורות.",
+      "translation": "מסיבות בטיחות הרציף לא יפעל כאשר דלתות המעגן סגורות.",
       "notes": "",
       "placeholders": []
     },
@@ -2509,7 +2509,7 @@
       "logicFile": "8.agilogic",
       "messageNumber": 17,
       "original": "The bay door is open. The airlock door opens automatically.",
-      "translation": "דלת המסוף פתוחה. דלת מנעל האוויר נפתחת אוטומטית.",
+      "translation": "דלת המעגן פתוחה. דלת מנעל האוויר נפתחת אוטומטית.",
       "notes": "",
       "placeholders": []
     },
@@ -2517,7 +2517,7 @@
       "logicFile": "8.agilogic",
       "messageNumber": 18,
       "original": "The bay door is not opened from this room. The airlock door opens automatically.",
-      "translation": "דלת המסוף לא נפתחת מחדר זה. דלת מנעל האוויר נפתחת אוטומטית.",
+      "translation": "דלת המעגן לא נפתחת מחדר זה. דלת מנעל האוויר נפתחת אוטומטית.",
       "notes": "",
       "placeholders": []
     },
@@ -2557,7 +2557,7 @@
       "logicFile": "8.agilogic",
       "messageNumber": 23,
       "original": "of the vehicle bay and into space.",
-      "translation": "ממסוף הרכב אל החלל.",
+      "translation": "ממעגן החלליות אל החלל.",
       "notes": "",
       "placeholders": []
     },
@@ -2703,16 +2703,16 @@
       "logicFile": "9.agilogic",
       "messageNumber": 13,
       "original": "The sign on the wall suggests that the bay doors are not currently open.",
-      "translation": "השלט על הקיר מרמז שדלתות המסוף אינן פתוחות כרגע.",
-      "notes": "\"מסוף\" אינו התרגום הנכון ל-\"bay\" בהקשר של חללית. \"bay doors\" הן דלתות התא (כמו תא מטען או תא השיגור). מוצע: \"דלתות התא\" או \"דלתות המפרץ\". [דורש עדכון vocabulary.json: לתקן את התרגום של bay door מ\"דלת מסוף\" ל\"דלת תא\" או \"דלת מפרץ\"]",
+      "translation": "השלט על הקיר מרמז שדלתות המעגן אינן פתוחות כרגע.",
+      "notes": "",
       "placeholders": []
     },
     {
       "logicFile": "9.agilogic",
       "messageNumber": 14,
       "original": "The sign on the wall warns that the bay doors are currently open.",
-      "translation": "השלט שעל הקיר מזהיר כי דלתות המסוף פתוחות כעת.",
-      "notes": "אותה בעיה כמו בהודעה 13 - \"מסוף\" אינו נכון ל-\"bay\". מוצע: \"דלתות התא\". [דורש עדכון vocabulary.json: ראה הודעה 13]",
+      "translation": "השלט שעל הקיר מזהיר כי דלתות המעגן פתוחות כעת.",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -8527,7 +8527,7 @@
       "logicFile": "57.agilogic",
       "messageNumber": 11,
       "original": "You climb into the trunk. The lid pounds shut above you.",
-      "translation": "אתה מטפס לתוך המזוודה. המכסה נסגר עליך בחבטה.",
+      "translation": "אתה מטפס לתוך הארגז. המכסה נסגר עליך בחבטה.",
       "notes": "",
       "placeholders": []
     },
@@ -8543,8 +8543,8 @@
       "logicFile": "57.agilogic",
       "messageNumber": 13,
       "original": "You suddenly feel the trunk lift off",
-      "translation": "אתה מרגיש לפתע שהמזוודה מורמת",
-      "notes": "מזוודה או ארגז?",
+      "translation": "אתה מרגיש לפתע שהארגז מורם",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -8567,7 +8567,7 @@
       "logicFile": "57.agilogic",
       "messageNumber": 16,
       "original": "After a few minutes, the trunk thuds to",
-      "translation": "אחרי כמה דקות, המזוודה נוחתת ב",
+      "translation": "אחרי כמה דקות, הארגז נוחת ב",
       "notes": "",
       "placeholders": []
     },
@@ -8855,7 +8855,7 @@
       "logicFile": "62.agilogic",
       "messageNumber": 4,
       "original": "You are in the shuttle launch bay aboard the Sarien ship.",
-      "translation": "אתה נמצא במפרץ שיגור המעבורות על סיפון הספינה הסריאנית.",
+      "translation": "אתה נמצא במעגן שיגור המעבורות על סיפון הספינה הסריאנית.",
       "notes": "",
       "placeholders": []
     },
